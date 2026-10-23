@@ -30,7 +30,7 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Jean Gerson’s tracts on testing visions and on errors about magic, from the Lyon 1620 <em>Malleus</em> collection. The holy man who shut his eyes against a devil disguised as Christ (p. 77), and those who ridicule theologians who speak of demons (p. 253, part 2), in Latin and English. Cited in <em>Rationalism</em>, ch. I, notes 37 and 82.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="spina-quaestio-de-strigibus.html">Spina, <em>Quaestio de Strigibus</em> and <em>Apologia</em></a><span class="work-status">2 passages</span></div>
-<div class="work-desc">Bartolomeo Spina on the doubters of the witch trials and on criticism of the inquisitors as criticism of the Pope (Lyon 1620 reprint, pp. 191, 299–300), in Latin and English, compared with Lecky. Cited in <em>Rationalism</em>, ch. I, note 84.</div>
+<div class="work-title"><a class="popup-ref" href="spina-quaestio-de-strigibus.html">Spina, <em>Quaestio de Strigibus</em> and <em>Apologia</em></a><span class="work-status">4 passages</span></div>
+<div class="work-desc">Bartolomeo Spina on the numbers burned at Como (p. 193), the inquisitors’ opponents and Peter Martyr (p. 278), and the doubters of the witch trials (pp. 191, 299–300), Lyon 1620 reprint, in Latin and English, compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 5, 67 and 84.</div>
 </li>
 </ul>
