@@ -1,0 +1,64 @@
+---
+title: Aquinas, Summa Supplement q. 94
+description: "The article of the Supplement to Aquinas’s Summa (q. 94, art. 1) on whether the blessed see the punishments of the damned, which Lecky quotes in Chapter III, note 150, in Latin and English from an 18th-century edition, with Lecky’s quotation compared; it is not word for word."
+heading: Aquinas, <em>Summa theologiae</em>, Supplement, q. 94
+subtitle: Thomas Aquinas, “Whether the blessed will see the punishments of the damned”
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Thomas_Aquinas\">Thomas Aquinas</a> (c. 1225–1274). Lecky cites “<em>Summa Suppl.</em>, quaest. xciv. art. 1”. The Supplement was compiled after Aquinas’s death from his commentary on the <em>Sentences</em> of Peter Lombard: the page cited below carries the reference “S. Thom. IV. dist. L. quaest. II. art. 4”, i.e. <em>Sentences</em>, book IV, distinction 50. That the Supplement is a compilation is general knowledge, not something I checked beyond this page’s own note."]
+  - ["Edition used", "<em>Divi Thomae Aquinatis … Opera</em>, vol. 25, “complectens Supplementum” (the archive.org record dates it 1756): <a href=\"https://archive.org/details/bub_gb_InJN3guK7vwC\">archive.org/details/bub_gb_InJN3guK7vwC</a>. Question 94, art. 1 is on printed p. 428, image <a href=\"https://archive.org/details/bub_gb_InJN3guK7vwC/page/n470/mode/2up\">n470</a> (the article heading also carries “402”, which I take to be a page number of an older edition; I have not checked). Lecky does not say which edition he used; article and question numbers are the same in all of them. The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn150\">Rationalism, ch. III, note 150</a>; its companion Tertullian quotation (note 152) is on the <a href=\"tertullian-de-spectaculis.html\">Tertullian page</a>."]
+  - ["Status", "The question title, the <em>sed contra</em> and the main answer of art. 1, transcribed from the page image, translated, and compared with Lecky. The objections and replies are not transcribed."]
+abstract: |
+  <p>In Chapter III Lecky argues that the medieval Church taught that the pleasure of the saints in heaven would be heightened by the sight of the damned. In note 150 he supports this with Aquinas, in Latin: “Beati in regno cœlesti videbunt pœnas damnatorum, <em>ut beatitudo illis magis complaceat</em>”, the last words in small capitals.</p><p>Aquinas does teach this, and the last words are close to his text. But the Latin as Lecky prints it is not a quotation of any one sentence of the article. The first half is the article’s question turned into a statement (“Utrum beati qui erunt in patria videbunt poenas damnatorum”), and the second half is a clause of the answer, with a word changed. The sentence Aquinas actually writes is longer and includes a second purpose, that the saints may “give richer thanks to God”. See <a href="#comparison">the comparison</a>.</p>
+---
+<section id="q94a1" class="passage">
+<h2>Question 94, Article 1</h2>
+
+<p class="passage-source">Latin: Opera, vol. 25, p. 428 (<a href="https://archive.org/details/bub_gb_InJN3guK7vwC/page/n470/mode/2up">scan</a>). Spelling regularised (<em>æ</em> as <em>ae</em>); the printed marginal references and italicisation of Gloss quotations omitted. The question’s heading is “De modo quo sancti se habebunt erga damnatos”. <span class="cited-passage">Highlighted</span>: the sentence behind Lecky’s quotation.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p><em>Articulus I.</em> Utrum beati qui erunt in patria, videbunt poenas damnatorum.</p>
+<p>[Objections 1 and 2: not transcribed.]</p>
+<p>Sed contra est quod dicitur Isa. ult. 24. <em>Egredientur, et videbunt cadavera virorum, qui praevaricati sunt in me:</em> Glossa (ordin.): “Electi egredientur intelligentia, vel visione manifesta, ut ad laudem Dei magis accendantur.”</p>
+<p>Respondeo dicendum, quod a beatis nihil subtrahi debet quod ad perfectionem beatitudinis eorum pertineat. Unumquodque autem ex comparatione contrarii magis cognoscitur, quia contraria iuxta se posita magis elucescunt. <span class="cited-passage">Et ideo ut beatitudo sanctorum eis magis complaceat, et de ea uberiores gratias Deo agant, datur eis ut poenas impiorum perfecte videant.</span></p>
+<p>[Replies to objections: not transcribed.]</p>
+</div>
+<div class="rendering" lang="en">
+<p><em>Article 1.</em> Whether the blessed who will be in the homeland will see the punishments of the damned.</p>
+<p>[Objections 1 and 2: not transcribed.]</p>
+<p>On the contrary, it is said in Isaiah, last chapter (66:24): <em>They shall go forth, and see the carcasses of the men that have transgressed against me.</em> The Gloss (ordinary) says: “The elect shall go forth in understanding, or by manifest vision, that they may be the more kindled to the praise of God.”</p>
+<p>I answer that nothing should be withdrawn from the blessed that pertains to the perfection of their beatitude. Now everything is better known by comparison with its contrary, because contraries set beside each other shine out the more. <span class="cited-passage">And therefore, that the beatitude of the saints may please them the more, and that they may give richer thanks to God for it, it is granted them to see perfectly the punishments of the wicked.</span></p>
+<p>[Replies to objections: not transcribed.]</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>Doubtful points</summary>
+<p>The printed reference in the first objection (“Isa. XIX.”, for the text “Abraham did not know us”) looks like a misprint for a later chapter of Isaiah; I did not follow it, and the objections are not transcribed. “Patria” (“homeland”) here means heaven, as opposed to <em>via</em>, the earthly way. The word “Gloss” (<em>Glossa ordinaria</em>) is a standard medieval commentary and I have not identified the edition cited.</p>
+</details>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Quotation Compared</h2>
+
+<p>Lecky’s <a href="../rationalism/vol1-ch3.html#fn150">note 150</a>: “St. Thomas Aquinas says, ‘Beati in regno cœlesti videbunt pœnas damnatorum, <span class="sc">ut beatitudo illis magis complaceat</span>.’ (<em>Summa Suppl.</em>, quæst. xciv. art. 1.)”</p>
+
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th></th><th>Lecky, 1865</th><th>Aquinas (Supplement, q. 94, a. 1)</th></tr></thead>
+<tbody>
+<tr><th>First half</th><td lang="la">Beati in regno cœlesti videbunt pœnas damnatorum</td><td lang="la">[heading of the article, as a question:] Utrum beati qui erunt in patria, videbunt poenas damnatorum.</td></tr>
+<tr><th>Second half (small capitals)</th><td lang="la">ut beatitudo illis magis complaceat</td><td lang="la">ut beatitudo <strong>sanctorum eis</strong> magis complaceat, et de ea uberiores gratias Deo agant, datur eis ut poenas impiorum perfecte videant</td></tr>
+<tr><th>Reference</th><td>quæst. xciv. art. 1</td><td>q. 94, art. 1: correct</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Lecky’s sentence is a summary of the article, set in quotation marks. The words “beati … videbunt poenas damnatorum” are the article’s title with the question turned into a statement (and “in patria” changed to “in regno caelesti”, a phrase that is not in the text I transcribed); the small-capital words are a clause of the <em>respondeo</em> with “sanctorum eis” replaced by “illis”. The sentence Lecky prints is not in the parts of the article I transcribed. The sense is fair: the blessed are to see the punishments of the wicked “that the beatitude of the saints may please them the more”. But Lecky omits the reason that comes with it, that they may “give richer thanks to God”, and the <em>sed contra</em>’s gloss that the sight is “that they may be the more kindled to the praise of God”. He also does not mention the other two articles of the same question, listed on the same page (whether the blessed pity the damned, and whether they rejoice in their punishments); I read only the heading of the second and not the third.</p>
+
+<p>Since Lecky prints his Latin as a quotation, a reader will assume it is Aquinas’s own sentence. It is better described as a paraphrase in Aquinas’s words.</p>
+</section>

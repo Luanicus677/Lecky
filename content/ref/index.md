@@ -57,4 +57,16 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="augustine-contra-mendacium.html">Augustine, <em>Contra mendacium</em></a><span class="work-status">3 passages</span></div>
 <div class="work-desc">Augustine’s refusal to catch heretics by lying, and his charge that the Priscillianists teach lying as a doctrine (<em>PL</em> 40, cols. 519–520), in Latin and English, compared with Lecky and set beside Chrysostom. Cited in <em>Rationalism</em>, ch. IV, note 37.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="tertullian-de-spectaculis.html">Tertullian, <em>De spectaculis</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Tertullian’s picture of the Christians watching the damned in the fire (ch. 30), in Latin and English from Migne, with Lecky’s Latin quotation collated word by word. Cited in <em>Rationalism</em>, ch. III, note 152.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="aquinas-summa-supplement.html">Aquinas, <em>Summa</em> Supplement q. 94</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Whether the blessed will see the punishments of the damned (art. 1), in Latin and English from an 18th-century edition. Lecky’s quotation is a paraphrase, not a sentence of the text. Cited in <em>Rationalism</em>, ch. III, note 150.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="augustine-de-civitate-dei.html">Augustine, <em>De civitate Dei</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The miracles of St. Stephen at Hippo and Calama, with the five cases of restoration to life (XXII.8), and the judge who tortures the innocent (XIX.6), in Latin and English from Migne, compared with Lecky. Cited in <em>Rationalism</em>, ch. II, note 15, and ch. III, note 161.</div>
+</li>
 </ul>
