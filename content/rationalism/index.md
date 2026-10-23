@@ -18,7 +18,7 @@ back_link:
 <li><a href="vol1-ch1.html">Chapter I — On the Declining Sense of the Miraculous: Magic and Witchcraft</a> <span class="work-status">complete</span></li>
 <li><a href="vol1-ch2.html">Chapter II — On the Declining Sense of the Miraculous: The Miracles of the Church</a> <span class="work-status">complete</span></li>
 <li><a href="vol1-ch3.html">Chapter III — Æsthetic, Scientific, and Moral Developements of Rationalism</a> <span class="work-status">complete</span></li>
-<li>Chapter IV — On Persecution <span class="work-status">not yet added</span></li>
+<li><a href="vol1-ch4.html">Chapter IV — On Persecution</a> <span class="work-status">in progress (pp. 386–413)</span></li>
 </ol>
 
 ## Volume II
