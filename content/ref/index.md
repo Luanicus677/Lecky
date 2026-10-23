@@ -89,4 +89,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="minucius-felix-octavius.html">Minucius Felix, <em>Octavius</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Jupiter swearing by the Styx and the fire that feeds on the bodies it burns (ch. 35), in Latin and English, compared with Lecky’s “somewhat ferocious passage”. Cited in <em>Rationalism</em>, ch. III, note 139.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="luther-de-servo-arbitrio.html">Luther, <em>De servo arbitrio</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The will as a beast ridden by God or Satan, and “the highest degree of faith”, in Latin and English from an annotated 1664 edition, compared with Lecky’s quotations. Cited in <em>Rationalism</em>, ch. IV, notes 30 and 31.</div>
+</li>
 </ul>
