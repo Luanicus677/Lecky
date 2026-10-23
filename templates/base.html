@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}{% if not is_home %} · {{ site_name }}{% endif %}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+<link rel="stylesheet" href="{{ root }}assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <nav>
+    <a class="site-title" href="{{ root }}index.html">The Complete Works of W.&nbsp;E.&nbsp;H.&nbsp;Lecky</a>
+    <div class="site-links">
+      <a href="{{ root }}index.html">Home</a>
+      <a href="{{ root }}rationalism/index.html">Rationalism in Europe</a>
+      <a href="{{ root }}about.html">About</a>
+      <button id="theme-toggle" type="button" title="Toggle light/dark">◐</button>
+    </div>
+  </nav>
+</header>
+
+<main class="article">
+
+{% if back_link %}
+<p class="back-link"><a href="{{ back_link.url }}">&larr; {{ back_link.text }}</a></p>
+{% endif %}
+
+<div class="page-meta">
+<h1>{{ heading | default(title) | safe }}</h1>
+{% if subtitle %}<p class="subtitle">{{ subtitle | safe }}</p>{% endif %}
+{% if meta_rows %}
+<dl class="meta-table">
+{% for row in meta_rows %}<dt>{{ row[0] }}</dt><dd>{{ row[1] | safe }}</dd>
+{% endfor %}</dl>
+{% endif %}
+{% if abstract %}<div class="abstract">{{ abstract | safe }}</div>{% endif %}
+</div>
+
+<section class="content">
+{% if placeholder_notice %}<div class="placeholder-notice">{{ placeholder_notice | safe }}</div>{% endif %}
+{{ body | safe }}
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <p>The text of Lecky's works is in the public domain. Annotations, reference transcriptions, and site design are original work of this project. Source on <a href="https://github.com/{{ github_repo }}">GitHub</a>.</p>
+</footer>
+
+<script src="{{ root }}assets/js/popups.js"></script>
+</body>
+</html>

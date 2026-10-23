@@ -1,0 +1,390 @@
+/* =========================================================================
+   The Complete Works of W. E. H. Lecky — base stylesheet
+   Grayscale, serif, minimalist. No gradients, no drop-shadowed cards,
+   no sepia tint. Inspired by Tufte-CSS / gwern.net's documented design
+   principles; implemented independently.
+   ========================================================================= */
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("/assets/fonts/eb-garamond-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "EB Garamond";
+  src: url("/assets/fonts/eb-garamond-latin-400-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "EB Garamond";
+  src: url("/assets/fonts/eb-garamond-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg: #fdfdfb;
+  --fg: #111110;
+  --fg-muted: #5a5a56;
+  --fg-faint: #8a8a84;
+  --border: #d9d9d3;
+  --border-strong: #b6b6ae;
+  --sidenote-bg: #f4f4ef;
+  --code-bg: #f2f2ec;
+  --link: #111110;
+  --link-underline: #b6b6ae;
+  --selection: #d9d9d3;
+  --measure: 42.5em;
+  --font-serif: "EB Garamond", "Iowan Old Style", "Palatino Linotype",
+    Palatino, "Book Antiqua", Georgia, serif;
+}
+
+:root[data-theme="dark"] {
+  --bg: #161614;
+  --fg: #e6e6e1;
+  --fg-muted: #a3a39c;
+  --fg-faint: #7a7a73;
+  --border: #322;
+  --border-strong: #46463d;
+  --sidenote-bg: #1e1e1a;
+  --code-bg: #1e1e1a;
+  --link: #e6e6e1;
+  --link-underline: #5a5a52;
+  --selection: #3a3a32;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161614;
+    --fg: #e6e6e1;
+    --fg-muted: #a3a39c;
+    --fg-faint: #7a7a73;
+    --border: #322;
+    --border-strong: #46463d;
+    --sidenote-bg: #1e1e1a;
+    --code-bg: #1e1e1a;
+    --link: #e6e6e1;
+    --link-underline: #5a5a52;
+    --selection: #3a3a32;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-serif);
+  font-size: 20px;
+  line-height: 1.52;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+}
+
+::selection { background: var(--selection); }
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-underline-offset: 0.12em;
+  text-decoration-thickness: 1px;
+}
+a:hover { text-decoration-color: var(--fg); }
+a.popup-ref { text-decoration-style: dotted; cursor: help; }
+
+/* ---------- layout ---------- */
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 1.1rem 1.5rem;
+}
+.site-header nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+.site-header .site-title {
+  font-weight: 700;
+  font-size: 1.02rem;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+.site-header .site-links { display: flex; gap: 1.4rem; font-size: 0.92rem; }
+.site-header .site-links a { text-decoration: none; color: var(--fg-muted); }
+.site-header .site-links a:hover { color: var(--fg); text-decoration: underline; }
+
+#theme-toggle {
+  background: none;
+  border: 1px solid var(--border-strong);
+  color: var(--fg-muted);
+  border-radius: 2px;
+  font-family: inherit;
+  font-size: 0.8rem;
+  padding: 0.15rem 0.5rem;
+  cursor: pointer;
+}
+#theme-toggle:hover { color: var(--fg); }
+
+main.article {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2.6rem 2rem 6rem;
+}
+
+.content {
+  max-width: var(--measure);
+  margin: 0 auto;
+  position: relative;
+}
+
+/* page header / metadata block, gwern-style */
+.page-meta {
+  max-width: var(--measure);
+  margin: 0 auto 2.6rem;
+}
+.page-meta h1 {
+  font-size: 2rem;
+  line-height: 1.18;
+  margin: 0 0 0.5rem;
+}
+.page-meta .subtitle {
+  font-style: italic;
+  color: var(--fg-muted);
+  font-size: 1.1rem;
+  margin: 0 0 1rem;
+}
+.meta-table {
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 0;
+  font-size: 0.86rem;
+  color: var(--fg-muted);
+  display: grid;
+  grid-template-columns: auto 1fr;
+  row-gap: 0.25rem;
+  column-gap: 0.9rem;
+}
+.meta-table dt { font-variant: small-caps; letter-spacing: 0.03em; }
+.meta-table dd { margin: 0; }
+
+.abstract {
+  font-size: 0.97rem;
+  color: var(--fg-muted);
+  border-left: 2px solid var(--border-strong);
+  padding-left: 1rem;
+  margin-top: 1.2rem;
+}
+
+/* ---------- typography ---------- */
+
+.content h2 {
+  font-size: 1.4rem;
+  margin: 2.6rem 0 1rem;
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3rem;
+}
+.content h3 {
+  font-size: 1.12rem;
+  margin: 2rem 0 0.8rem;
+  font-style: italic;
+  font-weight: 400;
+}
+.content p { margin: 0 0 1.15rem; }
+.content > p:first-child { margin-top: 0; }
+
+.dropcap {
+  float: left;
+  font-size: 3.8em;
+  line-height: 0.78;
+  padding: 0.04em 0.07em 0 0;
+  font-weight: 700;
+}
+
+.smallcaps,
+.content p > .sc {
+  font-variant: small-caps;
+  letter-spacing: 0.02em;
+}
+
+blockquote {
+  margin: 1.4rem 0 1.4rem 0;
+  padding: 0.2rem 0 0.2rem 1.1rem;
+  border-left: 2px solid var(--border-strong);
+  color: var(--fg-muted);
+  font-size: 0.97rem;
+}
+blockquote p:last-child { margin-bottom: 0; }
+
+hr.chapter-break {
+  width: 5em;
+  margin: 2.8rem auto;
+  border: none;
+  border-top: 1px solid var(--border-strong);
+}
+
+/* collapsible asides — zero-JS progressive disclosure */
+details.collapse {
+  border: 1px solid var(--border);
+  background: var(--sidenote-bg);
+  border-radius: 2px;
+  padding: 0.1rem 1rem;
+  margin: 1.4rem 0;
+  font-size: 0.95rem;
+}
+details.collapse summary {
+  cursor: pointer;
+  padding: 0.6rem 0;
+  font-variant: small-caps;
+  color: var(--fg-muted);
+}
+details.collapse[open] summary { border-bottom: 1px solid var(--border); }
+details.collapse[open] summary ~ * { margin-top: 0.8rem; }
+
+/* ---------- sidenotes (Tufte-style, CSS-only) ---------- */
+
+.sidenote-wrap { position: relative; }
+.sidenote {
+  float: right;
+  clear: right;
+  width: 15.5em;
+  margin-right: -19em;
+  margin-top: 0.15em;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: var(--fg-muted);
+}
+.sidenote .sidenote-num {
+  font-variant: normal;
+  font-feature-settings: normal;
+  vertical-align: super;
+  font-size: 0.7em;
+  margin-right: 0.2em;
+}
+sup.footnote-ref {
+  cursor: help;
+  padding: 0 0.1em;
+}
+sup.footnote-ref a { text-decoration: none; }
+
+@media (max-width: 1180px) {
+  .sidenote {
+    float: none;
+    width: auto;
+    margin: 0.6rem 0 1.2rem;
+    padding: 0.5rem 0.8rem;
+    border-left: 2px solid var(--border);
+    background: var(--sidenote-bg);
+    display: none; /* shown via JS toggle as a popup on tap/hover instead */
+  }
+  .sidenote.sidenote-inline-shown { display: block; }
+}
+
+/* ---------- footnotes section (bottom of page) ---------- */
+
+.footnotes {
+  margin-top: 3.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.88rem;
+  color: var(--fg-muted);
+}
+.footnotes ol { padding-left: 1.3em; }
+.footnotes li { margin-bottom: 0.6em; }
+.footnotes a.footnote-backref { text-decoration: none; }
+
+/* ---------- hover popups (JS-enhanced) ---------- */
+
+.popup-box {
+  position: absolute;
+  z-index: 50;
+  max-width: 26em;
+  background: var(--bg);
+  border: 1px solid var(--border-strong);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  padding: 0.9rem 1.1rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--fg);
+}
+:root[data-theme="dark"] .popup-box {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .popup-box {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  }
+}
+.popup-box .popup-title {
+  font-variant: small-caps;
+  color: var(--fg-muted);
+  font-size: 0.8rem;
+  margin: 0 0 0.4rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3rem;
+}
+.popup-box p:last-child { margin-bottom: 0; }
+.popup-box .popup-loading { color: var(--fg-faint); font-style: italic; }
+
+/* ---------- index / landing pages ---------- */
+
+.work-list { list-style: none; padding: 0; margin: 1.5rem 0; }
+.work-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.work-list .work-title { font-size: 1.15rem; }
+.work-list .work-title a { text-decoration: none; }
+.work-list .work-title a:hover { text-decoration: underline; }
+.work-list .work-desc { color: var(--fg-muted); font-size: 0.92rem; margin-top: 0.3rem; }
+.work-list .work-status {
+  font-size: 0.74rem;
+  font-variant: small-caps;
+  color: var(--fg-faint);
+  border: 1px solid var(--border-strong);
+  padding: 0.05em 0.5em;
+  border-radius: 2px;
+  margin-left: 0.5em;
+}
+
+.toc { margin: 1.5rem 0 2.5rem; }
+.toc ol { padding-left: 1.3em; }
+.toc li { margin-bottom: 0.35em; }
+.toc a { text-decoration: none; }
+.toc a:hover { text-decoration: underline; }
+
+.site-footer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 2rem 4rem;
+  color: var(--fg-faint);
+  font-size: 0.82rem;
+  border-top: 1px solid var(--border);
+  margin-top: 3rem;
+}
+
+.placeholder-notice {
+  background: var(--sidenote-bg);
+  border: 1px dashed var(--border-strong);
+  color: var(--fg-muted);
+  font-size: 0.85rem;
+  padding: 0.8rem 1.1rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 640px) {
+  body { font-size: 18px; }
+  main.article { padding: 1.6rem 1.1rem 4rem; }
+  .dropcap { font-size: 3.1em; }
+}
