@@ -68,6 +68,13 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: "UnifrakturMaguntia";
+  src: url("/assets/fonts/unifraktur-maguntia.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
   --bg: #fdfdfb;
@@ -159,10 +166,19 @@ a.popup-ref { text-decoration-style: dotted; cursor: help; }
   gap: 1.5rem;
 }
 .site-header .site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
   font-weight: 700;
   font-size: 1.02rem;
   letter-spacing: 0.02em;
   text-decoration: none;
+}
+.site-header .site-mark {
+  width: 1.3em;
+  height: 1.3em;
+  color: var(--fg-muted);
+  flex-shrink: 0;
 }
 .site-header .site-links { display: flex; gap: 1.4rem; font-size: 0.92rem; }
 .site-header .site-links a { text-decoration: none; color: var(--fg-muted); }
@@ -198,14 +214,17 @@ main.article {
   margin: 0 auto 2.6rem;
 }
 .page-meta h1 {
-  font-size: 2rem;
-  line-height: 1.18;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
   margin: 0 0 0.5rem;
 }
 .page-meta .subtitle {
   font-style: italic;
+  font-weight: 400;
   color: var(--fg-muted);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin: 0 0 1rem;
 }
 .meta-table {
@@ -226,10 +245,25 @@ main.article {
 .abstract {
   font-size: 0.97rem;
   color: var(--fg-muted);
-  border-left: 2px solid var(--border-strong);
-  padding-left: 1rem;
+  background: var(--sidenote-bg);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--border-strong);
+  border-radius: 2px;
+  padding: 1rem 1.2rem;
   margin-top: 1.2rem;
+  position: relative;
 }
+.abstract::before {
+  content: "Abstract";
+  display: block;
+  font-family: var(--font-sans);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.7rem;
+  color: var(--fg-faint);
+  margin-bottom: 0.5em;
+}
+.abstract em { color: var(--fg); }
 
 /* ---------- typography ---------- */
 
@@ -252,10 +286,11 @@ main.article {
 
 .dropcap {
   float: left;
-  font-size: 3.8em;
-  line-height: 0.78;
-  padding: 0.04em 0.07em 0 0;
-  font-weight: 900;
+  font-family: "UnifrakturMaguntia", var(--font-serif);
+  font-size: 4.4em;
+  line-height: 0.68;
+  padding: 0.08em 0.1em 0 0;
+  font-weight: 400;
 }
 
 .smallcaps,
