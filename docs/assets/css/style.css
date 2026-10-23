@@ -6,22 +6,64 @@
    ========================================================================= */
 
 @font-face {
-  font-family: "EB Garamond";
-  src: url("/assets/fonts/eb-garamond-latin-400-normal.woff2") format("woff2");
+  font-family: "Source Serif 4";
+  src: url("/assets/fonts/source-serif-4-latin-400-normal.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "EB Garamond";
-  src: url("/assets/fonts/eb-garamond-latin-400-italic.woff2") format("woff2");
+  font-family: "Source Serif 4";
+  src: url("/assets/fonts/source-serif-4-latin-400-italic.woff2") format("woff2");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
-  font-family: "EB Garamond";
-  src: url("/assets/fonts/eb-garamond-latin-700-normal.woff2") format("woff2");
+  font-family: "Source Serif 4";
+  src: url("/assets/fonts/source-serif-4-latin-600-normal.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("/assets/fonts/source-serif-4-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("/assets/fonts/source-serif-4-latin-900-normal.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("/assets/fonts/source-sans-3-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("/assets/fonts/source-sans-3-latin-400-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("/assets/fonts/source-sans-3-latin-600-normal.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("/assets/fonts/source-sans-3-latin-700-normal.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -40,8 +82,10 @@
   --link-underline: #b6b6ae;
   --selection: #d9d9d3;
   --measure: 42.5em;
-  --font-serif: "EB Garamond", "Iowan Old Style", "Palatino Linotype",
+  --font-serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype",
     Palatino, "Book Antiqua", Georgia, serif;
+  --font-sans: "Source Sans 3", -apple-system, "Segoe UI", Helvetica, Arial,
+    sans-serif;
 }
 
 :root[data-theme="dark"] {
@@ -104,6 +148,7 @@ a.popup-ref { text-decoration-style: dotted; cursor: help; }
 .site-header {
   border-bottom: 1px solid var(--border);
   padding: 1.1rem 1.5rem;
+  font-family: var(--font-sans);
 }
 .site-header nav {
   max-width: 1200px;
@@ -167,14 +212,15 @@ main.article {
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   padding: 0.6rem 0;
-  font-size: 0.86rem;
+  font-size: 0.82rem;
   color: var(--fg-muted);
+  font-family: var(--font-sans);
   display: grid;
   grid-template-columns: auto 1fr;
-  row-gap: 0.25rem;
+  row-gap: 0.3rem;
   column-gap: 0.9rem;
 }
-.meta-table dt { font-variant: small-caps; letter-spacing: 0.03em; }
+.meta-table dt { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.78rem; }
 .meta-table dd { margin: 0; }
 
 .abstract {
@@ -209,7 +255,7 @@ main.article {
   font-size: 3.8em;
   line-height: 0.78;
   padding: 0.04em 0.07em 0 0;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .smallcaps,
@@ -291,6 +337,43 @@ sup.footnote-ref a { text-decoration: none; }
   .sidenote.sidenote-inline-shown { display: block; }
 }
 
+/* ---------- margin table of contents (wide screens only) ---------- */
+
+.margin-toc {
+  float: left;
+  clear: left;
+  width: 13em;
+  margin-left: -15.5em;
+  margin-top: 0.2em;
+  padding-right: 1.3em;
+  border-right: 1px solid var(--border);
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+.margin-toc .margin-toc-label {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--fg-faint);
+  font-size: 0.7rem;
+  margin: 0 0 0.5em;
+}
+.margin-toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.margin-toc li { margin-bottom: 0.4em; }
+.margin-toc a {
+  text-decoration: none;
+  color: var(--fg-muted);
+}
+.margin-toc a:hover { color: var(--fg); text-decoration: underline; }
+
+@media (max-width: 1400px) {
+  .margin-toc { display: none; }
+}
+
 /* ---------- footnotes section (bottom of page) ---------- */
 
 .footnotes {
@@ -326,14 +409,24 @@ sup.footnote-ref a { text-decoration: none; }
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
   }
 }
-.popup-box .popup-title {
-  font-variant: small-caps;
-  color: var(--fg-muted);
-  font-size: 0.8rem;
-  margin: 0 0 0.4rem;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 0.3rem;
+.popup-box {
+  padding: 0;
+  overflow: hidden;
 }
+.popup-box .popup-title {
+  font-family: var(--font-sans);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--fg-muted);
+  background: var(--sidenote-bg);
+  font-size: 0.7rem;
+  font-weight: 600;
+  margin: 0;
+  padding: 0.5rem 1.1rem;
+  border-bottom: 1px solid var(--border);
+}
+.popup-box .popup-body { padding: 0.9rem 1.1rem; }
+.popup-box .popup-body > :first-child { margin-top: 0; }
 .popup-box p:last-child { margin-bottom: 0; }
 .popup-box .popup-loading { color: var(--fg-faint); font-style: italic; }
 
@@ -349,16 +442,18 @@ sup.footnote-ref a { text-decoration: none; }
 .work-list .work-title a:hover { text-decoration: underline; }
 .work-list .work-desc { color: var(--fg-muted); font-size: 0.92rem; margin-top: 0.3rem; }
 .work-list .work-status {
-  font-size: 0.74rem;
-  font-variant: small-caps;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
   color: var(--fg-faint);
   border: 1px solid var(--border-strong);
-  padding: 0.05em 0.5em;
+  padding: 0.15em 0.5em;
   border-radius: 2px;
   margin-left: 0.5em;
 }
 
-.toc { margin: 1.5rem 0 2.5rem; }
+.toc { margin: 1.5rem 0 2.5rem; font-family: var(--font-sans); font-size: 0.92rem; }
 .toc ol { padding-left: 1.3em; }
 .toc li { margin-bottom: 0.35em; }
 .toc a { text-decoration: none; }
@@ -369,7 +464,8 @@ sup.footnote-ref a { text-decoration: none; }
   margin: 0 auto;
   padding: 2rem 2rem 4rem;
   color: var(--fg-faint);
-  font-size: 0.82rem;
+  font-size: 0.8rem;
+  font-family: var(--font-sans);
   border-top: 1px solid var(--border);
   margin-top: 3rem;
 }
@@ -378,7 +474,8 @@ sup.footnote-ref a { text-decoration: none; }
   background: var(--sidenote-bg);
   border: 1px dashed var(--border-strong);
   color: var(--fg-muted);
-  font-size: 0.85rem;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
   padding: 0.8rem 1.1rem;
   margin-bottom: 2rem;
 }

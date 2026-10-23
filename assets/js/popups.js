@@ -66,11 +66,12 @@
       clearTimers();
       showTimer = setTimeout(function () {
         var box = document.createElement("div");
-        var title = document.createElement("p");
+        var title = document.createElement("div");
         title.className = "popup-title";
         title.textContent = "Footnote";
         box.appendChild(title);
         var body = document.createElement("div");
+        body.className = "popup-body";
         body.innerHTML = target.innerHTML.replace(
           /<a class="footnote-backref"[^>]*>.*?<\/a>/, ""
         );
@@ -121,14 +122,17 @@
       clearTimers();
       showTimer = setTimeout(function () {
         var box = document.createElement("div");
-        var title = document.createElement("p");
+        var title = document.createElement("div");
         title.className = "popup-title";
         title.textContent = "Loading…";
         box.appendChild(title);
+        var bodyWrap = document.createElement("div");
+        bodyWrap.className = "popup-body";
         var loading = document.createElement("p");
         loading.className = "popup-loading";
         loading.textContent = "Fetching reference…";
-        box.appendChild(loading);
+        bodyWrap.appendChild(loading);
+        box.appendChild(bodyWrap);
         showBox(box, link);
 
         fetchFragment(pagePath, fragmentId).then(
@@ -138,12 +142,12 @@
             loading.remove();
             var body = document.createElement("div");
             body.innerHTML = data.html;
-            box.appendChild(body);
+            bodyWrap.appendChild(body);
             var more = document.createElement("p");
             more.innerHTML = '<a href="' + href + '">Read in full →</a>';
             more.style.marginTop = "0.6rem";
             more.style.fontSize = "0.82em";
-            box.appendChild(more);
+            bodyWrap.appendChild(more);
             positionNear(box, link);
           },
           function () {
@@ -174,6 +178,68 @@
     document.addEventListener("DOMContentLoaded", init);
   } else {
     init();
+  }
+})();
+
+// --- margin table of contents: built from <h2> headings, when there are
+// enough of them to be worth a ToC. No-op on pages with fewer than 2. ---
+(function () {
+  "use strict";
+
+  function slugify(text) {
+    return text
+      .toLowerCase()
+      .trim()
+      .replace(/[^a-z0-9\s-]/g, "")
+      .replace(/\s+/g, "-");
+  }
+
+  function buildToc() {
+    var content = document.querySelector("main.article .content");
+    if (!content) return;
+    var headings = Array.prototype.slice.call(content.querySelectorAll("h2"));
+    if (headings.length < 2) return;
+
+    var usedIds = {};
+    var items = headings.map(function (h) {
+      if (!h.id) {
+        var base = slugify(h.textContent) || "section";
+        var id = base;
+        var n = 2;
+        while (usedIds[id] || document.getElementById(id)) {
+          id = base + "-" + n++;
+        }
+        h.id = id;
+      }
+      usedIds[h.id] = true;
+      return h;
+    });
+
+    var toc = document.createElement("nav");
+    toc.className = "margin-toc";
+    toc.setAttribute("aria-label", "Table of contents");
+    var label = document.createElement("p");
+    label.className = "margin-toc-label";
+    label.textContent = "Contents";
+    toc.appendChild(label);
+    var ol = document.createElement("ol");
+    items.forEach(function (h) {
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = "#" + h.id;
+      a.textContent = h.textContent;
+      li.appendChild(a);
+      ol.appendChild(li);
+    });
+    toc.appendChild(ol);
+
+    content.insertBefore(toc, content.firstChild);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", buildToc);
+  } else {
+    buildToc();
   }
 })();
 
