@@ -318,13 +318,13 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^56]: Binsfeldius, p. 155.
 
-[^57]: Hecker's Epidemics of the Middle Ages, p. 29. Bocaccio witnessed and described this pestilence.
+[^57]: <a class="popup-ref" href="../ref/hecker-epidemics.html#death-toll">Hecker's Epidemics of the Middle Ages, p. 29.</a> Bocaccio witnessed and described this pestilence.
 
-[^58]: Hecker, p. 82. The dancers often imagined themselves to be immersed in a stream of blood. They were habitually exorcised.
+[^58]: <a class="popup-ref" href="../ref/hecker-epidemics.html#dancers">Hecker, p. 82.</a> The dancers often imagined themselves to be immersed in a stream of blood. They were habitually exorcised.
 
 [^59]: There is still an annual festival near Trèves in commemoration of the epidemic. Madden, vol. i. p. 420.
 
-[^60]: Hecker, p. 82.
+[^60]: <a class="popup-ref" href="../ref/hecker-epidemics.html#dancers">Hecker, p. 82.</a>
 
 [^61]: Ennemoser, Hist. of Magic, vol. ii. p. 150.
 

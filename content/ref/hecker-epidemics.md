@@ -1,0 +1,66 @@
+---
+title: Hecker, The Epidemics of the Middle Ages
+description: "Three points from J. F. C. Hecker’s Epidemics of the Middle Ages (Babington’s English translation, 1844) that Lecky relies on in Chapter I, notes 57, 58 and 60: the loss of a quarter of Europe’s people to the Black Death, the dancers who felt immersed in a stream of blood, and the pointed shoes, with Lecky’s statements compared."
+heading: Hecker, <em>The Epidemics of the Middle Ages</em>
+subtitle: Justus Friedrich Karl Hecker, tr. B. G. Babington
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Justus_Hecker\">Justus Friedrich Karl Hecker</a> (1795–1850), German physician and medical historian; Lecky’s “great German physician”. The book’s chapters on the Black Death (1832) and the dancing mania (St. John’s and St. Vitus’s dance) are the ones Lecky uses."]
+  - ["Edition used", "<em>The Epidemics of the Middle Ages</em>, translated by B. G. Babington (London, 1844; the archive.org record is dated 1844): <a href=\"https://archive.org/details/epidemicsofmiddlin00heck\">archive.org/details/epidemicsofmiddlin00heck</a>. <strong>Its page numbers are not Lecky’s.</strong> Lecky gives “p. 29” for the Black Death toll and “p. 82” for the dancers; in this printing the toll is on p. 30 (image n61), the dancers’ blood on p. 88 (n119) and the shoes on p. 89 (n120). I do not know which printing Lecky used (he may have used a later one, with different pagination). Image index = djvu object − 1."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn57\">Rationalism, ch. I, note 57</a>, <a href=\"../rationalism/vol1-ch1.html#fn58\">58</a> and <a href=\"../rationalism/vol1-ch1.html#fn60\">60</a>."]
+  - ["Status", "Three passages of English, transcribed from the page images (the dancers’ passage and the shoes passage as printed in the translation; the original German not consulted). Lecky’s statements compared."]
+abstract: |
+  <p>Lecky’s account of the fourteenth-century background of witch-persecution leans on Hecker for the Black Death (“twenty-five millions, or a fourth part of the inhabitants of Europe”) and for the dancing manias that followed it. All three notes can be checked in the English translation.</p><p>The total is Hecker’s own, but Lecky changes its basis: Hecker takes a fourth part of the population (which he reckons at about 105 millions, on a modern figure of 210 millions) and gets 25 millions; he does not say the number is “very moderate”. Lecky’s note 60 puts the pointed shoes in the account of the plague: in Hecker they are the aversion of the dancers, which Hecker himself puts down to priests’ sermons against fashion. See <a href="#comparison">the comparison</a>.</p>
+---
+<section id="death-toll" class="passage">
+<h2>The Black Death’s Toll (p. 30)</h2>
+
+<p class="passage-source">English: Hecker, tr. Babington, 1844, p. 30 (<a href="https://archive.org/details/epidemicsofmiddlin00heck/page/n61/mode/2up">scan</a>), the end of the section on the Black Death in Europe. <span class="cited-passage">Highlighted</span>: what Lecky’s note 57 and the sentence it supports rest on.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p>Of all the estimates of the number of lives lost in Europe, the most probable is, <span class="cited-passage">that altogether, a fourth part of the inhabitants were carried off.</span> Now, if Europe at present contain 210,000,000 inhabitants, the population, not to take a higher estimate, which might easily be justified, amounted to at least 105,000,000 in the 16th century.</p>
+<p><span class="cited-passage">It may, therefore, be assumed, without exaggeration, that Europe lost during the Black Death, 25,000,000 of inhabitants.</span></p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>A slip in the book</summary>
+<p>Hecker’s sentence says “in the 16th century”, but he is computing the population of the 14th, when the plague struck (1347–51). Lecky does not repeat the slip. Lecky’s “six years of its continuance” is not on this page (Hecker’s account of the plague’s course, I have not checked).</p>
+</details>
+</section>
+
+<section id="dancers" class="passage">
+<h2>The Dancers and the Blood; the Pointed Shoes (pp. 88–89)</h2>
+
+<p class="passage-source">English: Hecker, tr. Babington, 1844, p. 88 (<a href="https://archive.org/details/epidemicsofmiddlin00heck/page/n119/mode/2up">scan</a>; middle of page) and p. 89 (<a href="https://archive.org/details/epidemicsofmiddlin00heck/page/n120/mode/2up">scan</a>), in the chapter on the dancing mania (“St. John’s Dance”). Footnote letters omitted. <span class="cited-passage">Highlighted</span>: the sentences behind Lecky’s notes 58 and 60.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p>While dancing they neither saw nor heard, being insensible to external impressions through the senses, but were haunted by visions, their fancies conjuring up spirits whose names they shrieked out; and some of them afterwards asserted that <span class="cited-passage">they felt as if they had been immersed in a stream of blood, which obliged them to leap so high.</span> Others, during the paroxysm, saw the heavens open and the Saviour enthroned with the Virgin Mary, according as the religious notions of the age were strangely and variously reflected in their imaginations.</p>
+<p>[p. 89] … In towns and villages they took possession of the religious houses, processions were everywhere instituted on their account, and masses were said and hymns were sung, while the disease itself, of the demoniacal origin of which no one entertained the least doubt, excited everywhere astonishment and horror. In Liege <span class="cited-passage">the priests had recourse to exorcisms,</span> and endeavoured, by every means in their power, to allay an evil which threatened so much danger to themselves; for the possessed assembling in multitudes, frequently poured forth imprecations against them, and menaced their destruction. They intimidated the people also to such a degree that there was an express ordinance issued that no one should make any but square-toed shoes, because <span class="cited-passage">these fanatics had manifested a morbid dislike to the pointed shoes which had come into fashion immediately after the Great Mortality in 1350.</span> They were still more irritated at the sight of red colours …</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>Hecker’s own note on the shoes</summary>
+<p>In a footnote on p. 89 (citing the <em>Limburg Chronicle</em>) Hecker calls the aversion a “singular phenomenon” that reminds him of the “Demon of Fashion” of the Middle Ages: the enemies of fashion cried down every novelty “as the work of the devil”, and so “it is extremely probable that the fanatic penitential sermons of zealous priests excited this singular aversion of the St. Vitus dancers”. This is Hecker’s inference, which I give as he gives it.</p>
+</details>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Notes Compared</h2>
+
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th>Lecky (ch. I)</th><th>Hecker</th><th>Comment</th></tr></thead>
+<tbody>
+<tr><td>Text: “the number of those who died of the pestilence during the six years of its continuance, may be estimated, by a very moderate computation, at twenty-five millions, or a fourth part of the inhabitants of Europe.” Note 57: “Hecker … p. 29.”</td><td><a href="#death-toll">p. 30</a>: “a fourth part of the inhabitants were carried off”; 25,000,000 on a base of 105,000,000.</td><td>The figure and the fraction are Hecker’s, but the two are not independent: Hecker gets 25 millions from a quarter of a base he sets at 105 millions (a quarter of 105 is 26.25). “Very moderate computation” is Lecky’s gloss; Hecker says “without exaggeration” and “not to take a higher estimate”. “Six years” is not on this page. The page reference does not match this printing (p. 30).</td></tr>
+<tr><td>Text: “the dancing mania of Flanders and Germany, when thousands assembled … proclaiming, amid their wild dances and with shrieks of terror, the power and the triumph of Satan.” Note 58: “Hecker, p. 82. The dancers often imagined themselves to be immersed in a stream of blood. They were habitually exorcised.”</td><td><a href="#dancers">p. 88</a>: “some of them afterwards asserted that they felt as if they had been immersed in a stream of blood.” <a href="#dancers">p. 89</a>: “In Liege the priests had recourse to exorcisms.”</td><td>“Often” is Lecky’s; Hecker says “some of them”. “Habitually exorcised” generalises from the Liège case on p. 89 (and Hecker adds that masses, hymns and processions were also used). Hecker says the possessed shrieked the names of spirits; I did not find on these pages that they proclaimed “the triumph of Satan”. The text sentence is Lecky’s summary.</td></tr>
+<tr><td>Text: the plague was “regarded as a divine chastisement, or as an evidence of Satanic power; and the most grotesque explanations were hazarded. Boots with pointed toes had been lately introduced, and were supposed by many to have been peculiarly offensive to the Almighty.” Note 60: “Hecker, p. 82.”</td><td><a href="#dancers">p. 89</a>: the dancers, “these fanatics”, had “a morbid dislike to the pointed shoes which had come into fashion immediately after the Great Mortality in 1350”; Hecker’s note puts it down to priests’ sermons against fashion.</td><td>The detail is real but Lecky has moved it. In Hecker it is the aversion of the dancers (and a magistrates’ ordinance for square-toed shoes), not a general explanation of the plague, and nothing on p. 89 says the shoes “offended the Almighty”. Lecky’s “supposed by many” may reflect the sermons Hecker infers, but that is his surmise, not what Hecker reports. I did not search the book’s other pages for a plague-explanation involving shoes.</td></tr>
+</tbody>
+</table>
+</div>
+</section>
