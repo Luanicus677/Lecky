@@ -22,8 +22,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Constantius II’s laws of 357 and 358 against divination and magic (laws 4 and 6), in Latin and English from the 1738 Leipzig edition, compared with Lecky’s quotation. Cited in <em>Rationalism</em>, ch. I, note 28.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="sprenger-malleus-maleficarum.html">Sprenger, <em>Malleus Maleficarum</em></a><span class="work-status">4 passages</span></div>
-<div class="work-desc">The inquisitors’ handbook, Lyon 1620 edition. “Because of the angels” and incubi (Pars I), incubi and women’s hair, exorcism before baptism (Pars II), and the Cologne preface on sceptical preachers, in Latin and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 21, 22 and 83.</div>
+<div class="work-title"><a class="popup-ref" href="sprenger-malleus-maleficarum.html">Sprenger, <em>Malleus Maleficarum</em></a><span class="work-status">9 passages</span></div>
+<div class="work-desc">The inquisitors’ handbook, Lyon 1620 edition. “Because of the angels” and incubi (Pars I), incubi and women’s hair, exorcism before baptism (Pars II), the etymologies of <em>femina</em> and <em>diabolus</em> (Pars I), the story of St. Silvanus (Pars II), the angels and Serenus and Equitius (Nider’s text in the same volume), and the Cologne preface on sceptical preachers, in Latin and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 21, 22, 68, 78, 79 and 83.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="gerson-de-probatione-spirituum.html">Gerson, <em>De probatione spirituum</em></a><span class="work-status">2 passages</span></div>
