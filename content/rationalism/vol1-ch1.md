@@ -498,21 +498,21 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^145]: The very remarkable fact, that no cases of imposture have been detected in Scotch witch-trials, is noted by Buckle. (Vol. ii. pp. 189, 190.)
 
-[^146]: Dalyell, Darker Superstitions of Scotland, p. 624.
+[^146]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#boxes-623">Dalyell, Darker Superstitions of Scotland, p. 624.</a>
 
-[^147]: Ibid. p. 623.
+[^147]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#boxes-623">Ibid. p. 623.</a>
 
-[^148]: Ibid. p. 624, &c.
+[^148]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#boxes-623">Ibid. p. 624, &c.</a>
 
 [^149]: See on this subject Pitcairn's Criminal Trials of Scotland, a vast repository of original documents on the subject. Pitcairn gives numbers of these confessions. He adds: 'The confessions were commonly taken before presbyteries, or certain special commissioners, who usually ranked among their number the leading clergy of those districts where their hapless victims resided.' (Vol. iii. p. 598.)
 
 [^150]: 'One of the most powerful incentives to confession was systematically to deprive the suspected witch of the refreshment of her natural sleep. . . . Iron collars, or witches' bridles, are still preserved in various parts of Scotland which had been used for such iniquitous purposes. These instruments were so constructed that, by means of a hoop which passed over the head, a piece of iron having four points or prongs was forcibly thrust into the mouth, two of these being directed to the tongue and palate, the others pointing outwards to each cheek. This infernal machine was secured by a padlock. At the back of the collar was fixed a ring by which to attach the witch to a staple in the wall of her cell. Thus equipped, and night and day waked and watched by some skilful person appointed by her inquisitors, the unhappy creature, after a few days of such discipline, maddened by the misery of her forlorn and helpless state, would be rendered fit for confessing anything, in order to be rid of the dregs of her wretched life. At intervals fresh examinations took place, and these were repeated from time to time until her "contumacy," as it was termed, was subdued. The clergy and kirk sessions appear to have been the unwearied instruments of "purging the land of witchcraft;" and to them, in the first instance, all the complaints and informations were made.' (Pitcairn, vol. i. part ii. p. 50.)
 
-[^151]: Dalyell, p. 645. The 'prickers' formed a regular profession in Scotland.
+[^151]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#waking-645">Dalyell, p. 645.</a> The 'prickers' formed a regular profession in Scotland.
 
 [^152]: Burt's Letters from the North of Scotland, vol. i. pp. 227-234.
 
-[^153]: Dalyell, p. 645.
+[^153]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#waking-645">Dalyell, p. 645.</a>
 
 [^154]: Pitcairn.
 
