@@ -25,14 +25,15 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 ## Workflow: transcribing Rationalism in Europe (Vol. I, Chapter I is done; the same steps apply to Chapter II onward)
 
-`content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150 (the chapter ends at the bottom of page 150,
-"...which the spirit of Rationalism has destroyed."). Footnotes are `[^1]`–`[^167]`. Chapter II starts on printed page 151
-("CHAPTER II. ... THE MIRACLES OF THE CHURCH"; OCR line ~6655; page 151 is `n180` in the image index).
-One sequential series for the whole chapter; the 1865 print restarts numbering on every page.
+`content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
+`content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
+Chapter III starts on printed page 206 ("AESTHETIC, SCIENTIFIC, AND MORAL DEVELOPEMENTS OF RATIONALISM"; OCR line 8678 of `lecky1.txt`; page 206 is `n235`).
+Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
+Printer's slips left as printed in ch. II: "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
 
 1. Download the raw OCR (redirects, so use `-L`):
    `curl -sSL https://archive.org/download/rationalismeuro01leckuoft/rationalismeuro01leckuoft_djvu.txt -o <scratchpad>/lecky1.txt`
-   In that file, Chapter II (page 151) starts near line 6655, after the end of Chapter I on page 150.
+   In that file, Chapter III (page 206) starts at line 8678; Chapter IV at line 15626.
 2. `python3 tools/clean_ocr.py <file>` gives a first pass. It is not sufficient: hand-check every page.
    Common faults: dropped hyphens where both halves are real words ("con science"), misread
    Latin and French ("cteteris", "Christ!", "feterni"), and running headers injected mid-text.
