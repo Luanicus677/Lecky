@@ -21,7 +21,13 @@
 
     var titleEl = header.querySelector(".floating-title");
     var sectionEl = header.querySelector(".floating-section");
-    titleEl.textContent = (h1.textContent || "").trim();
+    // textContent ignores <br> (no text node there), so "Chapter I<br>On the..."
+    // would collapse to "Chapter IOn the..." -- turn <br> into a space first.
+    var h1Clone = h1.cloneNode(true);
+    h1Clone.querySelectorAll("br").forEach(function (br) {
+      br.replaceWith(" ");
+    });
+    titleEl.textContent = (h1Clone.textContent || "").replace(/\s+/g, " ").trim();
 
     var sections = Array.prototype.slice.call(
       document.querySelectorAll("main.article .content h2")
