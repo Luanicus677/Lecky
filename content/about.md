@@ -9,13 +9,13 @@ A reading edition of William Edward Hartpole Lecky's major works, built page by 
 
 ## Current status
 
-The typography, layout, footnote system, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan. Chapter I is live for its first twenty printed pages (of about 132). Two [source pages](ref/index.html) are up: the [Latin treatise](ref/grillandi-de-sortilegiis.html) Lecky quotes in Chapter I, note 1, and [Garinet's history of magic](ref/garinet-histoire-de-la-magie.html), which he follows in note 14. Hover a citation in the notes to preview its source, or a foreign quotation's "English" button for a translation.
+The typography, layout, footnote system, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan. Chapter I (pages 1–150) is complete. Four [source pages](ref/index.html) are up: [Grillandus](ref/grillandi-de-sortilegiis.html), [Garinet](ref/garinet-histoire-de-la-magie.html), [Bodin](ref/bodin-demonomanie-des-sorciers.html), and the [Codex Theodosianus](ref/codex-theodosianus-ix-16.html). Hover a citation in the notes to preview its source, or a foreign quotation's "English" button for a translation.
 
 There is no clean transcription of this title anywhere (it isn't on Project Gutenberg or Wikisource), so each chapter comes from a 160-year-old library scan's raw OCR, run through an automated cleanup pass and then read through by hand before publishing. That means it goes up one chapter at a time rather than all at once.
 
 Next steps, in order:
 
-1. Clean and proofread Volume I, Chapter I (roughly 150 printed pages — the longest chapter in the book), then continue through the rest of Volume I and Volume II.
+1. Continue through the rest of Volume I and Volume II (Chapter I, about 150 printed pages, is done).
 2. Identify every work, document, and figure Lecky cites, and build reference pages for them — starting with the source texts (the witchcraft manuals, pamphlets, and letters), each transcribed in full where we can find them.
 3. Wire citations in the main text to hover-previews and click-throughs into those reference pages.
 4. A cross-reference map of how it all connects.
