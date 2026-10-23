@@ -1,0 +1,64 @@
+---
+title: Scot, Discovery of Witchcraft
+description: "Pages 11 and 12 of Reginald Scot’s Discovery of Witchcraft (London, 1665 printing), Book II, chapters 1–2, the ‘order of examination’ of witches that Lecky cites in Chapter I, note 66 as a ‘frightful catalogue’ of tortures; Scot is summarising the Malleus and Bodin. It also gives the source of the ‘box in the church’ that Dalyell reports as a Scottish custom."
+heading: Scot, <em>The Discovery of Witchcraft</em>
+subtitle: Reginald Scot, 1584 (1665 printing)
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Reginald_Scot\">Reginald Scot</a> (c. 1538–1599), English country gentleman whose <em>Discoverie of Witchcraft</em> (1584) attacked the belief in witchcraft. Lecky writes “Scott”."]
+  - ["Edition used", "<em>The Discovery of Witchcraft</em>, London, 1665 (the printing Lecky names): <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665\">archive.org</a>. <strong>Lecky’s page numbers fit this printing exactly</strong>: Book II ch. 1 is p. 11 (image <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n28/mode/2up\">n28</a>) and ch. 2 continues onto p. 12 (<a href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n29/mode/2up\">n29</a>). Spelling is modernised only in the long s; the orthography and italics are as printed."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn66\">Rationalism, ch. I, note 66</a>. Compare <a href=\"dalyell-darker-superstitions.html#boxes-623\">Dalyell on the box in the church</a>."]
+  - ["Status", "The two pages Lecky cites, transcribed from the page images (the prose in full; the marginal notes are given where they bear on the text). Scot’s English summary was not compared with the Malleus or Bodin here, apart from the Bodin passages in the margin."]
+abstract: |
+  <p>In note 66 Lecky cites “Scott’s <em>Discovery of Witchcraft</em> (London, 1665), pp. 11, 12” for “a frightful catalogue of the tortures that were employed” against suspected witches. The two pages are not a catalogue of torture so much as a list of the <em>procedures</em> by which, Scot says, the inquisitors and Bodin recommended that accused witches be examined: infamous persons and children are admitted as witnesses, the accused is surprised and not left alone, her body is shaved, spikes are driven under her nails, and she is frightened by feigned screams or told falsely that her companions have confessed.</p><p>Lecky’s page numbers are right, but his word “tortures” overstates what these pages mainly contain: most of the “Items” are deceptions and legal rules, and only a few are physical. Scot is also reporting what Bodin and the <em>Malleus</em> advise, not what was done in any particular trial. See <a href="#comparison">the comparison</a>.</p>
+---
+<section id="scot-11-12" class="passage">
+<h2>Book II, chapters 1–2: “The Order of Examination of Witches by the Inquisitors”</h2>
+
+<p class="passage-source">English: Scot, 1665, pp. 11 and 12 (<a href="https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n28/mode/2up">p. 11</a>, <a href="https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n29/mode/2up">p. 12</a>). Long s printed as s; italics for the Latin and for authorities’ names omitted in the English except where they are Latin. <span class="cited-passage">Highlighted</span>: the items that are physical or coercive, which are what “frightful catalogue of the tortures” can refer to.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p><strong>Chap. I.</strong> <em>What testimonies and witnesses are allowed to give evidence against reputed Witches, by the report and allowance of the Inquisitors themselves, and such as are special writers herein.</em></p>
+<p>Excommunicate persons, partakers of the fault, infants, wicked servants, and run-awaies are to be admitted to bear witness against their dames in this matter of Witch-craft, because (saith <em>Bodin</em> the champion of Witch-mongers) none that be honest are able to detect them. Hereticks also and Witches shall be received to accuse, but not to excuse a Witch. And finally, the testimony of all infamous persons in this case is good and allowed. Yea, one lewd person (saith <em>Bodin</em>) may be received to accuse and condemn a thousand suspected Witches. … single witnesses are not admittable; yet if one depose she hath bewitched her Cow; another, her Sow; and the third, her Butter: these (saith M. Mal. and Bodin) are not single witnesses; because they agree that she is a Witch.</p>
+<p><strong>Chap. II.</strong> <em>The order of examination of Witches by the Inquisitors.</em></p>
+<p>Women suspected to be Witches, after their apprehension may not be suffered to go home, or to other places, to seek sureties: for then (saith <em>Bodin</em>) the people would be worse willing to accuse them; for fear lest at their return home, they work revenge upon them: In which respect <em>Bodin</em> commendeth much the <em>Scottish</em> custome and order in this behalf: where (he saith) a hollow piece of wood or a chest is placed in the Church, into the which any body may freely cast a little scroll of paper, wherein may be contained the name of the Witch, the time, place, and fact, &amp;c. And the same chest being locked with three several locks, are opened every fifteenth day by three Inquisitors or officers appointed for that purpose: which keep three several keys. And thus the accuser need not be known, nor shamed with the reproach of slander or malice to his poor neighbour.</p>
+<p><em>Item,</em> There must be great perswasions used to all men, women, and children, to accuse old women of witch-craft.</p>
+<p><em>Item,</em> There may alwaies be promised impunity and favour to Witches, that confess and detect others; and on the contrary, there may be threatnings and violence practised and used.</p>
+<p><em>Item,</em> The little children of Witches, which will not confess, must be attached, who (if they be craftily handled, saith <em>Bodin</em>) will confess against their own mothers.</p>
+<p><em>Item,</em> Witches must be examined as suddenly, and as unawares as is possible: the which will so amaze them, that they will confess any thing, supposing the devil hath forsaken them; whereas, if they should first be committed to prison, the devil would tamper with them, and inform them what to do.</p>
+<p><em>Item,</em> … The examiner must look stedfastly upon their eyes: for they cannot look directly upon a mans face …</p>
+<p><em>Item,</em> A Witch may not be put in prison alone, lest the Devil disswade her from confession, through promises of her indemnity. …</p>
+<p><em>Item,</em> The Judges must seem to be in a pitiful countenance, and to bemoan them; saying, that, It was not they, but the Devil that committed the murther, and that he compelled them to do it; and must make them believe that they think them to be innocents.</p>
+<p><em>Item,</em> <span class="cited-passage">If they will confess nothing but upon the rack or torture; their apparel must be changed; and every hair in their body must be shaven off with a sharp razor.</span></p>
+<p><em>Item,</em> <span class="cited-passage">If they have charms for taciturnity, so as they feel not the common tortures, and therefore confess nothing: then some sharp instrument must be thrust betwixt every nail of their fingers and toes; which (as <em>Bodin</em> saith) was King <em>Childeberts</em> devise, and is to this day of all others the most effectual: For by means of that extreme pain, they will (saith he) confess any thing.</span></p>
+<p><em>Item,</em> <em>Paulus Grillandus</em>, being an old doer in these matters: wisheth that when Witches sleep, and feel no pain upon the torture, <em>Domine labia mea aperies</em> should be said; and so (saith he) both the torments will be felt, and the truth will be uttered: <em>Et sic ars deluditur arte.</em></p>
+<p><em>Item,</em> <em>Bodin</em> saith, that at the time of examination, there should be a semblance of great ado, to the terrifying of the Witch; and that a number of instruments, ginns, manacles, ropes, halters, fetters, &amp;c. be prepared, brought forth, and laid before the examinate: and also that some be procured to make a most horrible and lamentable cry, in the place of torture, as though he or she were upon the rack, or in the tormentors hands: so as the examinate may hear it whiles she is examined, before she her self be brought into the prison; and perhaps (saith he) she will by this means confess the matter.</p>
+<p><em>Item,</em> There must be suborned some crafty spy, that may seem to be a prisoner with her in the like case; who perhaps may in conference undermine her, and so bewray and discover her.</p>
+<p><em>Item,</em> If she will not yet confess, she must be told that she is detected, and accused by other of her companions; and although in truth there be no such matter: and so perhaps she will confess, the rather to be revenged upon her adversaries and accusers.</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>Omitted, and the marginal notes</summary>
+<p>I have left out, marked by dots, a few “Items” (on the witch’s parentage, on being examined of all accusations at one instant, and on the penalty of withdrawing a confession made without torture) and their marginal references (“Mal. Malef. quaest. 5”, “Bodin lib. 4 cap. 2 de daemon.”, “K. Childeberts cruel device”, “P. Grillandus”, “A subtle and devillish devise”). Scot’s margins name the <em>Malleus</em> and Bodin’s <em>Démonomanie</em> as his sources; I did not check his summaries against them. The “Scottish custom” in Chap. II is the one that Lecky’s source Dalyell repeats (see the <a href="dalyell-darker-superstitions.html#boxes-623">Dalyell page</a>).</p>
+</details>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Note Compared</h2>
+
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th>Lecky (ch. I, note 66)</th><th>Scot</th><th>Comment</th></tr></thead>
+<tbody>
+<tr><td>“For a frightful catalogue of the tortures that were employed in these cases, see Scott’s <em>Discovery of Witchcraft</em> (London, 1665), pp. 11, 12.”</td><td><a href="#scot-11-12">pp. 11–12</a>: a list of “Items” on admitting witnesses and on how to examine, with a few physical measures (shaving the whole body, a sharp instrument thrust under the nails, “the rack or torture” mentioned in passing).</td><td>The pages and the edition are correct. Most of the list is not torture but legal and psychological pressure: infamous witnesses, surprise, false promises of impunity, feigned screams, a planted spy, a false claim that others have confessed. The torture proper on these pages is: the shaving, the spike under the nails (credited to “King Childebert”), and torture being used on those who will not confess. Scot is also reporting what the authorities <em>advise</em>, and does not say it was done in any particular case. “Catalogue” is fair; “frightful” is accurate for the nail device.</td></tr>
+<tr><td>(Text, ch. I) “the frightful tortures that were applied to the weak frame of an old and feeble woman”</td><td>(the same pages)</td><td>Not on these pages as such; Scot says only “the common tortures”, with no description of them. The detail of the tortures themselves would have to come from elsewhere (Lecky’s next sentence cites Sprenger’s <em>decenter quaestionatus</em>).</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>The page numbers line up with the 1665 printing because Scot’s book is short, and this is the only printing I have checked; the earlier editions (1584, 1651) probably paginate differently.</p>
+</section>

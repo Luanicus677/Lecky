@@ -338,7 +338,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^65]: Calmeil.
 
-[^66]: For a frightful catalogue of the tortures that were employed in these cases, see Scott's Discovery of Witchcraft (London, 1665), pp. 11, 12. All the old treatises are full of the subject. Sprenger recommends the tortures to be continued two or three days, till the prisoner was, as he expresses it, 'decenter quæstionatus' (Pars iii. Quæst. 14, 15). The tortures were all the more horrible, because it was generally believed that the witches had charms to deaden their effect.
+[^66]: For a frightful catalogue of the tortures that were employed in these cases, see <a class="popup-ref" href="../ref/scot-discovery-of-witchcraft.html#scot-11-12">Scott's Discovery of Witchcraft (London, 1665), pp. 11, 12.</a> All the old treatises are full of the subject. Sprenger recommends the tortures to be continued two or three days, till the prisoner was, as he expresses it, 'decenter quæstionatus' (Pars iii. Quæst. 14, 15). The tortures were all the more horrible, because it was generally believed that the witches had charms to deaden their effect.
 
 [^67]: <a class="popup-ref" href="../ref/spina-quaestio-de-strigibus.html#como-193">Spina, cap. xii.</a>
 
