@@ -27,7 +27,7 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 `content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
 `content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
-`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–355 done. The text stops after "...the spirit of Torquemada must be more common than that of Xavier." (p. 355); next paragraph starts "That this was actually the case must be evident to" (p. 355; OCR line ~14465 of `lecky1.txt`; p. 355 is `n384`). Footnotes so far `[^1]`–`[^151]`; continue at `[^152]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Latin, Greek and French in the notes were checked against the scan.
+`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–365 done. The text stops after "...They flourished together, and they declined together." (p. 365); next paragraph starts "The truth is, that in every age the penal code will" (p. 365; OCR line ~14855 of `lecky1.txt`; p. 365 is `n394`). Footnotes so far `[^1]`–`[^161]`; continue at `[^162]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Latin, Greek and French in the notes were checked against the scan.
 Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
 Printer's slips left as printed in ch. II and III ("interpretetion", "one the most common"): "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
 
