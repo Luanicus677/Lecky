@@ -256,9 +256,9 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^25]: The history of this movement has been traced with masterly ability by Maury, Sur la Magie, and also by Beugnot, Destruction de Paganisme, dans l'Occident.
 
-[^26]: Codex Theodosianus, lib. ix. tit. xvi. c. 1, 2. The pagan historian Zosimus observes, that when Constantine had abandoned his country's gods 'he made this beginning of impiety, that he looked with contempt on the art of foretelling' (lib. ii. c. 29); and Eusebius classifies his prohibition of prophecy with the measures directed openly against paganism. (Vita Const. lib. i. c. 16.)
+[^26]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-1">Codex Theodosianus, lib. ix. tit. xvi. c. 1, 2.</a> The pagan historian Zosimus observes, that when Constantine had abandoned his country's gods 'he made this beginning of impiety, that he looked with contempt on the art of foretelling' (lib. ii. c. 29); and Eusebius classifies his prohibition of prophecy with the measures directed openly against paganism. (Vita Const. lib. i. c. 16.)
 
-[^27]: Cod. Th. lib. ix. t. xvi. l. 3.
+[^27]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-3">Cod. Th. lib. ix. t. xvi. l. 3.</a>
 
 [^28]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-4">Cod. Th. lib. ix. t. xvi. l. 4, 5, 6.</a> The language is curious and very peremptory — thus, we read in law 4: 'Nemo haruspicem consulat, aut mathematicum, nemo hariolum. Augurum et vatum prava confessio conticescat. Chaldæi ac magi et ceteri quos maleficos ob facinorum magnitudinem vulgus appellat, nec ad hanc partem aliquid moliantur. Sileat omnibus perpetuo divinandi curiositas: etenim supplicium, capitis feret gladio ultore prostratus quicunque jussis obsequium denegaverit.' Another law, <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-6">(6)</a>, concludes: 'Si convictus ad proprium facinus detegentibus repugnaverit pernegando sit eculeo deditus, ungulisque sulcantibus latera perferat pœnas proprio dignas facinore.' On the nature of the punishments that were employed, compare the Commentary on the law, in Ritter's edition (Leipsic, 1738), and Beugnot, tom i. p. 143.
 
@@ -268,7 +268,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^31]: St. Gregory Nazianzen (3rd Oration against Julian).
 
-[^32]: Cod. Th. lib. ix. t. xvi. l. 7, &c.
+[^32]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-7">Cod. Th. lib. ix. t. xvi. l. 7, &c.</a>
 
 [^33]: Maury, pp. 118, 119.
 
@@ -342,7 +342,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^67]: <a class="popup-ref" href="../ref/spina-quaestio-de-strigibus.html#como-193">Spina, cap. xii.</a>
 
-[^68]: 'Fœmina,' he assures us, is derived from Fe and minus, because women have less faith than men (<a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#femina-65">p. 65</a>). <a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#maleficiendo-26">Maleficiendo, is from male de fide sentiendo.</a> For diabolus we have a choice of most instructive derivations. It comes 'a dia quod est duo, et bolus quod est morsellus, quia duo occidit, scilicet corpus et animam. Et secundum etymologiam, licet Græce, interpretetur diabolus clausus ergastulo: et hoc sibi convenit cum non permittitur sibi nocere quantum vellet. Vel diabolus quasi defluens, quia defluxit, id est corruit, et specialiter et localiter' (<a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#diabolus-41">p. 41</a>). If the reader is curious in these matters, he will find another astounding instance of verbal criticism, which I do not venture to quote, in Bodin, Dem. p. 40.
+[^68]: 'Fœmina,' he assures us, is derived from Fe and minus, because women have less faith than men (<a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#femina-65">p. 65</a>). <a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#maleficiendo-26">Maleficiendo, is from male de fide sentiendo.</a> For diabolus we have a choice of most instructive derivations. It comes 'a dia quod est duo, et bolus quod est morsellus, quia duo occidit, scilicet corpus et animam. Et secundum etymologiam, licet Græce, interpretetur diabolus clausus ergastulo: et hoc sibi convenit cum non permittitur sibi nocere quantum vellet. Vel diabolus quasi defluens, quia defluxit, id est corruit, et specialiter et localiter' (<a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#diabolus-41">p. 41</a>). If the reader is curious in these matters, he will find another astounding instance of verbal criticism, which I do not venture to quote, in <a class="popup-ref" href="../ref/bodin-demonomanie-des-sorciers.html#p40-nose">Bodin, Dem. p. 40</a>.
 
 [^69]: The principal authority on these matters is a large collection of Latin works (in great part written by inquisitors), extending over about two centuries, and published under the title of Malleus Maleficarum (the title of Sprenger's book). It comprises the works of Sprenger, Nider, Basin, Molitor, Gerson, Murner, Spina, Laurentius, Bernardus, Vignitus, Grillandus, &c. I have noticed a great many other works in their places, and the reader may find reviews of many others in Madden and Plancey.
 
@@ -382,7 +382,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^87]: Cornelius Agrippa, who had been the master of Wier. He was Advocate-general at Metz, and had distinguished himself by his efforts to prevent prosecutions for witchcraft, and by saving the life of a peasant woman whom Savin the inquisitor wished to burn. He was, consequently, generally thought to be in league with the Devil; and it is related that, on his death-bed, he drew off from his neck a black dog, which was a demon, exclaiming that it was the cause of his perdition (Garinet, pp. 121, 122). In his early days he had studied magic, and had apparently come to the conclusion that it rested either on imposture or on a superior knowledge of the laws of nature — a conclusion which he tried to enforce in a book on the vanity of science. He was imprisoned for a year at Brussels on the charge of magic, and ceaselessly calumniated after his death. Before Wier, probably no one had done so much to combat the persecution, and his reputation was sacrificed in the cause. (See Plancey's Dict. Infern. art. Agrippa, and Thiers' Superst. vol. i. pp. 142, 143.) Naudé has also devoted a long chapter to Agrippa. Agrippa had not the good fortune to please any class of theologians. Among the Catholics he was regarded with extreme horror; and Calvin, in his work De Scandalis, treats him as one of the chief contemners of the Gospel.
 
-[^88]: Pp. 217, 228.
+[^88]: <a class="popup-ref" href="../ref/bodin-demonomanie-des-sorciers.html#p217">Pp. 217</a>, <a class="popup-ref" href="../ref/bodin-demonomanie-des-sorciers.html#p228">228</a>.
 
 [^89]: <a class="popup-ref" href="../ref/bodin-demonomanie-des-sorciers.html#p152">P. 152.</a>
 
@@ -480,7 +480,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^136]: Journal, 1768.
 
-[^137]: Bodin, p. 217.
+[^137]: <a class="popup-ref" href="../ref/bodin-demonomanie-des-sorciers.html#p217">Bodin, p. 217</a>.
 
 [^138]: Hutchinson. Dedication.
 

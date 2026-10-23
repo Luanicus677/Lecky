@@ -66,9 +66,9 @@ Bodin's Demonomanie (3: pp. 15, 151-152, Refutation near p. 252), Codex Theodosi
 Notes for continuing:
 - Bodin: use the 1582 Paris printing (`per_witchcraft-in-europe-and-america_bodin-jean_1582_125`); its pagination matches Lecky's
   pp. 15 and 152 (image index = leaf; p. 15 is `n52`, pp. 151-152 are `n332`-`n333`). The OCR is poor, so locate passages with
-  `<id>_djvu.xml` (split on `<OBJECT`), then read the page image. Not yet done: Bodin pp. 40, 107, 109, 217, 228.
-- Codex Theodosianus: Ritter, Leipzig 1738, vol. III is `BRes1409273` (law 4 on p. 128 = `n143`; law 6 on pp. 133-134 = `n148`-`n149`).
-  Laws 1-3, 5 and 7 (cited in ch. I notes 26, 27, 32) are not transcribed.
+  `<id>_djvu.xml` (split on `<OBJECT`), then read the page image. Done: pp. 40 (God 'au grand nez', f. 40 = n102), 217-218 (n468-n469) and 228 (n490); Bodin's page numbers are FOLIOS (recto + verso images). Not yet done: Bodin pp. 107, 109.
+- Codex Theodosianus: Ritter, Leipzig 1738, vol. III is `BRes1409273` (laws 1-2 on p. 123 = `n138`; law 3 on p. 125 = `n140`; law 4 on p. 128 = `n143`; law 6 on pp. 133-134 = `n148`-`n149`; law 7 on p. 136 = `n151`; image index = djvu object - 1).
+  Done: laws 1-4, 6, 7 (ch. I notes 26, 27, 28, 32). Law 5 is not transcribed (Lecky only cites it in a run, 'l. 4, 5, 6'). Lecky's law 3 summary adds 'snow' and 'tempests', which are not in the Latin.
 - Malleus Maleficarum: Lecky's "Mall. Mal. vol. i/ii" matches the Lyon 1620 edition (NOT checked against Lyon 1669 vol. II: no readable scans).
   Vol. I = `bub_gb_Dm4ywfjNpVUC` (Cologne documents of 1487 at pp. 459-467 = leaves `n533`-`n541`).
   Vol. II part 1 = `bub_gb_v1J2VHKuIVEC` (Gerson, De probatione spirituum, begins p. 77 = `n109`; Spina, Quaestio de strigibus from ~p. 181 = `n160`).
