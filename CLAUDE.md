@@ -27,9 +27,9 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 `content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
 `content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
-Chapter III starts on printed page 206 ("AESTHETIC, SCIENTIFIC, AND MORAL DEVELOPEMENTS OF RATIONALISM"; OCR line 8678 of `lecky1.txt`; page 206 is `n235`).
+`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–223 done (stops after "...attach a peculiar sanctity to the image."; next text starts "Of all the forms of anthropomorphism that are displayed in Catholic art", p. 223; OCR line ~9340 of `lecky1.txt`; p. 223 is `n252`). Footnotes so far `[^1]`–`[^16]`; continue at `[^17]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Greek and Latin in the notes were checked against the scan (Ἰχθύς etc.).
 Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
-Printer's slips left as printed in ch. II: "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
+Printer's slips left as printed in ch. II and III ("interpretetion", "one the most common"): "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
 
 1. Download the raw OCR (redirects, so use `-L`):
    `curl -sSL https://archive.org/download/rationalismeuro01leckuoft/rationalismeuro01leckuoft_djvu.txt -o <scratchpad>/lecky1.txt`
