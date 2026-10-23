@@ -10,7 +10,7 @@ meta_rows:
   - ["Author", "Jean Bodin (c. 1530–1596), French jurist and political philosopher, author of <em>Les Six livres de la République</em> (<a href=\"https://en.wikipedia.org/wiki/Jean_Bodin\">Wikipedia</a>)"]
   - ["Work", "<em>De la démonomanie des sorciers</em>, first published in Paris by Jacques du Puys in 1580. It has four books, followed by a “Réfutation des opinions de Jean Wier”. Lecky dates it 1581; the Internet Archive holds printings of 1580, 1582, and 1587, and this page uses the 1582 one."]
   - ["Edition used", "Paris: Jacques du Puys, 1582, as dated by the Internet Archive record (<a href=\"https://archive.org/details/per_witchcraft-in-europe-and-america_bodin-jean_1582_125/page/n52/mode/2up\">scan</a>). Lecky’s page numbers for pp. 15 and 152 agree with this printing’s pagination."]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn74\">Rationalism in Europe, ch. I, note 74</a> (p. 15) and <a href=\"../rationalism/vol1-ch1.html#fn89\">note 89</a> (p. 152); also <a href=\"../rationalism/vol1-ch1.html#fn68\">note 68</a> (p. 40), <a href=\"../rationalism/vol1-ch1.html#fn88\">note 88</a> (pp. 217, 228), and, on a page not yet transcribed, Lecky’s p. 101 (p. 252, the third passage below)"]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn74\">Rationalism in Europe, ch. I, note 74</a> (p. 15) and <a href=\"../rationalism/vol1-ch1.html#fn89\">note 89</a> (p. 152); also <a href=\"../rationalism/vol1-ch1.html#fn68\">note 68</a> (p. 40), <a href=\"../rationalism/vol1-ch1.html#fn88\">note 88</a> (pp. 217, 228), and <a href=\"../rationalism/vol1-ch1.html#fn91\">note 91</a> (p. 252, the third passage below)"]
   - ["Status", "Three passages transcribed and translated. Translation is this edition’s own draft."]
 abstract: |
   <p>Bodin’s book, a huge compilation of authorities and trial reports in French, was the standard reply to <a href="https://en.wikipedia.org/wiki/Johann_Weyer">Wier</a>’s attack on the witch trials. Lecky devotes pp. 95–99 of Chapter I to it as the sceptics’ chief opponent, and cites it for a handful of details and quotations.</p><p>The three passages here are the ones Lecky gives page numbers for and quotes in French or paraphrases closely. Lecky modernises Bodin’s spelling and condenses and rearranges his lists; where he adds to or departs from Bodin, the comparisons below say so.</p>
@@ -90,7 +90,7 @@ abstract: |
 <p><em>Récolement</em> is a term of French criminal procedure: the reading back of a witness’s deposition to the witness for confirmation, before the confrontation. The gloss is this edition’s own. The “disciple of the greatest sorcerer of his age” is <a href="https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa">Agrippa</a>, whom Wier served; Lecky identifies him in <a href="../rationalism/vol1-ch1.html#fn87">note 87</a>.</p>
 </details>
 
-<p>Lecky quotes this passage in English on his p. 101 (note: “Bodin, p. 252”), as something Montaigne “was, no doubt, perfectly aware” of. Set against Bodin’s text:</p>
+<p>Lecky quotes this passage in English on his p. 101 (<a href="../rationalism/vol1-ch1.html#fn91">note 91</a>: “Bodin, p. 252”), as something Montaigne “was, no doubt, perfectly aware” of. Set against Bodin’s text:</p>
 
 <div class="table-wrap">
 <table class="collation">

@@ -25,15 +25,15 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 ## Workflow: transcribing Rationalism in Europe, Vol. I, Chapter I
 
-`content/rationalism/vol1-ch1.md` currently covers printed pages 1–100. It ends mid-sentence at
-"...exercised a most profound and general influence upon" (page 100 ends "upon"; page 101 begins
-"the opinions of mankind. It is not, I think, difficult to discover the explanation of the fact"). Footnotes so far are
-`[^1]`–`[^90]`; continue numbering from 91.
+`content/rationalism/vol1-ch1.md` currently covers printed pages 1–130. It ends mid-sentence at
+"...The few who ventured to oppose the prosecutions were" (page 130 ends "were"; page 131 begins
+"denounced as Sadducees and infidels. Multitudes were thrown into prison, others fled from the country"). Footnotes so far are
+`[^1]`–`[^129]`; continue numbering from 130. The chapter runs past p. 132 in the original (Chapter II starts at OCR line ~6655).
 One sequential series for the whole chapter; the 1865 print restarts numbering on every page.
 
 1. Download the raw OCR (redirects, so use `-L`):
    `curl -sSL https://archive.org/download/rationalismeuro01leckuoft/rationalismeuro01leckuoft_djvu.txt -o <scratchpad>/lecky1.txt`
-   In that file, page 101 starts near line 4731 ("the opinions of mankind"), after the "MAGIC AND WITCHCRAFT. 101" header.
+   In that file, page 131 starts near line 5897 ("denounced as Sadducees"), after the "MAGIC AND WITCHCRAFT. 131" header.
 2. `python3 tools/clean_ocr.py <file>` gives a first pass. It is not sufficient: hand-check every page.
    Common faults: dropped hyphens where both halves are real words ("con science"), misread
    Latin and French ("cteteris", "Christ!", "feterni"), and running headers injected mid-text.
