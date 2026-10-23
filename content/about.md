@@ -9,7 +9,7 @@ A reading edition of William Edward Hartpole Lecky's major works, built page by 
 
 ## Current status
 
-The typography, layout, footnote system, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan. The first [source page](ref/grillandi-de-sortilegiis.html), for the Latin treatise Lecky quotes in Chapter I, note 1, is up as a test of the reference system: hover the citation in the note to preview it, or the Latin's "English" button for a translation.
+The typography, layout, footnote system, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan. Chapter I is live for its first twenty printed pages (of about 132). Two [source pages](ref/index.html) are up: the [Latin treatise](ref/grillandi-de-sortilegiis.html) Lecky quotes in Chapter I, note 1, and [Garinet's history of magic](ref/garinet-histoire-de-la-magie.html), which he follows in note 14. Hover a citation in the notes to preview its source, or a foreign quotation's "English" button for a translation.
 
 There is no clean transcription of this title anywhere (it isn't on Project Gutenberg or Wikisource), so each chapter comes from a 160-year-old library scan's raw OCR, run through an automated cleanup pass and then read through by hand before publishing. That means it goes up one chapter at a time rather than all at once.
 

@@ -25,21 +25,21 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 ## Workflow: transcribing Rationalism in Europe, Vol. I, Chapter I
 
-`content/rationalism/vol1-ch1.md` currently covers printed pages 1–10. It ends mid-sentence at
-"...but of a gradual, insensible, yet profound". Page 11 continues "modification of the habits of thought...".
-Footnotes so far are `[^1]`–`[^11]`; continue numbering from 12. One sequential series for the whole
-chapter; the 1865 print restarts numbering on every page.
+`content/rationalism/vol1-ch1.md` currently covers printed pages 1–20. It ends mid-sentence at
+"...it is not to be inferred from this that everything that was comprised" (page 20 ends "com-"; page 21 begins
+"prised under the name of magic was considered"). Footnotes so far are `[^1]`–`[^15]`; continue numbering from 16.
+One sequential series for the whole chapter; the 1865 print restarts numbering on every page.
 
 1. Download the raw OCR (redirects, so use `-L`):
    `curl -sSL https://archive.org/download/rationalismeuro01leckuoft/rationalismeuro01leckuoft_djvu.txt -o <scratchpad>/lecky1.txt`
-   In that file, page 10 ends near line 1295 ("yet profound") and the "MAGIC AND WITCHCRAFT. 11" header follows.
+   In that file, page 21 starts near line 1665 ("prised under the name of magic"), after the "MAGIC AND WITCHCRAFT. 21" header.
 2. `python3 tools/clean_ocr.py <file>` gives a first pass. It is not sufficient: hand-check every page.
    Common faults: dropped hyphens where both halves are real words ("con science"), misread
    Latin and French ("cteteris", "Christ!", "feterni"), and running headers injected mid-text.
 3. Footnotes: in the OCR, a page's notes follow its main text. A note that runs over a page break continues
    *after the next page's main text*; stitch it by grammatical continuity. Check doubtful spots against
    the page image: `https://archive.org/download/rationalismeuro01leckuoft/page/n<leaf>.jpg`
-   (use `_page_numbers.json` to map printed page to leaf index).
+   (use `_page_numbers.json` to map printed page to leaf; the image index is leaf − 1, i.e. printed page p is `n<p+29>` in this part of the book).
 4. Update the chapter's `description` and `Status` meta row to the new page range, and update
    `content/rationalism/index.md` and `content/about.md` if the status wording there changes.
 

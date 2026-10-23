@@ -831,7 +831,12 @@ table.collation tbody th {
   color: var(--fg-muted);
   white-space: nowrap;
 }
-table.collation td[lang="la"] { font-style: italic; }
+table.collation td[lang="la"], table.collation td[lang="fr"] { font-style: italic; }
+.parallel .source-notes {
+  font-size: 0.8em;
+  border-top: 1px solid var(--border);
+  padding-top: 0.5em;
+}
 table.collation strong { font-weight: 700; }
 .editorial-note {
   border-left: 3px solid var(--border-strong);
