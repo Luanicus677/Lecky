@@ -1,16 +1,16 @@
 ---
 title: Augustine, De Civitate Dei
-description: "Two passages of Augustine’s City of God that Lecky cites: the miracles at the shrine of St. Stephen at Hippo and Calama (XXII.8, Chapter II note 15) and the judge who tortures the innocent (XIX.6, Chapter III note 161), in Latin and English from Migne, with Lecky’s statements compared."
+description: "Three passages of Augustine’s City of God that Lecky cites (the incubi, XV.23, Chapter I note 21; the miracles at the shrine of St. Stephen at Hippo and Calama, XXII.8, Chapter II note 15; and the judge who tortures the innocent, XIX.6, Chapter III note 161), in Latin and English from Migne, with Lecky’s statements compared."
 heading: Augustine, <em>De civitate Dei</em>
 subtitle: Augustine of Hippo, <em>The City of God</em>
 back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Augustine_of_Hippo\">Augustine of Hippo</a> (354–430), <em>De civitate Dei contra paganos</em>, in 22 books. Lecky cites books XIX and XXII (and XV and XXI elsewhere; not covered here)."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Augustine_of_Hippo\">Augustine of Hippo</a> (354–430), <em>De civitate Dei contra paganos</em>, in 22 books. Lecky cites books XIX, XXII and XV here (and XXI and others elsewhere; not covered)."]
   - ["Edition used", "J.-P. Migne, <em>Patrologia Latina</em>, vol. 41 (Paris, 1846 printing, as dated in the archive.org record, which I did not check against the title page): <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1846_41\">archive.org</a>. XIX.6 is at col. 633 (image <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1846_41/page/n316/mode/2up\">n316</a>); the miracles are at cols. 767–768 (<a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1846_41/page/n383/mode/2up\">n383</a>). Lecky does not say which edition he used. The translations are this edition’s own drafts."]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn15\">Rationalism, ch. II, note 15</a> (the miracles) and <a href=\"../rationalism/vol1-ch3.html#fn161\">ch. III, note 161</a> (torture). Lecky also cites the same work in ch. I note 21 (XV.23) and ch. III notes 8, 14 and 139 (not covered here)."]
-  - ["Status", "Two passages transcribed from the page images, translated, and compared with Lecky. In the miracles passage I read only the page that carries the figures Lecky cites (cols. 767–768), not the whole chapter."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn15\">Rationalism, ch. II, note 15</a> (the miracles) and <a href=\"../rationalism/vol1-ch3.html#fn161\">ch. III, note 161</a> (torture). <a href=\"../rationalism/vol1-ch1.html#fn21\">Ch. I, note 21</a> (XV.23). Lecky also cites the same work in ch. III notes 8, 14 and 139 (not covered here)."]
+  - ["Status", "Three passages transcribed from the page images, translated, and compared with Lecky. In the miracles passage I read only the page that carries the figures Lecky cites (cols. 767–768), not the whole chapter."]
 abstract: |
   <p>Lecky uses the <em>City of God</em> twice here. In Chapter II he says Augustine reports that “in the space of two years” seventy miracles were wrought at the shrine of St. Stephen in Hippo, a far larger number in the neighbouring Calama, and that among the miracles he lists are “five cases of restoration of life to the dead” (XXII.8). In Chapter III he quotes Augustine’s account of the judge who tortures an innocent man in his ignorance (XIX.6), saying Augustine saw the evil of torture but “concluded that it was necessary”.</p><p>Both statements are accurate in substance. The five restorations are all on one page (cols. 767–768, §§ 15–19). But Augustine says that about seventy written <em>reports</em> (<em>libelli</em>) had been handed in at Hippo in less than two years, not “seventy miracles”, and that many more miracles had been wrought without any report being handed in; and Lecky’s “province of Calama” is a town (a <em>colonia</em>). See <a href="#comparison">the comparison</a>.</p>
 ---
@@ -64,6 +64,26 @@ abstract: |
 </details>
 </section>
 
+<section id="incubi-467" class="passage">
+<h2>XV.23: Sylvans, Fauns and the Dusii (cols. 467–468)</h2>
+
+<p class="passage-source">Latin: Migne, <em>PL</em> 41, col. 468 (right column; the page is cols. 467–468, <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1846_41/page/n233/mode/2up">scan</a>), <em>De civitate Dei</em> XV.23, § 1. Conventions as above. The chapter’s heading reads “An credendum sit angelos substantiae spiritualis, amore speciosarum mulierum captos, earumdem iniisse coniugia, ex quibus gigantes sint creati.” <span class="cited-passage">Highlighted</span>: the two phrases Lecky quotes in Chapter I, note 21.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>Et quoniam creberrima fama est, multique se expertos, vel ab eis qui experti essent, de quorum fide dubitandum non est, audisse confirmant, Silvanos et Faunos, quos vulgo incubos vocant, improbos saepe exstitisse mulieribus, et earum appetisse ac peregisse concubitum; et quosdam daemones, quos Dusios Galli nuncupant, hanc assidue immunditiam et tentare et efficere, plures talesque asseverant, <span class="cited-passage">ut hoc negare impudentiae videatur:</span> non hinc aliquid audeo definire, utrum aliqui spiritus elemento aerio corporati (nam hoc elementum etiam cum agitatur flabello, sensu corporis tactuque sentitur), possint etiam hanc pati libidinem, ut quomodo possunt, sentientibus feminis misceantur. Dei tamen Angelos sanctos nullo modo illo tempore sic labi potuisse crediderim …</p>
+</div>
+<div class="rendering" lang="en">
+<p>And since the report is very frequent, and many affirm that they have experienced it, or have heard it from those who had, whose good faith is not to be doubted, that Sylvans and Fauns, whom the common people call incubi, have often been wanton towards women, and sought and accomplished intercourse with them; and since very many and such persons assert that certain demons, whom the Gauls call Dusii, constantly attempt and effect this uncleanness, <span class="cited-passage">so that to deny it seems impudence:</span> I do not venture to define anything on this point, whether some spirits embodied in the element of air (for this element, even when stirred by a fan, is perceived by the sense and touch of the body) can also suffer this lust, so as to mingle, in whatever way they can, with women who feel it. But I could in no way believe that God’s holy angels could at that time have so fallen …</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>Doubtful points</summary>
+<p>The sentence is long and its grammar loose (“audisse confirmant … plures talesque asseverant”); I have given it as two parallel clauses. I read only § 1 of the chapter. Migne’s footnotes (“Silvanos” and the note (a)) are not transcribed.</p>
+</details>
+</section>
+
 <section id="comparison" class="passage">
 <h2>Lecky’s Statements Compared</h2>
 
@@ -75,6 +95,7 @@ abstract: |
 <tr><td>“He gives a catalogue of what he deems undoubted miracles, which he says he had selected from a multitude so great, that volumes would be required to relate them all.”</td><td><a href="#stephen-767">§ 20</a>: “very many books would have to be made” just to record the miracles of healing at Calama and Hippo.</td><td>Accurate; “undoubted” is Lecky’s word, not Augustine’s on this page.</td></tr>
 <tr><td>“In that catalogue we find no less than five cases of restoration of life to the dead (<em>De Civ. Dei</em>, lib. xxii. c. 8).”</td><td><a href="#stephen-767">§§ 15–19</a>: five cases on this page, of a boy run over by a cart, a nun, Bassus’s daughter, the son of Irenaeus, and Eleusinus’s son.</td><td>Confirmed: exactly five, all on this one page, each in terms of coming back to life (<em>revixit</em>, “reddita est vitae”, “recepto spiritu”, “viventem levavit”). I did not read the other columns of the chapter, so I cannot say there are no others.</td></tr>
 <tr><td>Ch. III, note 161: “St. Augustine perceived very clearly the evil of torture, and stated the case against it with his usual force and terseness: ‘Cum quæritur utrum sit nocens cruciatur et innocens luit pro incerto scelere certissimas pœnas’ (<em>De Civ. Dei</em>, lib. xix. cap. 6); but he concluded that it was necessary.”</td><td><a href="#torture-633">XIX.6</a>: the same words, in a longer sentence with commas and a following clause (“non quia illud commisisse detegitur, sed quia non commisisse nescitur?”); then “He will sit, plainly. For human society constrains him.”</td><td>Accurate. The Latin is word for word the same; Lecky has no commas and starts at “cum” (the print has “et cum”). “Concluded that it was necessary” is a fair reading of “sedebit plane”: the wise judge will go on sitting, because society needs him, even though he will sometimes torture and kill the innocent. Augustine calls it “calamity”, “miseria”, and “more to be lamented … with fountains of tears”.</td></tr>
+<tr><td>Ch. I, note 21: “‘Hoc negare impudentiæ videatur’ (St. Aug. <em>De Civ. Dei</em>, lib. xv. cap. 23). The Saint, however, proceeds to say, ‘Non hic aliquid audeo temere definire.’”</td><td><a href="#incubi-467">XV.23</a>: “ut hoc negare impudentiae videatur: non hinc aliquid audeo definire”.</td><td>The first quotation is exact (a clause cut from a longer sentence). The second is not in Migne’s words: Migne has “<em>hinc</em>” where Lecky has “<em>hic</em>” and has no “<em>temere</em>” (“rashly”). Lecky’s reading may be that of another edition (I believe, but have not checked, that the critical text has “temere”); it is not in this one. The sense is the same. Lecky is right that the sentence follows at once.</td></tr>
 </tbody>
 </table>
 </div>

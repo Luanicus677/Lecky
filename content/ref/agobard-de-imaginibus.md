@@ -1,0 +1,128 @@
+---
+title: Agobard, De Imaginibus
+description: "The passages from the treatise on images ascribed to Agobard of Lyons that Lecky quotes in Latin in Chapter III, notes 42–46 (against calling images holy, against the excuse of honouring the saint, the Alexandrian crosses, King Hezekiah and the bronze serpent, the Devil’s trick, and God’s glory not given to another), from Baluze’s 1666 edition, with English drafts and a comparison with Lecky’s quotations."
+heading: Agobard, <em>Liber de imaginibus</em>
+subtitle: St. Agobard, archbishop of Lyons (d. 840)
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Agobard\">Agobard</a>, archbishop of Lyons (c. 779–840). The treatise Lecky describes as the fourth of Agobard’s works he discusses (“denouncing the idolatry of image worship”) is printed in Baluze’s edition as <em>Liber de imaginibus</em>. This page follows Baluze and Lecky in calling it Agobard’s; whether that attribution is secure I have not looked into."]
+  - ["Edition used", "<em>Sancti Agobardi archiepiscopi Lugdunensis Opera</em>, ed. Étienne Baluze, Paris, 1666 (the archive.org record is dated 1666): <a href=\"https://archive.org/details/bub_gb_gOkJ5k0uktIC\">archive.org/details/bub_gb_gOkJ5k0uktIC</a>. <strong>This is not Lecky’s edition.</strong> He says he quoted from the one-volume edition of Paris, 1605 (his note 41), which I did not find online; his page numbers (233, 237, 243, 252, 254–255) are consistently 10–13 less than the same passages here (see the table below). The text agrees with his except in the small points listed. The translations are this edition’s own drafts."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn42\">Rationalism, ch. III, notes 42</a>, <a href=\"../rationalism/vol1-ch3.html#fn43\">43</a>, <a href=\"../rationalism/vol1-ch3.html#fn44\">44</a>, <a href=\"../rationalism/vol1-ch3.html#fn45\">45</a> and <a href=\"../rationalism/vol1-ch3.html#fn46\">46</a>."]
+  - ["Status", "Six extracts transcribed from the page images and translated. Lecky’s “noble concluding passage on the exclusive worship of Christ” (note 46) and the opening collection of patristic texts are not transcribed. Image numbers and page numbers: p. 244 = n327, p. 247 = n330, p. 248 = n331, p. 254 = n337, p. 264 = n347, p. 267 = n350."]
+abstract: |
+  <p>In Chapter III Lecky devotes a long passage to the treatise against image-worship that he assigns to Agobard of Lyons in the ninth century, calling its author one of the most rationalistic minds of the Middle Ages. His notes 42–46 quote five passages of it in Latin.</p><p>All five are in Baluze’s 1666 edition, and the words agree with Lecky’s except for one letter (“istas” for “istae”), a change of capital letter, and punctuation. He also leaves out some clauses, and in one place stops before the sentence does. The page numbers he gives are for another edition and are ten to thirteen lower than Baluze’s. See <a href="#comparison">the comparison</a>.</p>
+---
+<section id="holy-images" class="passage">
+<h2>“Which They Call Holy Images” (p. 244)</h2>
+
+<p class="passage-source">Latin: Baluze, 1666, p. 244 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n327/mode/2up">scan</a>). Spelling regularised (long s, <em>&amp;</em> expanded, <em>æ</em> as <em>ae</em>, <em>u</em>/<em>v</em>). The chapter heading falls on an earlier page that I did not read. <span class="cited-passage">Highlighted</span>: Lecky’s note 42 (his p. 233).</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p><span class="cited-passage">Multo autem his deteriora esse quae humana et carnalis praesumptio fingit, etiam stulti consentiunt. In quo genere istae quoque inveniuntur, quas sanctas appellant imagines non solum sacrilegi ex eo quod divinum cultum operibus manuum suarum exhibent, sed et insipientes, sanctitatem eis quae sine anima sunt imaginibus tribuendo;</span> nec hoc solum, sed sanctificationem quoque, quam per Verbum Dei fieri testatur Apostolus, eis quae nunquam loquuta sunt simulachris dementer concedendo.</p>
+</div>
+<div class="rendering" lang="en">
+<p><span class="cited-passage">That far worse than these are the things which human and carnal presumption invents, even fools agree. In this kind are found also those images which they call holy, not only sacrilegious because they pay divine worship to the works of their own hands, but also foolish in attributing holiness to images that are without a soul;</span> and not only this, but madly granting even the sanctification which the Apostle testifies is wrought through the Word of God to simulacra which have never spoken.</p>
+</div>
+</div>
+</section>
+
+<section id="excuse-247" class="passage">
+<h2>The Excuse: “Not the Image but the Person” (ch. XIX, pp. 247–248)</h2>
+
+<p class="passage-source">Latin: Baluze, 1666, p. 247 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n330/mode/2up">scan</a>), chapter XIX. Conventions as above. <span class="cited-passage">Highlighted</span>: Lecky’s note 43 (his p. 237).</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>XIX. <span class="cited-passage">Dicit forsitan aliquis non se putare imagini quam adorat aliquid inesse divinum, sed tantummodo pro honore eius, cuius effigies est, tali eam veneratione donare. Cui facile respondetur, quia si imago quam adorat, Deus non est, nequaquam veneranda est,</span> quasi pro honore sanctorum, qui nequaquam divinos sibi arrogant honores, sicut multis iam supra testimoniis est ostensum.</p>
+</div>
+<div class="rendering" lang="en">
+<p>19. <span class="cited-passage">Perhaps someone says that he does not think that anything divine is in the image he adores, but only gives it such veneration for the honour of him whose likeness it is. To whom it is easily answered, that if the image which he adores is not God, it is by no means to be venerated,</span> as though for the honour of the saints, who by no means claim divine honours for themselves, as has already been shown by many testimonies above.</p>
+</div>
+</div>
+</section>
+
+<section id="alexandria-248" class="passage">
+<h2>The Cross at Alexandria (ch. XIX, p. 248)</h2>
+
+<p class="passage-source">Latin: Baluze, 1666, p. 248 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n331/mode/2up">scan</a>), the end of chapter XIX. The “history” is one cited earlier in the treatise (the “eleventh book” of “the aforesaid history”); I have not looked for it. <span class="cited-passage">Highlighted</span>: Lecky’s note 45 (his p. 237).</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>Illud quoque memoria dignum, quod, sicut memoratae historiae undecimus continet liber, destructis apud Alexandriam delubris ac simulachris idolorum, tantus fervor Christianitatis a daemonibus ad Christum conversos inflammavit, ut unusquisque crucis dominicae signum in postibus, in ingressibus, in fenestris, in parietibus, columnisque depingeret. <span class="cited-passage">O quam sincera religio! Crucis vexillum ubique pingebatur, non aliqua vultus humani similitudo; Deo scilicet haec mirabiliter, etiam ipsis forsitan nescientibus, disponente. Si enim sanctorum imagines hi qui daemonum cultum reliquerant venerari iuberentur, puto quod videretur eis non tam idola reliquisse, quam simulachra mutasse.</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>This too is worthy of memory, that, as the eleventh book of the history mentioned contains, when at Alexandria the shrines and the images of the idols had been destroyed, so great a fervour of Christianity inflamed those who had been converted from the demons to Christ, that each one painted the sign of the Lord’s cross on door-posts, on entrances, on windows, on walls and on pillars. <span class="cited-passage">O how sincere a religion! The standard of the cross was painted everywhere, not any likeness of a human face; God, evidently, ordering these things marvellously, even though they themselves perhaps did not know it. For if those who had left the worship of demons had been commanded to venerate images of saints, I think it would have seemed to them that they had not so much left idols as changed simulacra.</span></p>
+</div>
+</div>
+</section>
+
+<section id="hezekiah-254" class="passage">
+<h2>Hezekiah and the Bronze Serpent (ch. XXIII, p. 254)</h2>
+
+<p class="passage-source">Latin: Baluze, 1666, p. 254 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n337/mode/2up">scan</a>), end of chapter XXIII (the next chapter, XXIV, begins lower on the page). Conventions as above. <span class="cited-passage">Highlighted</span>: Lecky’s note 46, first quotation (his p. 243).</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>Ex quibus manifeste colligitur, <span class="cited-passage">quia si serpentem aeneum quem Deus fieri praecepit, quoniam errans populus tanquam idolum colere coepit, Ezechias religiosus Rex cum magna pietatis laude contrivit; multo religiosius sanctorum imagines (ipsis quoque sanctis faventibus, qui ob sui honorem cum divinae religionis contemptu, eas adorari more idolorum indignantissime ferunt) omni genere conterendae, et usque ad pulverem sunt eradendae; praesertim cum non illas fieri Deus iusserit, sed humanus sensus excogitaverit.</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>From which it is clearly gathered <span class="cited-passage">that if King Hezekiah, with great praise of piety, broke in pieces the bronze serpent which God had commanded to be made, because the erring people had begun to worship it as an idol, then much more religiously should the images of the saints (the saints themselves favouring it, who bear it with the utmost indignation that they be adored for their honour, with contempt of divine religion, in the manner of idols) be crushed by every means and utterly razed to dust; especially as God did not command them to be made, but human sense contrived them.</span></p>
+</div>
+</div>
+</section>
+
+<section id="devil-264" class="passage">
+<h2>The Devil’s Trick (ch. XXXI, p. 264)</h2>
+
+<p class="passage-source">Latin: Baluze, 1666, p. 264 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n347/mode/2up">scan</a>), chapter XXXI. The margin has “Epiphan. haeres. 79.” Conventions as above. <span class="cited-passage">Highlighted</span>: Lecky’s note 44 (his p. 252).</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>XXXI. Nemo se fallat, nemo se seducat, nemo se circumveniat. Quicunque aliquam picturam, vel fusilem sive ductilem adorat statuam, non exhibet cultum Deo, non honorat angelos, vel homines sanctos, sed simulachra veneratur. <span class="cited-passage">Agit hoc nimirum versutus et callidus humani generis inimicus, ut sub praetextu honoris sanctorum, rursus idola introducat, rursus per diversas effigies adoretur;</span> ut aver- [tat …]</p>
+</div>
+<div class="rendering" lang="en">
+<p>31. Let no one deceive himself, let no one seduce himself, let no one beguile himself. Whoever adores any painting, or cast or beaten statue, offers no worship to God, honours not angels or holy men, but venerates simulacra. <span class="cited-passage">This, evidently, the crafty and cunning enemy of the human race does, that, under pretext of honouring the saints, he may bring in idols again, and be adored again through various effigies;</span> that he may turn away … [the sentence continues on the next page].</p>
+</div>
+</div>
+</section>
+
+<section id="glory-267" class="passage">
+<h2>“My Glory I Will Not Give to Another” (ch. XXXV, p. 267)</h2>
+
+<p class="passage-source">Latin: Baluze, 1666, p. 267 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n350/mode/2up">scan</a>), chapter XXXV. The margin cites “Isai. 42” and “Philipp. 2”. Conventions as above. <span class="cited-passage">Highlighted</span>: Lecky’s note 46, second quotation (his pp. 254–255).</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>XXXV. <span class="cited-passage">Nec iterum ad sua latibula fraudulenta recurrat astutia, ut dicat se non imagines sanctorum adorare, sed sanctos. Clamat enim Deus: Gloriam meam alteri non dabo, nec laudem meam sculptilibus.</span> Et Apostolus de Domino nostro mediatore Dei et hominum homine Christo Iesu: Propter quod et Deus exaltavit illum, et dedit illi nomen, quod est super omne nomen. …</p>
+</div>
+<div class="rendering" lang="en">
+<p>35. <span class="cited-passage">Nor let fraudulent cunning again run back to its hiding-places, to say that it adores not the images of the saints but the saints. For God cries out: My glory I will not give to another, nor my praise to graven images.</span> And the Apostle, of our Lord, the mediator of God and men, the man Christ Jesus: Wherefore God also hath exalted him, and hath given him a name which is above every name. …</p>
+</div>
+</div>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Quotations Compared</h2>
+
+<p>The words of all five quotations are the same as Baluze’s, with the exceptions below. The page numbers are not: his edition (Paris, 1605, one volume) paginated the same text differently, by a fairly steady 10–13 pages.</p>
+
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th>Note</th><th>Lecky, 1865</th><th>Baluze, 1666</th></tr></thead>
+<tbody>
+<tr><th>42, p. 233</th><td lang="la">In quo genere <strong>istas</strong> quoque inveniuntur quas sanctas appellant imagines … tribuendo.</td><td lang="la">In quo genere <strong>istae</strong> quoque inveniuntur, quas sanctas appellant imagines … tribuendo; <em>nec hoc solum, sed sanctificationem quoque …</em></td></tr>
+<tr><th>43, p. 237</th><td lang="la">… aliquid inesse <strong>Divinum</strong> … Cui facile respondetur, quia si imago quam adorat Deus non est nequaquam veneranda est.</td><td lang="la">… aliquid inesse <strong>divinum</strong> … Cui facile respondetur, quia si imago quam adorat, Deus non est, nequaquam veneranda est, <em>quasi pro honore sanctorum, qui nequaquam divinos sibi arrogant honores …</em></td></tr>
+<tr><th>45, p. 237</th><td lang="la">O quam sincera religio! crucis vexillum ubique pingebatur non aliqua vultus humani similitudo. (Deo scilicet hæc mirabiliter etiam ipsis forsitan nescientibus disponente) si enim …</td><td lang="la">O quam sincera religio! Crucis vexillum ubique pingebatur, non aliqua vultus humani similitudo; Deo scilicet haec mirabiliter, etiam ipsis forsitan nescientibus, disponente. Si enim …</td></tr>
+<tr><th>46, p. 243</th><td lang="la"><strong>Quia</strong> si serpentem æneum … sed humanus sensus excogitaverit.</td><td lang="la">Ex quibus manifeste colligitur, <strong>quia</strong> si serpentem aeneum … sed humanus sensus excogitaverit.</td></tr>
+<tr><th>44, p. 252</th><td lang="la">… rursus per diversas effigies adoretur.</td><td lang="la">… rursus per diversas effigies adoretur; <em>ut aver[tat …]</em></td></tr>
+<tr><th>46, pp. 254, 255</th><td lang="la">Nec iterum … recurrat astutia, ut dicat se non imagines sanctorum adorare sed sanctos; clamat enim Deus, “Gloriam meam alteri non dabo, nec laudem meam sculptilibus.”</td><td lang="la">Nec iterum … recurrat astutia, ut dicat se non imagines sanctorum adorare, sed sanctos. Clamat enim Deus: Gloriam meam alteri non dabo, nec laudem meam sculptilibus.</td></tr>
+<tr><th>Page in the print</th><td>233; 237; 237; 243; 252; 254–255</td><td>244; 247; 248; 254; 264; 267</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Points of substance. In note 42, “istas” (accusative) in Lecky for “istae” in the print makes his sentence ungrammatical; it may be a misprint or a different reading in his edition. In note 43, his quotation stops at “est” in the middle of Agobard’s sentence, dropping the clause “quasi pro honore sanctorum” (“as though for the honour of the saints”), which belongs to the argument. In note 45 he says Agobard is “speaking of the conduct of some Alexandrian Christians, who only admitted the sign of the cross into their churches”. Agobard’s text says each Christian painted the cross “on door-posts, entrances, windows, walls and pillars”, not “in churches”; the “only” is Lecky’s inference from the contrast with images of saints. In note 44 the sentence runs on after “adoretur” (“ut aver-”), so Lecky’s full stop closes a sentence that the author does not close there. The words are those of the text in every case; the differences are small and none alters the argument.</p>
+</section>
