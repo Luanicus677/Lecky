@@ -44,7 +44,10 @@ FOOTNOTE_DEF_RE = re.compile(
     r'<a class="footnote-backref"[^>]*>.*?</a></p>\s*</li>',
     re.DOTALL,
 )
-FOOTNOTE_REF_RE = re.compile(r'<sup id="fnref:([^"]+)"><a[^>]*>(\d+)</a></sup>')
+# python-markdown marks a second citation of the same note as fnref2:label.
+FOOTNOTE_REF_RE = re.compile(
+    r'<sup id="fnref(\d*):([^"]+)"><a class="footnote-ref"[^>]*>(\d+)</a></sup>'
+)
 
 
 def render_markdown(body_md: str) -> str:
@@ -56,25 +59,40 @@ def render_markdown(body_md: str) -> str:
         },
     )
 
-    # Pull each footnote's text out of python-markdown's bottom-of-page
-    # <div class="footnote"> list and inline it as a margin sidenote right
-    # after its reference marker instead -- true Tufte/gwern-style sidenotes,
-    # not endnotes. (sidenotes.js, loaded separately, then positions these
-    # in the margin and keeps them from overlapping each other.)
+    # Rewrite python-markdown's footnotes into the Pandoc shape gwern.net's
+    # footnote CSS targets: a.footnote-ref > sup in the text, and a
+    # section.footnotes > hr + ol at the end, each note ending in a
+    # boxed a.footnote-back. Plain ids (fn3, fnref3) avoid the colons
+    # python-markdown uses, which need escaping in CSS selectors.
     notes = dict(FOOTNOTE_DEF_RE.findall(html))
     html = re.sub(r'<div class="footnote">.*</div>\s*$', "", html, flags=re.DOTALL)
 
-    def inline_sidenote(m):
-        note_id, number = m.group(1), m.group(2)
-        note_html = notes.get(note_id, "")
+    numbers = {}
+
+    def ref(m):
+        repeat, label, number = m.group(1), m.group(2), m.group(3)
+        numbers.setdefault(label, number)
+        ref_id = f"fnref{number}" + (f"-{repeat}" if repeat else "")
         return (
-            f'<sup id="fnref:{note_id}" class="footnote-ref">{number}</sup>'
-            f'<span class="sidenote" id="sn:{note_id}">'
-            f'<span class="sidenote-num">{number}</span>{note_html}'
-            f"</span>"
+            f'<a href="#fn{number}" class="footnote-ref" id="{ref_id}" '
+            f'role="doc-noteref"><sup>{number}</sup></a>'
         )
 
-    html = FOOTNOTE_REF_RE.sub(inline_sidenote, html)
+    html = FOOTNOTE_REF_RE.sub(ref, html)
+
+    if numbers:
+        items = []
+        for label, number in sorted(numbers.items(), key=lambda kv: int(kv[1])):
+            items.append(
+                f'<li id="fn{number}"><p>{notes.get(label, "")}'
+                f'<a href="#fnref{number}" class="footnote-back" role="doc-backlink" '
+                f'title="Back to the text">↑</a></p></li>'
+            )
+        html += (
+            '\n<section class="footnotes" role="doc-endnotes"><hr>\n<ol>\n'
+            + "\n".join(items)
+            + "\n</ol>\n</section>\n"
+        )
     return html
 
 

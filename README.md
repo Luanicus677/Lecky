@@ -2,15 +2,15 @@
 
 A reading edition of William Edward Hartpole Lecky's works, in the spirit of
 [gwern.net](https://gwern.net)'s [design principles](https://gwern.net/design):
-minimalist typography, margin sidenotes, hover-popups for footnotes and
-cross-references, and progressive disclosure for long digressions — built so
+minimalist typography, gwern-style footnotes and cross-references with
+hover-popups, and progressive disclosure for long digressions — built so
 a reader can follow a citation out of Lecky's text and into the primary
 source itself.
 
-**Status:** scaffold only. Layout, typography, footnotes, sidenotes, and the
-popup system are built and working; the chapter text currently on the site
-is placeholder filler, clearly marked. See `/about` on the published site
-for the real status and next steps.
+**Status:** layout, typography, footnotes, and the popup system are built.
+The Introduction and the first part of Chapter I of *Rationalism in Europe*
+are live, sourced from the 1865 scan and proofread. See `/about` on the
+published site for status and next steps.
 
 ## How this is built
 
@@ -70,7 +70,6 @@ Markup conventions used inline in the Markdown body:
 - Footnotes: standard Markdown footnote syntax, `text[^id]` ... `[^id]: note text`.
 - Dropcap: `<span class="dropcap">T</span>here is...` on a chapter's opening paragraph.
 - Small caps: `<span class="sc">TEXT</span>`.
-- Margin sidenote: `<span class="sidenote-wrap"><span class="sidenote"><span class="sidenote-num">*</span>note text</span></span>`.
 - Cross-reference hover-popup: `<a class="popup-ref" href="...">text</a>` — on hover, fetches the
   linked same-site page and shows its `.abstract` (or the element matching the link's `#fragment`) in a floating preview.
 - Collapsible aside: `<details class="collapse"><summary>Label</summary>...</details>` (needs no JS).
