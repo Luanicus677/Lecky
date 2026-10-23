@@ -39,6 +39,14 @@ def parse_source(path: Path):
     return meta, body_md
 
 
+FOOTNOTE_DEF_RE = re.compile(
+    r'<li id="fn:([^"]+)">\s*<p>(.*?)&#160;'
+    r'<a class="footnote-backref"[^>]*>.*?</a></p>\s*</li>',
+    re.DOTALL,
+)
+FOOTNOTE_REF_RE = re.compile(r'<sup id="fnref:([^"]+)"><a[^>]*>(\d+)</a></sup>')
+
+
 def render_markdown(body_md: str) -> str:
     html = markdown.markdown(
         body_md,
@@ -47,15 +55,26 @@ def render_markdown(body_md: str) -> str:
             "footnotes": {"BACKLINK_TEXT": "↩"},
         },
     )
-    # Align python-markdown's footnote output with our CSS/JS hooks:
-    # move the footnote-ref class onto the <sup>, and rename the
-    # wrapping <div class="footnote"> to <div class="footnotes">.
-    html = re.sub(
-        r'<sup id="(fnref:[^"]+)">',
-        r'<sup id="\1" class="footnote-ref">',
-        html,
-    )
-    html = html.replace('<div class="footnote">', '<div class="footnotes">')
+
+    # Pull each footnote's text out of python-markdown's bottom-of-page
+    # <div class="footnote"> list and inline it as a margin sidenote right
+    # after its reference marker instead -- true Tufte/gwern-style sidenotes,
+    # not endnotes. (sidenotes.js, loaded separately, then positions these
+    # in the margin and keeps them from overlapping each other.)
+    notes = dict(FOOTNOTE_DEF_RE.findall(html))
+    html = re.sub(r'<div class="footnote">.*</div>\s*$', "", html, flags=re.DOTALL)
+
+    def inline_sidenote(m):
+        note_id, number = m.group(1), m.group(2)
+        note_html = notes.get(note_id, "")
+        return (
+            f'<sup id="fnref:{note_id}" class="footnote-ref">{number}</sup>'
+            f'<span class="sidenote" id="sn:{note_id}">'
+            f'<span class="sidenote-num">{number}</span>{note_html}'
+            f"</span>"
+        )
+
+    html = FOOTNOTE_REF_RE.sub(inline_sidenote, html)
     return html
 
 

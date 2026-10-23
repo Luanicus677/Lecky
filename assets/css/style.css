@@ -333,9 +333,14 @@ details.collapse summary {
 details.collapse[open] summary { border-bottom: 1px solid var(--border); }
 details.collapse[open] summary ~ * { margin-top: 0.8rem; }
 
-/* ---------- sidenotes (Tufte-style, CSS-only) ---------- */
+/* ---------- sidenotes ----------
+   Progressive enhancement: with no JS, sidenotes are CSS floats escaping
+   into the right margin (Tufte-CSS technique) -- works, but can overlap
+   if two notes land close together. sidenotes.js (our own implementation,
+   algorithm adapted from gwern.net's sidenotes.js -- MIT, Said Achmiz)
+   upgrades them to JS-computed absolute positions that avoid overlap,
+   once it has measured the actual rendered layout. */
 
-.sidenote-wrap { position: relative; }
 .sidenote {
   float: right;
   clear: right;
@@ -345,6 +350,15 @@ details.collapse[open] summary ~ * { margin-top: 0.8rem; }
   font-size: 0.82rem;
   line-height: 1.4;
   color: var(--fg-muted);
+}
+.sidenote.js-positioned {
+  float: none;
+  clear: none;
+  position: absolute;
+  right: -19em;
+  margin-right: 0;
+  margin-top: 0;
+  width: 15.5em;
 }
 .sidenote .sidenote-num {
   font-variant: normal;
@@ -360,8 +374,10 @@ sup.footnote-ref {
 sup.footnote-ref a { text-decoration: none; }
 
 @media (max-width: 1180px) {
-  .sidenote {
+  .sidenote,
+  .sidenote.js-positioned {
     float: none;
+    position: static;
     width: auto;
     margin: 0.6rem 0 1.2rem;
     padding: 0.5rem 0.8rem;
