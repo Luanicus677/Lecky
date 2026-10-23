@@ -76,7 +76,7 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^2]: Ammon (Socrates, lib. iv. c. 23).
 
-[^3]: See some admirable remarks on this subject in Maury, *Légendes Pieuses*, pp. 240–244; also Farmer, *On Demoniacs*. There were exorcists both among the Christians, Pagans, and Jews; and though they were not regularly formed into an order till the middle of the third century, they seem to have practised from almost the beginning. For much curious evidence on the subject, see Middleton, *Free Enquiry*, pp. 85–87. Bingham, *Antiquities of the Christian Church*, book iii. c. 4.
+[^3]: See some admirable remarks on this subject in Maury, *Légendes Pieuses*, pp. 240–244; also Farmer, *On Demoniacs*. There were exorcists both among the Christians, Pagans, and Jews; and though they were not regularly formed into an order till the middle of the third century, they seem to have practised from almost the beginning. For much curious evidence on the subject, see <a class="popup-ref" href="../ref/middleton-free-inquiry.html#exorcists">Middleton, *Free Enquiry*, pp. 85–87</a>. Bingham, *Antiquities of the Christian Church*, book iii. c. 4.
 
 [^4]: There is a picture of the transaction in the cathedral of Saragossa, opposite the image. A group of extremely pretty angels are represented as fitting on a leg (ready-made), while the patient is calmly sleeping. I believe, however, that the more approved story is that the leg gradually grew. This is a miracle about which a vast amount has been written, and which the Spanish theologians are said to regard as peculiarly well established. Hume has noticed it in his Essay on Miracles.
 
@@ -90,9 +90,9 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^9]: Third Letter on Toleration, p. 269.
 
-[^10]: Preface to the Free Enquiry.
+[^10]: <a class="popup-ref" href="../ref/middleton-free-inquiry.html#preface-succession">Preface to the Free Enquiry.</a>
 
-[^11]: Introductory Chapter.
+[^11]: <a class="popup-ref" href="../ref/middleton-free-inquiry.html#intro-confidence">Introductory Chapter.</a>
 
 [^12]: Hume's Essay was avowedly an application (right or wrong) of Tillotson's famous argument against transubstantiation. It is not so generally known that his method of reasoning had been also anticipated by Locke, who in a very remarkable passage in his Commonplace Book, contends that men should not believe any proposition that is contrary to reason, on the authority either of inspiration or of miracle, for the reality of the inspiration or of the miracle can only be established by reason. 'It is harder,' he says, 'to believe that God should alter or put out of its ordinary course some phenomenon of the great world for once, and make things act contrary to their ordinary rule purposely, that the mind of men might do so always after, than that this is some fallacy or natural effect of which he knows not the cause, let it look ever so strange' (King, *Life of Locke*, vol. i. pp. 230, 231). See, too, the chapter on Reason and Faith, in the *Essay on the Human Understanding*.
 

@@ -61,7 +61,7 @@ Model: `content/ref/grillandi-de-sortilegiis.md`. For a cited work:
   Link people to Wikipedia (`https://en.wikipedia.org/wiki/...`); popups and icons are automatic.
 - Add the page to `content/ref/index.md`.
 
-Source pages so far (`content/ref/`): Grillandi (1 passage), Garinet (3: preface pp. xiii-xiv, pp. 38, 42),
+Source pages so far (`content/ref/`; also Middleton, see below): Grillandi (1 passage), Garinet (3: preface pp. xiii-xiv, pp. 38, 42),
 Bodin's Demonomanie (3: pp. 15, 151-152, Refutation near p. 252), Codex Theodosianus IX.16 (laws 4 and 6).
 Notes for continuing:
 - Bodin: use the 1582 Paris printing (`per_witchcraft-in-europe-and-america_bodin-jean_1582_125`); its pagination matches Lecky's
@@ -84,6 +84,7 @@ Notes for continuing:
   The OCR of these Google Books scans is very poor (long s); locate passages with `_djvu.xml` and read the images.
 - Garinet: other cited pages (6, 14-15, 35, 39, 45, 75, 121-122, 256, 298-302) are not transcribed. Do not trust `_page_numbers.json`
   for this scan: p. 38 is `n95`, p. 41 is `n98`, p. 42 is `n99`.
+- Middleton, Free Inquiry (`middleton-free-inquiry.md`): Dublin 1749 printing `freeinquiryintom00midd` (image index n = djvu object order, p. xv = n22, p. lxxxiv = n89, pp. 85-87 = n232-n234; long-s OCR, search for 'surprizing', 'explicitely'). Done: Ch. II notes 3, 10, 11. Not done: ch. IV note 25 (Introd. p. 86 'ninety heresies') and note 37; the London printings' pagination is unchecked.
 - Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
 
 ## Build, test, deploy

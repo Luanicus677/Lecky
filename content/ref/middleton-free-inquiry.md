@@ -1,0 +1,83 @@
+---
+title: Middleton, Free Inquiry
+description: "Three passages from Conyers Middleton’s Free Inquiry into the Miraculous Powers (1749) that Lecky cites in Chapter II: the exorcists (pp. 85–87), the succession of Church-historians (Preface, p. xv), and the “surprizing confidence” of the Fathers (Introductory Discourse, p. lxxxiv), each compared with Lecky’s text."
+heading: Middleton, <em>A Free Inquiry into the Miraculous Powers</em>
+subtitle: Conyers Middleton, 1749
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Work", "Conyers Middleton, <em>A Free Inquiry into the Miraculous Powers, which are supposed to have subsisted in the Christian Church, from the earliest ages through several successive centuries</em> (first published London, 1749). Lecky’s “<a href=\"https://en.wikipedia.org/wiki/Conyers_Middleton\">Middleton</a>” attack on the Patristic miracles is the subject of <a href=\"../rationalism/vol1-ch2.html\">Chapter II</a>, pp. 164–172."]
+  - ["Edition used", "The Dublin printing of 1749 (Printed for J. Smith), Princeton Theological Seminary copy: <a href=\"https://archive.org/details/freeinquiryintom00midd\">archive.org/details/freeinquiryintom00midd</a>. Its page numbers agree with the ones Lecky gives (the book’s own index puts the exorcists at pp. 85–87), but I have not checked it against the London printings, which may be paged differently. Image index = n0 at the cover: p. xv is <a href=\"https://archive.org/details/freeinquiryintom00midd/page/n22/mode/2up\">n22</a>, p. lxxxiv is <a href=\"https://archive.org/details/freeinquiryintom00midd/page/n89/mode/2up\">n89</a>, pp. 85–87 are <a href=\"https://archive.org/details/freeinquiryintom00midd/page/n232/mode/2up\">n232</a>–<a href=\"https://archive.org/details/freeinquiryintom00midd/page/n234/mode/2up\">n234</a>."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn3\">Rationalism, ch. II, note 3</a>, <a href=\"../rationalism/vol1-ch2.html#fn10\">note 10</a>, and <a href=\"../rationalism/vol1-ch2.html#fn11\">note 11</a>. Also ch. IV, notes 25 and 37 (not yet transcribed here)."]
+  - ["Status", "Three passages transcribed against the page images, with Lecky’s text compared. No translation is needed: the book is in English."]
+abstract: |
+  <p>Middleton’s 1749 book argued that the miracles the Fathers describe cannot be trusted. Lecky draws on it in Chapter II in three places. The Preface supplies the sentence he quotes about the unanimous testimony of Church historians; the Introductory Discourse supplies the sentence about the Fathers’ “surprizing confidence”; and the discussion of demoniacs supplies, in a note, the evidence that Jewish, pagan and Christian exorcists were all at work.</p><p>Lecky’s two quotations are accurate in substance but not word for word. He modernises the spelling, changes “these powers” to “those powers”, and changes “this fourth age” to “this fourth century”. See <a href="#comparison">the comparison below</a>.</p>
+---
+<section id="exorcists" class="passage">
+<h2>The Exorcists (pp. 85–87)</h2>
+
+<p class="passage-source">English: 1749 Dublin printing, pp. 85–87. Spelling and punctuation as printed, except that the long s is printed as s. The first extract is a note running along the foot of pp. 85–86. <span class="cited-passage">Highlighted</span>: what Lecky’s note 3 summarises.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p>N. B. From what is here said by <em>Origen</em>, and the other Fathers, it appears; that the power of casting out Devils, was considered as a peculiar gift, or art rather, grounded on certain rules, which were taught and delivered in books; <span class="cited-passage">and was common both to the Jews and the Heathens, as well as to the Christians; and, among them all, was administered by a particular set of men, called <em>Exorcists</em>: who about the time of <em>Origen</em>’s death, or the middle of the third Century, began to be reckoned among the inferior orders of the Church:</span> [Vid. Euseb. l. 6. c. 43.] The form of whose ordination is given us by the learned <em>Bingham</em>. [Antiq. lib. 3. c. 4. § 5.]</p>
+<p>Now it will be granted, I suppose, by all men of sense, that these <em>Jewish</em> and <em>Gentile Exorcists</em> were mere Knaves and Impostors; who, by their tricks and false miracles, contrived to delude the credulous multitude, in order to acquire gain or power to themselves, and to keep their people firm to the <em>Jewish</em> or Heathenish rites, in opposition to the Christian. <em>Ulpian</em> the lawyer speaks of Exorcism in general, as a term of art used by Impostors: by whom he is supposed by some, to mean the <em>Jewish</em>, by others, Christian Exorcists. But <em>Tertullian</em>, and all the Fathers in general declare, that these Magicians and wandering Jugglers performed many wonderful things, above the force of human power, which they wholly ascribe to the assistance of Dæmons.</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>What leads up to it (pp. 84–85), and the Josephus story (p. 86)</summary>
+<p>The note stands at the end of a run of testimony that the Fathers allowed the same power over devils to Jews and Gentiles: Justin Martyr says that Jewish exorcists, like the Gentiles, use “this art in exorcising, together with certain fumes and ligatures”; Irenaeus says the Jews “even now, by this same invocation of the name of God, drive away devils”; and Origen, against Celsus, says that the names of Abraham, Isaac and Jacob are used by all “Inchantors and Magicians”, and appear in magical books “as peculiar to the art, and effectual against Devils” (pp. 84–85). On p. 86 Middleton quotes Josephus’s story of the Jewish exorcist Eleazar, who drew a devil out through a man’s nostrils with a ring in the presence of Vespasian. The passage on p. 87 draws the conclusion quoted above.</p>
+</details>
+</section>
+
+<section id="preface-succession" class="passage">
+<h2>The Succession of Miracles (Preface, p. xv)</h2>
+
+<p class="passage-source">English: Preface, p. xv (<a href="https://archive.org/details/freeinquiryintom00midd/page/n22/mode/2up">scan</a>). Spelling as printed. <span class="cited-passage">Highlighted</span>: the sentence Lecky quotes in note 10. Middleton is answering a defender of the Fathers who had said the question of how long the miracles lasted was neither clear from history nor of any concern to us.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p>As to his first reason, I am at a loss to conceive, what farther light a professed Advocate of the primitive ages and Fathers can possibly require in this case. <span class="cited-passage">For as far as the Church-Historians can illustrate or throw light upon any thing, there is not a single point in all history, so constantly, explicitely and unanimously affirmed by them all, as the continual succession of these powers through all ages, from the earliest Father, who first mentions them, down to the time of the Reformation.</span> Which same succession is still farther deduced, by persons of the most eminent character, for their probity, learning, and dignity in the <em>Romish</em> Church, to this very day. So that the onely doubt, which can remain with us, is; whether the Church-Historians are to be trusted or not.</p>
+</div>
+</div>
+</section>
+
+<section id="intro-confidence" class="passage">
+<h2>“That Surprizing Confidence” (Introductory Discourse, p. lxxxiv)</h2>
+
+<p class="passage-source">English: Introductory Discourse, p. lxxxiv (<a href="https://archive.org/details/freeinquiryintom00midd/page/n89/mode/2up">scan</a>). Spelling as printed. <span class="cited-passage">Highlighted</span>: the sentence Lecky quotes in note 11, where he calls it the “Introductory Chapter”. The page number comes from the scan’s text layer; the heading is partly cropped in my view of the image, so treat “lxxxiv” as read from the OCR.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p><span class="cited-passage">And first, when we reflect on that surprizing confidence and security, with which the principal Fathers of this fourth age have affirmed as true, what they themselves had either forged, or what they knew at least to be forged; it is natural to suspect, that so bold a defiance of sacred truth could not be acquired, or become general at once, but must have been carried gradually to that height, by custom and the example of former times, and a long experience of what the credulity and superstition of the multitude would bear.</span></p>
+</div>
+</div>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Quotations Compared</h2>
+
+<p>Lecky’s two quotations (<a href="../rationalism/vol1-ch2.html">Chapter II</a>, pp. 167 and 169) agree with Middleton in sense and almost in wording. The differences are small, but one of them is not just spelling:</p>
+
+<div class="table-wrap">
+<table class="collation">
+<thead>
+<tr><th></th><th>Lecky, 1865</th><th>Middleton, 1749</th></tr>
+</thead>
+<tbody>
+<tr><th>Preface, p. xv</th><td>“…there is not a single point in all history so constantly, explicitly, and unanimously affirmed by them all, as the continual succession of <strong>those</strong> powers…”</td><td>“…there is not a single point in all history, so constantly, <strong>explicitely</strong> and unanimously affirmed by them all, as the continual succession of <strong>these</strong> powers…”</td></tr>
+<tr><th>Preface, p. xv: opening</th><td>“As far as the Church historians can illustrate or throw light upon anything…”</td><td>“…<strong>For</strong> as far as the Church-Historians can illustrate or throw light upon any thing…” (Lecky drops “For”, joins “any thing”, and removes the hyphen.)</td></tr>
+<tr><th>Introductory Discourse, p. lxxxiv</th><td>“When we reflect,” he says, “on that <strong>surprising</strong> confidence and security with which the principal Fathers of this fourth <strong>century</strong> have affirmed as true…”</td><td>“And first, when we reflect on that <strong>surprizing</strong> confidence and security, with which the principal Fathers of this fourth <strong>age</strong> have affirmed as true…”</td></tr>
+<tr><th>Introductory Discourse: rest</th><td>“…by custom and the example of former times, and a long experience of what the credulity and superstition of the multitude would bear.”</td><td>Same words (Lecky omits the commas after “height” and “confidence”).</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>The only change that touches meaning is “those powers” for “these powers”, which turns Middleton’s “these” (the miraculous powers he has been discussing) into a distant “those”. “Fourth century” for “fourth age” is a fair gloss, since Middleton means the century of Athanasius and Jerome. His note-11 reference to the “Introductory Chapter” is a loose name: the book calls it the Introductory Discourse.</p>
+
+<h3>Note 3</h3>
+
+<p>Lecky’s <a href="../rationalism/vol1-ch2.html#fn3">note 3</a> says there were exorcists among Christians, pagans and Jews, that “they were not regularly formed into an order till the middle of the third century”, and that they “seem to have practised from almost the beginning”, and refers to Middleton, pp. 85–87. The first two statements are Middleton’s own words in the note above. “From almost the beginning” is Lecky’s inference, and is consistent with the second-century testimony of Justin Martyr and Irenaeus that precedes it on pp. 84–85; Middleton does not put it in those terms in the pages I read. Lecky’s “Bingham, <em>Antiquities of the Christian Church</em>, book iii. c. 4” is the same reference Middleton gives (“Antiq. lib. 3. c. 4. § 5”), so Lecky has taken it from him.</p>
+</section>
