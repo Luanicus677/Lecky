@@ -408,7 +408,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^100]: Garinet, p. 280.
 
-[^101]: The most complete authority on this subject is the chronological table of facts in Hutchinson's Essay on Witchcraft (1718). Hutchinson, who was a very scrupulous writer, restricted himself for the most part to cases of which he had learnt precise particulars, and he carefully gives his authorities. The number of executions he recounts as having taken place in 250 years, amounts to many thousands. Of these only about 140 were in England. This, of course, excludes those who were drowned or mobbed to death during the trial, and those who were sentenced to other than capital punishments. All the other writers I have seen, place the English executions far higher; and it seems, I think, certain that some executions escaped the notice of Hutchinson, whose estimate is, however, probably much nearer the truth than those of most writers. See also Wright's Sorcery; and an article from the Foreign Review in 'A Collection of Curious Tracts on Witchcraft, reprinted in 1838. It is quite impossible to arrive at anything like precision on this subject.
+[^101]: The most complete authority on this subject is the chronological table of facts in <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#table-37">Hutchinson's Essay on Witchcraft (1718)</a>. Hutchinson, who was a very scrupulous writer, restricted himself for the most part to cases of which he had learnt precise particulars, and he carefully gives his authorities. The number of executions he recounts as having taken place in 250 years, amounts to many thousands. Of these only about 140 were in England. This, of course, excludes those who were drowned or mobbed to death during the trial, and those who were sentenced to other than capital punishments. All the other writers I have seen, place the English executions far higher; and it seems, I think, certain that some executions escaped the notice of Hutchinson, whose estimate is, however, probably much nearer the truth than those of most writers. See also Wright's Sorcery; and an article from the Foreign Review in 'A Collection of Curious Tracts on Witchcraft, reprinted in 1838. It is quite impossible to arrive at anything like precision on this subject.
 
 [^102]: The repeal was probably owing to the fact that witchcraft, and pulling down crosses, were combined together; and the law had, therefore, a Popish appearance.
 
@@ -428,7 +428,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^110]: Table-Talk.
 
-[^111]: Hutchinson, p. 68.
+[^111]: <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#table-37">Hutchinson, p. 68.</a>
 
 [^112]: This is alluded to in Hudibras:<br>'Hath not this present Parliament<br>A ledger to the devil sent<br>Fully empowered to treat about<br>Finding revolted witches out?<br>And has not he within a year<br>Hanged threescore of them in one shire,' &c.<br>Second part, Canto iii.
 

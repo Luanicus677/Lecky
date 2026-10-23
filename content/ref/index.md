@@ -109,4 +109,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="burt-letters-north-of-scotland.html">Burt, <em>Letters from the North of Scotland</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The burning of a Sutherland woman at Dornoch in June 1727 (Letter XII), from the 1754 edition, compared with Lecky’s note on the last Scottish witch-execution. Cited in <em>Rationalism</em>, ch. I, note 166.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="hutchinson-historical-essay.html">Hutchinson, <em>Historical Essay concerning Witchcraft</em></a><span class="work-status">1 page</span></div>
+<div class="work-desc">The 1640s entries of Hutchinson’s “Table of Facts” (1718, p. 37), compared with Lecky’s claims about English executions under the Commonwealth. The total of 140 is not checked. Cited in <em>Rationalism</em>, ch. I, notes 101 and 111.</div>
+</li>
 </ul>
