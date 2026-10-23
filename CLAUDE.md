@@ -25,15 +25,15 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 ## Workflow: transcribing Rationalism in Europe, Vol. I, Chapter I
 
-`content/rationalism/vol1-ch1.md` currently covers printed pages 1–70. It ends at the end of page 70, after
-"...which were once regarded as masterpieces of orthodox theology." (a complete paragraph; page 71 begins a new one,
-"It is very difficult for us in the present day to do justice to these works"). Footnotes so far are `[^1]`–`[^67]`;
-continue numbering from 68.
+`content/rationalism/vol1-ch1.md` currently covers printed pages 1–100. It ends mid-sentence at
+"...exercised a most profound and general influence upon" (page 100 ends "upon"; page 101 begins
+"the opinions of mankind. It is not, I think, difficult to discover the explanation of the fact"). Footnotes so far are
+`[^1]`–`[^90]`; continue numbering from 91.
 One sequential series for the whole chapter; the 1865 print restarts numbering on every page.
 
 1. Download the raw OCR (redirects, so use `-L`):
    `curl -sSL https://archive.org/download/rationalismeuro01leckuoft/rationalismeuro01leckuoft_djvu.txt -o <scratchpad>/lecky1.txt`
-   In that file, page 71 starts near line 3556 ("It is very difficult for us"), after the "MAGIC AND WITCHCRAFT. 71" header.
+   In that file, page 101 starts near line 4731 ("the opinions of mankind"), after the "MAGIC AND WITCHCRAFT. 101" header.
 2. `python3 tools/clean_ocr.py <file>` gives a first pass. It is not sufficient: hand-check every page.
    Common faults: dropped hyphens where both halves are real words ("con science"), misread
    Latin and French ("cteteris", "Christ!", "feterni"), and running headers injected mid-text.
