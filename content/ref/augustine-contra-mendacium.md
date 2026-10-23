@@ -1,0 +1,111 @@
+---
+title: Augustine, Contra Mendacium
+description: "Augustine’s Contra mendacium ad Consentium, chapters 1–2 (Migne, cols. 519–520), the passage on the Priscillianists that Lecky sets against Chrysostom in Chapter IV, note 37: in Latin and English, with Lecky’s summary compared and a side-by-side with Chrysostom’s defence of deceit."
+heading: Augustine, <em>Contra mendacium</em>
+subtitle: Augustine of Hippo to Consentius
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Work", "<a href=\"https://en.wikipedia.org/wiki/Augustine_of_Hippo\">Augustine of Hippo</a>, <em>Contra mendacium ad Consentium</em> (“Against Lying, to Consentius”), a single book written in reply to a letter from Consentius. It is a different work from Augustine’s earlier <em>De mendacio</em>; Lecky cites only “<em>Contra Mendacium</em>”, with no chapter."]
+  - ["Edition used", "J.-P. Migne, <em>Patrologia Latina</em>, vol. 40 (Paris, 1845; this is the date in the archive.org record, I did not check the title page): <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40\">archive.org</a>. The treatise begins at col. 517; cols. 519–520 are image <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40/page/n261/mode/2up\">n261</a> (n260 = cols. 517–518). The Latin below was taken from the <a href=\"https://www.augustinus.it/latino/contro_menzogna/contro_menzogna_libro.htm\">augustinus.it</a> text of the same edition and checked against this page image. The translations are this edition’s own drafts. Lecky does not say which edition he used."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn37\">Rationalism, ch. IV, note 37</a>. Paired with <a href=\"chrysostom-de-sacerdotio.html\">Chrysostom, <em>On the Priesthood</em></a>."]
+  - ["Status", "Three extracts (c. 1 § 1, c. 2 §§ 2–3) transcribed from the page image, translated, and compared with Lecky. The rest of the treatise (24 chapters in Migne) is not transcribed. Lecky’s remark about “certain Catholics” who pretended to be Priscillianists rests on Augustine’s own later summary of the book (<em>Retractationes</em> II.60), which I have only in an English translation (see below)."]
+abstract: |
+  <p>In note 37 Lecky says Augustine “in his treatise <em>Contra Mendacium</em> … strongly denounced the tendency [to lie for religion], and especially condemns the Priscillianists, among whom it appears to have been very common, and also certain Catholics who thought it justifiable to pretend to be Priscillianists for the purpose of discovering the secrets of that sect.”</p><p>The opening chapters bear that out, with one correction of emphasis. Augustine does not merely say lying was “very common” among Priscillianists: he says they, “alone, or at least above all”, <em>teach</em> it as a doctrine, and he refuses Consentius’s proposal to flush heretics out by lying, on the ground that it is doing evil that good may come. This is the direct opposite of the position Chrysostom defends in <a href="chrysostom-de-sacerdotio.html">On the Priesthood</a>, though there is no sign that either had the other in mind: Chrysostom died in 407, and Augustine’s book is dated to about 420 (the date in the Browne translation’s note, which I have not checked against the <em>Retractationes</em>).</p>
+---
+<section id="no-lying-to-catch" class="passage">
+<h2>Not to Catch Heretics by Lying (c. 1 § 1, col. 519)</h2>
+
+<p class="passage-source">Latin: Migne, <em>PL</em> 40, col. 519 (<a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40/page/n261/mode/2up">scan</a>). Ligatures expanded (<em>æ</em> as <em>ae</em>); <em>j</em> printed as <em>i</em>; scriptural references in the text omitted. The extract starts in mid-sentence, as the column does, and omits the opening of § 1 (col. 517–518), where Augustine thanks Consentius for his letters. <span class="cited-passage">Highlighted</span>: the sentence that states the thesis, which is what Lecky refers to as Augustine’s objection to Catholics’ lying to discover heretics.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>… <span class="cited-passage">Sed non mihi persuadetur eos de latebris suis nostris esse mendaciis eruendos.</span> Utquid enim eos tanta cura vestigare atque indagare conamur, nisi ut captos in apertumque productos, aut etiam ipsos veritatem doceamus, aut certe veritate convictos nocere aliis non sinamus? ad hoc ergo, ut eorum mendacium deleatur, sive caveatur, Dei autem veritas augeatur. Quomodo igitur mendacio mendacia recte potero persequi? An et latrocinio latrocinia et sacrilegio sacrilegia, et adulterio sunt adulteria persequenda? Si autem veritas Dei in meo mendacio abundabit, numquidnam et nos dicturi sumus: Faciamus mala, ut veniant bona? Quod vides quemadmodum detestetur Apostolus. Quid est enim aliud: Mentiamur, ut haereticos mendaces ad veritatem adducamus; nisi: Faciamus mala, ut veniant bona? An aliquando bonum est mendacium, vel aliquando mendacium non est malum?</p>
+</div>
+<div class="rendering" lang="en">
+<p>… <span class="cited-passage">But I am not persuaded that they should be dug out of their hiding-places by our lies.</span> For why do we take such pains to track and hunt them down, unless it is that, once they are caught and brought into the open, we may either teach them the truth ourselves, or at least, having convicted them by the truth, not allow them to harm others? That is, so that their lie may be destroyed, or guarded against, and God’s truth increased. How then shall I rightly be able to pursue lies with a lie? Or are robberies to be pursued by robbery, and sacrileges by sacrilege, and adulteries by adultery? But if the truth of God shall abound in my lie, are we also going to say: Let us do evil, that good may come? You see how the Apostle detests that. For what else is “Let us lie, that we may bring lying heretics to the truth” but “Let us do evil, that good may come”? Or is a lie sometimes good, or is a lie sometimes not evil?</p>
+</div>
+</div>
+
+<p>The reference for “Let us do evil, that good may come” is Romans 3:7–8; the marginal reference in Migne’s printing is “Rom. III, 7 et 8”. After this extract Augustine goes on (col. 519, not transcribed here) to quote Psalm 5:7, “you will destroy all who speak a lie”, and to argue that this does not leave room for a “just lie”.</p>
+</section>
+
+<section id="priscillianists" class="passage">
+<h2>The Priscillianists’ Doctrine of Lying (c. 2 § 2, cols. 519–520)</h2>
+
+<p class="passage-source">Latin: Migne, <em>PL</em> 40, cols. 519–520 (<a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40/page/n261/mode/2up">scan</a>). Normalised as above. <span class="cited-passage">Highlighted</span>: the sentence behind Lecky’s “especially condemns the Priscillianists”. Augustine here is paraphrasing the doctrine as Consentius had described it in his letter, which I have not seen.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>Nonne cernis quantum adiuvet haec disputatio eos ipsos, quos pro magna venatione mendaciis nostris capere molimur? Priscillianistarum est enim, sicut ipse monstrasti, ista sententia: cui comprobandae adhibent testimonia de Scripturis, exhortantes suos ad mentiendum tamquam exemplis Patriarcharum, Prophetarum, Apostolorum, Angelorum; non dubitantes addere etiam ipsum Dominum Christum, nec se aliter arbitrantes veracem suam ostendere falsitatem, nisi Veritatem dicant esse mendacem. Redarguenda sunt ista, non imitanda: nec in eo malo debemus Priscillianistarum esse participes, in quo caeteris haereticis convincuntur esse peiores. <span class="cited-passage">Ipsi enim soli, vel certe maxime ipsi reperiuntur, ad occultandam suam quam putant veritatem, dogmatizare mendacium:</span> atque hoc tam magnum malum ideo iustum existimare, quia dicunt in corde retinendum esse quod verum est; ore autem ad alienos proferre falsum, nullum esse peccatum; et hoc esse scriptum: Qui loquitur veritatem in corde suo; tamquam hoc satis sit ad iustitiam, etiamsi loquatur quisque in ore mendacium, quando non proximus, sed alienus hoc audit. Propterea putant etiam apostolum Paulum, cum dixisset: Deponentes mendacium, loquimini veritatem; statim addidisse, unusquisque cum proximo suo quia sumus invicem membra. Ut videlicet cum eis qui nobis in societate veritatis proximi non sunt, neque, ut ita dicam, commembres nostri sunt, loqui liceat oporteatque mendacium.</p>
+</div>
+<div class="rendering" lang="en">
+<p>Do you not see how much this argument helps the very men whom, as a great hunt, we are labouring to catch by our lies? For this opinion, as you yourself have shown, belongs to the Priscillianists: to prove it they bring testimonies from the Scriptures, urging their followers to lie, as if by the examples of Patriarchs, Prophets, Apostles, Angels — not hesitating to add even the Lord Christ himself — and thinking they cannot otherwise show their falsehood to be truthful unless they declare Truth to be a liar. These things are to be refuted, not imitated: and we ought not to share with the Priscillianists in that evil in which they are convicted of being worse than other heretics. <span class="cited-passage">For they alone, or at least they above all, are found to make a doctrine of lying, in order to hide what they think their truth:</span> and to judge so great an evil just on the ground that, they say, what is true must be kept in the heart, while to utter a falsehood with the mouth to outsiders is no sin; and that this is what is written: “He who speaks the truth in his heart”; as if that were enough for righteousness, even if someone speaks a lie with his mouth, when it is not a neighbour but an outsider who hears it. For this reason they also think the apostle Paul, when he had said “Putting away lying, speak the truth”, immediately added “each one with his neighbour, because we are members one of another”: that is, evidently, that with those who are not our neighbours in the fellowship of truth, nor, so to speak, our fellow-members, it is lawful and proper to speak a lie.</p>
+</div>
+</div>
+</section>
+
+<section id="martyrs" class="passage">
+<h2>The Martyrs and Jehu (c. 2 § 3, col. 520)</h2>
+
+<p class="passage-source">Latin: Migne, <em>PL</em> 40, col. 520 (same scan page), first part of § 3 only. Normalised as above. This is not quoted by Lecky; it is included because it shows what Augustine thinks follows from the doctrine.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>Quae sententia sanctos martyres exhonorat, imo vero aufert sancta omnino martyria. Iustius enim sapientiusque facerent, secundum istos, si persecutoribus suis non se confiterentur esse christianos, nec eos sua confessione facerent homicidas: sed potius mentiendo et negando quod erant, et ipsi salvum haberent carnis commodum cordisque propositum, et illos conceptum animo scelus implere non sinerent. Non enim proximi eorum erant in fide christiana, ut cum eis deberent loqui veritatem in ore suo, quam loquebantur in corde suo; sed ipsius veritatis insuper inimici. Si enim Iehu, quem sibi inter caeteros ad exemplum mentiendi prudenter videntur intueri, servum Baalis se esse mentitus est, ut servos eius occideret: quanto iustius secundum istorum perversitatem, tempore persecutionis servos daemonum se mentirentur servi Christi, ne servi daemonum servos occiderent Christi; et sacrificarent idolis ne interficerentur homines, si sacrificavit ille Baali ut interficeret homines? Quid enim eis obesset, secundum egregiam doctrinam mendaciloquorum, si diaboli cultum mentirentur in corpore, quando Dei cultus servabatur in corde?</p>
+</div>
+<div class="rendering" lang="en">
+<p>This opinion dishonours the holy martyrs, or rather abolishes holy martyrdom altogether. For, by these men’s reckoning, they would act more justly and wisely if they did not confess to their persecutors that they were Christians, and so make them murderers by their confession, but instead, by lying and denying what they were, both kept for themselves the comfort of the flesh and the purpose of the heart, and did not allow the others to carry out the wickedness they had conceived in their mind. For those persecutors were not their neighbours in the Christian faith, such that they should speak with the mouth the truth they spoke in the heart; they were moreover enemies of Truth itself. For if Jehu, whom they seem prudently to pick out from the rest as their example for lying, falsely claimed to be a servant of Baal in order to kill his servants: how much more justly, by their perversity, in time of persecution would the servants of Christ pretend to be servants of demons, lest the servants of demons kill the servants of Christ; and sacrifice to idols so that men should not be killed, if he sacrificed to Baal in order to kill men? For what harm would it do them, according to the excellent doctrine of these liars, if they pretended a worship of the devil in the body, when the worship of God was kept in the heart?</p>
+</div>
+</div>
+</section>
+
+<section id="retractationes" class="passage">
+<h2>Augustine on the Occasion of the Book (<em>Retractationes</em> II.60)</h2>
+
+<p class="passage-source">English only: the New Advent text of the Nicene and Post-Nicene Fathers translation of the introductory note to <em>Against Lying</em> (<a href="https://www.newadvent.org/fathers/1313.htm">newadvent.org/fathers/1313.htm</a>), which gives Augustine’s own summary from the <em>Retractationes</em>. <strong>I have not checked this against the Latin of the <em>Retractationes</em> or a scan.</strong> <span class="cited-passage">Highlighted</span>: the part that matches Lecky’s “certain Catholics who thought it justifiable to pretend to be Priscillianists”.</p>
+
+<div class="parallel">
+<div class="original" lang="en">
+<p>Then also I wrote a Book against Lying, the occasion of which work was this. In order to discover the Priscillianist heretics, who think it right to conceal their heresy not only by denial and lies, but even by perjury, <span class="cited-passage">it seemed to certain Catholics that they ought to pretended themselves Priscillianists, in order that they might penetrate their lurking places.</span> In prohibition of which thing, I composed this book.</p>
+</div>
+</div>
+
+<p>(“ought to pretended” is the misprint as given on that web page; I have kept it as found.)</p>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Summary Compared</h2>
+
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th>Lecky (ch. IV, note 37)</th><th>Augustine</th><th>Comment</th></tr></thead>
+<tbody>
+<tr><td>“St. Augustine, however, is in this respect an exception. In his treatise <em>Contra Mendacium</em> he strongly denounced the tendency”</td><td>“How then shall I rightly be able to pursue lies with a lie?”; to lie that heretics may be brought to the truth is “to do evil that good may come”.</td><td>Accurate. Whether Augustine is “an exception” among the Fathers is Lecky’s claim, which this page does not test; Chrysostom’s position (below) is evidence for the contrast, but one Father is not a survey.</td></tr>
+<tr><td>“and especially condemns the Priscillianists, among whom it appears to have been very common”</td><td>“they alone, or at least they above all, are found to make a doctrine of lying”.</td><td>Augustine’s charge is stronger and more specific than “very common”: he says the Priscillianists <em>teach</em> lying about their beliefs as a doctrine and defend it from Scripture. His information about them comes from Consentius’s letter (see c. 2 § 2), so “appears” is a fair hedge on Lecky’s part.</td></tr>
+<tr><td>“and also certain Catholics who thought it justifiable to pretend to be Priscillianists for the purpose of discovering the secrets of that sect”</td><td>c. 1 § 1: “I am not persuaded that they should be dug out of their hiding-places by our lies.” <em>Retractationes</em> II.60 (English only here): “it seemed to certain Catholics that they ought to pretend themselves Priscillianists”.</td><td>The details Lecky gives are Augustine’s own summary of what prompted the book. The Migne chapter-summary for ch. III (not Augustine’s own words, but an editorial heading) says that to want to catch Priscillianists by lying “is to be depraved along with them”. I have not read beyond ch. 2 to see how Augustine treats the “pretence” itself.</td></tr>
+</tbody>
+</table>
+</div>
+</section>
+
+<section id="chrysostom-compared" class="passage">
+<h2>Beside Chrysostom</h2>
+
+<p>Lecky puts the two together as the evidence in note 37 that the Fathers differed on lying for religion. The table sets out what each says on the points that overlap. It does not show that either knew the other’s work: Chrysostom’s dialogue is much the earlier, and nothing in the passages transcribed on either page refers to the other.</p>
+
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th></th><th><a href="chrysostom-de-sacerdotio.html#deceit">Chrysostom, <em>On the Priesthood</em> I.8</a></th><th>Augustine, <em>Contra mendacium</em> 1–2</th></tr></thead>
+<tbody>
+<tr><th>Is deceit wrong in itself?</th><td>No: it is “bad or good according to the motive of the doer”. “Great is the power of deceit, provided it be not had recourse to with a crafty intention.”</td><td>He puts the question — “is a lie sometimes good?” — and answers no. The lie “that heretics may be brought to the truth” is “doing evil that good may come”.</td></tr>
+<tr><th>The argument from purpose</th><td>The end justifies deceit: examples of generals’ stratagems, the physician who tricks a patient, Paul and Timothy.</td><td>The good end does not justify the means: lies cannot be pursued by lies, nor robberies by robbery.</td></tr>
+<tr><th>Scripture</th><td>Paul circumcising Timothy is offered as a case of beneficial deceit.</td><td>Romans 3:8 and Psalm 5:7 are cited against it; the Priscillianists’ use of Paul in Ephesians 4:25 is called a misreading (§ 2).</td></tr>
+<tr><th>Whom is the deceit used on?</th><td>A friend (Basil), for his own good, in a decision about the priesthood.</td><td>Heretics and persecutors: Augustine is dealing with lies told to catch opponents or to hide one’s own beliefs, a different case from Chrysostom’s.</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>The last row is the main caution. Chrysostom is defending a particular benevolent deception against a friend’s reproach; the Priscillianists, in Augustine’s account, teach concealment of belief from outsiders. Augustine does not engage the benevolent-deception case in the extracts here, so the opposition between the two on the <em>principle</em> (the end does or does not justify the lie) is real, but the cases themselves are not the same.</p>
+</section>

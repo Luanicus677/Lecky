@@ -53,4 +53,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="chrysostom-de-sacerdotio.html">Chrysostom, <em>On the Priesthood</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">John Chrysostom’s defence of well-meant deceit (Book I, ch. VIII), in Cowper’s 1866 English translation checked against the scan, compared with Lecky’s “panegyric on the habit of telling lies”. Cited in <em>Rationalism</em>, ch. IV, note 37.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="augustine-contra-mendacium.html">Augustine, <em>Contra mendacium</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Augustine’s refusal to catch heretics by lying, and his charge that the Priscillianists teach lying as a doctrine (<em>PL</em> 40, cols. 519–520), in Latin and English, compared with Lecky and set beside Chrysostom. Cited in <em>Rationalism</em>, ch. IV, note 37.</div>
+</li>
 </ul>
