@@ -25,7 +25,8 @@ back_link:
 
 <ol class="toc">
 <li><a href="vol2-ch4.html">Chapter IV (continued) — On Persecution: Part II, The History of Persecution</a> <span class="work-status">complete (pp. 1–105)</span></li>
-<li>Chapters V&ndash;VI <span class="work-status">not yet added</span></li>
+<li><a href="vol2-ch5.html">Chapter V — On the Secularisation of Politics</a> <span class="work-status">complete (pp. 106–249)</span></li>
+<li>Chapter VI <span class="work-status">not yet added</span></li>
 </ol>
 
 <p style="color:var(--fg-faint); font-size:0.85rem;">Chapter titles above are taken from Lecky's own table of contents in the 1865 second edition.</p>
