@@ -67,9 +67,15 @@ Notes for continuing:
   `<id>_djvu.xml` (split on `<OBJECT`), then read the page image. Not yet done: Bodin pp. 40, 107, 109, 217, 228.
 - Codex Theodosianus: Ritter, Leipzig 1738, vol. III is `BRes1409273` (law 4 on p. 128 = `n143`; law 6 on pp. 133-134 = `n148`-`n149`).
   Laws 1-3, 5 and 7 (cited in ch. I notes 26, 27, 32) are not transcribed.
-- Malleus Maleficarum: not started. Lyon 1669 copies exist (`bub_gb_baYRf7HaYqUC`, `bub_gb_tH_G25ijvkEC`, `bub_gb_C1nAo1WuS_AC`;
-  McGill copies have no OCR text), but their OCR did not match Lecky's passages (Grillandus on physicians, Gerson, Spina);
-  Lecky's volume and page numbers have not been matched to an edition. Start by reading page images.
+- Malleus Maleficarum: Lecky's "Mall. Mal. vol. i/ii" matches the Lyon 1620 edition (NOT checked against Lyon 1669 vol. II: no readable scans).
+  Vol. I = `bub_gb_Dm4ywfjNpVUC` (Cologne documents of 1487 at pp. 459-467 = leaves `n533`-`n541`).
+  Vol. II part 1 = `bub_gb_v1J2VHKuIVEC` (Gerson, De probatione spirituum, begins p. 77 = `n109`; Spina, Quaestio de strigibus from ~p. 181 = `n160`).
+  Vol. II part 2 = `bub_gb_vW5EtV4e8MgC` (Grillandus, Tractatus de sortilegiis, from p. 381 = `n460`; pp. 393-394 = `n472`-`n473`).
+  The two parts of vol. II are paged separately, so "vol. ii. p. 77" is ambiguous (Gerson in part 1; Ananias in part 2).
+  Done: the Grillandus physicians passage (on the Grillandi source page, with an edition table).
+  Not done: Gerson on the devil as Christ (p. 77), Spina pp. 191, 253, 299, 300, the Cologne text, Sprenger Pars I Quaest. 4 / Pars II Quaest. 2
+  (Lecky's "Sprenger, Mall. Mal. Pars i. Quaest. 4" etc. should be in Dm4y; not located), Nider "p. 522" (not matched).
+  The OCR of these Google Books scans is very poor (long s); locate passages with `_djvu.xml` and read the images.
 - Garinet: other cited pages (6, 14-15, 35, 39, 45, 75, 121-122, 256, 298-302) are not transcribed. Do not trust `_page_numbers.json`
   for this scan: p. 38 is `n95`, p. 41 is `n98`, p. 42 is `n99`.
 - Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
