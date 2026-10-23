@@ -372,9 +372,9 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^82]: Mall. Mal. vol. ii. p. 253.
 
-[^83]: Mall. Mal. vol. i. pp. 460-468.
+[^83]: <a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#cologne-461">Mall. Mal. vol. i. pp. 460-468.</a>
 
-[^84]: Vol. ii. pp. 191, 299, 300.
+[^84]: <a class="popup-ref" href="../ref/spina-quaestio-de-strigibus.html#p299">Vol. ii. pp. 191, 299, 300.</a>
 
 [^85]: 'Pseudomonarchia Dæmonum' — one of the principal sources of information about this subject. He gives the names of seventy-two princes, and estimates their subjects at 7,405,926 devils. It is not quite clear how much he believed on the subject.
 

@@ -22,11 +22,15 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Constantius II’s laws of 357 and 358 against divination and magic (laws 4 and 6), in Latin and English from the 1738 Leipzig edition, compared with Lecky’s quotation. Cited in <em>Rationalism</em>, ch. I, note 28.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="sprenger-malleus-maleficarum.html">Sprenger, <em>Malleus Maleficarum</em></a><span class="work-status">3 passages</span></div>
-<div class="work-desc">The inquisitors’ handbook, Lyon 1620 edition. “Because of the angels” and incubi (Pars I), incubi and women’s hair (Pars II), and exorcism before baptism (Pars II), in Latin and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 21 and 22.</div>
+<div class="work-title"><a class="popup-ref" href="sprenger-malleus-maleficarum.html">Sprenger, <em>Malleus Maleficarum</em></a><span class="work-status">4 passages</span></div>
+<div class="work-desc">The inquisitors’ handbook, Lyon 1620 edition. “Because of the angels” and incubi (Pars I), incubi and women’s hair, exorcism before baptism (Pars II), and the Cologne preface on sceptical preachers, in Latin and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 21, 22 and 83.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="gerson-de-probatione-spirituum.html">Gerson, <em>De probatione spirituum</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Jean Gerson’s tract on testing visions, from the Lyon 1620 <em>Malleus</em> collection. The holy man who shut his eyes against a devil disguised as Christ (p. 77), in Latin and English. Cited in <em>Rationalism</em>, ch. I, note 37.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="spina-quaestio-de-strigibus.html">Spina, <em>Quaestio de Strigibus</em> and <em>Apologia</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Bartolomeo Spina on the doubters of the witch trials and on criticism of the inquisitors as criticism of the Pope (Lyon 1620 reprint, pp. 191, 299–300), in Latin and English, compared with Lecky. Cited in <em>Rationalism</em>, ch. I, note 84.</div>
 </li>
 </ul>
