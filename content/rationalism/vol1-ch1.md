@@ -278,7 +278,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^36]: Michelet (La Sorcière, p. 36, note). See also Maury.
 
-[^37]: On the appearances of the devil in the form of Christ, see the tract by Gerson in the Malleus Malef. (vol. ii. p. 77); and also Ignatius Lupus, in Edict. S. Inquisitionis (1603), p. 185.
+[^37]: On the appearances of the devil in the form of Christ, see the tract by Gerson in the <a class="popup-ref" href="../ref/gerson-de-probatione-spirituum.html#p77">Malleus Malef. (vol. ii. p. 77)</a>; and also Ignatius Lupus, in Edict. S. Inquisitionis (1603), p. 185.
 
 [^38]: See this story very amusingly told, on the authority of Nicephorus, in Binsfeldius de Confessionibus Maleficorum (Trèves, 1591), pp. 465-467. St. Gregory Nazianzen mentions (Oration xviii.) that St. Cyprian had been a magician.
 

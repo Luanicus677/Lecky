@@ -75,7 +75,8 @@ Notes for continuing:
   Done: the Grillandus physicians passage (on the Grillandi source page, with an edition table).
   Also done (page `sprenger-malleus-maleficarum.md`, vol. I = Dm4y): Pars I Quaest. III p. 32 (leaf n77, Paul/angels/incubi; Lecky says Quaest. 4),
   Pars II Quaest. II cap. I p. 273 (n312, hair), cap. VI pp. 300, 305 (n352, n355, baptismal exorcism). In Dm4y printed page = leaf - 45 near p. 32; leaf - 39 near p. 273.
-  Not done: Gerson on the devil as Christ (vol. II p. 77), Spina pp. 191, 253, 299, 300, the Cologne text, Nider "p. 522" (not matched).
+  Also done: Gerson p. 77 (page `gerson-de-probatione-spirituum.md`; vol. II part 1 = v1J2, leaf n108).
+  Not done: Spina pp. 191, 253, 299, 300, the Cologne text, Nider "p. 522" (not matched).
   The OCR of these Google Books scans is very poor (long s); locate passages with `_djvu.xml` and read the images.
 - Garinet: other cited pages (6, 14-15, 35, 39, 45, 75, 121-122, 256, 298-302) are not transcribed. Do not trust `_page_numbers.json`
   for this scan: p. 38 is `n95`, p. 41 is `n98`, p. 42 is `n99`.
