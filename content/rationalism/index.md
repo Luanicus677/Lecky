@@ -24,7 +24,8 @@ back_link:
 ## Volume II
 
 <ol class="toc">
-<li>Chapters I&ndash;IV <span class="work-status">not yet added</span></li>
+<li><a href="vol2-ch4.html">Chapter IV (continued) — On Persecution: Part II, The History of Persecution</a> <span class="work-status">complete (pp. 1–105)</span></li>
+<li>Chapters V&ndash;VI <span class="work-status">not yet added</span></li>
 </ol>
 
 <p style="color:var(--fg-faint); font-size:0.85rem;">Chapter titles above are taken from Lecky's own table of contents in the 1865 second edition.</p>
