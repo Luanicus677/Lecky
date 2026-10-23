@@ -27,7 +27,7 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 `content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
 `content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
-`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–223 done (stops after "...attach a peculiar sanctity to the image."; next text starts "Of all the forms of anthropomorphism that are displayed in Catholic art", p. 223; OCR line ~9340 of `lecky1.txt`; p. 223 is `n252`). Footnotes so far `[^1]`–`[^16]`; continue at `[^17]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Greek and Latin in the notes were checked against the scan (Ἰχθύς etc.).
+`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–253 done. The text stops after "...after the revival of learning." (p. 253, the paragraph before "Idolatry, as I have said, is the natural form of worship"; OCR line ~10520 of `lecky1.txt`; p. 253 is `n282`). Footnotes so far `[^1]`–`[^59]`; continue at `[^60]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Latin, Greek and French in the notes were checked against the scan. Tooling: the chapter is built from part files in the session scratchpad (b*.md bodies, d*.md footnotes, `assemble.py`); a later session should just edit `vol1-ch3.md` directly.
 Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
 Printer's slips left as printed in ch. II and III ("interpretetion", "one the most common"): "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
 
