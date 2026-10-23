@@ -105,4 +105,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="scot-discovery-of-witchcraft.html">Scot, <em>Discovery of Witchcraft</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Book II, chapters 1–2 (pp. 11–12 of the 1665 printing): the inquisitors’ “order of examination”, with the Scottish box in the church, compared with Lecky’s “frightful catalogue of the tortures”. Cited in <em>Rationalism</em>, ch. I, note 66.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="burt-letters-north-of-scotland.html">Burt, <em>Letters from the North of Scotland</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The burning of a Sutherland woman at Dornoch in June 1727 (Letter XII), from the 1754 edition, compared with Lecky’s note on the last Scottish witch-execution. Cited in <em>Rationalism</em>, ch. I, note 166.</div>
+</li>
 </ul>
