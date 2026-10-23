@@ -16,18 +16,36 @@
 
   function removePopup() {
     if (activePopup) {
-      activePopup.remove();
+      var box = activePopup;
       activePopup = null;
+      box.classList.remove("popup-visible");
+      setTimeout(function () {
+        box.remove();
+      }, 120);
     }
   }
 
   function positionNear(box, anchorEl) {
     var r = anchorEl.getBoundingClientRect();
-    var top = window.scrollY + r.bottom + 8;
     var left = window.scrollX + r.left;
     document.body.appendChild(box);
     var bw = box.offsetWidth;
+    var bh = box.offsetHeight;
     var vw = document.documentElement.clientWidth;
+    var vh = document.documentElement.clientHeight;
+
+    // Edge-flip: if there isn't room below the anchor but there is above,
+    // show the popup above it instead of letting it run off-screen.
+    var spaceBelow = vh - r.bottom;
+    var top;
+    if (spaceBelow < bh + 16 && r.top > bh + 16) {
+      top = window.scrollY + r.top - bh - 8;
+      box.classList.add("popup-above");
+    } else {
+      top = window.scrollY + r.bottom + 8;
+      box.classList.remove("popup-above");
+    }
+
     if (left + bw > window.scrollX + vw - 16) {
       left = window.scrollX + vw - bw - 16;
     }
@@ -41,6 +59,9 @@
     activePopup = box;
     box.className = "popup-box";
     positionNear(box, anchorEl);
+    requestAnimationFrame(function () {
+      box.classList.add("popup-visible");
+    });
     box.addEventListener("mouseenter", clearTimers);
     box.addEventListener("mouseleave", scheduleHide);
   }
@@ -50,36 +71,19 @@
     hideTimer = setTimeout(removePopup, 220);
   }
 
-  // --- local footnotes: content already in the DOM, just clone it ---
+  // --- footnotes: now always-visible margin sidenotes (see sidenotes.js)
+  // on wide screens, so no hover-popup is needed there -- the note is
+  // already sitting right next to its marker. On narrow screens, where
+  // the CSS hides sidenotes (@media max-width: 1180px in style.css),
+  // tapping the marker toggles the note open inline instead. ---
   function handleFootnoteRef(sup) {
-    var link = sup.querySelector("a");
-    if (!link) return;
-    var id = link.getAttribute("href");
-    if (!id || id.charAt(0) !== "#") return;
-    // getElementById (not querySelector) because footnote ids contain
-    // literal colons (e.g. "fn:sample"), which are invalid unescaped in
-    // a CSS selector string.
-    var target = document.getElementById(id.slice(1));
+    var target = document.getElementById("sn:" + sup.id.replace(/^fnref:/, ""));
     if (!target) return;
-
-    sup.addEventListener("mouseenter", function () {
-      clearTimers();
-      showTimer = setTimeout(function () {
-        var box = document.createElement("div");
-        var title = document.createElement("div");
-        title.className = "popup-title";
-        title.textContent = "Footnote";
-        box.appendChild(title);
-        var body = document.createElement("div");
-        body.className = "popup-body";
-        body.innerHTML = target.innerHTML.replace(
-          /<a class="footnote-backref"[^>]*>.*?<\/a>/, ""
-        );
-        box.appendChild(body);
-        showBox(box, sup);
-      }, 140);
+    sup.addEventListener("click", function (event) {
+      if (window.matchMedia("(min-width: 1181px)").matches) return; // handled by CSS/sidenotes.js
+      event.preventDefault();
+      target.classList.toggle("sidenote-inline-shown");
     });
-    sup.addEventListener("mouseleave", scheduleHide);
   }
 
   // --- cross-page references: fetch same-origin page, extract #id or .abstract ---
@@ -161,17 +165,23 @@
   }
 
   function init() {
-    if (isTouch) return; // mobile/touch: plain navigation, no hover popups
+    // Footnote tap-to-toggle works on touch too (it's a click handler,
+    // and it's the narrow-screen fallback for notes the CSS hides there).
     document.querySelectorAll("sup.footnote-ref").forEach(handleFootnoteRef);
-    document.querySelectorAll("a.popup-ref").forEach(handlePopupRef);
-    document.addEventListener(
-      "scroll",
-      function () {
-        clearTimers();
-        removePopup();
-      },
-      { passive: true }
-    );
+
+    // Cross-page hover-preview popups need a mouse; on touch, links just
+    // navigate normally.
+    if (!isTouch) {
+      document.querySelectorAll("a.popup-ref").forEach(handlePopupRef);
+      document.addEventListener(
+        "scroll",
+        function () {
+          clearTimers();
+          removePopup();
+        },
+        { passive: true }
+      );
+    }
   }
 
   if (document.readyState === "loading") {
