@@ -9,15 +9,16 @@ A reading edition of William Edward Hartpole Lecky's major works, built page by 
 
 ## Current status
 
-This is a scaffold. The typography, layout, footnote system, sidenotes, and hover-popup mechanism are built and working — but **the chapter text you see on the Rationalism pages right now is placeholder filler**, clearly marked, so the design can be checked before real text is dropped in. It is not Lecky's actual prose.
+The typography, layout, footnote system, sidenotes, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan.
+
+There is no clean transcription of this title anywhere (it isn't on Project Gutenberg or Wikisource), so each chapter comes from a 160-year-old library scan's raw OCR, run through an automated cleanup pass and then read through by hand before publishing. That means it goes up one chapter at a time rather than all at once.
 
 Next steps, in order:
 
-1. Source a clean, complete text of *The History of the Rise and Influence of the Spirit of Rationalism in Europe* (1865) — this specific title is not on Project Gutenberg in a clean transcription, so it will likely come from a library scan and need OCR correction.
-2. Replace the placeholder chapter with the real, proofread text, structured by volume and chapter.
-3. Identify every work, document, and figure Lecky cites, and build reference pages for them — starting with the source texts (the witchcraft manuals, pamphlets, and letters), each transcribed in full where we can find them.
-4. Wire citations in the main text to hover-previews and click-throughs into those reference pages.
-5. A cross-reference map of how it all connects.
+1. Clean and proofread Volume I, Chapter I (roughly 150 printed pages — the longest chapter in the book), then continue through the rest of Volume I and Volume II.
+2. Identify every work, document, and figure Lecky cites, and build reference pages for them — starting with the source texts (the witchcraft manuals, pamphlets, and letters), each transcribed in full where we can find them.
+3. Wire citations in the main text to hover-previews and click-throughs into those reference pages.
+4. A cross-reference map of how it all connects.
 
 ## On the text
 

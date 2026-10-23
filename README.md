@@ -82,6 +82,38 @@ GitHub Pages, configured to serve from the `main` branch's `/docs` folder
 No GitHub Actions workflow is needed for this since the HTML is pre-built
 and committed.
 
+## Sourcing Rationalism in Europe
+
+Neither Project Gutenberg nor Wikisource has this title. The source is the
+1865 second edition, scanned by the University of Toronto and held on
+Archive.org:
+
+- Vol. I: https://archive.org/details/rationalismeuro01leckuoft
+- Vol. II: https://archive.org/details/rationalismineur02leckuoft
+
+Each volume's `_djvu.txt` (raw OCR) is downloaded from
+`https://archive.org/download/<identifier>/<identifier>_djvu.txt` (follow
+redirects — it 302s to a CDN host). The OCR has real damage: misread
+ligatures, mangled running headers/page numbers injected mid-text, and
+mid-word line breaks where the original hyphen glyph was dropped entirely
+by the scanner, leaving two word-fragments with just a space between them.
+
+`tools/clean_ocr.py` does a first automated pass: strips running-header
+noise, rejoins hyphenated line-breaks, and uses a dictionary check
+(`pyspellchecker`) to catch dropped-hyphen splits where joining the two
+fragments produces a real word. It is not sufficient on its own — every
+chapter processed so far (just the Introduction, currently) also needed a
+second, hand-verified pass of exact-string fixes for errors the automated
+pass missed (chiefly: splits where *both* fragments happen to be valid
+words on their own, like "them selves" or "con science", which the
+dictionary check can't distinguish from genuine two-word phrases). Read the
+cleaned output against the raw scan before publishing a chapter; don't
+trust the automated pass alone.
+
+Chapter I of Volume I (pp. 1–151 in the original) is the next target and,
+at ~150 printed pages, is the longest chapter in the book — expect to
+process it in sections rather than all at once.
+
 ## Fonts
 
 Body text is set in [EB Garamond](https://github.com/octaviopardo/EBGaramond12)
