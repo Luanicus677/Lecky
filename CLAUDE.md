@@ -60,6 +60,21 @@ Model: `content/ref/grillandi-de-sortilegiis.md`. For a cited work:
   Link people to Wikipedia (`https://en.wikipedia.org/wiki/...`); popups and icons are automatic.
 - Add the page to `content/ref/index.md`.
 
+Source pages so far (`content/ref/`): Grillandi (1 passage), Garinet (3: preface pp. xiii-xiv, pp. 38, 42),
+Bodin's Demonomanie (3: pp. 15, 151-152, Refutation near p. 252), Codex Theodosianus IX.16 (laws 4 and 6).
+Notes for continuing:
+- Bodin: use the 1582 Paris printing (`per_witchcraft-in-europe-and-america_bodin-jean_1582_125`); its pagination matches Lecky's
+  pp. 15 and 152 (image index = leaf; p. 15 is `n52`, pp. 151-152 are `n332`-`n333`). The OCR is poor, so locate passages with
+  `<id>_djvu.xml` (split on `<OBJECT`), then read the page image. Not yet done: Bodin pp. 40, 107, 109, 217, 228.
+- Codex Theodosianus: Ritter, Leipzig 1738, vol. III is `BRes1409273` (law 4 on p. 128 = `n143`; law 6 on pp. 133-134 = `n148`-`n149`).
+  Laws 1-3, 5 and 7 (cited in ch. I notes 26, 27, 32) are not transcribed.
+- Malleus Maleficarum: not started. Lyon 1669 copies exist (`bub_gb_baYRf7HaYqUC`, `bub_gb_tH_G25ijvkEC`, `bub_gb_C1nAo1WuS_AC`;
+  McGill copies have no OCR text), but their OCR did not match Lecky's passages (Grillandus on physicians, Gerson, Spina);
+  Lecky's volume and page numbers have not been matched to an edition. Start by reading page images.
+- Garinet: other cited pages (6, 14-15, 35, 39, 45, 75, 121-122, 256, 298-302) are not transcribed. Do not trust `_page_numbers.json`
+  for this scan: p. 38 is `n95`, p. 41 is `n98`, p. 42 is `n99`.
+- Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

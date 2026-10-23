@@ -10,7 +10,15 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Paolo Grillandi’s handbook on sorcery, 1530s. Quaestio III, §12, in Latin and English, with Lecky’s quotation compared against the 1545 and 1592 editions. Cited in <em>Rationalism</em>, ch. I, note 1.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="garinet-histoire-de-la-magie.html">Garinet, <em>Histoire de la Magie en France</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">Jules Garinet’s history of sorcery in France, 1818. The preface’s survey of ancient laws against sorcerers (pp. xiii–xiv), in French and English, compared with Lecky’s summary, including the sorceress “Lemia”. Cited in <em>Rationalism</em>, ch. I, notes 3, 4, 9, and 14.</div>
+<div class="work-title"><a class="popup-ref" href="garinet-histoire-de-la-magie.html">Garinet, <em>Histoire de la Magie en France</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Jules Garinet’s history of sorcery in France, 1818. The preface’s survey of ancient laws against sorcerers (pp. xiii–xiv), including the sorceress “Lemia”, and the famine of 795 and the eclipse under Louis the Debonair (pp. 38, 42), in French and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 3, 4, 9, 14, 39, 40, and others.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="bodin-demonomanie-des-sorciers.html">Bodin, <em>Démonomanie des Sorciers</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Jean Bodin’s treatise on sorcerers, 1580. Baal-zebub and the flies (p. 15), the pardon of Trois-Échelles (pp. 151–152), and the appeal to the laws of all peoples against Wier (near p. 252), in French and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 68, 74, 88, and 89.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="codex-theodosianus-ix-16.html"><em>Codex Theodosianus</em>, IX.16</a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Constantius II’s laws of 357 and 358 against divination and magic (laws 4 and 6), in Latin and English from the 1738 Leipzig edition, compared with Lecky’s quotation. Cited in <em>Rationalism</em>, ch. I, note 28.</div>
 </li>
 </ul>
