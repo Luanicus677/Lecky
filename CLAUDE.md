@@ -23,12 +23,12 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 - Never invent a citation, a page number, or a reading. Verify against a scan (archive.org page images) or
   label it as unverified.
 
-## Workflow: transcribing Rationalism in Europe (Vol. I, Chapter I is done; the same steps apply to Chapter II onward)
+## Workflow: transcribing Rationalism in Europe (all of Vol. I is done; the same steps apply to Vol. II)
 
 `content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
 `content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
 `content/rationalism/vol1-ch3.md` is COMPLETE: printed pages 206–385, footnotes `[^1]`–`[^184]`.
-`content/rationalism/vol1-ch4.md` ("ON PERSECUTION. PART I. THE ANTECEDENTS OF PERSECUTION") is IN PROGRESS: printed pages 386–423 done. The text stops after "...the other is baptised, and is saved." (p. 423, the Augustine two-infants illustration); next paragraph starts "But the doctrine of Augustine and Ambrose never seems to have been pushed in the Early Church to the same extremes" (p. 423/424; OCR line ~17062 of `lecky1.txt`; p. 424 is `n453`). Footnotes so far `[^1]`–`[^28]`; continue at `[^29]`. Vol. I of the 1865 edition ends at line 17970 of `lecky1.txt` ("END OF THE FIRST VOLUME"), so Chapter IV runs to about p. 470. Latin, Greek and French in the notes were checked against the scan.
+`content/rationalism/vol1-ch4.md` ("ON PERSECUTION. PART I. THE ANTECEDENTS OF PERSECUTION") is COMPLETE as far as Volume I goes: printed pages 386–447, footnotes `[^1]`–`[^45]`; the volume ends "...the soil of England for the last time stained with the misbeliever's blood!" followed by "END OF THE FIRST VOLUME." **Volume I is therefore finished (pp. 1–447).** Next: Volume II (Chapter IV Part II onwards; see Lecky's own contents list for vol. II in `index.md`). The OCR for vol. II must be downloaded; the likely archive.org id is `rationalismeuro02leckuoft` (the same University of Toronto series as vol. I; an HTTP 503 was returned at the last attempt, so check the id and retry). Vol. II printed page p will have its own leaf offset: find it by comparing a page header in the OCR with the image index. Latin, Greek and French in the notes of Chapters II–IV were checked against the scan.
 Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
 Printer's slips left as printed in ch. II and III ("interpretetion", "one the most common"): "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
 
