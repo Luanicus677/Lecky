@@ -85,6 +85,7 @@ Notes for continuing:
 - Garinet: other cited pages (6, 14-15, 35, 39, 45, 75, 121-122, 256, 298-302) are not transcribed. Do not trust `_page_numbers.json`
   for this scan: p. 38 is `n95`, p. 41 is `n98`, p. 42 is `n99`.
 - Middleton, Free Inquiry (`middleton-free-inquiry.md`): Dublin 1749 printing `freeinquiryintom00midd` (image index n = djvu object order, p. xv = n22, p. lxxxiv = n89, pp. 85-87 = n232-n234; long-s OCR, search for 'surprizing', 'explicitely'). Done: Ch. II notes 3, 10, 11. Not done: ch. IV note 25 (Introd. p. 86 'ninety heresies') and note 37; the London printings' pagination is unchecked.
+- Simancas (`simancas-de-catholicis-institutionibus.md`): only 1575 Rome editions found online (`bub_gb_n-Ktt0tILHMC`, also `AFD0229`; 1692 Opera `bub_gb_cUhD5jRglLAC`); no 1569 copy. Lecky's p. 365 (fides) matches the 1575 pagination, but his torture pages (297-309, 305) do not: torture is Titulus LXV, pp. 494-513 (Vives p. 495, Spain p. 506). Page images viewed: 365, 366, 494, 495, 506. The 'vivid description of modes of torture' is not confirmed; pp. 497-513 only keyword-scanned.
 - Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
 
 ## Build, test, deploy

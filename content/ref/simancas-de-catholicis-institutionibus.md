@@ -1,0 +1,110 @@
+---
+title: Simancas, De Catholicis Institutionibus
+description: "Passages from Diego de Simancas’s De Catholicis Institutionibus (Rome, 1575) that Lecky cites: faith with heretics (pp. 365–366), and torture (pp. 494, 495, 506), in Latin and English, with Lecky’s quotations and page numbers compared."
+heading: Simancas, <em>De Catholicis Institutionibus</em>
+subtitle: Diego de Simancas, bishop of Badajoz and Zamora
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Work", "<a href=\"https://en.wikipedia.org/wiki/Diego_de_Simancas\">Diego de Simancas</a> (“Jacobus Simancas”), <em>De Catholicis Institutionibus liber ad praecavendas et extirpandas haereses</em>, a manual for inquisitors and judges of heresy, first published in the 1550s. Lecky cites it as “<em>De Catholicis Institutionibus ad praecavendas et extirpandas Haereses</em> (1569)”."]
+  - ["Edition used", "Rome, <em>in aedibus Populi Romani</em>, 1575 (the title page says <em>tertio nunc editus</em>, “now published for the third time”): <a href=\"https://archive.org/details/bub_gb_n-Ktt0tILHMC\">archive.org/details/bub_gb_n-Ktt0tILHMC</a>, a Google Books scan. Image index = djvu object order: p. 365 is <a href=\"https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n406/mode/2up\">n406</a>, p. 366 is n407, p. 494 is <a href=\"https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n535/mode/2up\">n535</a>, p. 495 is n536, p. 506 is <a href=\"https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n547/mode/2up\">n547</a>. <strong>This is not the edition Lecky cites.</strong> I could not find a 1569 copy online (the other copies I found are another 1575 scan, <a href=\"https://archive.org/details/AFD0229\">AFD0229</a>, and the 1692 <em>Opera</em>, <a href=\"https://archive.org/details/bub_gb_cUhD5jRglLAC\">bub_gb_cUhD5jRglLAC</a>)."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn158\">Rationalism, ch. III, note 158</a> (torture; the notes there also name Simancas in note 155) and <a href=\"../rationalism/vol1-ch4.html#fn37\">ch. IV, note 37</a> (faith with heretics)."]
+  - ["Status", "Four passages transcribed from the page images and translated (translations are this edition’s own drafts). Lecky’s page numbers for the torture material do not match this edition; see below."]
+abstract: |
+  <p>Simancas wrote his handbook for the Spanish Inquisition. Lecky uses it twice. In Chapter IV he quotes it to show the doctrine that heretics have “no moral rights”: faith given to them need not be kept. In Chapter III he cites it for the frequency of torture in the hands of the inquisitors, for Simancas’s attack on Juan Luis Vives’s condemnation of torture, and for the contrast between public torture elsewhere and secret torture in Spain.</p><p>The Latin Lecky quotes is accurate except for one dropped word. But the page numbers he gives for torture (pp. 297–309, and p. 305) match nothing in the 1575 Rome edition, where the chapter on torture is at pp. 494–513, and he leaves out the qualification Simancas adds on the next page: that a promise given by a prince or public authority <em>must</em> be kept. See <a href="#comparison">the comparison below</a>.</p>
+---
+<section id="fides-365" class="passage">
+<h2>Faith with Heretics (pp. 365–366)</h2>
+
+<p class="passage-source">Latin: Rome, 1575, <em>Titulus</em> XLVI (on penalties for heretics), §§ 52–54, pp. 365–366 (<a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n406/mode/2up">scan</a>, <a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n407/mode/2up">next page</a>). Abbreviations expanded, <em>u</em>/<em>v</em> and <em>j</em>/<em>i</em> normalised, and the marginal citations of authorities omitted. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>52. <span class="cited-passage">Ad poenam quoque pertinet et haereticorum odium, quod fides illis data servanda non est. Nam si tyrannis, piratis, et caeteris publicis praedonibus, quia corpus occidunt, fides servanda non est, longe minus haereticis pertinacibus, qui occidunt animas:</span> porro fieri non potest incolumibus viris huiusmodi, quin simplices fidelium animae capiantur. At grave est fidem fallere: verumtamen (ut Marius Salomonius ait) promissa contra Christum fides, si praestetur, utique perfidia est. Iure igitur haeretici quidam gravissimo concilii Constantiensis iudicio legitima flamma cremati sunt, quamvis promissa illis securitas fuisset. Sed Iacobus Menochius, non male probat, concilium Constantiense nihil fecisse contra salvum conductum, qui servandus omnino est, cum a principe vel a publica potestate fuerit illis concessus, ut paulo post adiungam. Beatus quoque Thomas censet, haereticum indocilem prodendum esse iudicibus, non obstante fide et iuramento, quibus catholicum astrinxerit.</p>
+<p>53. Accedit eodem, quod cum haereticis nullum commercium, nec pax ulla catholicis esse debet: quamobrem fides illis data, etiam iuramento firmata, contra publicum bonum, contra salutem animarum, contra iura divina et humana, nullo modo servanda est. In malis promissis, inquit Isidorus, rescinde fidem: et iuramentum esse non debet vinculum iniquitatis. […]</p>
+<p>54. Si tamen fides haereticis data esset a principe vel publica potestate: exacte servanda est: si modo quod addixisset, non sit de illo genere rerum, quas lex aut inspirata, aut naturalis vetat praestare. […] quod tamen privatus invito superiore servare non teneretur: publica namque authoritas nullius partis suae, sive magnae, sive […]</p>
+</div>
+<div class="rendering" lang="en">
+<p>52. <span class="cited-passage">It also belongs to the penalty, and to the hatred owed to heretics, that faith given to them need not be kept. For if faith need not be kept with tyrants, pirates, and other public robbers, because they kill the body, much less with obstinate heretics, who kill souls:</span> moreover it cannot be that such men remain unharmed without simple believers’ souls being caught. But it is a grave thing to break faith: yet (as Marius Salomonius says) a promise made against Christ, if it is kept, is nothing but treachery. So certain heretics were rightly burned with lawful fire by the most weighty judgment of the Council of Constance, although security had been promised them. But Jacobus Menochius argues, not badly, that the Council of Constance did nothing against the safe-conduct, which must absolutely be kept when it has been granted to them by a prince or by public authority, as I shall add shortly. Blessed Thomas also holds that an unteachable heretic must be handed over to the judges, notwithstanding any faith and oath by which he has bound a Catholic.</p>
+<p>53. To this it may be added that there ought to be no dealings and no peace between Catholics and heretics: so faith given to them, even if confirmed by an oath, against the public good, against the salvation of souls, against divine and human law, is by no means to be kept. “In wicked promises,” says Isidore, “break faith: and an oath ought not to be a bond of iniquity.” […]</p>
+<p>54. But if faith were given to heretics by a prince or public authority, it is to be kept exactly, provided that what he promised is not of the kind that law, whether inspired or natural, forbids anyone to grant. […] a private person would not be bound to keep it against his superior’s will; for public authority […]</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>Where the passage sits, and what is left out</summary>
+<p>The book’s own index lists three entries for this stretch, which shows how Simancas organises it: “Faith given to heretics need not be kept” (p. 365), and “Faith given to heretics by a prince or public authority must be kept” (p. 366). I have transcribed only the opening of § 54; the rest of that section runs onto the following page, where Simancas argues that a public authority cannot bind itself away from its own duties. The marginal references (Menochius, Salomonius, Isidore, Gelasius, and others) are omitted.</p>
+</details>
+</section>
+
+<section id="torture-494" class="passage">
+<h2>“The Apostolic Inquisitors Very Often Torture the Accused” (p. 494)</h2>
+
+<p class="passage-source">Latin: <em>Titulus</em> LXV, “De Tormentis” (on torture), § 1, p. 494 (<a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n535/mode/2up">scan</a>). Normalised as above. <span class="cited-passage">Highlighted</span>: the words Lecky quotes in note 158.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>1. Tormentorum et quaestionum usus in causis criminalibus frequentissimus est, <span class="cited-passage">et inquisitores apostolici saepissime reos torquere solent.</span> Quamobrem non erit alienum, de quaestionibus in praesentia disserere. Quaestio autem est, ut Aristoteles inquit, invita conscii hominis confessio.</p>
+</div>
+<div class="rendering" lang="en">
+<p>1. The use of torments and judicial questioning is very frequent in criminal cases, <span class="cited-passage">and the apostolic inquisitors very often torture the accused.</span> It will therefore not be out of place to discuss torture here. “Torture,” as Aristotle says, “is the confession of a man [<em>conscii</em>] wrung from him against his will.” (My rendering of <em>invita conscii hominis confessio</em> is a guess at an elliptical phrase.)</p>
+</div>
+</div>
+</section>
+
+<section id="vives-495" class="passage">
+<h2>Against Vives (p. 495)</h2>
+
+<p class="passage-source">Latin: <em>Titulus</em> LXV, § 7, p. 495 (<a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n536/mode/2up">scan</a>). Normalised as above. This is the passage behind Lecky’s statement that Vives’s protest was “vehemently denounced” by Simancas. Simancas first corrects Vives’s reading of Cicero (§ 6) and then takes up the larger claim.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>7. Illud vero graviori censura dignum est, quod idem Ludovicus Vives, omnem tormentorum usum condemnans, ait: tyrannicum id esse inventum, caritati et mansuetudini Christianae, sed et omni etiam humanitati contrarium. Addit etiam, hoc utile non esse, et sine damno rerum publicarum tolli posse. Praeterea, multas esse gentes, et quidem barbaras, quae ferum et immane arbitrantur, torqueri hominem, de cuius facinore dubitatur: Profecto, inquit, carnifices animos habemus, qui sustinere possumus gemitus, et lachrymas tanto cum dolore expressas hominis, quem nescimus sit ne nocens. Quid? quod acerbam, et perquam iniquam legem sinimus in capita nostra dominari: cum suspiciones tormentis armamus, et inimicis delationibus. Et tandem fortissima esse ait, quaecunque rhetores contra tormenta dicunt: quae vero pro tormentis futilia et imbecilla.</p>
+</div>
+<div class="rendering" lang="en">
+<p>7. But this deserves a graver censure: that the same Ludovicus Vives, condemning every use of torture, says that it is a tyrannical invention, contrary to Christian charity and gentleness, and indeed to all humanity. He adds that it is not useful and could be abolished without harm to states. Moreover, there are many peoples, and barbarous ones at that, who think it savage and monstrous for a man to be tortured whose crime is in doubt: “Truly,” he says, “we have the hearts of executioners, if we can bear the groans and tears, forced out with such pain, of a man whom we do not know to be guilty. What? We allow a bitter and most unjust law to rule over our heads, when we arm suspicions with torture, and enemies with denunciations.” And in the end he says that whatever the rhetoricians say against torture is very strong, and what is said for it feeble and trivial.</p>
+</div>
+</div>
+</section>
+
+<section id="spain-506" class="passage">
+<h2>Public Torture Elsewhere, Private in Spain (p. 506)</h2>
+
+<p class="passage-source">Latin: <em>Titulus</em> LXV, § 55, p. 506 (<a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n547/mode/2up">scan</a>). Normalised as above. <span class="cited-passage">Highlighted</span>: what Lecky’s note 158 reports.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>55. <span class="cited-passage">Et quamvis apud alias nationes rei publice torqueri soleant, apud Hispanos tamen regia lege prohibetur, ne quispiam sit praesens, dum rei torquentur, praeter iudices, tabelliones, atque tortores.</span> Quod et Bartolus fieri debere censuit, et longe quidem melius est, quam ut id palam fiat, ne vel circumstantium conspectu, vel advocatorum favore, vel teneriorum gemitu, lachrymis, aut commiseratione, reus falsum confiteatur, aut verum celet. Hoc amplius curare debent inquisitores, ut eligant tortores idoneos, ex veteribus Christianis ortos, quos iureiurando astringere debent, ne ullo pacto occulta retegant, neque dicta foras eliminent.</p>
+</div>
+<div class="rendering" lang="en">
+<p>55. <span class="cited-passage">And although among other nations the accused are commonly tortured in public, among the Spaniards it is forbidden by royal law for anyone to be present while the accused are tortured, except the judges, notaries, and torturers.</span> Bartolus also held that this should be done, and it is far better than that it should be done openly, so that the accused may not, through the sight of the bystanders, or the favour of advocates, or the groans, tears or pity of the tender-hearted, confess falsely or conceal the truth. In addition the inquisitors must take care to choose suitable torturers, born of old Christian families, whom they must bind by oath never to reveal secrets or let words out of doors.</p>
+</div>
+</div>
+</section>
+
+<section id="comparison" class="passage">
+<h2>Lecky’s Citations Compared</h2>
+
+<div class="table-wrap">
+<table class="collation">
+<thead>
+<tr><th></th><th>Lecky, 1865</th><th>Rome, 1575</th></tr>
+</thead>
+<tbody>
+<tr><th>Ch. IV, note 37 (“p. 365”)</th><td lang="la">Ad poenam quoque pertinet et haereticorum odium, quod fides illis data servanda non est. Nam si tyrannis, piratis, et caeteris praedonibus quia corpus occidunt fides servanda non est, longe minus haereticis pertinacibus qui occidunt animas.</td><td lang="la">…Nam si tyrannis, piratis, et caeteris <strong>publicis</strong> praedonibus, quia corpus occidunt, fides servanda non est, longe minus haereticis pertinacibus, qui occidunt animas: porro fieri non potest… (p. 365, § 52)</td></tr>
+<tr><th>Ch. III, note 158 (“Inquisitores Apostolici saepissime reos torquere solent”)</th><td lang="la">Inquisitores Apostolici saepissime reos torquere solent</td><td lang="la">et inquisitores apostolici saepissime reos torquere solent (p. 494, § 1). Word for word.</td></tr>
+<tr><th>Ch. III, note 158: pages</th><td>“pp. 297–309” for the torments; “p. 305” for public against secret torture</td><td>Torture is <em>Titulus</em> LXV, pp. 494–513. Vives is at p. 495, the Spanish rule at p. 506. The pages are 200 or so higher than Lecky’s.</td></tr>
+</tbody>
+</table>
+</div>
+
+<h3>What does not match</h3>
+
+<ul>
+<li><strong>One word dropped.</strong> Lecky’s “caeteris praedonibus” is “caeteris <em>publicis</em> praedonibus” in the 1575 text. It does not change the sense.</li>
+<li><strong>The page numbers for torture.</strong> The fides passage is on p. 365 in the 1575 edition, exactly where Lecky puts it, but his “pp. 297–309” and “p. 305” for torture are not close to anything here. The “public against secret” passage is on p. 506. A different edition could explain the gap, but then the p. 365 match would be a coincidence; it is also possible that Lecky’s figures are misprints (a “5” read as “3”, for 505–6). I cannot decide this without a copy of the 1569 edition.</li>
+<li><strong>“A very vivid description of different modes of torture” (Lecky, note 158).</strong> In the pages I read, §§ 1, 6, 7 and 55, Simancas argues the law: whether and when the accused may be tortured, and by whom. I scanned the rest of pp. 494–513 only by keyword and saw rules and authorities (the <em lang="la">equuleus</em> at p. 496, for example, is cited from Ambrose), not a catalogue of tortures. If such a catalogue exists, it is in pages I did not read, or in another edition.</li>
+<li><strong>Left out.</strong> Lecky’s “heretics are so intensely criminal as to have no moral rights” is a fair reading of § 52, but it is not the whole of Simancas’s position. The next two sections limit it: faith given by a prince or public authority, including a safe-conduct, must be kept (§ 54, and Menochius’s defence of the Council of Constance on p. 366). Simancas still holds that the Council of Constance rightly burned the heretics it did, and that private promises to heretics bind no one.</li>
+</ul>
+</section>
