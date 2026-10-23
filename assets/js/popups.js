@@ -1,9 +1,12 @@
-// popups.js — gwern.net-style popups for footnotes and same-site references.
+// popups.js — gwern.net-style popups for footnotes, same-site references,
+// Wikipedia links, and translations.
 // Hovering a footnote marker shows the note in a popup with a mini title bar
 // (close / collapse / pin); clicking the marker still jumps to the note at the
 // bottom of the page. Popups can be pinned (stay open) and dragged by their
-// title bar. Frame design follows gwern.net's popups (CC0/MIT); this code is
-// our own. No JS: markers are plain links to the notes, which still works.
+// title bar. Links inside a popup get popups of their own, stacked on top of
+// it, so a reader can follow a chain of references without leaving the page.
+// Frame design follows gwern.net's popups (CC0/MIT); this code is our own.
+// No JS: markers and links are plain links, and translations show inline.
 (function () {
   "use strict";
 
@@ -11,11 +14,14 @@
   var SHOW_DELAY = 150;
   var HIDE_DELAY = 250;
 
-  var transient = null; // the one unpinned popup, if any: { box, target }
+  // Unpinned popups, outermost first. A popup opened from a link inside
+  // another popup records that popup as its _parentBox.
+  var chain = [];
   var showTimer = null;
   var hideTimer = null;
   var zTop = 50;
   var pageCache = Object.create(null);
+  var wikiCache = Object.create(null);
 
   var ICONS = {
     close:
@@ -29,9 +35,8 @@
       'fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/></svg>',
   };
 
-  function clearTimers() {
+  function clearShow() {
     if (showTimer) { clearTimeout(showTimer); showTimer = null; }
-    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
   }
 
   function setHighlight(box, on) {
@@ -40,25 +45,48 @@
     });
   }
 
+  function ancestors(box) {
+    var list = [];
+    for (; box; box = box._parentBox) list.push(box);
+    return list;
+  }
+
   function removePopup(box) {
     if (!box || box._removed) return;
     box._removed = true;
-    if (transient && transient.box === box) transient = null;
-    if (box._target && box._target._pinnedPopup === box) box._target._pinnedPopup = null;
+    chain.slice().forEach(function (b) {
+      if (b._parentBox === box) removePopup(b);
+    });
+    var i = chain.indexOf(box);
+    if (i >= 0) chain.splice(i, 1);
+    if (box._target && box._target._popup === box) box._target._popup = null;
     setHighlight(box, false);
     box.classList.remove("popup-visible");
     setTimeout(function () { box.remove(); }, 120);
   }
 
-  function closeTransient() {
-    if (transient) removePopup(transient.box);
+  // Close every unpinned popup except `keep` and the popups it sits on.
+  function trimChain(keep) {
+    var stay = ancestors(keep);
+    chain.slice().forEach(function (b) {
+      if (stay.indexOf(b) < 0) removePopup(b);
+    });
   }
 
+  // After a short delay, keep the popups up to the innermost one the mouse is
+  // over (or over the link that opened it), and close the rest.
   function scheduleHide() {
-    clearTimers();
-    if (!transient) return;
-    var box = transient.box;
-    hideTimer = setTimeout(function () { removePopup(box); }, HIDE_DELAY);
+    if (hideTimer) clearTimeout(hideTimer);
+    hideTimer = setTimeout(function () {
+      hideTimer = null;
+      var keep = null;
+      for (var i = chain.length - 1; i >= 0 && !keep; i--) {
+        var b = chain[i];
+        if (b.matches(":hover") || (b._target && b._target.matches(":hover"))) keep = b;
+      }
+      if (!keep) keep = document.querySelector(".popup.pinned:hover");
+      trimChain(keep);
+    }, HIDE_DELAY);
   }
 
   function bringToFront(box) {
@@ -66,15 +94,13 @@
   }
 
   function togglePin(box) {
+    var i = chain.indexOf(box);
     if (box.classList.contains("pinned")) {
       box.classList.remove("pinned");
-      if (box._target) box._target._pinnedPopup = null;
-      if (transient && transient.box !== box) closeTransient();
-      transient = { box: box, target: box._target };
+      if (i < 0) chain.push(box);
     } else {
       box.classList.add("pinned");
-      if (box._target) box._target._pinnedPopup = box;
-      if (transient && transient.box === box) transient = null;
+      if (i >= 0) chain.splice(i, 1);
     }
   }
 
@@ -143,12 +169,7 @@
     bar.querySelector(".pin-button").addEventListener("click", function () { togglePin(box); });
     bar.addEventListener("mousedown", function (e) { startDrag(e, box); });
     box.addEventListener("mousedown", function () { bringToFront(box); });
-    box.addEventListener("mouseenter", function () {
-      if (transient && transient.box === box) clearTimers();
-    });
-    box.addEventListener("mouseleave", function () {
-      if (transient && transient.box === box) scheduleHide();
-    });
+    box.addEventListener("mouseleave", scheduleHide);
 
     return { box: box, content: content, titleEl: titleEl };
   }
@@ -160,7 +181,7 @@
     var vw = document.documentElement.clientWidth;
     var vh = document.documentElement.clientHeight;
 
-    // Below the marker; flip above if there isn't room below but is above.
+    // Below the anchor; flip above if there isn't room below but is above.
     var top;
     if (vh - r.bottom < bh + 16 && r.top > bh + 16) {
       top = window.scrollY + r.top - bh - 10;
@@ -177,47 +198,60 @@
   }
 
   function show(target, build, highlights) {
-    clearTimers();
-    if (transient && transient.target === target) return null;
-    if (target._pinnedPopup) {
-      bringToFront(target._pinnedPopup);
+    clearShow();
+    if (target._popup && !target._popup._removed) {
+      bringToFront(target._popup);
       return null;
     }
-    closeTransient();
+    var parentBox = target.closest(".popup");
+    trimChain(parentBox);
     var p = build();
     p.box._target = target;
+    p.box._parentBox = parentBox;
     p.box._highlights = highlights || [target];
+    target._popup = p.box;
     setHighlight(p.box, true);
     document.body.appendChild(p.box);
     bringToFront(p.box);
     position(p.box, target);
     requestAnimationFrame(function () { p.box.classList.add("popup-visible"); });
-    transient = { box: p.box, target: target };
+    chain.push(p.box);
     return p;
+  }
+
+  // Shared hover wiring: show after a delay, schedule hiding on leave.
+  function onHover(el, delay, open) {
+    el.addEventListener("mouseenter", function () {
+      clearShow();
+      showTimer = setTimeout(open, delay);
+    });
+    el.addEventListener("mouseleave", function () {
+      clearShow();
+      scheduleHide();
+    });
+  }
+
+  function fillContent(p, html, foreign) {
+    p.content.innerHTML = html;
+    bindAll(p.content, foreign);
   }
 
   // --- footnotes: content is already on the page, in section.footnotes ---
   function bindFootnoteRef(ref) {
     var note = document.getElementById((ref.getAttribute("href") || "").slice(1));
     if (!note) return;
-
-    ref.addEventListener("mouseenter", function () {
-      clearTimers();
-      showTimer = setTimeout(function () {
-        show(ref, function () {
-          var p = makePopup(null);
-          var clone = note.cloneNode(true);
-          clone.querySelectorAll(".footnote-back").forEach(function (el) { el.remove(); });
-          p.content.innerHTML = clone.innerHTML;
-          p.box.classList.add("footnote-popup");
-          return p;
-        }, [ref, note]);
-      }, SHOW_DELAY);
+    onHover(ref, SHOW_DELAY, function () {
+      var p = show(ref, function () { return makePopup(null); }, [ref, note]);
+      if (!p) return;
+      var clone = note.cloneNode(true);
+      clone.querySelectorAll(".footnote-back").forEach(function (el) { el.remove(); });
+      p.box.classList.add("footnote-popup");
+      fillContent(p, clone.innerHTML, false);
+      position(p.box, ref);
     });
-    ref.addEventListener("mouseleave", scheduleHide);
     ref.addEventListener("click", function () {
-      clearTimers();
-      closeTransient();
+      clearShow();
+      trimChain(ref.closest(".popup"));
     });
   }
 
@@ -231,7 +265,17 @@
           return res.text();
         })
         .then(function (html) {
-          return new DOMParser().parseFromString(html, "text/html");
+          var doc = new DOMParser().parseFromString(html, "text/html");
+          // Make the fetched page's relative links absolute, so they still
+          // point to the right place once shown inside this page.
+          var base = new URL(url, window.location.href);
+          doc.querySelectorAll("a[href]").forEach(function (a) {
+            a.setAttribute("href", new URL(a.getAttribute("href"), base).href);
+          });
+          doc.querySelectorAll("img[src]").forEach(function (img) {
+            img.setAttribute("src", new URL(img.getAttribute("src"), base).href);
+          });
+          return doc;
         });
       pageCache[url] = p;
     }
@@ -240,7 +284,7 @@
       if (fragmentId) el = doc.getElementById(fragmentId);
       if (!el) el = doc.querySelector(".abstract");
       if (!el) el = doc.querySelector("main.article .content p");
-      var titleEl = doc.querySelector(".page-meta h1, title");
+      var titleEl = doc.querySelector(".page-meta h1") || doc.querySelector("title");
       return {
         title: titleEl ? titleEl.textContent.replace(/\s+/g, " ").trim() : url,
         html: el ? el.innerHTML : "<p><em>No preview available.</em></p>",
@@ -256,52 +300,145 @@
     var fragmentId = url.hash ? url.hash.slice(1) : null;
     var pagePath = url.pathname + url.search;
 
-    link.addEventListener("mouseenter", function () {
-      clearTimers();
-      showTimer = setTimeout(function () {
-        var p = show(link, function () {
-          var q = makePopup("Loading…");
-          q.content.innerHTML = '<p class="popup-loading">Fetching reference…</p>';
-          return q;
-        });
-        if (!p) return;
-        fetchFragment(pagePath, fragmentId).then(
-          function (data) {
-            if (p.box._removed) return;
-            p.titleEl.textContent = data.title;
-            p.content.innerHTML = data.html;
-            var more = document.createElement("p");
-            var a = document.createElement("a");
-            a.href = href;
-            a.textContent = "Read in full →";
-            more.appendChild(a);
-            more.style.fontSize = "0.85em";
-            p.content.appendChild(more);
-            if (!p.box.classList.contains("pinned")) position(p.box, link);
-          },
-          function () {
-            if (!p.box._removed) p.content.innerHTML = '<p class="popup-loading">Couldn’t load preview.</p>';
-          }
-        );
-      }, 180);
+    onHover(link, 180, function () {
+      var p = show(link, function () {
+        var q = makePopup("Loading…");
+        q.content.innerHTML = '<p class="popup-loading">Fetching reference…</p>';
+        return q;
+      });
+      if (!p) return;
+      fetchFragment(pagePath, fragmentId).then(
+        function (data) {
+          if (p.box._removed) return;
+          p.titleEl.textContent = data.title;
+          fillContent(p, data.html, true);
+          var more = document.createElement("p");
+          more.className = "popup-more";
+          var a = document.createElement("a");
+          a.href = url.href;
+          a.textContent = "Read in full →";
+          more.appendChild(a);
+          p.content.appendChild(more);
+          if (!p.box.classList.contains("pinned")) position(p.box, link);
+        },
+        function () {
+          if (!p.box._removed) p.content.innerHTML = '<p class="popup-loading">Couldn’t load preview.</p>';
+        }
+      );
     });
-    link.addEventListener("mouseleave", scheduleHide);
+  }
+
+  // --- Wikipedia: the article's lead, from Wikipedia's page-summary API ---
+  function fetchWiki(lang, title) {
+    var key = lang + ":" + title;
+    if (!wikiCache[key]) {
+      wikiCache[key] = fetch("https://" + lang + ".wikipedia.org/api/rest_v1/page/summary/" +
+                             encodeURIComponent(title))
+        .then(function (res) {
+          if (!res.ok) throw new Error("fetch failed: " + res.status);
+          return res.json();
+        });
+    }
+    return wikiCache[key];
+  }
+
+  function bindWikiLink(link) {
+    var m = /^https?:\/\/([a-z-]+)\.(?:m\.)?wikipedia\.org\/wiki\/([^#?]+)/.exec(link.href);
+    if (!m) return;
+    var lang = m[1];
+    var title = decodeURIComponent(m[2]);
+
+    onHover(link, 180, function () {
+      var p = show(link, function () {
+        var q = makePopup("Wikipedia");
+        q.content.innerHTML = '<p class="popup-loading">Fetching Wikipedia article…</p>';
+        q.box.classList.add("wiki-popup");
+        return q;
+      });
+      if (!p) return;
+      fetchWiki(lang, title).then(
+        function (data) {
+          if (p.box._removed) return;
+          p.titleEl.textContent = (data.title || title.replace(/_/g, " ")) + " (Wikipedia)";
+          var html = "";
+          if (data.thumbnail && data.thumbnail.source) {
+            html += '<img class="wiki-thumb" alt="" src="' + data.thumbnail.source + '">';
+          }
+          html += data.extract_html || "<p>" + (data.extract || "") + "</p>";
+          html += '<p class="popup-more"><a href="' + link.href + '">Read on Wikipedia →</a></p>';
+          fillContent(p, html, true);
+          if (!p.box.classList.contains("pinned")) position(p.box, link);
+        },
+        function () {
+          if (!p.box._removed) p.content.innerHTML = '<p class="popup-loading">Couldn’t reach Wikipedia.</p>';
+        }
+      );
+    });
+  }
+
+  // --- translations: span.translation follows the foreign text it renders.
+  // A toggle button shows it inline; hovering the button previews it. ---
+  function addTranslationToggle(tr) {
+    var prev = tr.previousElementSibling;
+    if (prev && prev.classList.contains("translate-toggle")) return;
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "translate-toggle";
+    btn.textContent = "English";
+    btn.title = "Show a translation (this edition’s, not Lecky’s)";
+    btn.setAttribute("aria-expanded", tr.classList.contains("shown") ? "true" : "false");
+    tr.parentNode.insertBefore(btn, tr);
+  }
+
+  function bindTranslationPreview(btn) {
+    var tr = btn.nextElementSibling;
+    if (!tr || !tr.classList.contains("translation")) return;
+    onHover(btn, SHOW_DELAY, function () {
+      if (tr.classList.contains("shown")) return;
+      var p = show(btn, function () { return makePopup("Translation (this edition)"); });
+      if (!p) return;
+      p.box.classList.add("translation-popup");
+      fillContent(p, "<p>" + tr.innerHTML.replace(/^\s*\[|\]\s*$/g, "") + "</p>", false);
+      position(p.box, btn);
+    });
+  }
+
+  document.addEventListener("click", function (e) {
+    var btn = e.target.closest && e.target.closest(".translate-toggle");
+    if (!btn) return;
+    var tr = btn.nextElementSibling;
+    if (!tr) return;
+    var shown = tr.classList.toggle("shown");
+    btn.setAttribute("aria-expanded", shown ? "true" : "false");
+    clearShow();
+    if (btn._popup) removePopup(btn._popup);
+  });
+
+  // Wire up everything inside `root` (the page, or a popup's content).
+  // `foreign`: the content came from another page or site, so its footnote
+  // markers point at notes that aren't on this page.
+  function bindAll(root, foreign) {
+    root.querySelectorAll(".translation").forEach(addTranslationToggle);
+    if (isTouch) return;
+    if (!foreign) root.querySelectorAll("a.footnote-ref").forEach(bindFootnoteRef);
+    root.querySelectorAll("a.popup-ref").forEach(bindPopupRef);
+    root.querySelectorAll('a[href*="wikipedia.org/wiki/"]').forEach(bindWikiLink);
+    root.querySelectorAll(".translate-toggle").forEach(bindTranslationPreview);
   }
 
   function init() {
-    // Touch screens: no hover, so markers and links just navigate (tapping a
-    // footnote marker jumps to the note; its ↑ jumps back).
+    // Touch screens get the translation toggles but no hover popups:
+    // tapping a footnote marker jumps to the note, and its ↑ jumps back.
+    bindAll(document, false);
     if (isTouch) return;
-    document.querySelectorAll("a.footnote-ref").forEach(bindFootnoteRef);
-    document.querySelectorAll("a.popup-ref").forEach(bindPopupRef);
     document.addEventListener("keydown", function (e) {
       if (e.key !== "Escape") return;
-      clearTimers();
+      clearShow();
       document.querySelectorAll(".popup").forEach(removePopup);
     });
     document.addEventListener("scroll", function () {
-      clearTimers();
-      closeTransient();
+      clearShow();
+      trimChain(null);
     }, { passive: true });
   }
 

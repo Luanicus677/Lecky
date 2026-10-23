@@ -73,6 +73,20 @@ Markup conventions used inline in the Markdown body:
 - Cross-reference hover-popup: `<a class="popup-ref" href="...">text</a>` — on hover, fetches the
   linked same-site page and shows its `.abstract` (or the element matching the link's `#fragment`) in a floating preview.
 - Collapsible aside: `<details class="collapse"><summary>Label</summary>...</details>` (needs no JS).
+- Foreign-language quotation with a translation: `<span class="foreign" lang="la">"Latin…"</span><span class="translation editorial" lang="en">[English…]</span>`.
+  JS adds an "English" toggle before the translation (hover previews it, click shows it inline); without JS the bracketed translation just shows.
+  Translations are editorial, so they are set in gwern.net's `.editorial` typewriter face and never mixed into Lecky's own text.
+- Wikipedia links (`https://en.wikipedia.org/wiki/...`) get a "W" icon and a hover preview of the article's lead; archive.org scan links get an archive icon.
+- Links inside popups get popups of their own, stacked; moving back to a parent popup closes its children.
+
+## Source pages
+
+Each work Lecky cites gets a page in `content/ref/`, listed in `content/ref/index.md`. A source page gives
+bibliographic details and scan links in `meta_rows`, a "Cited in" backlink to every place Lecky cites it, and each passage
+in a `<section id="...">` (e.g. `#q3-12` for Quaestio III §12) holding the original and a translation side by side
+(`div.parallel > div.original + div.rendering`), with the words Lecky quotes marked `span.cited-passage`. Lecky's
+footnote links to the section with `a.popup-ref`, so hovering the citation previews the passage. Where Lecky's quotation
+differs from the source, the page says so; Lecky's own text is never corrected.
 
 ## Hosting
 

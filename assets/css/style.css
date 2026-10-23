@@ -696,6 +696,150 @@ section.footnotes a.footnote-back:hover {
 .popup .popup-loading { color: var(--fg-faint); font-style: italic; }
 .popup.collapsed .popframe-scroll-view { display: none; }
 
+.popup .popup-more { font-size: 0.85em; }
+.popup .popframe-content-view h2 { font-size: 1.15rem; margin: 0 0 0.6em; font-variant: small-caps; border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+.popup .popframe-content-view details.collapse { font-size: 0.9em; }
+.popup .wiki-thumb {
+  float: right;
+  max-width: 35%;
+  max-height: 12em;
+  margin: 0.2em 0 0.5em 0.9em;
+  border: 1px solid var(--border);
+}
+
+/* ---------- link icons ----------
+   After gwern.net's link icons (links.css): a small, faint glyph after a
+   link saying where it goes. Drawn with mask-image so it takes the text
+   colour in both themes. Wikipedia "W" from Font Awesome Free (CC BY 4.0);
+   archive icon from gwern.net (CC0). */
+a[href*="wikipedia.org/wiki/"]::after,
+a[href*="archive.org/details/"]::after {
+  content: "";
+  display: inline-block;
+  width: 0.62em;
+  height: 0.62em;
+  margin-left: 0.18em;
+  vertical-align: 0.42em;
+  background-color: currentColor;
+  -webkit-mask: var(--link-icon) no-repeat center / contain;
+  mask: var(--link-icon) no-repeat center / contain;
+  opacity: 0.55;
+}
+a[href*="wikipedia.org/wiki/"] { --link-icon: url("../img/icon/wikipedia.svg"); }
+a[href*="archive.org/details/"] { --link-icon: url("../img/icon/internet-archive.svg"); }
+a[href*="archive.org/details/"]::after { width: 0.5em; height: 0.56em; }
+a[href*="wikipedia.org/wiki/"]:hover::after,
+a[href*="archive.org/details/"]:hover::after { opacity: 0.3; }
+.site-header a::after, .site-footer a::after { display: none !important; }
+
+/* ---------- editorial insertions & translations ----------
+   gwern.net sets "[editorial]" insertions in a typewriter serif
+   (initial.css: .editorial), so they can never be mistaken for the
+   author's text. Translations are editorial: hidden behind a toggle when
+   JS runs, shown inline (in brackets) when it doesn't. */
+.editorial {
+  font-family: "Nimbus Mono PS", "Nimbus Mono", "Free Mono", "Courier New", monospace;
+  font-size: 0.88em;
+  color: var(--fg-muted);
+}
+.editorial .editorial { font-style: italic; }
+.js .translation:not(.shown) { display: none; }
+.translation.shown { margin-left: 0.25em; }
+
+.translate-toggle {
+  appearance: none;
+  font-family: var(--font-sans);
+  font-size: 0.62em;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  line-height: 1;
+  color: var(--fg-muted);
+  background: none;
+  border: 1px dotted var(--footnote-border, var(--fg-faint));
+  padding: 0.2em 0.35em 0.15em;
+  margin: 0 0.1em 0 0.35em;
+  vertical-align: 0.2em;
+  cursor: pointer;
+}
+.translate-toggle:hover,
+.translate-toggle.highlighted { color: var(--fg); border-style: solid; }
+.translate-toggle[aria-expanded="true"] {
+  color: var(--bg);
+  background: var(--fg-muted);
+  border-style: solid;
+  border-color: var(--fg-muted);
+}
+
+/* ---------- source pages ---------- */
+.passage-source {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--fg-muted);
+}
+.cited-passage {
+  background: var(--sidenote-bg);
+  box-shadow: 0 0 0 1px var(--border);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.parallel {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(17em, 1fr));
+  gap: 0 2em;
+  margin: 1.4rem 0;
+}
+.parallel > div > p { font-size: 0.95em; }
+.parallel .original { font-style: italic; }
+.parallel .original em { font-style: normal; }
+.parallel .rendering { border-left: 1px solid var(--border); padding-left: 1.2em; }
+@media (min-width: 1100px) {
+  .content .parallel { margin-left: -6em; margin-right: -6em; }
+}
+@media (max-width: 760px) {
+  .parallel .rendering { border-left: none; padding-left: 0; border-top: 1px solid var(--border); padding-top: 1em; }
+}
+.popup .parallel { display: block; }
+.popup .parallel .rendering { border-left: none; padding-left: 0; border-top: 1px solid var(--border); padding-top: 0.6em; margin-top: 0.6em; }
+
+.table-wrap { overflow-x: auto; margin: 1.4rem 0; }
+table.collation {
+  border-collapse: collapse;
+  font-size: 0.86rem;
+  width: 100%;
+  border-top: 2px solid var(--border-strong);
+  border-bottom: 2px solid var(--border-strong);
+}
+table.collation th, table.collation td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.45em 0.7em;
+  border-bottom: 1px solid var(--border);
+}
+table.collation thead th {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--fg-muted);
+  border-bottom: 1px solid var(--border-strong);
+}
+table.collation tbody th {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.78rem;
+  color: var(--fg-muted);
+  white-space: nowrap;
+}
+table.collation td[lang="la"] { font-style: italic; }
+table.collation strong { font-weight: 700; }
+.editorial-note {
+  border-left: 3px solid var(--border-strong);
+  padding-left: 1em;
+  color: var(--fg-muted);
+  font-size: 0.95em;
+}
+
 /* ---------- index / landing pages ---------- */
 
 .work-list { list-style: none; padding: 0; margin: 1.5rem 0; }

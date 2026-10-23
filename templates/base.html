@@ -6,6 +6,7 @@
 <title>{{ title }}{% if not is_home %} · {{ site_name }}{% endif %}</title>
 {% if description %}<meta name="description" content="{{ description }}">{% endif %}
 <link rel="stylesheet" href="{{ root }}assets/css/style.css">
+<script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
 <header class="site-header">
@@ -14,6 +15,7 @@
     <div class="site-links">
       <a href="{{ root }}index.html">Home</a>
       <a href="{{ root }}rationalism/index.html">Rationalism in Europe</a>
+      <a href="{{ root }}ref/index.html">Sources</a>
       <a href="{{ root }}about.html">About</a>
       <button id="theme-toggle" type="button" title="Toggle light/dark">◐</button>
     </div>

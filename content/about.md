@@ -5,11 +5,11 @@ heading: About this project
 ---
 ## What this is
 
-A reading edition of William Edward Hartpole Lecky's major works, built page by page rather than published all at once. The design borrows its reading philosophy — <a href="https://gwern.net/design" class="popup-ref" target="_blank" rel="noopener">semantic zoom</a>, footnotes you can hover to preview, and links that pop up what they point to — from Gwern Branwen's gwern.net. The site's code is our own; the footnote and popup styling is adapted from gwern.net's stylesheet, which Gwern publishes under CC0/MIT licenses.
+A reading edition of William Edward Hartpole Lecky's major works, built page by page rather than published all at once. The design borrows its reading philosophy — <a href="https://gwern.net/design" class="popup-ref" target="_blank" rel="noopener">semantic zoom</a>, footnotes you can hover to preview, and links that pop up what they point to — from Gwern Branwen's gwern.net. The site's code is our own; the footnote and popup styling is adapted from gwern.net's stylesheet, which Gwern publishes under CC0/MIT licenses. The Wikipedia link icon is from [Font Awesome Free](https://fontawesome.com/license/free) (CC BY 4.0).
 
 ## Current status
 
-The typography, layout, footnote system, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan.
+The typography, layout, footnote system, and hover-popup mechanism are built and working. Real text has started landing: the Introduction to *Rise and Influence of Rationalism in Europe* is sourced, OCR-cleaned, and proofread against the scan. The first [source page](ref/grillandi-de-sortilegiis.html), for the Latin treatise Lecky quotes in Chapter I, note 1, is up as a test of the reference system: hover the citation in the note to preview it, or the Latin's "English" button for a translation.
 
 There is no clean transcription of this title anywhere (it isn't on Project Gutenberg or Wikisource), so each chapter comes from a 160-year-old library scan's raw OCR, run through an automated cleanup pass and then read through by hand before publishing. That means it goes up one chapter at a time rather than all at once.
 

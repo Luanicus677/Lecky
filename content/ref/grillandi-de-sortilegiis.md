@@ -1,0 +1,69 @@
+---
+title: Grillandus, De Sortilegiis
+description: Paolo Grillandi’s treatise on sorcery (1530s), the passage Lecky quotes on the poverty of sorcerers, with Latin text, translation, and a comparison of editions.
+heading: Grillandus, <em>De Sortilegiis</em>
+subtitle: Paolo Grillandi, <em>Tractatus de hereticis et sortilegiis</em>
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "Paolo Grillandi (Paulus Grillandus), born c. 1490, an Italian jurist who sat as a papal judge in sorcery trials from 1517 (<a href=\"https://en.wikipedia.org/wiki/Paolo_Grillandi\">Wikipedia</a>)"]
+  - ["Work", "<em>Tractatus de hereticis et sortilegiis</em>; the section <em>De sortilegiis</em> is divided into numbered <em>quaestiones</em>. Wikipedia dates the book to 1536."]
+  - ["Editions used", "Lyon: Giunta, 1545 (<a href=\"https://archive.org/details/bub_gb_HyeyE3eVJZEC/page/n84/mode/2up\">scan</a>); Frankfurt, 1592, <em>Tractatus duo</em>, bound with Ponzinibio’s <em>De lamiis</em> (<a href=\"https://archive.org/details/per_witchcraft-in-europe-and-america_grillando-paolo_1592_412/page/n57/mode/2up\">scan</a>)"]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn1\">Rationalism in Europe, ch. I, note 1</a>"]
+  - ["Status", "One passage transcribed and translated (Quaestio III, §12). Translation is this edition’s own draft."]
+abstract: |
+  <p>A handbook on sorcery by a papal judge who tried sorcery cases in and around Rome from 1517. Lecky’s “cap. iii.” is the third <em>quaestio</em>, on the “profession” sorcerers make to the Devil. In §12, Grillandi argues that demons cannot really give treasure to their followers: if they could, sorcerers would be richer than Christians, and in fact they are poorer, filthier, and viler than everyone else. Lecky quotes the end of that argument as evidence that witches were overwhelmingly poor.</p><p>Lecky’s Latin does not match either edition checked here. He adds a word, and has the sorcerers “lose the true God” where the 1592 text has them simply “perish at last”. See <a href="#lecky-quotation">the comparison below</a>.</p>
+---
+<section id="q3-12" class="passage">
+<h2>Quaestio III, §12: Treasure-Hunting by Demonic Arts</h2>
+
+<p class="passage-source">Latin: Frankfurt edition, 1592, pp. 24–25 (<a href="https://archive.org/details/per_witchcraft-in-europe-and-america_grillando-paolo_1592_412/page/n57/mode/2up">scan</a>). Spelling regularised: long <em>s</em>, <em>u</em>/<em>v</em>, and <em>æ</em> normalised; accents and abbreviations dropped or expanded; <em>&amp;</em> printed as <em>et</em>. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+
+<div class="parallel">
+<div class="original" lang="la">
+<p>Inter quas non omittam illas, quae arte huiusmodi iactant se posse invenire thesauros in locis valde remotis et subterraneis absconditos, et quandoque inducunt homines ad talem insaniam, ut foveas quam ingentes conficiant pro inveniendis thesauris huiusmodi. Et ista videtur mihi quod sit una ex turpioribus illusionibus quas Daemon homini faciat, quia in rei veritate nunquam legi, vidi, nec audivi quenquam ex Necromanticis, Magis, aut Sortilegis huiusmodi aliquos unquam invenisse thesauros, aut alias aurum vel argentum; sed quamplures vidi huic operi incumbentes, qui mirabiliter conati sunt velle experiri, post multos labores et Diabolicas observantias, demum nihil viderunt nec invenerunt nisi terram.</p>
+<p>Et ratio est, quia Deus non permittit nec vult Daemonem posse thesaurizare; quia alias sequeretur quod isti Magici, Necromantici, ac caeteri Diabolicae fidei Professores essent caeteris Christi fidelibus ditiores ac praestantiores, et quamplures reperirentur ex ipsis Christi fidelibus qui animo ditandi prosequerentur illos, nec curarent Christianam ipsam postergare fidem, ut magno thesauro abundarent et venerarentur ab omnibus. Quinimo videmus hodie totum oppositum, quod <span class="cited-passage">isti Sortilegi, Magi, Necromantici, et similes sunt caeteris Christi fidelibus pauperiores, sordidiores, et viliores, et in hoc mundo, Deo permittente, calamitosam vitam communiter peragunt, demum vero infelici morte pereunt, et aeterni ignis incendio cruciantur</span>, ut in c. <em>Firmissime</em>, extra <em>De haereticis</em>, et 26 q. 5 <em>Nec mirum</em>.</p>
+<p>Et qua Daemon argute illos decipit, eadem et similibus promissionibus ipsi nos decipere student; sed non capiunt nisi aliquos qui sunt simplicis cognitionis et carent intellectu et ratione, vel qui sunt nimium creduli et curiosi, qui aviditate quadam impudentes appetunt scire ea quae nulla ratione aut honesta causa competit sibi investigare (d. c. <em>Nec mirum</em>, § <em>Auguria</em>, vers. <em>His ergo portentis</em>).</p>
+</div>
+<div class="rendering" lang="en">
+<p>Among these I will not leave out those who boast that by such arts they can find treasures hidden in very remote and underground places, and who sometimes drive men to such madness that they dig enormous pits in search of such treasures. This seems to me one of the more shameful illusions the Demon practises on mankind, for in truth I have never read, seen, or heard of any of these necromancers, magicians, or sorcerers ever having found treasure, or gold or silver by any other means. But I have seen a great many set about this work, striving wonderfully hard to put it to the test, and after much labour and many diabolical observances, they in the end saw and found nothing but earth.</p>
+<p>And the reason is that God does not permit, and does not will, that the Demon should be able to amass treasure. Otherwise it would follow that these magicians, necromancers, and other professors of the diabolical faith would be richer and more eminent than the rest of Christ’s faithful, and a great many of Christ’s faithful would be found following them in the hope of growing rich, not caring to cast aside the Christian faith itself so long as they might abound in great treasure and be honoured by all. On the contrary, we see today the very opposite: <span class="cited-passage">these sorcerers, magicians, necromancers, and the like are poorer, more squalid, and viler than the rest of Christ’s faithful; in this world, by God’s permission, they commonly lead a wretched life, at last perish by an unhappy death, and are tormented in the burning of eternal fire</span>, as in the chapter <em>Firmissime</em> in the <em>Liber Extra</em> under <em>De haereticis</em>, and Causa 26, quaestio 5, <em>Nec mirum</em>.</p>
+<p>And with the same promises with which the Demon cleverly deceives them, and with others like them, they try to deceive us. But they catch no one except people of simple understanding who lack intelligence and reason, or the over-credulous and curious, who with a kind of shameless greed long to know things that they have no reason or honest cause to inquire into (the said chapter <em>Nec mirum</em>, § <em>Auguria</em>, at the words <em>His ergo portentis</em>).</p>
+</div>
+</div>
+
+<details class="collapse">
+<summary>Grillandi’s legal citations</summary>
+<p>Grillandi was a canon lawyer, and his references follow the standard abbreviations of the period. “Extra” is the <em>Liber Extra</em>, the Decretals of Gregory IX (1234), cited by the opening words of a chapter (<em>Firmissime</em>) and the title it stands under (<em>De haereticis</em>, “On heretics”). “26 q. 5” is Gratian’s <em>Decretum</em>, Causa 26, quaestio 5, the part of canon law dealing with sorcerers and diviners; <em>Nec mirum</em> is the opening of a canon there. Neither citation has been traced to its text yet.</p>
+</details>
+</section>
+
+<section id="lecky-quotation" class="passage">
+<h2>Lecky’s Quotation Compared</h2>
+
+<p>Lecky quotes this passage in note 1 of <a href="../rationalism/vol1-ch1.html#fn1">Chapter I</a>. Set against the two editions available online, his text differs in two places:</p>
+
+<div class="table-wrap">
+<table class="collation">
+<thead>
+<tr><th></th><th>Lecky, 1865</th><th>Lyon, 1545</th><th>Frankfurt, 1592</th></tr>
+</thead>
+<tbody>
+<tr><th>Adjectives</th><td lang="la">pauperiores, sordidiores, viliores, <strong>et contemptibiliores</strong></td><td lang="la">pauperiores sordidiores et viliores</td><td lang="la">pauperiores, sordidiores, et viliores</td></tr>
+<tr><th>Their death</th><td lang="la"><strong>Deum verum</strong> infelici morte <strong>perdunt</strong></td><td lang="la"><strong>deum verum</strong> in felici morte pereunt</td><td lang="la">demum vero infelici morte pereunt</td></tr>
+<tr><th>Scan</th><td><a href="https://archive.org/details/rationalismeuro01leckuoft/page/3/mode/2up">vol. I, p. 3</a></td><td><a href="https://archive.org/details/bub_gb_HyeyE3eVJZEC/page/n84/mode/2up">fo. 19v–20r</a></td><td><a href="https://archive.org/details/per_witchcraft-in-europe-and-america_grillando-paolo_1592_412/page/n57/mode/2up">pp. 24–25</a></td></tr>
+</tbody>
+</table>
+</div>
+
+<p>What the readings mean:</p>
+<ul>
+<li><em>et contemptibiliores</em> (“and more contemptible”) is in neither edition. It may come from an edition not checked here, from an intermediate source Lecky copied, or from Lecky himself.</li>
+<li><em>demum vero … pereunt</em> (1592) means “at last perish”. The 1545 reading <em>deum verum … pereunt</em> does not construe, because <em>pereunt</em> (“perish”) cannot take an object, so it is very probably a printer’s slip for <em>demum vero</em>.</li>
+<li>Lecky’s <em>perdunt</em> (“they lose”) is the one change that makes the 1545-type reading grammatical: “they lose the true God by an unhappy death”. So Lecky, or his source, seems to have worked from a text with the corrupt <em>deum verum</em> and smoothed it into sense.</li>
+</ul>
+<p>This is an inference from the two editions checked, not a settled fact: earlier printings, including the first, have not been compared.</p>
+
+<p class="editorial-note">Lecky also calls Grillandus “an Italian inquisitor of the fifteenth century”. Grillandi was born around 1490, judged sorcery cases from 1517, and published in the sixteenth century.</p>
+</section>
