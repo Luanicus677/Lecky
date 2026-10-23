@@ -15,7 +15,7 @@ back_link:
 
 <ol class="toc">
 <li><a href="introduction.html">Introduction</a></li>
-<li>Chapter I — On the Declining Sense of the Miraculous: Magic and Witchcraft <span class="work-status">in progress</span></li>
+<li><a href="vol1-ch1.html">Chapter I — On the Declining Sense of the Miraculous: Magic and Witchcraft</a> <span class="work-status">in progress</span></li>
 <li>Chapter II — On the Declining Sense of the Miraculous: The Miracles of the Church <span class="work-status">not yet added</span></li>
 <li>Chapter III — Aesthetic, Scientific, and Moral Developements of Rationalism <span class="work-status">not yet added</span></li>
 <li>Chapter IV — On Persecution <span class="work-status">not yet added</span></li>
