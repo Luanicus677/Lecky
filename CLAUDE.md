@@ -27,7 +27,7 @@ README.md explains the build, the Markdown conventions, and the source-page layo
 
 `content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
 `content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
-`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–336 done. The text stops after "...they are then either violently subverted or permitted to become gradually obsolete." (p. 336); next paragraph starts "There is but one example of a religion which is not naturally weakened by civilisation, and that example is Christianity." (p. 336; OCR line ~13700 of `lecky1.txt`; p. 336 is `n365`). Footnotes so far `[^1]`–`[^133]`; continue at `[^134]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Latin, Greek and French in the notes were checked against the scan.
+`content/rationalism/vol1-ch3.md` is IN PROGRESS: printed pages 206–355 done. The text stops after "...the spirit of Torquemada must be more common than that of Xavier." (p. 355); next paragraph starts "That this was actually the case must be evident to" (p. 355; OCR line ~14465 of `lecky1.txt`; p. 355 is `n384`). Footnotes so far `[^1]`–`[^151]`; continue at `[^152]`. The chapter runs to the start of Chapter IV at line 15626 of `lecky1.txt`. Latin, Greek and French in the notes were checked against the scan.
 Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
 Printer's slips left as printed in ch. II and III ("interpretetion", "one the most common"): "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated", "developement".
 
