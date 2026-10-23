@@ -296,7 +296,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^33]: A clear secular view of the subject is given by Mr. Hallam, in the chapter on the 'Increase of Ecclesiastical Authority,' in his Hist. of the Middle Ages. It has also been examined very fully by Bossuet, from a Gallican point of view, in his Defence of the Articles of the Gallican Church, and from an ultramontane point of view by Bianchi, On Ecclesiastical Power. This last book, which is a work of exceedingly extensive learning but of undisguised and in deed dishonest partiality, was published originally in Italian in 1745, and directed especially against the opinions of Giannone. The French translation was made in 1857, and consists of two (in every sense of the word) most ponderous volumes. It is now the great standard work of the ultramontane party.
 
-[^34]: As one of the leading supporters of the Papal party put it with amusing coolness: 'Certe licet Paulus dixerit "omnis anima potestatibus sublimioribus subdita sit" nunquam addidit, etiam potestatibus excommunicatis; vel deprivatis a papa.' (Suarez, De Fide, lib. vi. cap. 4.)
+[^34]: As one of the leading supporters of the Papal party put it with amusing coolness: 'Certe licet Paulus dixerit "omnis anima potestatibus sublimioribus subdita sit" nunquam addidit, etiam potestatibus excommunicatis; vel deprivatis a papa.' (Suarez, De Fide, lib. vi. cap. 4.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#excommunicatis">source page</a>)
 
 [^35]: Bianchi, Puissance Ecclésiastique, tom. i. pp. 550-571. Louis Le Debonnaire seems to have been deposed in this way.
 
@@ -310,15 +310,15 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^40]: Suarez, De Fide, lib. iii. cap. 2. This book of Suarez was written in reply to one by James I. of England.
 
-[^41]: He says that 'Potestatem hanc deponendi regem esse posse vel in ipsa republica vel in Summo Pontifice, diverso tamen modo. Nam in republica solum per modum defensionis necessariæ ad conservationem suam, . . . tum ex vi juris naturalis quo licet vim vi repellere, tum quia semper hic casus ad propriam reipublicæ conservationem necessarius, intelligitur exceptus in primo illo fœdere quo respublica potestatem suam in regem transtulit. . . . At vero in Summo Pontifice est hæc potestas tanquam in superiori habente jurisdictionem ad corripiendum reges.' (De Fide, lib. vi. cap. iv.)
+[^41]: He says that 'Potestatem hanc deponendi regem esse posse vel in ipsa republica vel in Summo Pontifice, diverso tamen modo. Nam in republica solum per modum defensionis necessariæ ad conservationem suam, . . . tum ex vi juris naturalis quo licet vim vi repellere, tum quia semper hic casus ad propriam reipublicæ conservationem necessarius, intelligitur exceptus in primo illo fœdere quo respublica potestatem suam in regem transtulit. . . . At vero in Summo Pontifice est hæc potestas tanquam in superiori habente jurisdictionem ad corripiendum reges.' (De Fide, lib. vi. cap. iv.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#deposition">source page</a>)
 
-[^42]: 'Ergo quando respublica juste potest regem deponere, recte faciunt ministri ejus regem cogendo vel interficiendo si sit necesse.' (Ibid.) Suarez adds, however, that before pronouncing a sentence of deposition against the sovereign, it is at least advisable and becoming (though not absolutely necessary) for the nation to apply to the Pope for his sanction. This notion has been developed at length by De Maistre, Le Pape.
+[^42]: 'Ergo quando respublica juste potest regem deponere, recte faciunt ministri ejus regem cogendo vel interficiendo si sit necesse.' (Ibid.) Suarez adds, however, that before pronouncing a sentence of deposition against the sovereign, it is at least advisable and becoming (though not absolutely necessary) for the nation to apply to the Pope for his sanction. This notion has been developed at length by De Maistre, Le Pape. (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#ministri">source page</a>)
 
-[^43]: 'Statim per hæresim rex ipso facto privatur aliquo modo dominio et proprietate sui regni, quia vel confiscatum manet vel ad legitimum successorem Catholicum ipso jure transit, et nihilominus non potest statim regno privari, sed juste illud possidet et administrat donec per sententiam saltem declaratoriam criminis condemnetur.' (Lib. vi. cap. iv.)
+[^43]: 'Statim per hæresim rex ipso facto privatur aliquo modo dominio et proprietate sui regni, quia vel confiscatum manet vel ad legitimum successorem Catholicum ipso jure transit, et nihilominus non potest statim regno privari, sed juste illud possidet et administrat donec per sententiam saltem declaratoriam criminis condemnetur.' (Lib. vi. cap. iv.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#deposition">source page</a>)
 
 [^44]: Bianchi has collected a striking chain of passages in defence of this proposition (tom. i. pp. 145-147).
 
-[^45]: 'Si Papa regem deponat, ab illis tantum poterit expelli vel interfeci quibus ipse id commiserit.' (De Fide, lib. vi. c. iv.)
+[^45]: 'Si Papa regem deponat, ab illis tantum poterit expelli vel interfeci quibus ipse id commiserit.' (De Fide, lib. vi. c. iv.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#ministri">source page</a>)
 
 [^46]: It is signed by Stephanus Hojeda, Visitor of the Jesuits in the province of Toledo.
 

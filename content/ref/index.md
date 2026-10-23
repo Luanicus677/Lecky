@@ -117,4 +117,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="mariana-de-rege.html">Mariana, <em>De rege et regis institutione</em></a><span class="work-status">6 passages</span></div>
 <div class="work-desc">Mariana’s case for tyrannicide (Book I, ch. 6), in the 1605 Mainz printing, compared with Lecky’s Latin in <em>Rationalism</em>, ch. V, notes 52–60. One quotation not found.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="suarez-defensio-fidei.html">Suárez, <em>Defensio fidei catholicae</em>, Book VI</a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Suárez on deposing tyrants and heretic kings (lib. vi, cap. 4), compared with Lecky’s Latin in <em>Rationalism</em>, ch. V, notes 34 and 41–45. The quotations are accurate.</div>
+</li>
 </ul>

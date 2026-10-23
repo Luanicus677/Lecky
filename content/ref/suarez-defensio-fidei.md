@@ -1,0 +1,67 @@
+---
+title: Suárez, Defensio fidei catholicae, Book VI
+description: "The passages of Francisco Suárez’s Defence of the Catholic Faith (Book VI, chapter 4) that Lecky quotes in Chapter V, notes 34, 41–43 and 45, read in the Vivès edition and compared with Lecky’s Latin. The quotations are accurate; the one in note 34 stops short of the sentence’s end."
+heading: Suárez, <em>Defensio fidei catholicae</em>, Book VI
+subtitle: Chapter 4, “Whether the third part of the oath contains anything beyond civil obedience”
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Francisco_Su%C3%A1rez\">Francisco Suárez</a> (1548–1617), Spanish Jesuit. The <em>Defensio</em> (1613) answers James I’s demand of an oath of allegiance. Lecky cites it as “<em>De Fide</em>, lib. vi. cap. iv.” and does not give an edition or page numbers."]
+  - ["Edition used", "<em>R.P. Francisci Suarez … Opera omnia</em>, the Vivès edition (Paris, nineteenth century), vol. 24: <a href=\"https://archive.org/details/rpfranciscisuare24suar\">archive.org/details/rpfranciscisuare24suar</a>. Printed page p is image n(p+19): pp. 680–682 = <a href=\"https://archive.org/details/rpfranciscisuare24suar/page/n699/mode/2up\">n699</a>–<a href=\"https://archive.org/details/rpfranciscisuare24suar/page/n701/mode/2up\">n701</a>. I did not check this volume’s title page for its date. Section numbers (§ 14–20) are the edition’s. Translations are this edition’s own drafts."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn34\">Rationalism, ch. V, note 34</a>, <a href=\"../rationalism/vol2-ch5.html#fn41\">41</a>, <a href=\"../rationalism/vol2-ch5.html#fn42\">42</a>, <a href=\"../rationalism/vol2-ch5.html#fn43\">43</a>, <a href=\"../rationalism/vol2-ch5.html#fn45\">45</a>. See also <a href=\"mariana-de-rege.html\">Mariana</a>."]
+  - ["Status", "Five quotations transcribed from the page images, translated and collated. Other Suárez citations in Chapter V (notes 38 and 40, lib. iii; the passage cited in note 72) are not transcribed."]
+abstract: |
+  <p>Lecky says Suárez taught that a nation may depose a tyrant, and that the Pope may depose a heretic prince, who may then be killed only by those whom the Pope has commissioned. The Latin he prints is Suárez’s own, with ellipses where Suárez cites other authors.</p><p>One small thing: in note 34 Lecky ends a sentence at “vel deprivatis a papa”, with a semicolon, where Suárez goes on “omnes subditi sint” (“all are subjects”). The cut does not change the sense.</p>
+---
+<section id="deposition" class="passage">
+<h2>Who may depose a king (§ 15–16, p. 680)</h2>
+<p class="passage-source">Latin: p. 680, <a href="https://archive.org/details/rpfranciscisuare24suar/page/n699/mode/2up">scan</a> (notes 41 and 43). <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p><em>14.</em> … Declaratur hoc amplius in rege hæretico, nam <span class="cited-passage">statim per hæresim ipso facto privatur aliquo modo dominio et proprietate sui regni, quia vel confiscatum manet, vel ad legitimum successorem catholicum ipso jure transit, et nihilominus non potest statim regno privari, sed juste illud possidet et administrat donec per sententiam saltem declaratoriam criminis condemnetur</span>, juxta cap. <em>Cum secundum leges</em>, de Hæret., in 6. …</p>
+<p><em>15.</em> … <span class="cited-passage">potestatem hanc deponendi regem esse posse vel in ipsa republica, vel in Summo Pontifice, diverso tamen modo. Nam in republica solum per modum defensionis necessariæ ad conservationem suam</span>, ut supra lib. 3, cap. 3, dixi. Ideoque si rex legitimus tyrannice gubernet, et regno nullum aliud subsit remedium ad se defendendum, nisi regem expellere ac deponere, poterit respublica tota, publico et communi consilio civitatum et procerum, regem deponere, <span class="cited-passage">tum ex vi juris naturalis, quo licet vim vi repellere; tum quia semper hic casus, ad propriam reipublicæ conservationem necessarius, intelligitur exceptus in primo illo fœdere, quo respublica potestatem suam in regem transtulit.</span> …</p>
+<p><em>16.</em> <span class="cited-passage">At vero in Summo Pontifice est hæc potestas tanquam in superiori habente jurisdictionem ad corripiendum reges</span>, etiam supremos, tanquam sibi subditos …</p>
+</div>
+<div class="rendering" lang="en">
+<p><em>14.</em> … This is made clearer in the case of a heretic king, for <span class="cited-passage">at once, through heresy, he is deprived in some way, <em>ipso facto</em>, of the lordship and ownership of his kingdom, because it either remains confiscated or passes by that very right to the lawful Catholic successor; and nevertheless he cannot at once be deprived of the kingdom, but possesses and administers it justly until he is condemned by a sentence, at least a declaratory one, of the crime</span> …</p>
+<p><em>15.</em> … <span class="cited-passage">this power of deposing a king can be either in the state itself or in the Supreme Pontiff, but in different ways. For in the state it is only by way of defence, necessary for its own preservation</span>, as I said above (book 3, ch. 3). And so if a lawful king governs tyrannically and the kingdom has no other remedy for defending itself than to expel and depose the king, the whole state may depose him by public and common counsel of the cities and nobles, <span class="cited-passage">both by the force of natural law, by which it is lawful to repel force with force, and because this case, always necessary for the state’s own preservation, is understood to be excepted in that first compact by which the state transferred its power to the king.</span> …</p>
+<p><em>16.</em> <span class="cited-passage">But in the Supreme Pontiff this power is as in a superior having jurisdiction to correct kings</span>, even supreme ones, as his subjects …</p>
+</div>
+</div>
+<p>Lecky’s note 41 is accurate; his dots stand for “ut supra lib. 3, cap. 3, dixi. Ideoque … deponere”. The ligatures and punctuation here are the edition’s, not necessarily Lecky’s copy’s.</p>
+</section>
+
+<section id="ministri" class="passage">
+<h2>Killing a deposed king (§ 18, p. 681)</h2>
+<p class="passage-source">Latin: p. 681, <a href="https://archive.org/details/rpfranciscisuare24suar/page/n700/mode/2up">scan</a> (notes 42 and 45).</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Ita ergo, quando respublica juste potest regem deponere, <span class="cited-passage">recte faciunt ministri ejus regem cogendo, vel interficiendo, si sit necesse</span>, quia jam non potestate privata, sed publica operantur. … <span class="cited-passage">Eodemque modo si Papa regem deponat, ab illis tantum poterit expelli vel interfici, quibus ipse id commiserit.</span> Quod si nulli executionem imperet, pertinebit ad legitimum in regno successorem …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… So, then, when the state can justly depose a king, <span class="cited-passage">his ministers act rightly in compelling the king, or in killing him, if it is necessary</span>, because they act no longer by private but by public power. … <span class="cited-passage">In the same way, if the Pope deposes a king, he can be expelled or killed only by those to whom the Pope himself has committed it.</span> If he commissions no one to carry it out, it will belong to the lawful successor in the kingdom …</p>
+</div>
+</div>
+<p>Notes 42 and 45 are accurate. Lecky begins note 45 at “Si Papa regem deponat”, dropping “Eodemque modo”.</p>
+</section>
+
+<section id="excommunicatis" class="passage">
+<h2>“Omnis anima” (§ 20, p. 682)</h2>
+<p class="passage-source">Latin: p. 682, <a href="https://archive.org/details/rpfranciscisuare24suar/page/n701/mode/2up">scan</a> (note 34).</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Certe licet Paulus dixerit: <em>Omnis anima potestatibus sublimioribus subdita sit</em>, <span class="cited-passage">nunquam addidit: Etiam potestatibus excommunicatis vel deprivatis a Papa</span> omnes subditi sint; neque unum ex alio colligi potest, cum sint longe diversa, ne dicam veluti opposita, nam rex deprivatus jam non est sublimior potestas. …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… Though Paul indeed said, <em>Let every soul be subject to the higher powers</em>, <span class="cited-passage">he never added: even to powers excommunicated or deprived by the Pope</span> let all be subject; nor can the one be inferred from the other, since they are far different, not to say opposed, for a deprived king is no longer a higher power. …</p>
+</div>
+</div>
+<table class="collation">
+<thead><tr><th></th><th>Lecky, 1865 (note 34)</th><th>Suárez, p. 682</th></tr></thead>
+<tbody>
+<tr><td>Text</td><td lang="la">Certe licet Paulus dixerit “omnis anima potestatibus sublimioribus subdita sit” nunquam addidit, etiam potestatibus excommunicatis; vel deprivatis a papa.</td><td lang="la">… nunquam addidit: Etiam potestatibus excommunicatis vel deprivatis a Papa omnes subditi sint; …</td></tr>
+</tbody>
+</table>
+<p>Lecky puts a semicolon after “excommunicatis”, and ends before “omnes subditi sint”, which completes the sense. Lecky’s English gloss (“as one of the leading supporters of the Papal party put it with amusing coolness”) is fair.</p>
+</section>

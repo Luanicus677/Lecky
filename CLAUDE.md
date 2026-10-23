@@ -97,6 +97,8 @@ Notes for continuing:
 - Simancas (`simancas-de-catholicis-institutionibus.md`): only 1575 Rome editions found online (`bub_gb_n-Ktt0tILHMC`, also `AFD0229`; 1692 Opera `bub_gb_cUhD5jRglLAC`); no 1569 copy. Lecky's p. 365 (fides) matches the 1575 pagination, but his torture pages (297-309, 305) do not: torture is Titulus LXV, pp. 494-513 (Vives p. 495, Spain p. 506). Page images viewed: 365, 366, 494, 495, 506. The 'vivid description of modes of torture' is not confirmed; pp. 497-513 only keyword-scanned.
 - Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
 
+- Volume II source pages: `mariana-de-rege.md` (1605 Mainz ed. `bub_gb_FNnUXWPFQEcC`, image n = printed page + 30; ch. V notes 52-60; the sentence 'Nos tamen non quid facturi sint homines...' in note 60 NOT found; 1599 Toledo ed. not seen) and `suarez-defensio-fidei.md` (Vivès vol. 24 `rpfranciscisuare24suar`, image n = page + 19; lib. vi cap. 4 at pp. 680-682; notes 34, 41-43, 45). Not done: Toletus, Sa, Molina, Ayala (`balthazarisayala01ayal`, `dejureetofficiis01ayaluoft`; Molina `rplodouicimolina0Nmoli`), Concina (no scan found), Sarpi, Bianchi, Troplong.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
