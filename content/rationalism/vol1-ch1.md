@@ -370,7 +370,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^81]: I should, perhaps, make one exception to this statement — Peter of Apono, a very famous physician and philosopher of Padua, who died in 1305. He appears to have entirely denied the existence of demons and of miracles; and to have attempted, by the assistance of astrology, to construct a general philosophy of religion, casting the horoscope of each faith, and ascribing its rise and destiny to the influence of the stars. He was a disciple of Averroes — perhaps the founder of Averroism, in Italy — and seems to have formed a school at Padua. When he was about eighty, he was accused of magic. It was said that he had acquired the knowledge of the seven liberal arts by seven familiar spirits whom he kept confined in a crystal; but he died before the trial was concluded, so the inquisitors were obliged to content themselves by burning his image. He was regarded as one of the greatest of magicians. Compare Naudé, Apol. (pp. 380-391); Renan, Averroes (pp. 258, 259).
 
-[^82]: Mall. Mal. vol. ii. p. 253.
+[^82]: <a class="popup-ref" href="../ref/gerson-de-probatione-spirituum.html#erroribus-253">Mall. Mal. vol. ii. p. 253.</a>
 
 [^83]: <a class="popup-ref" href="../ref/sprenger-malleus-maleficarum.html#cologne-461">Mall. Mal. vol. i. pp. 460-468.</a>
 
