@@ -218,7 +218,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^6]: Madden, vol. i. pp. 303, 304. Michelet, La Sorcière, p. 206. Sprenger ascribes Tell's shot to the assistance of the devil. Mall. Malef. (Pars ii. c. xvi.) Savoy has always been especially subject to those epidemics of madness which were once ascribed to witches, and Boguet noticed that the principal wizards he had burnt were from that country. An extremely curious account of a recent epidemic of this kind in a little village called Morzines will be found in the Relation sur une Épidémie d'Hystéro-Démonopathie en 1861, par le Docteur A. Constans (Paris, 1863). Two French writers, Allan Kardec and Mirville, have maintained this epidemic to be supernatural.
 
-[^7]: Compare Plancey, Dict. Infernale, art. Blokula; Hutchinson on Witchcraft, p. 55; Madden, vol. i. p. 354.
+[^7]: Compare Plancey, Dict. Infernale, art. Blokula; <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#mohra-1670">Hutchinson on Witchcraft, p. 55</a>; Madden, vol. i. p. 354.
 
 [^8]: Thiers, Superst. vol. i. p. 142.
 
