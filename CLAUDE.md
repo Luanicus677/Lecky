@@ -200,6 +200,8 @@ Notes for continuing:
 
 - Also: `voltaire-dictionnaire-philosophique-patrie.md` (Garnier 1878 text on fr.wikisource, NOT a scan; ch. VI note 177; Lecky reverses the order and drops 'donc'; OCR fixed in the note: humaine, à, Il, peut).
 
+- Also: `montesquieu-esprit-des-lois-xxi-20.md` (1777 text on fr.wikisource `Esprit_des_lois_(1777)/L21/C20`, NOT a scan; ch. VI note 39; matches). Turgot half of note 39 (§ 14) not checked.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
