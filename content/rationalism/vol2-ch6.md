@@ -390,11 +390,11 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^82]: Bedarride, pp. 258, 259. The magnificent synagogue at Leg horn (probably the finest in existence) was erected by the Spanish Jews who took refuge in that city.
 
-[^83]: See this ordinance (which was issued in 1294) in Blanqui, Hist. (TEconomie Politique, tom. i. pp. 225-226. It provided, among other things, that dukes, counts, and barons, who have 6,000 livres rent, may have four robes a year, and their wives as many. Knights with 3,000 livres rent may have three. No member of the middle class may wear any ornament of gold or precious stone, or any dress that was green or grey. As M. Blanqui observes, articles of luxury would have been imported necessarily from foreign countries into France, which would necessitate an export of French gold — according to the current notions the greatest evil that could befall the country.
+[^83]: See this ordinance (which was issued in 1294) in Blanqui, Hist. (TEconomie Politique, tom. i. pp. 225-226. <a class="popup-ref" href="../ref/blanqui-histoire-de-leconomie-politique.html#ordonnance-1294">source page</a> It provided, among other things, that dukes, counts, and barons, who have 6,000 livres rent, may have four robes a year, and their wives as many. Knights with 3,000 livres rent may have three. No member of the middle class may wear any ornament of gold or precious stone, or any dress that was green or grey. As M. Blanqui observes, articles of luxury would have been imported necessarily from foreign countries into France, which would necessitate an export of French gold — according to the current notions the greatest evil that could befall the country.
 
 [^84]: Anderson, Hist. of Commerce, vol. i. p. 193. See, too, p. 179, More than a century after the passion for dress reached Scotland, when the alarmed and indignant legislators enacted (in 1457) that the wives and daughters of merchants should i be abuilzied (' dressed,' from 'habiller') gangand and correspondent for their estate, that is to say, on their heads short curches (a kind of cap) with little hudes as are used in Flanders, England, and other countries... and that na women weare tailes unfit in length,' nor furred under but on the hailie dale.' (Ibid. vol. iii. pp. 280-281.)
 
-[^85]: Blanqui, tom. i. p. 250.
+[^85]: Blanqui, tom. i. p. 250. <a class="popup-ref" href="../ref/blanqui-histoire-de-leconomie-politique.html#florence-luxe">source page</a>
 
 [^86]: Anderson, vol. i. p. 144.
 
