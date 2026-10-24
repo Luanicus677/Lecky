@@ -172,6 +172,8 @@ Notes for continuing:
 
 - Also: `marangoni-cose-gentilesche.md` (Rome 1744 `gri_33125010851489`, p. 45 = n66 = page+21; ch. III note 10 Orpheus/Eusebius). Lecky's 'Marangoni p. 45' for the genii of the seasons (note 11) and aquatic deity (note 13) is NOT on p. 45. Raoul-Rochette `tableaudescataco00roch` p. 138 = n163 (page+25) DONE as `raoul-rochette-tableau-des-catacombes.md` (note 10); Maitland `churchincatacomb00mait_0` p. 110 ~ n123 (page+13) not read; Rochette notes 13, 28 not done.
 
+- Also: `palmer-treatise-on-the-church.md` (1842 vol. 1 `treatiseonchurch01palmiala`, p. 12 = n39 = page+27; Zerta + Fathers; ch. IV notes 19, 21, 26; Lecky says p. 13). Palmer cites Fulgentius De remissione peccatorum i. 22 (maybe Lecky's '§ 22'). pp. 11, 13 unread. Also scans for Neander Dogmas (`neandershistory01neanuoft`), Cudworth/Mosheim (`trueintellectual03cudwuoft`) not used yet.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
