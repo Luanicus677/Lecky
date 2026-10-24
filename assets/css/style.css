@@ -1150,3 +1150,44 @@ main.dropcaps-de-zs .dropcap {
   #TOC > ul > li, #TOC ul ul li { padding-left: 0; }
   #TOC .toc-num { display: none; }
 }
+
+/* ---------- sidenotes (sidenotes.js) ----------
+   gwern.net-style: notes in the left margin beside their markers, on screens
+   with room for them (html.sidenotes-on); otherwise hidden. */
+.sidenote-column { display: none; }
+.sidenotes-on .sidenote-column {
+  display: block;
+  position: absolute;
+  top: 0;
+}
+.sidenote {
+  position: absolute;
+  left: 0;
+  right: 0;
+  max-height: 24em;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  font-size: 0.74rem;
+  line-height: 1.42;
+  color: var(--fg-muted);
+  border-top: 1px solid var(--border);
+  padding: 0.35em 0.2em 0.3em 0;
+  text-align: left;
+  hyphens: auto;
+}
+.sidenote-num {
+  float: left;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-right: 0.4em;
+  color: var(--fg);
+  text-decoration: none;
+  background: none;
+}
+.sidenote-body p { margin: 0 0 0.45em; }
+.sidenote-body p:last-child { margin-bottom: 0; }
+.sidenote.highlighted { color: var(--fg); border-top-color: var(--fg); }
+a.footnote-ref.highlighted { background: var(--selection); }
+.sidenotes-on .content figure.wide { margin-left: 0; margin-right: 0; }
+.sidenotes-on .margin-toc { display: none; }

@@ -241,6 +241,8 @@
     var note = document.getElementById((ref.getAttribute("href") || "").slice(1));
     if (!note) return;
     onHover(ref, SHOW_DELAY, function () {
+      // the note is already visible in the margin (sidenotes.js)
+      if (document.documentElement.classList.contains("sidenotes-on")) return;
       var p = show(ref, function () { return makePopup(null); }, [ref, note]);
       if (!p) return;
       var clone = note.cloneNode(true);

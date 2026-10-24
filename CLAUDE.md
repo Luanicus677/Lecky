@@ -216,6 +216,12 @@ All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it we
   see its README; only D, T, W shipped), chosen per page with front matter `dropcap: goudy|yinit|kanzlei|de-zs` (sizes copied from gwern's style.css).
 - 5+ h2s: build.py (`build_toc`) emits a gwern-style numbered `nav#TOC` in `.page-meta` before the abstract (floats left on desktop,
   two columns without numbers below 901px); pages with fewer h2s keep the JS margin TOC (popups.js `buildToc`).
+- Sidenotes (`assets/js/sidenotes.js`, loaded BEFORE popups.js): copies each footnote into the LEFT margin beside its marker when
+  the margin is >= 200px (about 1340px+ viewports; html.sidenotes-on), re-laid out on resize/image load; footnote popups are
+  skipped while it is on. Left only, because right-floated figures reach into the right margin.
+- Header: blackletter 'L' logo (UnifrakturMaguntia) + bordered small-caps link buttons; dotted grid on phones.
+- OCR split-word hunt done Oct 2026 (dictionary join of adjacent pairs, ~110 fixes, mostly chs. V-VI). Line-break-only compounds
+  (slavetrade, slavelabour, wellspent, antinational, thumbkins) left as they are: hyphen status unverifiable.
 - Gwern typesetting: `.content > p` justified, hyphenated, first-line indent, no gap; no indent after headings/blocks.
   Pages with `fleuron: true` show meta_rows as centred lines (`.page-metadata`); others keep the `.meta-table`.
 - Figures: `<figure class="float-right|wide">` + `figcaption` + `span.credit` (Commons file link + licence), images in
