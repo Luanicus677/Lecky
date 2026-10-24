@@ -153,6 +153,8 @@ Notes for continuing:
 
 - Also: `macaulay-history-and-essays.md` (Project Gutenberg TEXTS, not scans: History vol. i = 1468, vol. iii = 2612; Essays vol. i = 2332 (the Hallam essay); no page numbers, so Lecky's pages unverified). Findings: ch. III note 132 quote has 'bull' for Macaulay's 'bear' (History vol. i ch. II); ch. V note 86 quote is the Hallam essay, small wording changes; ch. III note 87 is History ch. XI (1687-88, not 'shortly after William III'); ch. I note 167 is Macaulay's footnote 785 in ch. XVI. Not done: ch. I note 19 (Ranke essay), ch. IV pt II note 52 (Essays vol. ii p. 140). Gutenberg ids: Essays vol. 2 = 2333, vol. 3 = 28046.
 
+- Also: `gibbon-decline-and-fall.md` (Gutenberg TEXT, Guizot-Milman annotated ed.: vol. 2 = 732 ch. XVI, vol. 3 = 733 ch. XXVIII; ch. IV pt II note 30, ch. VI note 103; Lecky's Aliturus sentence overstates Gibbon; Lecky's Augustine Latin = Gibbon's note 56 with 'enim' and 'contra' for 'adversus') and `hume-populousness-of-ancient-nations.md` (`essaysmoralpolit00hume` 1875, p. 396 = n411 = page+15; ch. VI note 13; accurate). Other Gibbon/Hume/Bayle notes not done: Hume's Essay on Miracles (ch. II note 12, only named), Gibbon ch. III note 32 (Mahomedan Immaculate Conception) and others; Bayle 'Contrains-les d'entrer' pt. ii ch. iv (ch. IV pt II notes 7, 10, 76), Bayle Dict. art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
