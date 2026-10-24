@@ -540,4 +540,4 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^166]: <a class="popup-ref" href="../ref/burt-letters-north-of-scotland.html#dornoch">Burt's Letters from the North of Scotland, vol. i. pp. 227-234 and 271-277.</a> I suspect Burt has misdated the execution that took place in 1722, placing it in 1727.
 
-[^167]: Macaulay, Hist. vol. iii. p. 706.
+[^167]: Macaulay, Hist. vol. iii. p. 706. <a class="popup-ref" href="../ref/macaulay-history-and-essays.html#associate-presbytery">source page</a>

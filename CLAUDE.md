@@ -151,6 +151,8 @@ Notes for continuing:
 
 - Also: `jerome-contra-vigilantium.md` (PL 23 `..._1845_23`, cols. 346-347 = n176-n177; ch. III note 34). The 'ergo cineres suos amant animae martyrum' words are Vigilantius's, quoted by Jerome to mock; Lecky says 'As St. Jerome says'. Not found: Isidore De ordine creaturarum (PL 83 `..._1859_83`, search for the text found nothing), Wall History of Infant Baptism ch. IV notes 3-4 (scans `historyofinfantb03wall`, `historyinfantba01galegoog`: 'pettishness' not located).
 
+- Also: `macaulay-history-and-essays.md` (Project Gutenberg TEXTS, not scans: History vol. i = 1468, vol. iii = 2612; Essays vol. i = 2332 (the Hallam essay); no page numbers, so Lecky's pages unverified). Findings: ch. III note 132 quote has 'bull' for Macaulay's 'bear' (History vol. i ch. II); ch. V note 86 quote is the Hallam essay, small wording changes; ch. III note 87 is History ch. XI (1687-88, not 'shortly after William III'); ch. I note 167 is Macaulay's footnote 785 in ch. XVI. Not done: ch. I note 19 (Ranke essay), ch. IV pt II note 52 (Essays vol. ii p. 140). Gutenberg ids: Essays vol. 2 = 2333, vol. 3 = 28046.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
