@@ -216,6 +216,11 @@ a.popup-ref { text-decoration-style: dotted; cursor: help; }
   flex-shrink: 0;
 }
 .site-header .site-links { display: flex; gap: 1.4rem; font-size: 0.92rem; }
+@media (max-width: 640px) {
+  .site-header { padding: 0.9rem 1rem; }
+  .site-header nav { flex-wrap: wrap; gap: 0.5rem 1rem; }
+  .site-header .site-links { flex-wrap: wrap; gap: 0.4rem 1rem; }
+}
 .site-header .site-links a { text-decoration: none; color: var(--fg-muted); }
 .site-header .site-links a:hover { color: var(--fg); text-decoration: underline; }
 
@@ -403,6 +408,101 @@ details.collapse[open] summary ~ * { margin-top: 0.8rem; }
 
 @media (max-width: 1400px) {
   .margin-toc { display: none; }
+}
+
+/* collapsible in-text contents, for long pages on screens too narrow for the margin one */
+details.inline-toc {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 0.3rem 0;
+  margin: 0 0 1.8rem;
+}
+details.inline-toc summary {
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.72rem;
+  color: var(--fg-faint);
+  padding: 0.3rem 0;
+}
+details.inline-toc ol { columns: 2; column-gap: 2em; margin: 0.4rem 0 0.4rem; padding-left: 1.4em; }
+details.inline-toc li { margin-bottom: 0.3em; break-inside: avoid; }
+details.inline-toc a { color: var(--fg-muted); text-decoration: none; }
+details.inline-toc a:hover { color: var(--fg); text-decoration: underline; }
+@media (max-width: 600px) { details.inline-toc ol { columns: 1; } }
+@media (min-width: 1401px) { details.inline-toc { display: none; } }
+
+/* ---------- section arguments and figures ---------- */
+
+/* Lecky's own synopsis line for a section, from his analytical table of contents */
+.section-argument {
+  font-size: 0.9rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: var(--fg-muted);
+  margin: -0.35rem 0 1.5rem;
+}
+.abstract .editorial-note {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--fg-faint);
+  margin: 0.8rem 0 0;
+}
+.abstract p:first-child { margin-top: 0; }
+
+.content h2, .content h3 { clear: both; }
+
+.content figure {
+  margin: 2.2rem 0;
+}
+.content figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid var(--border);
+}
+.content figure > a { display: block; text-decoration: none; background: none; }
+.content figure.wide img { max-height: 85vh; }
+.content figure.float-right {
+  float: right;
+  clear: right;
+  width: 36%;
+  max-width: 16em;
+  margin: 0.4rem 0 1.2rem 1.6rem;
+}
+figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  line-height: 1.45;
+  color: var(--fg-muted);
+  margin-top: 0.6rem;
+}
+.content figure.wide figcaption { max-width: 34em; margin-left: auto; margin-right: auto; text-align: center; }
+figcaption .credit {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--fg-faint);
+  margin-top: 0.25rem;
+}
+figcaption .credit a { color: inherit; }
+@media (min-width: 1100px) {
+  .content figure.float-right { margin-right: -5.5em; }
+  .content figure.wide { margin-left: -4em; margin-right: -4em; }
+}
+@media (max-width: 640px) {
+  .content figure.float-right {
+    float: none;
+    width: auto;
+    max-width: 75%;
+    margin: 1.8rem auto;
+  }
+}
+:root[data-theme="dark"] .content figure img { filter: brightness(0.85) contrast(1.05); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .content figure img { filter: brightness(0.85) contrast(1.05); }
 }
 
 /* ---------- footnotes ----------

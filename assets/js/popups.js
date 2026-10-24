@@ -501,6 +501,18 @@
     });
     toc.appendChild(ol);
 
+    // Long pages also get a collapsible copy in the text column, for screens
+    // too narrow to show the margin one (CSS hides whichever doesn't apply).
+    if (headings.length >= 5) {
+      var details = document.createElement("details");
+      details.className = "inline-toc";
+      var summary = document.createElement("summary");
+      summary.textContent = "Contents";
+      details.appendChild(summary);
+      details.appendChild(ol.cloneNode(true));
+      content.insertBefore(details, content.firstChild);
+    }
+
     content.insertBefore(toc, content.firstChild);
   }
 

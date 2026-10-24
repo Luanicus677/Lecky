@@ -204,6 +204,18 @@ Notes for continuing:
 
 - Also: `de-maistre-soirees-de-saint-petersbourg.md` (1831 vol. 2 `lessoiresdesa01mais`, p. 437 = n462, p. 452 = n477 = page+25; ch. IV note 45 Locke quotes exact; Bacon quotes are in De Maistre's Examen de la philosophie de Bacon vol. 2 `examendelaphi02mais` p. 100 = n109 = page+9: 'parfaitement nul et méprisable' and Novum Organum/Bedlam DONE on the same page; 'un charlatan' not found).
 
+## Readability layer (headings, synopses, figures)
+
+Ch. I (vol1-ch1) has it; other chapters do not yet. Conventions:
+- `## Heading {: #id }` sections are editorial. Under each, `<p class="section-argument">` holds the matching words of
+  Lecky's own analytical contents (vol. I OCR lines ~656-890 of `rationalismeuro01leckuoft_djvu.txt`), verbatim with OCR fixed.
+  The abstract's `p.editorial-note` says so. Never split or reword Lecky's paragraphs.
+- 5+ h2s give a margin TOC (wide screens) and a collapsible inline one (popups.js `buildToc`).
+- Figures: `<figure class="float-right|wide">` + `figcaption` + `span.credit` (Commons file link + licence), images in
+  `assets/img/rationalism/<chapter>/` (floats ~700px wide, wide ones ~1400px, JPEG q80). Only public-domain or CC images,
+  with captions stating only what the Commons description supports. Commons' API rate-limits this machine: use
+  `en.wikipedia.org/api/rest_v1/page/summary/<Article>` (originalimage) and `File:<name>?action=raw`, with a User-Agent and sleeps.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
