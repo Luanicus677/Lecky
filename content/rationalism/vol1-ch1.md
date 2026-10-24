@@ -302,7 +302,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^48]: This was a very old notion. St. Basil seems to have maintained it very strongly. Cudworth's Int. System, vol. ii. p. 648.
 
-[^49]: Maury, p. 185.
+[^49]: Maury, p. 185. <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#pactes-185">source page</a>
 
 [^50]: The last judicial execution in Europe was, I believe, in Switzerland, in 1782 (Michelet's Sorcière, p. 415), the last law on the subject, the Irish Statute, which was not repealed till 1821.
 
