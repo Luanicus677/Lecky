@@ -9,8 +9,8 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Alfred_Maury\">Louis-Ferdinand-Alfred Maury</a> (1817–1892), French scholar. Lecky calls the book “Maury, <em>Histoire de la Magie</em> (Paris, 1860)” and says it is “an extremely learned and able work, from which I have derived great assistance” (<a href=\"../rationalism/vol1-ch1.html#fn15\">Chapter I, note 15</a>)."]
   - ["Edition used", "Paris, Librairie académique Didier, 1860: Internet Archive <a href=\"https://archive.org/details/BSG_8R428_3INV2303FA\">BSG_8R428_3INV2303FA</a>. Image = page + 11: p. 117 = <a href=\"https://archive.org/details/BSG_8R428_3INV2303FA/page/n128/mode/2up\">n128</a>, p. 118 = <a href=\"https://archive.org/details/BSG_8R428_3INV2303FA/page/n129/mode/2up\">n129</a>, p. 221 = <a href=\"https://archive.org/details/BSG_8R428_3INV2303FA/page/n232/mode/2up\">n232</a>, p. 317 = <a href=\"https://archive.org/details/BSG_8R428_3INV2303FA/page/n328/mode/2up\">n328</a>. Lecky’s page numbers match. Translations are this edition’s own drafts. (The OCR of the page headers in this scan is unreliable; the page numbers above were read on the images.)"]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn20\">Rationalism, ch. I, note 20</a>, <a href=\"../rationalism/vol1-ch1.html#fn29\">29</a>, <a href=\"../rationalism/vol1-ch1.html#fn92\">92</a> and <a href=\"../rationalism/vol1-ch1.html#fn93\">93</a>."]
-  - ["Status", "Four notes checked on page images. Lecky cites Maury in some twenty other notes (pp. 78–85, 118–119, 185, 219 and others; also <em>Légendes pieuses</em> and <em>Croyances et légendes</em>, which are different books); those are not yet checked."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn20\">Rationalism, ch. I, note 20</a>, <a href=\"../rationalism/vol1-ch1.html#fn29\">29</a>, <a href=\"../rationalism/vol1-ch1.html#fn33\">33</a>, <a href=\"../rationalism/vol1-ch1.html#fn92\">92</a>, <a href=\"../rationalism/vol1-ch1.html#fn93\">93</a> and <a href=\"../rationalism/vol1-ch1.html#fn94\">94</a>."]
+  - ["Status", "Six notes checked on page images (20, 29, 33, 92, 93, 94). Lecky cites Maury in some twenty other notes (pp. 78–85, 185 and others; also <em>Légendes pieuses</em> and <em>Croyances et légendes</em>, which are different books); those are not yet checked."]
 abstract: |
   <p>Both French quotations are accurate. Note 29 (pp. 117–118) has one slip, “leur dépouiller” for the book’s “les dépouiller”, and a comma turned into a semicolon; the Latin laws of Constantius that Maury quotes on p. 117 are those of the Codex Theodosianus IX.16 law 4, from Ritter’s edition, which is also on this site. Note 93 (p. 221) stops where Maury’s sentence continues. Note 20 (p. 317) is looser: Maury says the Messalians “se mouchaient, crachaient sans cesse”, made contortions and shot arrows at the demons; he does not say there that they made spitting a “religious exercise”, nor that they “inhaled” devils (the page does not contain either claim, though Lecky may have another page in mind).</p>
 ---
@@ -59,4 +59,32 @@ abstract: |
 </div>
 </div>
 <p>Lecky’s note 20: “One sect of heretics of the fourth century — the Messalians — went so far as to make spitting a religious exercise, in hopes of thus casting out the devils they inhaled. (Maury, p. 317.)” Maury’s sentence supports the spitting, the demons and the fourth century. “Religious exercise” and “devils they inhaled” are not in this sentence or its footnotes; “inhaled” may come from Maury’s other sources, which I have not checked.</p>
+</section>
+
+<section id="valentinien-118" class="passage">
+<h2>Valentinian’s persecution (pp. 118–119)</h2>
+<p class="passage-source">French: pp. 118–119, <a href="https://archive.org/details/BSG_8R428_3INV2303FA/page/n129/mode/2up">scan</a> and <a href="https://archive.org/details/BSG_8R428_3INV2303FA/page/n130/mode/2up">scan</a>.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>Toutefois, sous le règne suivant, on se relâcha de ces rigueurs. Jovien paraît s’être montré assez tolérant à l’égard des païens. … Valentinien I<sup>er</sup> dirigea contre les magiciens et les fauteurs des pratiques magiques une persécution acharnée dont Ammien-Marcellin nous a rapporté les circonstances. … <span class="cited-passage">Plusieurs personnages éminents, et notamment Marinus, avocat célèbre, furent impliqués dans la poursuite et mis à mort. Partout, dit Zosime, on voyait couler des larmes, partout on entendait pousser des gémissements ; les prisons étaient remplies de personnes que leur mérite n’avait pu sauver de la captivité. Ainsi les empereurs chrétiens étaient devenus aussi persécuteurs que les empereurs païens, et le paganisme expirant avait ses martyrs comme le christianisme naissant avait eu les siens.</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>However, under the following reign these rigours were relaxed. Jovian seems to have shown himself fairly tolerant towards the pagans. … Valentinian I directed against magicians and the abettors of magical practices a relentless persecution of which Ammianus Marcellinus has given us the circumstances. … <span class="cited-passage">Several eminent persons, and notably Marinus, a famous advocate, were involved in the prosecution and put to death. Everywhere, says Zosimus, one saw tears flowing, everywhere one heard groans; the prisons were full of people whom their merit had not been able to save from captivity. Thus the Christian emperors had become as persecuting as the pagan emperors, and expiring paganism had its martyrs as nascent Christianity had had its own.</span></p>
+</div>
+</div>
+<p>Lecky (note 33, after the text “Valentinian … consented to its remaining inoperative [in Greece] … but, in other portions of the Empire, fearful scenes of suffering and persecution were everywhere witnessed”): “Maury, pp. 118, 119.” The suffering and persecution are on these pages (with Maury’s citation of Zosimus, iv. 14, and Ammianus, xxvi. 3). The law “against impious prayers and midnight sacrifices” and its suspension for Greece are not on these two pages; I did not look elsewhere in Maury for them.</p>
+</section>
+
+<section id="labruyere-219" class="passage">
+<h2>La Bruyère on magic (p. 219, footnote 4)</h2>
+<p class="passage-source">French: p. 219, <a href="https://archive.org/details/BSG_8R428_3INV2303FA/page/n230/mode/2up">scan</a>; the quotation continues on p. 220, which I did not read.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>⁴ « <span class="cited-passage">Que penser, écrit La Bruyère, de la magie et du sortilège ? La théorie en est obscurcie, les principes vagues, incertains, et qui approchent du visionnaire ; mais il y a des faits embarrassants, affirmés par des hommes graves qui les ont vus ; les admettre tous ou les nier tous paraît un égal inconvénient, et j’ose dire qu’en cela comme en toutes les choses extraordinaires et qui sortent des communes règles, il y a un parti à trouver entre</span> …</p>
+</div>
+<div class="rendering" lang="en">
+<p>⁴ “<span class="cited-passage">What are we to think, writes La Bruyère, of magic and sorcery? The theory of it is obscured, the principles vague, uncertain, and bordering on the visionary; but there are embarrassing facts, affirmed by grave men who have seen them; to admit them all or to deny them all seems an equal inconvenience, and I venture to say that in this, as in all extraordinary things that depart from the common rules, there is a middle course to be found between</span> …</p>
+</div>
+</div>
+<p>Lecky’s sentence in the text (“La Bruyère said that the principles on which magic rests seem vague, uncertain, and visionary; but that many embarrassing facts have been attested by credible eye-witnesses; that it appeared equally to admit or to deny them, and that it was better to take a central position between the credulous who admitted all, and the freethinkers who rejected all”) is a faithful summary of this passage; the “credulous” and “freethinkers” must be on the next page. Note 94 says only “See the passage in Maury, p. 219.” I did not check La Bruyère’s own text (<em>Les Caractères</em>, “Des esprits forts”).</p>
 </section>

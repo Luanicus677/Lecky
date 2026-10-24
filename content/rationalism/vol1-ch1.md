@@ -270,7 +270,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^32]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-7">Cod. Th. lib. ix. t. xvi. l. 7, &c.</a>
 
-[^33]: Maury, pp. 118, 119.
+[^33]: Maury, pp. 118, 119. <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#valentinien-118">source page</a>
 
 [^34]: Ammianus Marcellinus, lib. xxix. c. 1, 2.
 
@@ -394,7 +394,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^93]: 'Ce furent les esprits forts du commencement du dix-septième siècle qui s'efforcèrent les premiers de combattre le préjugé régnant, de défendre de malheureux fous ou d'indiscrets chercheurs contre les tribunaux. Il fallait pour cela du courage, car on risquait, en cherchant à sauver la tête du prévenu, de passer soi-même pour un affidé du diable, ou ce que ne valait pas mieux, pour un incrédule. Les libres penseurs, les libertins comme on les appelait alors, n'avaient que peu de crédit.' (Maury, p. 221.) <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#esprits-forts-221">source page</a>
 
-[^94]: See the passage in Maury, p. 219.
+[^94]: See the passage in Maury, p. 219. <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#labruyere-219">source page</a>
 
 [^95]: Ibid. p. 220.
 
