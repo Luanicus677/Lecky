@@ -107,6 +107,8 @@ Notes for continuing:
 
 - Also Vol. II: `toletus-instructio-sacerdotum.md` (1625 ed. `bub_gb_KyxnUbkc4K0C`, p. 378 = image n426 = page+48; note 65; chapter number not checked; Lecky's 'p. 653' is another edition) and `sa-aphorismi-confessariorum.md` (1599 ed. `bub_gb_5AK7-pKY-O8C`, p. 308 = n309; note 66, verbatim). Toletus's claim 'made a cardinal in 1583' in Lecky's text: Toledo was made cardinal in 1593 (from memory, unchecked). So all of ch. V notes 65-68 are done.
 
+- Also: `lebrun-discours-sur-la-comedie.md` (1731 ed. `discourssurlacom00lebr`, p. 259 = n312 = page+53; ch. VI note 143) and `montaigne-essais-ii-12.md` (Courbet-Royer 1900 vol. 3 `19essaispublis03montuoft`, p. 179 = n192; ch. V note 117; Lecky reads 'imprudence', text 'impudence'). Still undone Latin/French notes: Hobbes Leviathan (V.118), Rousseau Contrat social IV.8 (IV.81), Beza/Castellio (IV.68-70, 73), Jurieu (IV.62-63), Bossuet Variations (IV.75), Eymericus (IV.40-42), Farinacius (IV.43), Ventura (V.28), Sarpi (V.11), Bianchi French (V.131), ch. VI Leo X bull/Augustine sermon/Turgot (notes 27, 36, 49, 57).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
