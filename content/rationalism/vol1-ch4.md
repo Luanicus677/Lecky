@@ -149,7 +149,7 @@ It was thus that the great teachers of the seventeenth century, who were themsel
 
 [^27]: See a great deal of evidence of this in Palmer.
 
-[^28]: This passage is given in full by Bossuet, *Variations Protestantes*, liv. ii. c. 19. The original confession was published by Bullinger, in 1536, with a very laudatory preface.
+[^28]: This passage is given in full by Bossuet, *Variations Protestantes*, liv. ii. c. 19. <a class="popup-ref" href="../ref/bossuet-variations.html#zuingle-confession">source page</a> The original confession was published by Bullinger, in 1536, with a very laudatory preface.
 
 [^29]: The doctrine of double predestination was, however, maintained in the ninth century by a monk named Gotteschalk, who was opposed by Hinckmar, Archbishop of Rheims, in the spirit of a theologian, and by Scotus Erigena in the spirit of a freethinker. For an account of this once-famous controversy see the learned work of M. St. René Taillandier, *Scot Érigène et la Philosophie Scholastique* (Strasbourg, 1843), pp. 51–58; and for a contemporary view of the opinions of Gotteschalk, see a letter by Amulo, Archbishop of Lyons (the immediate successor of Agobard), printed with the works of Agobard (Paris, 1666). According to Amulo, Gotteschalk not only held the doctrines of reprobation and particular redemption, but even declared that the Almighty rejoiced and exulted over the destruction of those who were predestinated to damnation. Gotteschalk was condemned to be degraded from the priesthood, to be imprisoned, and to be scourged. (Llorente, *Hist. de l'Inquisition*, tom. i. p. 20.)
 

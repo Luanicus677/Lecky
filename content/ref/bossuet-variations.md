@@ -9,8 +9,8 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jacques-B%C3%A9nigne_Bossuet\">Jacques-Bénigne Bossuet</a> (1627–1704). Lecky: “(<em>Variations Protestantes</em>, liv. x. c. 56.)” (<a href=\"../rationalism/vol2-ch4.html#fn75\">Chapter IV Part II, note 75</a>)."]
   - ["Edition used", "A nineteenth-century Paris reprint (1844 per the archive record), vol. 2: Internet Archive <a href=\"https://archive.org/details/bub_gb_0tGUU8OopAUC\">bub_gb_0tGUU8OopAUC</a>; p. 475 = image <a href=\"https://archive.org/details/bub_gb_0tGUU8OopAUC/page/n492/mode/2up\">n492</a> (image = page + 17). The translation is this edition’s own draft."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn75\">Rationalism, ch. IV (continued), note 75</a> and <a href=\"../rationalism/vol1-ch4.html#fn17\">(vol. I) ch. IV, note 17</a>."]
-  - ["Status", "p. 475 read on the image. Note 17 (liv. II) is on this page too; note 28 (liv. II, c. 19: the Confession of Basel passage) is not checked."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn75\">Rationalism, ch. IV (continued), note 75</a> and <a href=\"../rationalism/vol1-ch4.html#fn17\">(vol. I) ch. IV, note 17</a> and <a href=\"../rationalism/vol1-ch4.html#fn28\">note 28</a>."]
+  - ["Status", "p. 475 read on the image. Notes 17 and 28 (liv. II) are also covered; note 28 (liv. II, p. 70) is also on this page."]
 abstract: |
   <p>Lecky’s French is Bossuet’s paragraph with two small changes: Lecky has “(Jurieu, Syst. ii. ch. 22–23, &amp;c.)” where Bossuet’s parenthesis lists “Jur. Syst. II. ch. 22. 23. Lett. Past. de la I. année I. II. III. Hist. du Papism. 2. Récrim. ch. II. et seq.”, and he writes “je ne connois parmi les Chrétiens” for “parmi les chrétiens”. Lecky’s quotation also stops before Bossuet’s last sentence, “En un mot, le droit est certain: mais la modération n’en est pas moins nécessaire.” The doctrine is Bossuet’s: that Protestants and Catholics agree that the sword may be used against heretics, the evidence being Luther’s and Calvin’s books on the magistrate, Calvin’s treatment of Servetus and Valentin Gentile, Melanchthon’s approval, the discipline of Geneva and Jurieu.</p>
 ---
@@ -40,4 +40,18 @@ abstract: |
 </div>
 </div>
 <p>Lecky (ch. IV, note 17): “Bossuet made a violent attack upon this notion of Zuinglius … ‘le péché originel ne damne personne, pas même les enfants des païens.’ (<em>Variations Protestants</em>, liv. ii. c. 21.)” The quotation is exact and is printed in italics by Bossuet himself; the book is II, and the page 73 is in the section on Zwingli (Lecky’s “c. 21” is the section number, not read here). Lecky’s “violent” is a fair description of “le plus parfait pélagien”.</p>
+</section>
+
+<section id="zuingle-confession" class="passage">
+<h2>Zwingli’s confession to Francis I (book II, p. 70)</h2>
+<p class="passage-source">French: p. 70, <a href="https://archive.org/details/bub_gb_0tGUU8OopAUC/page/n78/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: the passage Lecky translates.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… c’est la Confession de foi qu’il adressa un peu avant sa mort à François I<sup>er</sup>. Là, expliquant l’article de la vie éternelle, il dit à ce prince : « qu’il doit espérer de voir <span class="cited-passage">l’assemblée de tout ce qu’il y a eu d’hommes saints, courageux, fidèles et vertueux, dès le commencement du monde</span>. (<em>Christ. fidei clara expos. 1536. p. 27.</em>) Là, vous verrez, poursuit-il, les deux Adam, le racheté et le rédempteur. Vous y verrez un Abel, un Énoc, un Noé, un Abraham, un Isaac, un Jacob … <span class="cited-passage">Vous y verrez Hercule, Thésée, Socrate, Aristide, Antigonus, Numa, Camille, les Catons, les Scipions.</span> … Enfin il n’y aura aucun homme de bien, aucun esprit saint, aucune âme fidèle, que vous ne voyiez là avec Dieu. Que peut-on penser de plus beau, de plus agréable, de plus glorieux que ce spectacle ? » Qui jamais s’étoit avisé de mettre ainsi Jésus-Christ pêle-mêle avec les saints … jusqu’à Numa, le père de l’idolâtrie romaine, jusqu’à Caton qui se tua lui-même comme un furieux …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… it is the Confession of faith he addressed to Francis I a little before his death. There, explaining the article of eternal life, he says to this prince that he “should hope to see <span class="cited-passage">the assembly of all the holy, courageous, faithful and virtuous men there have been since the beginning of the world</span>. There you will see, he goes on, the two Adams, the redeemed and the redeemer. You will see an Abel, an Enoch, a Noah, an Abraham, an Isaac, a Jacob … <span class="cited-passage">You will see Hercules, Theseus, Socrates, Aristides, Antigonus, Numa, Camillus, the Catos, the Scipios.</span> … In short there will be no good man, no holy spirit, no faithful soul, whom you will not see there with God. What can one think more beautiful, more agreeable, more glorious than this spectacle?” Who ever thought of putting Jesus Christ thus pell-mell with the saints … even to Numa, the father of Roman idolatry, to Cato who killed himself like a madman …</p>
+</div>
+</div>
+<p>Lecky (ch. IV, note 28): “This passage is given in full by Bossuet, <em>Variations Protestantes</em>, liv. ii. c. 19. The original confession was published by Bullinger, in 1536, with a very laudatory preface.” The page confirms: Bossuet gives the confession (published 1536, p. 27 of the <em>Christianae fidei clara expositio</em>) and cites Bullinger’s preface. The list of names in Lecky’s text (“Socrates, Aristides, and Antigonus, with Numa and Camillus, Hercules and Theseus, the Scipios and the Catos”) is Zwingli’s; “in full” is Lecky’s phrase for Bossuet’s extended quotation, which on this page is abridged (“…”).</p>
 </section>
