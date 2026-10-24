@@ -202,6 +202,8 @@ Notes for continuing:
 
 - Also: `montesquieu-esprit-des-lois-xxi-20.md` (1777 text on fr.wikisource `Esprit_des_lois_(1777)/L21/C20`, NOT a scan; ch. VI note 39; matches). Turgot half of note 39 (§ 14) not checked.
 
+- Also: `de-maistre-soirees-de-saint-petersbourg.md` (1831 vol. 2 `lessoiresdesa01mais`, p. 437 = n462, p. 452 = n477 = page+25; ch. IV note 45 Locke quotes exact; Bacon quotes ('charlatan', 'Novum Organum') not checked).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

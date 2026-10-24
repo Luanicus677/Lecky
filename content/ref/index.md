@@ -353,4 +353,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="montesquieu-esprit-des-lois-xxi-20.html">Montesquieu, <em>De l’esprit des lois</em>, XXI, 20</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Nous devons aux spéculations des scholastiques tous les malheurs …”, quoted in ch. VI, note 39. Compared with a Wikisource text; accurate.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="de-maistre-soirees-de-saint-petersbourg.html">De Maistre, <em>Soirées de Saint-Pétersbourg</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The sixth conversation on Locke (pp. 437, 452), quoted in ch. IV, note 45. Exact; the Bacon quotations are not checked.</div>
+</li>
 </ul>
