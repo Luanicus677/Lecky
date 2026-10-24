@@ -127,7 +127,7 @@ Notes for continuing:
 
 - Also: `macpherson-annals-of-commerce.md` (1805 quarto; vol. i `annalsofcommerce01macp`, image = page+11: p. 536 = n547, p. 661 = n672; vol. ii `annalsofcommerce02macpuoft`, image = page+9: p. 638 = n647; ch. VI notes 94, 160, 162). Findings: p. 536's footnote is about a VENETIAN consul at Bruges in an English record, not an 'English consul' (note 94); p. 661 is headed A.D. 1443, Lecky says 1440 (note 160); p. 638 says 'about this time' under 1689. Unread: p. 715 mentions 'first consul for the English merchants at Pisa' under King Richard (OCR only).
 
-- Also: `blanqui-histoire-de-leconomie-politique.md` (`histoiredelco01blan`, page foot '3e Edit. t. I.', image = page+31: pp. 225-226 = n256-n257, p. 250 = n281; ch. VI notes 83, 85). Lecky's 1294 summary matches; the Florentine 'officer to repress the luxury of women' is in a 1336-38 budget table (Lecky: 'beginning of the fourteenth century'). Notes 96 (pp. 244-270), 159 (271-284), 164 (277), 169 not yet checked. Another copy: `histoiredelcon01blan` (1860 ed., different pagination).
+- Also: `blanqui-histoire-de-leconomie-politique.md` (`histoiredelco01blan`, page foot '3e Edit. t. I.', image = page+31: pp. 225-226 = n256-n257, p. 250 = n281; ch. VI notes 83, 85, 164 (p. 277 = n308, Spain as author of mercantile system; Ustariz footnote)). Lecky's 1294 summary matches; the Florentine 'officer to repress the luxury of women' is in a 1336-38 budget table (Lecky: 'beginning of the fourteenth century'). Notes 96 (pp. 244-270), 159 (271-284), 164 (277), 169 not yet checked. Another copy: `histoiredelcon01blan` (1860 ed., different pagination).
 
 ## Build, test, deploy
 

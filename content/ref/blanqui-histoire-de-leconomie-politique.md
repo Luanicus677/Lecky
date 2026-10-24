@@ -9,8 +9,8 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me-Adolphe_Blanqui\">Jérôme-Adolphe Blanqui</a> (1798–1854). Lecky cites it as “Blanqui, <em>Hist. d’Économie Politique</em>, tom. i.” in <a href=\"../rationalism/vol2-ch6.html\">Chapter VI</a> (notes 83, 85, 96, 159, 164, 169)."]
   - ["Edition used", "A Paris printing whose page foot reads “3<sup>e</sup> Édit. t. I.” (catalogued 1845): Internet Archive <a href=\"https://archive.org/details/histoiredelco01blan\">histoiredelco01blan</a>. Printed p. 225 is image <a href=\"https://archive.org/details/histoiredelco01blan/page/n256/mode/2up\">n256</a> (image = page + 31); p. 250 is <a href=\"https://archive.org/details/histoiredelco01blan/page/n281/mode/2up\">n281</a>. Lecky’s page numbers match. Translations are this edition’s own drafts."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn83\">Rationalism, ch. VI, note 83</a> and <a href=\"../rationalism/vol2-ch6.html#fn85\">note 85</a>."]
-  - ["Status", "Two notes checked on page images. Notes 96 (pp. 244–270), 159 (pp. 271–284), 164 (p. 277) and 169 are not yet checked; the edition Lecky used (he does not say which) is not known."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn83\">Rationalism, ch. VI, note 83</a>, <a href=\"../rationalism/vol2-ch6.html#fn85\">85</a> and <a href=\"../rationalism/vol2-ch6.html#fn164\">note 164</a>."]
+  - ["Status", "Three notes checked on page images (83, 85, 164). Notes 96 (pp. 244–270), 159 (pp. 271–284) and 169 are not yet checked; the edition Lecky used (he does not say which) is not known."]
 abstract: |
   <p>Note 83 is accurate: pp. 225–226 print the ordinance of 1294 on robes and tables and the ordinance on the wives of burghers, and Blanqui goes on, as Lecky says, to argue that the French king was trying to keep gold in the kingdom. Note 85 is accurate as to the officer “charged with repressing the luxury of women”, but Blanqui’s table is the Florentine budget of <em>1336–1338</em>; Lecky puts the office “in the beginning of the fourteenth century”.</p>
 ---
@@ -54,4 +54,22 @@ abstract: |
 </div>
 </div>
 <p>Lecky: “Even in Florence, among the officers of the republic, in the beginning of the fourteenth century, was one especially appointed ‘to repress the luxury of women.’” The phrase matches; the date in Blanqui’s table is 1336–38, which is the first half, not the beginning, of the century. Lecky’s quotation marks mark a translation, not a quotation from the French.</p>
+</section>
+
+<section id="mercantile-spain" class="passage">
+<h2>Spain as author of the mercantile system (p. 277)</h2>
+<p class="passage-source">French: tom. i p. 277, <a href="https://archive.org/details/histoiredelco01blan/page/n308/mode/2up">scan</a>, with Blanqui’s footnote on Ustáriz.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… C’est alors qu’eurent lieu les premiers essais de <span class="cited-passage">ces théories étranges dont l’invention appartient tout entière aux Espagnols</span>, et qu’un économiste de leur pays résumait si naïvement, deux cents ans plus tard, dans ce passage remarquable : « Il est nécessaire d’employer avec rigueur tous les moyens qui peuvent nous conduire à vendre aux étrangers plus de nos productions qu’ils ne nous vendront des leurs : <em>c’est là tout le secret et la seule utilité du commerce</em>. »</p>
+<p>Tel est le système qui a donné naissance <span class="cited-passage">aux guerres innombrables dont l’Europe a été le théâtre depuis l’avénement de Charles-Quint</span>, et qui domine encore, à leur insu, la politique commerciale de presque tous les gouvernements modernes. …</p>
+<p><small>¹ Ustariz, <em>Théorie et pratique du commerce</em>, chap. iv, p. 13, de l’édition française. …  Et cependant Ustariz écrivait ces lignes en 1740, et il avait été ministre !</small></p>
+</div>
+<div class="rendering" lang="en">
+<p>… It was then that there took place the first trials of <span class="cited-passage">those strange theories whose invention belongs entirely to the Spaniards</span>, and which an economist of their country summed up so naively, two hundred years later, in this remarkable passage: “It is necessary to employ with rigour all the means that can lead us to sell to foreigners more of our products than they will sell us of theirs: <em>that is the whole secret and the only utility of commerce</em>.”</p>
+<p>Such is the system which gave birth to <span class="cited-passage">the countless wars of which Europe has been the theatre since the accession of Charles V</span>, and which still dominates, without their knowing it, the commercial policy of almost all modern governments. …</p>
+<p><small>¹ Ustáriz, <em>Théorie et pratique du commerce</em>, ch. iv, p. 13 of the French edition. … And yet Ustáriz wrote these lines in 1740, and he had been a minister!</small></p>
+</div>
+</div>
+<p>Lecky’s sentence, that Spain “was the true author of the mercantile theory and of the colonial policy which have been the sources of disastrous wars to every European nation”, is Blanqui’s thesis and almost his wording, and note 164 cites this page for it. Blanqui’s “accession of Charles V” is not Lecky’s phrase; Lecky has dropped the date and widened “Europe” to “every European nation”. The footnote’s quotation from Ustáriz and its date (1740) were read on a clear image; I did not check them against Ustáriz.</p>
 </section>

@@ -214,7 +214,7 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The consul of 1346, the Moors ransomed for slaves, and the first Anglo-Spanish slave convention, cited in ch. VI, notes 94, 160, 162. Lecky’s dates and wording differ in places.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="blanqui-histoire-de-leconomie-politique.html">Blanqui, <em>Histoire de l’économie politique en Europe</em></a><span class="work-status">2 passages</span></div>
-<div class="work-desc">The sumptuary ordinances of 1294 (tom. i, pp. 225–226) and the Florentine officer against women’s luxury (p. 250), cited in ch. VI, notes 83 and 85. Accurate; the Florentine date is 1336–38.</div>
+<div class="work-title"><a class="popup-ref" href="blanqui-histoire-de-leconomie-politique.html">Blanqui, <em>Histoire de l’économie politique en Europe</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">The sumptuary ordinances of 1294 (tom. i, pp. 225–226), the Florentine officer against women’s luxury (p. 250) and Spain as author of the mercantile system (p. 277), cited in ch. VI, notes 83, 85 and 164. Accurate; the Florentine date is 1336–38.</div>
 </li>
 </ul>

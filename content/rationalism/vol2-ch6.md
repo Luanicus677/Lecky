@@ -552,7 +552,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^163]: This was noticed by Bodin in his time. See La Repulliqite, p. 47 (1577).
 
-[^164]: Blanqui, Hist. Econ. Pol., tom. i. p. 277.
+[^164]: Blanqui, Hist. Econ. Pol., tom. i. p. 277. <a class="popup-ref" href="../ref/blanqui-histoire-de-leconomie-politique.html#mercantile-spain">source page</a>
 
 [^165]: The fullest history of hot drinks I have met with is in a curious and learned book, D'Aussy, Hist. de la Vie Privee des Franqais (Paris, 1815), tom. iii. pp. 116-129, which I have followed closely. See, too, Pierre Lacroix, Histoire des Anciennes Corporations, p. 76; and, for the English part of the history, MTherson's Annals of Commerce, vol. ii. pp. 447-489.
 
