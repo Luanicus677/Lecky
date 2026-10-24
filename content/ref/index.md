@@ -221,4 +221,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="pecchio-storia-della-economia-pubblica.html">Pecchio, <em>Storia della economia pubblica in Italia</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Amalfi and the Tavola Amalfitana (Introduction, p. 11), cited in ch. VI, note 90. The page does not mention the manuscript of Roman laws that Lecky’s sentence reports.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="eden-state-of-the-poor.html">Eden, <em>The State of the Poor</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">The Council of Westminster of 1102, English slaves exported to Ireland, and Becket labouring in harvest (vol. i, pp. 7, 10, 50), cited in ch. VI, notes 11 and 17. Lecky’s Becket sentence is fuller than Eden’s.</div>
+</li>
 </ul>

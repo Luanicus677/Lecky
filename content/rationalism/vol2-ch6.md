@@ -246,7 +246,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^10]: See on this subject Perin, La Eicliesse dans les Societes Chretiennes, tom. i. pp. 345-361; Van Bruyssel, Hist. du Commerce Beige, tom. i. pp. 58, 59.
 
-[^11]: Eden, History of the Labouring Classes in England, vol. i. p. 50.
+[^11]: Eden, History of the Labouring Classes in England, vol. i. p. 50. <a class="popup-ref" href="../ref/eden-state-of-the-poor.html#becket-harvest">source page</a>
 
 [^12]: Grote, Hist. of Greece, vol. ii. p. 123.
 
@@ -258,7 +258,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^16]: This is, I believe, related of St. John of the Cross. There is a somewhat similar legend of a Spanish saint of the thirteenth century named Ramon Monat. The Virgin appeared to him and offered him a crown of roses, which he refused, and Christ then gave him His own crown of thorns.
 
-[^17]: In 1102 a Council of Westminster found it necessary to prohibit the sale of slaves in England (Eden, Hist. of Labouring Classes, vol. i. p. 10); and still later the English were accustomed to sell slaves to the Irish, and Giraldus Cambrensis tells us that the emancipation of their slaves as an act of devotion was enjoined by the Irish bishops on the occasion of Strongbow'fl invasion. Bodin has noticed some passages from the bulls of the Popes relative to slaves in Italy as late as the thirteenth century (Republique, p. 43). Religion, which so powerfully contributed to the emancipation, in some cases had an opposite influence, for Christians enslaved without scruple Jews and Mohammedans, who naturally retaliated. The number of Christian slaves bought up by the Jews had been one of the complaints of Agobard in the ninth century.
+[^17]: In 1102 a Council of Westminster found it necessary to prohibit the sale of slaves in England (Eden, Hist. of Labouring Classes, vol. i. p. 10) <a class="popup-ref" href="../ref/eden-state-of-the-poor.html#council-1102">source page</a>; and still later the English were accustomed to sell slaves to the Irish, and Giraldus Cambrensis tells us that the emancipation of their slaves as an act of devotion was enjoined by the Irish bishops on the occasion of Strongbow'fl invasion. Bodin has noticed some passages from the bulls of the Popes relative to slaves in Italy as late as the thirteenth century (Republique, p. 43). Religion, which so powerfully contributed to the emancipation, in some cases had an opposite influence, for Christians enslaved without scruple Jews and Mohammedans, who naturally retaliated. The number of Christian slaves bought up by the Jews had been one of the complaints of Agobard in the ninth century.
 
 [^18]: See on all these causes Hallam's Middle Ages, vol. i. pp. 217-218.
 

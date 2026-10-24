@@ -131,6 +131,8 @@ Notes for continuing:
 
 - Also: `pecchio-storia-della-economia-pubblica.md` (`storiadellaecon01peccgoog`, image = page+9, p. 11 = n20; ch. VI note 90). Pecchio p. 11 has the Tavola Amalfitana and compass, NOT Lecky's 'manuscript of Roman laws found at Amalfi'. Not found online: Rios (only Spanish original `estudioshistoric00amad`, not the French ed. Lecky cites), Lamet & Fromageau. Eden's State of the Poor 1797 is online (`bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`; Lecky's vol. i pp. 10, 50 for notes 11, 17 not yet checked; Champagny `lacharitechreti00chamgoog` notes 9, 15 not checked).
 
+- Also: `eden-state-of-the-poor.md` (1797 vol. i `bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`, image = page+39: pp. 7, 10, 50 = n46, n49, n89; ch. VI notes 11, 17). Becket sentence is shorter in Eden than in Lecky; Giraldus/Strongbow sentence in note 17 is not on these pages. Eden's other pages unchecked.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
