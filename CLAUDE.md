@@ -168,6 +168,8 @@ Notes for continuing:
 - Strauss Life of Jesus (ch. II note 17): Lecky's quotation "We may summarily reject all miracles ... simply impossible" is NOT in the Eliot 4th ed. (Gutenberg 64037; only the "irreconcilable with the known and universal laws" clause appears, in the Introduction § on the mythus). Unmatched, no page built.
 - Also: `brewster-life-of-newton.md` (1860 vol. 2 `memoirsoflifewri02brewuoft`, pp. 252-253 = n269-n270 = page+17; Lecky's p. 275 = the 1855 ed.; ch. II note 8). Lecky's last sentence 'The history of those ages is very imperfect' NOT in Brewster. King's Life of Locke i p. 415 and Locke's Third Letter on Toleration p. 269 (ch. II note 9) DONE: `locke-third-letter-for-toleration.md` (1692 ed. `bim_early-english-books-1641-1700_a-third-letter-for-toler_locke-john_1692`, p. 269 = n270 = page+1; matches).
 
+- Also: `fulgentius-de-fide-ad-petrum.md` (Plantin 1574? Fulgentii opera `bub_gb_hZ5lpQgaOtIC`, c. 27 p. 479 = n494, cc. 38-39 p. 483 = n498 = page+15; ch. IV notes 8, 20). Lecky's section numbers (70, 81, 22) are not this edition's chapters; Lecky's 'sive jam' and 'eo vel haeretica vel' differ. Isidore Sententiae i. 22 and Avitus (note 8) not done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
