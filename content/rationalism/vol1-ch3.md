@@ -293,7 +293,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^7]: See Raoul Rochette, *Tableau des Catacombes*, pp. 192–195; Didron, *Iconographie Chrétienne*.
 
-[^8]: Which St. Augustine said he had ascertained by experiment to be a fact, and which he seemed to regard as a miracle. (*De Civ. Dei*, lib. xxi. c. 4.)
+[^8]: Which St. Augustine said he had ascertained by experiment to be a fact, and which he seemed to regard as a miracle. (*De Civ. Dei*, lib. xxi. c. 4.) <a class="popup-ref" href="../ref/augustine-de-civitate-dei.html#peacock-xxi-4">source page</a>
 
 [^9]: See Ciampini, *Vetera Monumenta*, pars i. p. 115; and Maitland, *On the Catacombs*. Raoul Rochette, however, seems to regard the peacock rather as the symbol, first of all of the apotheosis of an empress, and then generally of apotheosis, the peacock having been the bird of Juno, the empress of heaven.
 
@@ -305,7 +305,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^13]: *Ibid.* p. 45; Raoul Rochette, *Tab. des Cat.*
 
-[^14]: Ἰχθύς. Ἰησοῦς Χριστὸς Θεοῦ υἱὸς Σωτήρ. The initial letters of the prophetic verses of the Sibyl of Erythra (St. Aug. *De Civ. Dei*, lib. xviii. cap. 20). The dolphin was especially selected because of its tenderness to its young.
+[^14]: Ἰχθύς. Ἰησοῦς Χριστὸς Θεοῦ υἱὸς Σωτήρ. The initial letters of the prophetic verses of the Sibyl of Erythra (St. Aug. *De Civ. Dei*, lib. xviii. cap. 20) <a class="popup-ref" href="../ref/augustine-de-civitate-dei.html#sibyl-xviii-23">source page</a>. The dolphin was especially selected because of its tenderness to its young.
 
 [^15]: 'Nos pisciculi secundum Ἰχθύν nostrum Jesum Christum in aquâ nascimur.' (<a class="popup-ref" href="../ref/tertullian-de-baptismo.html#pisciculi">Tertullian, <em>De Baptismo</em>, c. i.</a>)
 

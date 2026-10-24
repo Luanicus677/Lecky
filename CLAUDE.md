@@ -145,6 +145,8 @@ Notes for continuing:
 
 - Also: `michelet-la-sorciere.md` (`lasorcire02michgoog`, catalogued 1863, image = page+7: p. 371 = n378; the 1862 first-ed. scan `lasorcire00mich` returns HTML instead of page images, its OCR has the same sentence at n448 = Lecky's p. 415 probably). ch. I note 50: Michelet has Spain 1782, Switzerland 1781, Germany 1751; Lecky's 'Switzerland, 1782' mixes them. Other Michelet notes (ch. I 2, 6, 36, 55; ch. III 133) not done.
 
+- Augustine De civ. Dei additions (PL 41 scan, col = 2*image+1): XXI.4 peacock cols. 711-712 = n355 (ch. III note 8; Lecky 'regard as a miracle' is a gloss: Augustine gives it as a natural example); XVIII.23 Sibyl acrostic cols. 579-580 = n289 (ch. III note 14; Lecky cites 'cap. 20', Migne has c. 23).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
