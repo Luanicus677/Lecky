@@ -159,6 +159,8 @@ Notes for continuing:
 
 - Also: `bayle-dictionnaire.md` (Beuchot 1820: 'Augustin' remark H p. 557 = n566 in tome 2 `dictionnairehist02bayl` (image = page+9); 'Socin' remark C pp. 351-352 = n358-n359 in `bub_gb_RucOAAAAQAAJ` (tome not read); ch. IV pt II note 55, ch. V note 133). Lecky's synod description ('partly Dutch, partly French and English') differs from Bayle (Walloon churches, refugee ministers); Socinus 'dissolution of society' prediction not on the pages. Pensées diverses §182 also done (pensesdiverse02bayl, p. 378 = n73; ch. VI note 187). Not done: Dict. in ch. III note 117 (no article named).
 
+- Also: `hallam-literature-and-constitutional-history.md` (Lit. of Europe 1837 vol. 2 `introtolitofeur02halliala`, p. 116 = n137 = page+21 (Lecky's 'vol. i. p. 559' is another edition); Const. Hist. via Gutenberg 39711 (vol. 1 ch. II, text only); ch. IV pt II note 74). Other Lit. of Europe scans: `introductiontol22hallgoog` (n287), `10447631bsb`. Other Hallam notes not done: ch. I 118 (Glanvil review vol. iii pp. 358-362), ch. IV pt II 45, 46, 61, 64, ch. V 33, 50, 78, 91, ch. VI 18, 20, 125, 136.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
