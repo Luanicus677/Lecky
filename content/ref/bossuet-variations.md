@@ -9,8 +9,8 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jacques-B%C3%A9nigne_Bossuet\">Jacques-Bénigne Bossuet</a> (1627–1704). Lecky: “(<em>Variations Protestantes</em>, liv. x. c. 56.)” (<a href=\"../rationalism/vol2-ch4.html#fn75\">Chapter IV Part II, note 75</a>)."]
   - ["Edition used", "A nineteenth-century Paris reprint (1844 per the archive record), vol. 2: Internet Archive <a href=\"https://archive.org/details/bub_gb_0tGUU8OopAUC\">bub_gb_0tGUU8OopAUC</a>; p. 475 = image <a href=\"https://archive.org/details/bub_gb_0tGUU8OopAUC/page/n492/mode/2up\">n492</a> (image = page + 17). The translation is this edition’s own draft."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn75\">Rationalism, ch. IV (continued), note 75</a>."]
-  - ["Status", "p. 475 read on the image. Lecky’s second Bossuet note (liv. ii. c. 19, 21; ch. IV notes 17, 28) is not checked."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn75\">Rationalism, ch. IV (continued), note 75</a> and <a href=\"../rationalism/vol1-ch4.html#fn17\">(vol. I) ch. IV, note 17</a>."]
+  - ["Status", "p. 475 read on the image. Note 17 (liv. II) is on this page too; note 28 (liv. II, c. 19: the Confession of Basel passage) is not checked."]
 abstract: |
   <p>Lecky’s French is Bossuet’s paragraph with two small changes: Lecky has “(Jurieu, Syst. ii. ch. 22–23, &amp;c.)” where Bossuet’s parenthesis lists “Jur. Syst. II. ch. 22. 23. Lett. Past. de la I. année I. II. III. Hist. du Papism. 2. Récrim. ch. II. et seq.”, and he writes “je ne connois parmi les Chrétiens” for “parmi les chrétiens”. Lecky’s quotation also stops before Bossuet’s last sentence, “En un mot, le droit est certain: mais la modération n’en est pas moins nécessaire.” The doctrine is Bossuet’s: that Protestants and Catholics agree that the sword may be used against heretics, the evidence being Luther’s and Calvin’s books on the magistrate, Calvin’s treatment of Servetus and Valentin Gentile, Melanchthon’s approval, the discipline of Geneva and Jurieu.</p>
 ---
@@ -26,4 +26,18 @@ abstract: |
 </div>
 </div>
 <p>Lecky (note 75) begins “La discipline de nos Réformés permet aussi le recours au bras séculier en certains cas” and ends with the Socinians and Anabaptists, citing “Variations Protestantes, liv. x. c. 56”. Lecky’s “c. 56” is the section number (§ 56) of book X.</p>
+</section>
+
+<section id="zuingle-ii" class="passage">
+<h2>Zwingli and the children of the pagans (book II, p. 73)</h2>
+<p class="passage-source">French: p. 73, <a href="https://archive.org/details/bub_gb_0tGUU8OopAUC/page/n81/mode/2up">scan</a> (image = page + 8 here). <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>La décision de Zuingle sur le remède de ce mal n’est pas moins étrange ; car il veut qu’il soit ôté indifféremment dans tous les hommes par la mort de Jésus-Christ, indépendamment du Baptême ; en sorte qu’à présent <span class="cited-passage"><em>le péché originel ne damne personne, pas même les enfants des païens</em></span> ; et encore qu’à leur égard il n’ose pas mettre leur salut dans la même certitude que celui des chrétiens et de leurs enfants, il ne laisse pas de dire que, comme les autres, <em>tant qu’ils sont incapables de la loi, ils sont dans l’état d’innocence</em> … C’est ainsi que disputoient les Pélagiens contre l’Église. … assurément, depuis Julien, il n’y a point de plus parfait pélagien que Zuingle.</p>
+</div>
+<div class="rendering" lang="en">
+<p>Zwingli’s decision on the remedy for this evil is no less strange; for he wants it removed indifferently in all men by the death of Jesus Christ, independently of baptism; so that now <em>original sin damns no one, not even the children of the pagans</em>; and although with regard to them he does not dare put their salvation in the same certainty as that of Christians and their children, he does not fail to say that, like the others, <em>so long as they are incapable of the law, they are in the state of innocence</em> … This is how the Pelagians argued against the Church. … Certainly, since Julian, there is no more perfect Pelagian than Zwingli.</p>
+</div>
+</div>
+<p>Lecky (ch. IV, note 17): “Bossuet made a violent attack upon this notion of Zuinglius … ‘le péché originel ne damne personne, pas même les enfants des païens.’ (<em>Variations Protestants</em>, liv. ii. c. 21.)” The quotation is exact and is printed in italics by Bossuet himself; the book is II, and the page 73 is in the section on Zwingli (Lecky’s “c. 21” is the section number, not read here). Lecky’s “violent” is a fair description of “le plus parfait pélagien”.</p>
 </section>
