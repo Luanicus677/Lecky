@@ -115,6 +115,8 @@ Notes for continuing:
 
 - Also: `castellio-traite-des-heretiques.md` (Geneva 1913, `traitdeshr00castuoft`, p. 31 = n46 = page+15; French version of vol2-ch4 note 69; Latin original and note 70's epithets still NOT found; only French/modern editions online).
 
+- Also: `paramo-de-origine-inquisitionis.md` (1598 ed. `bub_gb_mOToVY5wvVYC`, p. 588 = n706 = page+118; vol2-ch4 note 43; Lecky 'damnatur' vs 'damnetur'; Paramo's 'First Inquisitor'/Adam passages not found). Farinacius (note 43, 'De Delictis et Poenis p. 205, Venice 1619') NOT found: scans `bub_gb_PZLHDHkeQ3YC`, `bub_gb_381AS18arc8C`, `bub_gb_c2EXWUXSeU0C`, `bub_gb_b5ogYhxQQY0C` (Praxis et theoricae criminalis) have bad long-s OCR; searches for 'sordescere', 'solatium', 'uno nummo' failed. Note 85 is Neal's Puritans, not Paramo (user mix-up).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
