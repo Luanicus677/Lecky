@@ -157,6 +157,8 @@ Notes for continuing:
 
 - Also: `bayle-commentaire-philosophique.md` (1686 ed.: vol. 1 `commentairephilo01bayl` title page = n2; vol. 2 `commentairephilo02bayl` p. 295 = n110 = Part II ch. IV 'Quatrième objection' (Mosaic law); ch. IV pt II notes 7, 76; rest of ch. IV not read). Still undone Bayle: Dictionnaire art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187); Bayle's Contrains-les d'entrer is vol. 1-2 of 3 in these scans; also `suplementducomme00bayl`.
 
+- Bayle Dictionnaire (IN PROGRESS, nothing built): Beuchot 1820 ed., tome 2 = `dictionnairehist02bayl` (Augustin article; Remark (H) 'M. Claude se serait exposé à une rude censure' with the Amsterdam synod of Aug 1690 calling the proposition 'fausses, scandaleuses, pernicieuses' (ch. IV pt II note 55), printed p. 556-557; image index not yet found: loc.py search on 'scandaleuses' gave wrong hits, try 'Amsterdam' near obj 380-400). Tome numbers: Socinus article is in `bub_gb_RucOAAAAQAAJ` or `bub_gb_IuVgmDPAmwsC` (OCR has SOCIN) for ch. V note 133 (Remark c). Pensées diverses §182 (ch. VI note 187) not looked for. Downloaded OCR texts are in the scratchpad `bay/` only.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
