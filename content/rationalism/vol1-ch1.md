@@ -476,7 +476,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^134]: Compare <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#last-three-1682">Hutchinson, p. 57</a>, and Buckle, vol. i. p. 334. I say judicially, for in the Times of Sept. 24, 1863, there is an account of an old man who was mobbed to death in the county of Essex as a wizard.
 
-[^135]: Hutchinson, pp. 163-171. Some noble and liberal remarks.
+[^135]: <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#liberavimus-167">Hutchinson, pp. 163-171</a>. Some noble and liberal remarks.
 
 [^136]: Journal, 1768.
 
