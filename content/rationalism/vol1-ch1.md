@@ -334,7 +334,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^63]: This coexistence has been noticed by many writers; and Naudé (Apologie, pp. 110, 111) observes, that nearly all the heresies previous to the Reformation had been also accompanied by an outburst of sorcery.
 
-[^64]: Buckle's Hist., vol. i. p. 424, note.
+[^64]: Buckle's Hist., vol. i. p. 424, note. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#revolutions-insanity">source page</a>
 
 [^65]: Calmeil.
 
