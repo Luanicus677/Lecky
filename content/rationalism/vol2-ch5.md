@@ -278,9 +278,9 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^24]: Joyce, Hist. of English Convocations, p. 449.
 
-[^25]: Buckle, Hist. of Civ., vol. i. pp. 380, 381.
+[^25]: Buckle, Hist. of Civ., vol. i. pp. 380, 381. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#lords-380">source page</a>
 
-[^26]: Buckle, Hist. of Civ., vol. i. pp. 380, 381.
+[^26]: Buckle, Hist. of Civ., vol. i. pp. 380, 381. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#lords-380">source page</a>
 
 [^27]: This has been very clearly noticed in one of the ablest modern books in defence of the Tory theory. 'At the point where Protestantism becomes vicious, where it receives the first tinge of latitudinarianism, and begins to join hands with infidelity by superseding the belief of an objective truth in religion, necessary for salvation; at that very spot it likewise assumes an aspect of hostility to the union of Church and State.' (Gladstone, on Church and State, p. 188.)
 

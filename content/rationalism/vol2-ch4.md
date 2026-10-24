@@ -108,7 +108,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^4]: I have endeavoured to trace them in a book called The Leaders of Public Opinion in Ireland.
 
-[^5]: See a note in Buckle, History of Civilisation, vol. i. p. 385.
+[^5]: See a note in Buckle, History of Civilisation, vol. i. p. 385. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#dissenters-385">source page</a>
 
 [^6]: This was the opinion expressed by Charles James Fox. 'The only foundation for toleration,' he said, l is a degree of scepticism, and without it there can be none. For if a man believes in the saving of souls, he must soon think about the means; and if by cutting off one generation he can save many future ones from hell fire, it is his duty to do it.' (Rogers, Recollections, p. 49.)
 
