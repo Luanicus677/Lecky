@@ -482,9 +482,9 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^137]: <a class="popup-ref" href="../ref/bodin-demonomanie-des-sorciers.html#p217">Bodin, p. 217</a>.
 
-[^138]: Hutchinson. Dedication.
+[^138]: Hutchinson. Dedication. <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#dedication-canon">source page</a>
 
-[^139]: Hutchinson. Dedication.
+[^139]: Hutchinson. Dedication. <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#dedication-canon">source page</a>
 
 [^140]: Ibid.
 
