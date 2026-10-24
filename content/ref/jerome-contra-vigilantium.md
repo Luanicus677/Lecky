@@ -1,0 +1,29 @@
+---
+title: Jerome, Contra Vigilantium
+description: "Jerome’s tract against Vigilantius (406), c. 8: the sentence in which Vigilantius, as Jerome quotes him, asks whether the souls of the martyrs love their ashes and hover round them, which Lecky quotes in Chapter III, note 34. Lecky attributes the words to Jerome himself."
+heading: Jerome, <em>Contra Vigilantium</em>
+subtitle: "“Ergo cineres suos amant animae martyrum” (c. 8)"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jerome\">Jerome</a> (c. 347–420), <em>Liber contra Vigilantium</em> (406), against the Gallic priest <a href=\"https://en.wikipedia.org/wiki/Vigilantius\">Vigilantius</a>. Lecky’s note 34 (<a href=\"../rationalism/vol1-ch3.html#fn34\">Chapter III</a>) gives no reference."]
+  - ["Edition used", "J.-P. Migne, <em>Patrologia Latina</em>, vol. 23 (Paris, 1845): Internet Archive <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_23\">…_1845_23</a>. Cols. 345–347 are images <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_23/page/n176/mode/2up\">n176</a> and <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_23/page/n177/mode/2up\">n177</a>. The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn34\">Rationalism, ch. III, note 34</a>."]
+  - ["Status", "Read on the page images (dark microfilm; a few letters uncertain). Lecky’s attribution is discussed below."]
+abstract: |
+  <p>Lecky writes: “As St. Jerome says: ‘Ergo cineres suos amant animae martyrum, et circumvolant eos, semperque praesentes sunt: ne forte si aliquis precator advenerit absentes audire non possint.’” The words are in Jerome, but he is not stating his own view: they are the words of Vigilantius, whom Jerome quotes in order to mock (“O portentum in terras ultimas deportandum!”, “What a monstrous thing, to be banished to the ends of the earth!”). Jerome’s editors add a note saying the sentence comes from a book of the Eunomian school (the “Scythian”). Lecky’s sentence about the early belief (“the souls of the dead constantly hovered around the remains of their former bodies”) is therefore well-founded as a report of an opinion, but “As St. Jerome says” misattributes it; Jerome ridicules it.</p>
+---
+<section id="cineres-8" class="passage">
+<h2>Vigilantius on the martyrs’ ashes (c. 8)</h2>
+<p class="passage-source">Latin: Migne PL 23, cols. 346–347, <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_23/page/n176/mode/2up">scan</a> and <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_23/page/n177/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>8. … Male facit ergo Romanus episcopus, qui super mortuorum hominum Petri et Pauli, secundum nos ossa veneranda, secundum te vilem pulvisculum, offert Domino sacrificia, et tumulos eorum Christi arbitratur altaria? … Et post haec de barathro pectoris sui coenosam spurcitiam evomens, aut dicere : « <span class="cited-passage">Ergo cineres suos amant animae martyrum, et circumvolant eos, semperque praesentes sunt ; ne forte si aliquis precator [<em>Al.</em> peccator] advenerit, absentes audire non possint ?</span> » O portentum in terras ultimas deportandum ! Rides de reliquiis martyrum, et cum auctore hujus haeresis Eunomio, Ecclesiis Christi calumniam struis …</p>
+</div>
+<div class="rendering" lang="en">
+<p>8. … “The Roman bishop does ill, then, who offers sacrifices to the Lord over the bones of the dead men Peter and Paul — venerable according to us, a mean little dust according to you — and thinks their tombs the altars of Christ?” … And after this, vomiting forth from the pit of his breast his muddy filth, he dares to say: “<span class="cited-passage">So the souls of the martyrs love their ashes, and hover round them, and are always present, lest perhaps, if some suppliant [<em>other reading</em>: sinner] should come, they might not be able to hear him from a distance?</span>” O monstrous thing, to be carried off to the farthest lands! You laugh at the relics of the martyrs, and with Eunomius, the author of this heresy, you raise a slander against the churches of Christ …</p>
+</div>
+</div>
+<p>Collation: Lecky has “et circumvolant eos, semperque præsentes sunt: ne forte si aliquis precator advenerit absentes audire non possint”, identical to Migne apart from ligatures, punctuation and the loss of the question mark and of “Al. peccator”. Jerome’s reply (the passage after the quotation) treats the idea as a charge to be refuted, and the editors annotate the whole attack as drawn from a work by the “Scythian” Eunomian school. Lecky’s “early belief that the souls hovered around the remains” is thus Vigilantius’s sarcastic statement of what the cult of relics implies, not a doctrine Jerome announces; and Jerome, in the sections that follow, goes on to defend the cult.</p>
+</section>

@@ -360,7 +360,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
     Pascal, *Art Chrétien*, tom. i. p. 250.
 
-[^34]: As St. Jerome says:—'Ergo cineres suos amant animæ martyrum et circumvolant eos, semperque præsentes sunt: ne forte si aliquis precator advenerit absentes audire non possint.' (*Epistolæ*, lib. iii. c. 13.)
+[^34]: As St. Jerome says:—'Ergo cineres suos amant animæ martyrum et circumvolant eos, semperque præsentes sunt: ne forte si aliquis precator advenerit absentes audire non possint.' <a class="popup-ref" href="../ref/jerome-contra-vigilantium.html#cineres-8">source page</a> (*Epistolæ*, lib. iii. c. 13.)
 
 [^35]: With a letter, which was accepted without hesitation by Eusebius, and which Addison, in his work on Christian Evidences, quoted as genuine. Of course it is now generally admitted to be apocryphal. This portrait was supposed to be miraculously impressed (like that obtained by St. Veronica) on a handkerchief. It was for a long time at Constantinople, but was brought to Rome probably about A.D. 1198, and deposited in the Church of St. Sylvester in Capite, where it now is. See Marangoni, *Istoria della Cappella di Sancta Sanctorum di Roma* (Romæ, 1747), pp. 235–239; a book which, though ostensibly simply a history of the Acheropita, or sacred image at the Lateran, contains a fuller account of the history of the early miraculous pictures of Christ than any other I have met with.
 

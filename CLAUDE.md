@@ -149,6 +149,8 @@ Notes for continuing:
 
 - Also: `augustine-de-natura-et-gratia.md` (PL 44 `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_44`, col. 267 = n133; c. XXXVI § 42; ch. III note 32; Lecky 'habere' for 'haberi', inserted 'eum'). Rest of note 32 (Heeren, Gibbon, Bernard) unchecked.
 
+- Also: `jerome-contra-vigilantium.md` (PL 23 `..._1845_23`, cols. 346-347 = n176-n177; ch. III note 34). The 'ergo cineres suos amant animae martyrum' words are Vigilantius's, quoted by Jerome to mock; Lecky says 'As St. Jerome says'. Not found: Isidore De ordine creaturarum (PL 83 `..._1859_83`, search for the text found nothing), Wall History of Infant Baptism ch. IV notes 3-4 (scans `historyofinfantb03wall`, `historyinfantba01galegoog`: 'pettishness' not located).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
