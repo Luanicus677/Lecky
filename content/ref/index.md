@@ -337,4 +337,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="taylor-liberty-of-prophesying.html">Taylor, <em>Liberty of Prophesying</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">“The water and the Spirit … signify the same thing” (pp. 328–329, ch. IV note 13) and Christ’s refusal of fire (p. 368, ch. IV cont. note 7). Accurate.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="laing-notes-of-a-traveller.html">Laing, <em>Notes of a Traveller</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Swiss as “eminently moral in conduct, yet eminently irreligious” (pp. 323–324), quoted in ch. IV, note 35. Accurate with small changes; Lecky gives no title.</div>
+</li>
 </ul>

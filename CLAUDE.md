@@ -192,6 +192,8 @@ Notes for continuing:
 
 - Also: `taylor-liberty-of-prophesying.md` (1836 `discourseofliber1836tayl`, pp. 328-329 = n369-n370 = page+41; ch. IV note 13 § 18; matches). Other Taylor: ch. IV note 36 (Ductor Dubitantium iii c. 2), vol2 ch. IV note 7 done (p. 368 = n409). Other scans: `discourseofliber00tayl` (1834), `cu31924029261506`.
 
+- Also: `laing-notes-of-a-traveller.md` (1854 reprint `notesatraveller02laingoog`, pp. 323-324 = n341-n342 = page+18; ch. IV note 35's Swiss quotation; identified from the text, Lecky gives no title). Laing's Sweden pp. 108-141 (illegitimacy figures; ch. IV note 35 and vol. II ch. IV note 52) not found.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

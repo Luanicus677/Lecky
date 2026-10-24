@@ -1,0 +1,24 @@
+---
+title: Laing, Notes of a Traveller
+description: "Samuel Laing’s Notes of a Traveller (1842), “Swiss character” (pp. 323–324 of the 1854 reprint): the Swiss as “eminently moral in conduct, yet eminently irreligious”, quoted at length by Lecky in Chapter IV, note 35."
+heading: Laing, <em>Notes of a Traveller on the Social and Political State of France, Prussia, Switzerland, Italy</em>
+subtitle: "The Swiss people, moral and irreligious (pp. 323–324)"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Samuel_Laing_(politician,_born_1812)\">Samuel Laing</a> (1812–1897). Lecky: “The following passage from another work of the same writer [Laing, author of <em>Sweden</em>] …” (<a href=\"../rationalism/vol1-ch4.html#fn35\">Chapter IV, note 35</a>), with no title or page."]
+  - ["Edition used", "The 1854 reprint of the <em>Notes of a Traveller</em>: Internet Archive <a href=\"https://archive.org/details/notesatraveller02laingoog\">notesatraveller02laingoog</a> (a Google scan); p. 323 = image <a href=\"https://archive.org/details/notesatraveller02laingoog/page/n341/mode/2up\">n341</a> and p. 324 = n342 (image = page + 18). I identified the work from the quotation itself, not from Lecky’s reference. The “Church of Geneva” chapter, p. 324 on the running head."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn35\">Rationalism, ch. IV, note 35</a>."]
+  - ["Status", "pp. 323–324 read on the images. Lecky’s “Laing’s <em>Sweden</em>, pp. 108–141” (the figures on illegitimate births) is a different book and not checked."]
+abstract: |
+  <p>Lecky quotes: “The Swiss people present to the political philosopher the unexpected and most remarkable social phenomenon of a people eminently moral in conduct yet eminently irreligious: at the head of the moral state in Europe, not merely for absence of numerous or great crimes, or of disregard of right, but for ready obedience to law, for honesty, fidelity to their engagements, for fair-dealing, sobriety, industry, orderly conduct, for good government, useful public institutions, general wellbeing, and comfort; yet at the bottom of the scale for religious feeling, observances, or knowledge, especially in the Protestant cantons, in which prosperity, wellbeing, and morality seem to be, as compared to the Catholic cantons, in an inverse ratio to the influence of religion on the people.” This is Laing’s text, with a semicolon after “irreligious” in Laing where Lecky has a colon, and “yet at the bottom of the scale for” in both. Lecky’s own judgement that the passage is “somewhat overstated” is his. The second half of Lecky’s quotation (“It is a very remarkable social state, similar, perhaps, to that of the ancient Romans …”) is on the following pages, which I did not read.</p>
+---
+<section id="swiss-character" class="passage">
+<h2>“A people eminently moral in conduct, yet eminently irreligious” (pp. 323–324)</h2>
+<p class="passage-source">English: pp. 323–324, <a href="https://archive.org/details/notesatraveller02laingoog/page/n341/mode/2up">scan</a> and <a href="https://archive.org/details/notesatraveller02laingoog/page/n342/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<blockquote>
+<p>… without the higher influences of religion. But so it is. <span class="cited-passage">The Swiss people present to the political philosopher the unexpected and most remarkable social phenomenon of a people eminently moral in conduct, yet eminently irreligious; at the head of the moral state in Europe, not merely for absence of numerous or great crimes, or of disregard of right, but for ready obedience to law, for honesty, fidelity to their engagements, for fair dealing, sobriety, industry, orderly conduct, for good government, useful public institutions, general well-being, and comfort — yet at the bottom of the scale for religious feelings, observances, or knowledge, especially in the Protestant cantons, in which prosperity, well-being, and morality seem to be, as compared to the Catholic cantons, in an inverse ratio to the influence of religion on the people.</span> How is this discordance between their religious and their moral and material state to be reconciled? It is so obvious, that every traveller in Switzerland is struck with the great contrast in the well-being and material condition of the Protestant and Catholic populations, and equally so with the difference in the influence of religion over each. …</p>
+</blockquote>
+<p>Collation: Lecky has “religious feeling” for Laing’s “religious feelings”, “fair-dealing” for “fair dealing”, “wellbeing” for “well-being”, a colon after “irreligious” where Laing has a semicolon, and a semicolon for Laing’s dash before “yet at the bottom”. Laing’s preceding paragraph (p. 323) is about Swiss mercenaries serving the Pope and Naples; his explanation of the “discordance” follows on p. 324.</p>
+</section>
