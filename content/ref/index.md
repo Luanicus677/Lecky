@@ -321,4 +321,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="wright-narratives-of-sorcery-and-magic.html">Wright, <em>Narratives of Sorcery and Magic</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The six hundred burnt by the bishop of Bamberg (p. 326), behind a figure in ch. I, note 2. Lecky’s page 186 does not fit; the Treves and Würzburg figures are not on these pages.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="pitcairn-ancient-criminal-trials-of-scotland.html">Pitcairn, <em>Ancient Criminal Trials in Scotland</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Witch confessions taken before presbyteries and special commissioners (vol. 3, p. 598), quoted in ch. I, note 149. Accurate; Lecky’s second citation of p. 598 (note 162, the Earl of Mar) is not on the page.</div>
+</li>
 </ul>

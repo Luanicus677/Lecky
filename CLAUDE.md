@@ -182,7 +182,9 @@ Notes for continuing:
 
 - Also: `benedict-xiv-vix-pervenit.md` (Latin Wikisource text of Vix pervenit § 3 I-II, NOT a scan; ch. VI notes 56-57; Lecky matches except note 57 'impensuras' vs 'impensurus').. Concina p. 14 still unavailable.
 
-- Also: `wright-narratives-of-sorcery-and-magic.md` (1852 `narrativesofsorc00wrig_0`, continuous pagination, image = page+5: p. 186 = n191 werewolves, p. 187 = n192 Remigius, p. 326 = n331 Bamberg 600; ch. I note 2). Lecky's p. 186 doesn't fit; Treves 7000 / Wurzburg 800 not on pp. 325-327. Wright notes 108 (pp. 286, 296), 161 (pp. 165-166) not done. Pitcairn scans: `ancientcrim42pt202pitcuoft`, `10348845bsb` etc. (ch. I notes 149, 162).
+- Also: `wright-narratives-of-sorcery-and-magic.md` (1852 `narrativesofsorc00wrig_0`, continuous pagination, image = page+5: p. 186 = n191 werewolves, p. 187 = n192 Remigius, p. 326 = n331 Bamberg 600; ch. I note 2). Lecky's p. 186 doesn't fit; Treves 7000 / Wurzburg 800 not on pp. 325-327. Wright note 108 (Lecky pp. 286, 296): Shakespeare/Macbeth discussion is at scan pp. ~177-183 (n182-n188) in this edition, so Lecky's volume pagination differs (different edition); 161 not found. Pitcairn scans: `ancientcrim42pt202pitcuoft`, `10348845bsb` etc. (ch. I notes 149, 162).
+
+- Also: `pitcairn-ancient-criminal-trials-of-scotland.md` (vol. 3 `ancientcrim43pt203pitcuoft`, p. 598 = n249 = page-349; ch. I notes 149, 162). Note 162's Earl of Mar is not on p. 598.
 
 ## Build, test, deploy
 
