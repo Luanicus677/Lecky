@@ -200,7 +200,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^50]: McCrie, Life of Knox (ed. 1840), p. 246.
 
-[^51]: Much evidence of this is collected in Buckle, vol. i. pp. 509-523.
+[^51]: Much evidence of this is collected in Buckle, vol. i. pp. 509-523. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#french-protestants-509">source page</a>
 
 [^52]: Macaulay, Essays, vol. ii. p. 140; Laing, Sweden.
 
