@@ -354,7 +354,7 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">“Nous devons aux spéculations des scholastiques tous les malheurs …”, quoted in ch. VI, note 39. Compared with a Wikisource text; accurate.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="de-maistre-soirees-de-saint-petersbourg.html">De Maistre, <em>Soirées de Saint-Pétersbourg</em></a><span class="work-status">2 passages</span></div>
-<div class="work-desc">The sixth conversation on Locke (pp. 437, 452), quoted in ch. IV, note 45. Exact; the Bacon quotations are not checked.</div>
+<div class="work-title"><a class="popup-ref" href="de-maistre-soirees-de-saint-petersbourg.html">De Maistre, <em>Soirées de Saint-Pétersbourg</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Locke in the sixth conversation (pp. 437, 452) and Bacon in the <em>Examen</em> (p. 100), quoted in ch. IV, note 45. Exact; “un charlatan” not found.</div>
 </li>
 </ul>
