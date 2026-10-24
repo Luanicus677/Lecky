@@ -286,7 +286,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^40]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html#famine-38">Ibid., p. 42.</a>
 
-[^41]: Buckle's Hist. vol. i. p. 345 (note), where an immense amount of evidence on the subject is given.
+[^41]: Buckle's Hist. vol. i. p. 345 (note), where an immense amount of evidence on the subject is given. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#eclipse-otho">source page</a>
 
 [^42]: Garinet, pp. 14, 15.
 
@@ -346,7 +346,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^69]: The principal authority on these matters is a large collection of Latin works (in great part written by inquisitors), extending over about two centuries, and published under the title of Malleus Maleficarum (the title of Sprenger's book). It comprises the works of Sprenger, Nider, Basin, Molitor, Gerson, Murner, Spina, Laurentius, Bernardus, Vignitus, Grillandus, &c. I have noticed a great many other works in their places, and the reader may find reviews of many others in Madden and Plancey.
 
-[^70]: On the universality of this belief, in an early stage of civilisation, see Buckle's History, vol. i. p. 316.
+[^70]: On the universality of this belief, in an early stage of civilisation, see Buckle's History, vol. i. p. 316. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#p316">source page</a>
 
 [^71]: There can be little doubt that a considerable amount of poisoning was mixed up with the witch cases. In ages when medical knowledge was scanty, and post mortem examinations unknown, this crime was peculiarly dreaded, and appeared peculiarly mysterious. On the other hand, it is equally certain that the witches constantly employed their knowledge of the property of herbs for the purpose of curing disease, and that they attained, in this respect, a skill which was hardly equalled by the regular practitioners. To the evidence which Michelet has collected on this matter, I may add a striking passage from Grillandus. 'Quandoque vero provenit febris, tussis, dementia, phthisis, hydropsis, aut aliqua tumefactio carnis in corpore, sive apostema extrinsecus apparens: quandoque vero intrinsece apud intestina aliquod apostema sit adeo terribile et incurabile quod nulla pars medicorum id sanare et removere potest, nisi accedat alius maleficus, sive sortilegus, qui contrariis medelis et remediis ægritudinem ipsam maleficam tollat, quam facile et brevi tempore removere potest, cæteri vero medici qui artem ipsius medicinæ profitentur nihil valent et nesciunt afferre remedium.' (<a class="popup-ref" href="../ref/grillandi-de-sortilegiis.html#physicians-393">Mall. Mal. vol. ii. pp. 393, 394.</a>)
 
@@ -470,7 +470,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^131]: Hutchinson, pp. 95-119.
 
-[^132]: Mr. Buckle places the scepticism a little earlier. He says: 'This important revolution in our opinion was effected, so far as the educated classes are concerned, between the Restoration and Revolution; that is to say, in 1660 the majority of educated men still believed in witchcraft, and in 1688 the majority disbelieved it.' (Vol. i. p. 333.) By 1718, however, the minority had become insignificant.
+[^132]: Mr. Buckle places the scepticism a little earlier. He says: 'This important revolution in our opinion was effected, so far as the educated classes are concerned, between the Restoration and Revolution; that is to say, in 1660 the majority of educated men still believed in witchcraft, and in 1688 the majority disbelieved it.' (Vol. i. p. 333.) <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#restoration-revolution">source page</a> By 1718, however, the minority had become insignificant.
 
 [^133]: Some of them, of course, were mere pamphlets, but a large proportion elaborate works. The catalogue is given by Hutchinson.
 

@@ -59,7 +59,7 @@ abstract: |
 <blockquote>
 <p>1682. <span class="cited-passage">Susan Edwards, Mary Trembles and Temperance Lloyd, hanged at Exeter, confess’d themselves Witches, but died with good Prayers in their Mouths. I suppose these are the last three that have been hanged in England.</span></p>
 </blockquote>
-<p>Lecky (text above note 134): “Three witches had been executed in 1682; and others, it is said, endured the same fate in 1712; but these were the last who perished judicially in England.” Hutchinson’s sentence supports “three witches … 1682”, but he hedges (“I suppose”), and nothing on these two pages says anyone was executed in 1712: the 1712 case in the book is that of Jane Wenham (chapter X, p. 153 ff., which I did not read for this page). Lecky’s “others, it is said, endured the same fate in 1712” is not Hutchinson’s statement and is left as printed.</p>
+<p>Lecky (text above note 134): “Three witches had been executed in 1682; and others, it is said, endured the same fate in 1712; but these were the last who perished judicially in England.” Hutchinson’s sentence supports “three witches … 1682”, but he hedges (“I suppose”), and nothing on these two pages says anyone was executed in 1712: the 1712 case in the book is that of Jane Wenham (chapter X, p. 153 ff., which I did not read for this page). Lecky’s “others, it is said, endured the same fate in 1712” is not Hutchinson’s statement: it comes from Buckle’s footnote (<a href="buckle-history-of-civilization.html#restoration-revolution">vol. 1, p. 333</a>), which cites Hutchinson’s pp. 56–57 for 1682 and, on Dr. Parr’s authority, five witches hanged at Northampton in 1712. It is left as printed.</p>
 </section>
 
 <section id="liberavimus-167" class="passage">
