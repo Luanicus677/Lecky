@@ -170,7 +170,7 @@ Notes for continuing:
 
 - Also: `fulgentius-de-fide-ad-petrum.md` (Plantin 1574? Fulgentii opera `bub_gb_hZ5lpQgaOtIC`, c. 27 p. 479 = n494, cc. 38-39 p. 483 = n498 = page+15; ch. IV notes 8, 20). Lecky's section numbers (70, 81, 22) are not this edition's chapters; Lecky's 'sive jam' and 'eo vel haeretica vel' differ. Isidore Sententiae i. 22 and Avitus (note 8) not done.
 
-- Also: `marangoni-cose-gentilesche.md` (Rome 1744 `gri_33125010851489`, p. 45 = n66 = page+21; ch. III note 10 Orpheus/Eusebius). Lecky's 'Marangoni p. 45' for the genii of the seasons (note 11) and aquatic deity (note 13) is NOT on p. 45. Also online: Raoul-Rochette Tableau des catacombes `tableaudescataco00roch`, Maitland `TheChurchInTheCatacombs` (not yet used).
+- Also: `marangoni-cose-gentilesche.md` (Rome 1744 `gri_33125010851489`, p. 45 = n66 = page+21; ch. III note 10 Orpheus/Eusebius). Lecky's 'Marangoni p. 45' for the genii of the seasons (note 11) and aquatic deity (note 13) is NOT on p. 45. Raoul-Rochette `tableaudescataco00roch` p. 138 = n163 (page+25) DONE as `raoul-rochette-tableau-des-catacombes.md` (note 10); Maitland `churchincatacomb00mait_0` p. 110 ~ n123 (page+13) not read; Rochette notes 13, 28 not done.
 
 ## Build, test, deploy
 
