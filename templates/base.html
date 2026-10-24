@@ -22,7 +22,7 @@
   </nav>
 </header>
 
-<main class="article">
+<main class="article{% if dropcap %} dropcaps-{{ dropcap }}{% endif %}">
 
 {% if back_link %}
 <p class="back-link"><a href="{{ back_link.url }}">&larr; {{ back_link.text }}</a></p>

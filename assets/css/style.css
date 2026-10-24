@@ -1006,3 +1006,51 @@ table.collation strong { font-weight: 700; }
 .fleuron-head { margin: 0 0 2rem; }
 .fleuron-tail { margin: 3rem 0 0; clear: both; }
 svg.fleuron { width: 12em; max-width: 60%; height: auto; display: inline-block; }
+
+/* ---------- gwern.net drop caps (chapter openings) ----------
+   Fonts and the size/margin values ("all of these numbers are magic") are
+   gwern.net's (style.css, dropcaps). A page picks a face with front matter
+   'dropcap: goudy|yinit|kanzlei|de-zs', which sets main.dropcaps-<face>. */
+@font-face { font-family: 'Goudy Initialen'; src: url('../fonts/dropcap/goudy/GoudyInitialen-D.ttf') format('truetype'); font-display: swap; unicode-range: U+0044; }
+@font-face { font-family: 'Goudy Initialen'; src: url('../fonts/dropcap/goudy/GoudyInitialen-T.ttf') format('truetype'); font-display: swap; unicode-range: U+0054; }
+@font-face { font-family: 'Goudy Initialen'; src: url('../fonts/dropcap/goudy/GoudyInitialen-W.ttf') format('truetype'); font-display: swap; unicode-range: U+0057; }
+@font-face { font-family: 'Yinit'; src: url('../fonts/dropcap/yinit/Yinit-D.ttf') format('truetype'); font-display: swap; unicode-range: U+0044; }
+@font-face { font-family: 'Yinit'; src: url('../fonts/dropcap/yinit/Yinit-T.ttf') format('truetype'); font-display: swap; unicode-range: U+0054; }
+@font-face { font-family: 'Yinit'; src: url('../fonts/dropcap/yinit/Yinit-W.ttf') format('truetype'); font-display: swap; unicode-range: U+0057; }
+@font-face { font-family: 'Kanzlei Initialen'; src: url('../fonts/dropcap/kanzlei/Kanzlei-Initialen-D.ttf') format('truetype'); font-display: swap; unicode-range: U+0044; }
+@font-face { font-family: 'Kanzlei Initialen'; src: url('../fonts/dropcap/kanzlei/Kanzlei-Initialen-T.ttf') format('truetype'); font-display: swap; unicode-range: U+0054; }
+@font-face { font-family: 'Kanzlei Initialen'; src: url('../fonts/dropcap/kanzlei/Kanzlei-Initialen-W.ttf') format('truetype'); font-display: swap; unicode-range: U+0057; }
+@font-face { font-family: 'Deutsche Zierschrift'; src: url('../fonts/dropcap/de-zs/DeutscheZierschrift-D.ttf') format('truetype'); font-display: swap; unicode-range: U+0044; }
+@font-face { font-family: 'Deutsche Zierschrift'; src: url('../fonts/dropcap/de-zs/DeutscheZierschrift-T.ttf') format('truetype'); font-display: swap; unicode-range: U+0054; }
+@font-face { font-family: 'Deutsche Zierschrift'; src: url('../fonts/dropcap/de-zs/DeutscheZierschrift-W.ttf') format('truetype'); font-display: swap; unicode-range: U+0057; }
+main[class*="dropcaps-"] .dropcap {
+  float: left;
+  font-style: normal;
+  font-weight: normal;
+  padding: 0;
+  color: var(--fg);
+}
+main.dropcaps-goudy .dropcap {
+  font-family: "Goudy Initialen", var(--font-serif);
+  font-size: 7em; line-height: 1;
+  margin: 0.025em 0.02em -0.25em 0;
+}
+main.dropcaps-yinit .dropcap {
+  font-family: "Yinit", var(--font-serif);
+  font-size: 5.625em; line-height: 1.35;
+  margin: 0.07em 0.08em -0.5em 0;
+}
+main.dropcaps-kanzlei .dropcap {
+  font-family: "Kanzlei Initialen", var(--font-serif);
+  font-size: 7em; line-height: 1;
+  margin: 0.025em 0.025em -0.25em -0.02em;
+}
+main.dropcaps-de-zs .dropcap {
+  font-family: "Deutsche Zierschrift", var(--font-serif);
+  font-size: 6.625em; line-height: 1.1;
+  margin: 0.01em 0.05em -0.25em 0;
+}
+/* gwern.net drops them below 650px; here they shrink instead. */
+@media (max-width: 649px) {
+  main[class*="dropcaps-"] .dropcap { font-size: 4.6em; }
+}

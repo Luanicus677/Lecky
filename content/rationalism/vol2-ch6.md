@@ -1,5 +1,6 @@
 ---
 fleuron: true
+dropcap: yinit
 title: "Chapter VI — The Industrial History of Rationalism"
 description: "Lecky's chapter “The Industrial History of Rationalism”, 1865: pages 250–409 of the second edition, vol. II, the end of the text (slavery, charity, usury, the Jews, luxury, the theatre, Spain’s decline, mercantilism and political economy)."
 heading: "Chapter VI<br><span class=\"subtitle\" style=\"font-style:italic;\">The Industrial History of Rationalism</span>"

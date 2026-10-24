@@ -1,5 +1,6 @@
 ---
 fleuron: true
+dropcap: de-zs
 title: "Chapter IV — On Persecution"
 description: "Lecky's chapter “On Persecution” (Part I, the antecedents of persecution), 1865. Part I complete: pages 386–447 of the 1865 second edition, vol. I (the end of the volume). Part II is in volume II."
 heading: "Chapter IV<br><span class=\"subtitle\" style=\"font-style:italic;\">On Persecution &mdash; Part I: The Antecedents of Persecution</span>"

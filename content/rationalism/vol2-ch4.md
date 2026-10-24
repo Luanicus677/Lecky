@@ -1,5 +1,6 @@
 ---
 fleuron: true
+dropcap: kanzlei
 title: "Chapter IV — On Persecution (continued)"
 description: "Lecky's chapter “On Persecution”, Part II, “The History of Persecution”, 1865: pages 1–105 of the second edition, vol. II (from Constantine to the English Commonwealth, and the Protestant case for toleration)."
 heading: "Chapter IV (continued)<br><span class=\"subtitle\" style=\"font-style:italic;\">On Persecution &mdash; Part II: The History of Persecution</span>"

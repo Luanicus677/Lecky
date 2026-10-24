@@ -1,5 +1,6 @@
 ---
 fleuron: true
+dropcap: goudy
 title: "Chapter III — Æsthetic, Scientific, and Moral Developements of Rationalism"
 description: "Lecky's chapter on the æsthetic, scientific, and moral developements of Rationalism, 1865. Complete: pages 206–385 of the 1865 second edition, vol. I."
 heading: "Chapter III<br><span class=\"subtitle\" style=\"font-style:italic;\">Æsthetic, Scientific, and Moral Developements of Rationalism</span>"
