@@ -180,7 +180,7 @@ Notes for continuing:
 
 - Also: `wall-history-of-infant-baptism.md` (Oxford ed. vol. 2 `historyofinfantb02wall`, image = page+23: p. 180 = n203, p. 211 = n234; ch. IV notes 2, 13, matches). Vol. i = `historyofinfantb01wall` (no XML pages); `historyofinfantb03wall` has other vols. Still: notes 3-4 (vol. i pp. 282-283; vol. ii pp. 192-206), 12.
 
-- Also: `benedict-xiv-vix-pervenit.md` (Latin Wikisource text of Vix pervenit § 3 I-II, NOT a scan; ch. VI notes 56-57; Lecky matches except note 57 'impensuras' vs 'impensurus'). TODO: ch. VI note 56 transcript has OCR 'nratui' for 'mutui' (not yet fixed; check page image n? of vol2-ch6 around the note). Concina p. 14 still unavailable.
+- Also: `benedict-xiv-vix-pervenit.md` (Latin Wikisource text of Vix pervenit § 3 I-II, NOT a scan; ch. VI notes 56-57; Lecky matches except note 57 'impensuras' vs 'impensurus').. Concina p. 14 still unavailable.
 
 ## Build, test, deploy
 
