@@ -129,4 +129,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="bossuet-defensio-declarationis.html">Bossuet, <em>Defensio declarationis cleri gallicani</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Bossuet on the royal name Abimelech (1745 ed., p. 128), cited in <em>Rationalism</em>, ch. V, note 96. Lecky’s book and chapter reference does not match; the ‘wolves and sheep’ passage behind note 77 is not found.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="ayala-de-jure-et-officiis-bellicis.html">Ayala, <em>De jure et officiis bellicis</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Ayala on killing a usurping tyrant (1582), compared with Lecky’s Latin in <em>Rationalism</em>, ch. V, note 68. Verbatim; Ayala’s restriction to usurpers confirms Lecky’s gloss.</div>
+</li>
 </ul>

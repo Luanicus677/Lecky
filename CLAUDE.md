@@ -101,6 +101,8 @@ Notes for continuing:
 
 - Also Vol. II: `buchanan-de-jure-regni.md` (1581 ed., p. 16 = image n15; ch. V note 83; poor microfilm, read on image) and `bossuet-defensio-declarationis.md` (1745 ed. vol. 1 `defensiodeclarat01boss`, image n = page + 65; p. 128 Abimelech, note 96). Bossuet note 77 ('Defensio lib. i. c. 15, 16', wolves/sheep) NOT located; Lecky's 'lib. i. c. 3' does not match this edition's chapter numbering. Other scans found (unused): Bianchi 1745-46 Italian `bub_gb_p6UbBtH6D1cC`; Hotman Franco-Gallia 1665 `bub_gb_8IPQdc7m1ukC`; Troplong `bub_gb_GvGwHmfT9LwC`; Desprez de Boissy `lettressurlesspe01desp`; Lebrun `discourssurlacom00lebr`; Bedarride `lesjuifsenfranc00beda`; Eymericus 1607 `10488917bsb`.
 
+- Also Vol. II: `ayala-de-jure-et-officiis-bellicis.md` (Carnegie 1912 reprint of the 1582 text, `dejureetofficiis01ayaluoft`, image n91; ch. V note 68; verbatim; page number and chapter not read). Note: new source-page front matter with a colon in `subtitle:` must be quoted (YAML).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

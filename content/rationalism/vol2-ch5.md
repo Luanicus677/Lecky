@@ -364,7 +364,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^67]: 'Tyrannum primo modo nefas est privatis interficere; possit tamen respublica quoad capita convenire, eique resistere, lataque sententia deponere ab administratione atque illum depositum punire. Secundo modo tyrannum quivis de republica potest licite eum interficere.' (Comment. Pars IV. tract. iii. disp. 6.)
 
-[^68]: 'Tyrannum qui per vim et illegitime principatum occupavit, si tyrannis aliter tolli non possit, occidere cuilibet licitum sit.' (De Jure et Officiis bellicis, lib. i.)
+[^68]: 'Tyrannum qui per vim et illegitime principatum occupavit, si tyrannis aliter tolli non possit, occidere cuilibet licitum sit.' (De Jure et Officiis bellicis, lib. i.) (<a class="popup-ref" href="../ref/ayala-de-jure-et-officiis-bellicis.html#usurper">source page</a>)
 
 [^69]: In a book called Tyrannicidium, sen Scitum Catholicorum de Tyranni Internecione. This book (which was written in reply to a Calvinistic attack) contains a great deal of information about the early literature of tyrannicide. It bears the approbation of Busæus, the head of the Jesuits in Northern Germany.
 
