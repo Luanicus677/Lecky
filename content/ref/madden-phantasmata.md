@@ -10,7 +10,7 @@ meta_rows:
   - ["Author", "Richard Robert Madden (1798–1886), Irish physician and historian (details not verified here)."]
   - ["Work", "<em>Phantasmata</em>, 2 vols., London: T. C. Newby, 1857. The relevant chapter is headed “Witchcraft monomania in an epidemic form”."]
   - ["Edition used", "London, 1857, vol. I, p. 305 (<a href=\"https://archive.org/details/phantasmataorill01madd/page/n354/mode/2up\">scan</a>); the printed page number was confirmed on the neighbouring leaf (p. 307 is at the next-but-one image)."]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn5\">Rationalism in Europe, ch. I, note 5</a>; Lecky also cites Madden at notes <a href=\"../rationalism/vol1-ch1.html#fn6\">6</a>, <a href=\"../rationalism/vol1-ch1.html#fn106\">106</a> and others (not yet transcribed)"]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn5\">Rationalism in Europe, ch. I, note 5</a>; Lecky also cites Madden at notes <a href=\"../rationalism/vol1-ch1.html#fn3\">3</a>, <a href=\"../rationalism/vol1-ch1.html#fn6\">6</a>, <a href=\"../rationalism/vol1-ch1.html#fn106\">106</a> and others (not yet transcribed)"]
   - ["Status", "One passage summarised and compared; the 1518 event checked against an Italian archival study, Sanudo’s <em>Diarii</em>, and the Council of Ten’s letter of 31 July 1518 as transcribed in that study (see the last three sections). Short quotations only."]
 abstract: |
   <p>Madden's book is a nineteenth-century medical and historical survey of religious and witch manias. On p. 305 he gives a rapid chronology of papal bulls and trials in Italy. Lecky's note 5 cites “Madden, vol. i. 305”, and it is the source of his claim that “the severity of the inquisitors at last created an absolute rebellion”.</p>

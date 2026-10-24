@@ -866,9 +866,10 @@ section.footnotes a.footnote-back:hover {
    After gwern.net's link icons (links.css): a small, faint glyph after a
    link saying where it goes. Drawn with mask-image so it takes the text
    colour in both themes. Wikipedia "W" from Font Awesome Free (CC BY 4.0);
-   archive icon from gwern.net (CC0). */
+   archive icon from gwern.net (CC0); source-page icon this edition's own. */
 a[href*="wikipedia.org/wiki/"]::after,
-a[href*="archive.org/details/"]::after {
+a[href*="archive.org/details/"]::after,
+a[href^="../ref/"]::after {
   content: "";
   display: inline-block;
   width: 0.62em;
@@ -883,8 +884,12 @@ a[href*="archive.org/details/"]::after {
 a[href*="wikipedia.org/wiki/"] { --link-icon: url("../img/icon/wikipedia.svg"); }
 a[href*="archive.org/details/"] { --link-icon: url("../img/icon/internet-archive.svg"); }
 a[href*="archive.org/details/"]::after { width: 0.5em; height: 0.56em; }
+/* this edition's own source pages (transcription + scan): a written page */
+a[href^="../ref/"] { --link-icon: url("../img/icon/source-page.svg"); }
+a[href^="../ref/"]::after { width: 0.48em; height: 0.6em; }
 a[href*="wikipedia.org/wiki/"]:hover::after,
-a[href*="archive.org/details/"]:hover::after { opacity: 0.3; }
+a[href*="archive.org/details/"]:hover::after,
+a[href^="../ref/"]:hover::after { opacity: 0.3; }
 .site-header a::after, .site-footer a::after { display: none !important; }
 
 /* ---------- editorial insertions & translations ----------
