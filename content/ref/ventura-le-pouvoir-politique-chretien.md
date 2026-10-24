@@ -1,0 +1,40 @@
+---
+title: Ventura, Le pouvoir politique chrétien
+description: "Father Gioacchino Ventura’s 1857 discourses, the footnote on p. 139 about the religious press in Austria that Lecky quotes in Chapter V, note 28. Lecky’s French is accurate with an omission and one grammatical slip."
+heading: Ventura, <em>Le pouvoir politique chrétien</em>
+subtitle: "The religious press in Catholic Austria (p. 139)"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Gioacchino_Ventura\">Gioacchino Ventura</a> (1792–1861), Theatine priest and preacher. The book is a French edition (1858) of discourses given at the Tuileries chapel. Lecky quotes it in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a> as “written by a most competent observer in 1858”."]
+  - ["Edition used", "The 1858 Paris edition: <a href=\"https://archive.org/details/lepouvoirpolitiq00vent\">archive.org/details/lepouvoirpolitiq00vent</a>. Printed p. 139 (the page header reads “dans l’intérêt de la religion”) is image <a href=\"https://archive.org/details/lepouvoirpolitiq00vent/page/n174/mode/2up\">n174</a> (p + 35). Lecky’s page number matches. The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn28\">Rationalism, ch. V, note 28</a>."]
+  - ["Status", "The footnote transcribed from the page image, translated and compared. The book’s date of delivery (“1857”) is not on the page I read."]
+abstract: |
+  <p>Lecky quotes a footnote in which Ventura complains that the “smallest interests” have many organs in the periodical press, while religion has an almost imperceptible number, only one of 135 journals in Catholic Austria. Lecky leaves out the middle (the objection that other journals are no better) and runs the first two sentences together with a continuation. His French has “l’intérêt publique” where Ventura has “l’intérêt public”, a grammatical slip, probably a misprint.</p>
+---
+<section id="presse" class="passage">
+<h2>The religious press in Austria (footnote, p. 139)</h2>
+<p class="passage-source">French: p. 139, footnote (1), <a href="https://archive.org/details/lepouvoirpolitiq00vent/page/n174/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s words. The omitted part is shown in grey.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p><span class="cited-passage">Tous les intérêts les plus chétifs ont de nombreux organes dans la presse périodique et font tous de bonnes affaires. La religion, le premier et le plus grand de tous les intérêts, n’en a qu’un nombre presque imperceptible et qui a bien de la peine à vivre. Dans la catholique Autriche, sur cent trente-cinq journaux, il n’y en a qu’un seul consacré aux intérêts du christianisme, et il laisse beaucoup à désirer sous le rapport de l’orthodoxie.</span> <span style="color:var(--fg-faint)">On dit qu’il faut s’en prendre aux défauts des journaux religieux. Mais est-ce que les journaux politiques, littéraires, artistiques, commerciaux, etc., sont irréprochables ?</span> <span class="cited-passage">La vérité est que décidément l’opinion publique, ainsi que l’intérêt public, ont cessé d’être chrétiens en Europe</span>, et que le christianisme n’y occupe point le premier rang qui lui convient et qu’il y occupait avant la Renaissance.</p>
+</div>
+<div class="rendering" lang="en">
+<p><span class="cited-passage">All the pettiest interests have many organs in the periodical press, and all do good business. Religion, the first and greatest of all interests, has only an almost imperceptible number, and they have a hard time living. In Catholic Austria, of a hundred and thirty-five journals, there is only one devoted to the interests of Christianity, and it leaves much to be desired in the matter of orthodoxy.</span> <span style="color:var(--fg-faint)">It is said that the fault lies with the defects of the religious journals. But are the political, literary, artistic, commercial journals, etc., beyond reproach?</span> <span class="cited-passage">The truth is that public opinion, and public interest as well, have decidedly ceased to be Christian in Europe</span>, and that Christianity does not occupy there the first rank that befits it and that it occupied before the Renaissance.</p>
+</div>
+</div>
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th></th><th>Lecky, 1865 (note 28)</th><th>Ventura, 1858</th></tr></thead>
+<tbody>
+<tr><td>Numerals</td><td lang="fr">sur 135 journaux</td><td lang="fr">sur cent trente-cinq journaux</td></tr>
+<tr><td>Dots</td><td lang="fr">… l’orthodoxie … la vérité est que décidément</td><td>the grey sentences above</td></tr>
+<tr><td>Slip</td><td lang="fr">l’intérêt publique</td><td lang="fr">l’intérêt public</td></tr>
+<tr><td>End</td><td lang="fr">… ont cessé d’être Chrétiens en Europe.</td><td lang="fr">… en Europe, et que le christianisme n’y occupe point le premier rang … avant la Renaissance.</td></tr>
+</tbody>
+</table>
+</div>
+<p>Lecky’s sentence ends at “Europe” with a full stop and a capital “Chrétiens”; Ventura continues. In his text Lecky says the passage was written “in 1858, when Austria seemed the centre of religious despotism”; the book is dated 1858 on the archive record, but whether the footnote was written then I did not check.</p>
+</section>
