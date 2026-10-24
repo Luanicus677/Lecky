@@ -88,7 +88,7 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^8]: Brewster's *Life of Newton*, p. 275. <a class="popup-ref" href="../ref/brewster-life-of-newton.html#miracles-letter">source page</a> There is another letter from Newton to Locke on the subject, in King's *Life of Locke*, vol. i. p. 415; but it is little more than a catalogue of authorities.
 
-[^9]: Third Letter on Toleration, p. 269.
+[^9]: Third Letter on Toleration, p. 269. <a class="popup-ref" href="../ref/locke-third-letter-for-toleration.html#church-historians">source page</a>
 
 [^10]: <a class="popup-ref" href="../ref/middleton-free-inquiry.html#preface-succession">Preface to the Free Enquiry.</a>
 
