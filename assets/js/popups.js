@@ -416,12 +416,84 @@
     if (btn._popup) removePopup(btn._popup);
   });
 
+  // --- touch screens: gwern.net-style footnote "popins" ---
+  // Tapping a marker dims the page and opens the note in a box below the
+  // line; its title bar links to the note in the notes section, × closes it.
+  var popin = null;
+  function closePopin() {
+    if (!popin) return;
+    popin.box.remove();
+    popin.backdrop.remove();
+    popin.ref.classList.remove("popin-source");
+    document.removeEventListener("keydown", popin.onKey);
+    popin = null;
+  }
+  function openPopin(ref, note) {
+    closePopin();
+    var num = ref.textContent.trim();
+    var backdrop = document.createElement("div");
+    backdrop.className = "popin-backdrop";
+    backdrop.addEventListener("click", closePopin);
+    var box = document.createElement("div");
+    box.className = "popin";
+    box.setAttribute("role", "dialog");
+    box.setAttribute("aria-label", "Footnote " + num);
+    var bar = document.createElement("div");
+    bar.className = "popin-titlebar";
+    var title = document.createElement("a");
+    title.className = "popin-title";
+    title.href = "#" + note.id;
+    title.textContent = "Footnote #" + num;
+    title.addEventListener("click", closePopin); // then follow the link down
+    var close = document.createElement("button");
+    close.className = "popin-close";
+    close.type = "button";
+    close.setAttribute("aria-label", "Close");
+    close.textContent = "×";
+    close.addEventListener("click", closePopin);
+    bar.appendChild(title);
+    bar.appendChild(close);
+    var body = document.createElement("div");
+    body.className = "popin-content";
+    var clone = note.cloneNode(true);
+    clone.querySelectorAll(".footnote-back, .translate-toggle").forEach(function (el) { el.remove(); });
+    body.innerHTML = clone.innerHTML;
+    body.querySelectorAll(".translation").forEach(addTranslationToggle);
+    box.appendChild(bar);
+    box.appendChild(body);
+    var r = ref.getBoundingClientRect();
+    box.style.top = (r.bottom + window.scrollY + 12) + "px";
+    document.body.appendChild(backdrop);
+    document.body.appendChild(box);
+    ref.classList.add("popin-source");
+    var onKey = function (e) { if (e.key === "Escape") closePopin(); };
+    document.addEventListener("keydown", onKey);
+    popin = { box: box, backdrop: backdrop, ref: ref, onKey: onKey };
+    // keep the whole note on screen if it opens near the bottom
+    var b = box.getBoundingClientRect();
+    if (b.bottom > window.innerHeight) {
+      window.scrollBy({ top: Math.min(b.bottom - window.innerHeight + 16, b.top - 70), behavior: "smooth" });
+    }
+  }
+  function bindFootnotePopin(ref) {
+    var note = document.getElementById((ref.getAttribute("href") || "").slice(1));
+    if (!note) return;
+    ref.addEventListener("click", function (e) {
+      e.preventDefault();
+      if (popin && popin.ref === ref) { closePopin(); return; }
+      openPopin(ref, note);
+    });
+  }
+
   // Wire up everything inside `root` (the page, or a popup's content).
   // `foreign`: the content came from another page or site, so its footnote
   // markers point at notes that aren't on this page.
   function bindAll(root, foreign) {
     root.querySelectorAll(".translation").forEach(addTranslationToggle);
-    if (isTouch) return;
+    if (isTouch) {
+      if (!foreign) root.querySelectorAll("a.footnote-ref").forEach(bindFootnotePopin);
+      return;
+    }
     if (!foreign) root.querySelectorAll("a.footnote-ref").forEach(bindFootnoteRef);
     root.querySelectorAll("a.popup-ref").forEach(bindPopupRef);
     root.querySelectorAll('a[href*="wikipedia.org/wiki/"]').forEach(bindWikiLink);

@@ -219,6 +219,8 @@ All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it we
 - Sidenotes (`assets/js/sidenotes.js`, loaded BEFORE popups.js): copies each footnote into the LEFT margin beside its marker when
   the margin is >= 200px (about 1340px+ viewports; html.sidenotes-on), re-laid out on resize/image load; footnote popups are
   skipped while it is on. Left only, because right-floated figures reach into the right margin.
+- Touch screens: tapping a footnote marker opens a gwern-style popin (popups.js `openPopin`): page dimmed, note in a box below
+  the line, title 'Footnote #N' links to the note, × / backdrop / Esc closes. Markers are underlined.
 - Header: blackletter 'L' logo (UnifrakturMaguntia) + bordered small-caps link buttons; dotted grid on phones.
 - OCR split-word hunt done Oct 2026 (dictionary join of adjacent pairs, ~110 fixes, mostly chs. V-VI). Line-break-only compounds
   (slavetrade, slavelabour, wellspent, antinational, thumbkins) left as they are: hyphen status unverifiable.

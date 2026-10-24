@@ -1191,3 +1191,60 @@ main.dropcaps-de-zs .dropcap {
 a.footnote-ref.highlighted { background: var(--selection); }
 .sidenotes-on .content figure.wide { margin-left: 0; margin-right: 0; }
 .sidenotes-on .margin-toc { display: none; }
+
+/* ---------- footnote markers: underlined, as on gwern.net ---------- */
+a.footnote-ref sup {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: var(--fg-muted);
+}
+
+/* ---------- footnote popins (touch screens; popups.js) ---------- */
+.popin-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  background: rgba(0, 0, 0, 0.42);
+}
+a.footnote-ref.popin-source {
+  z-index: 61;
+  background: var(--bg);
+  outline: 3px double var(--fg-muted);
+  outline-offset: 2px;
+}
+.popin {
+  position: absolute;
+  left: 0.5rem;
+  right: 0.5rem;
+  max-width: 40rem;
+  margin: 0 auto;
+  z-index: 62;
+  background: var(--bg);
+  border: 3px double var(--border-strong);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.popin-titlebar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.8rem;
+  border-bottom: 1px solid var(--border);
+  padding: 0.35rem 0.4rem 0.35rem 0.8rem;
+  font-family: var(--font-sans);
+}
+.popin-title { color: var(--fg); font-size: 0.95rem; margin-right: auto; }
+.popin-close {
+  background: none;
+  border: 1px solid var(--fg-muted);
+  color: var(--fg);
+  font-size: 1.3rem;
+  line-height: 1;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+.popin-content { padding: 0.7rem 0.9rem 0.8rem; }
+.popin-content p { margin: 0 0 0.6em; }
+.popin-content p:last-child { margin-bottom: 0; }
