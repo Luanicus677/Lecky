@@ -113,6 +113,8 @@ Notes for continuing:
 
 - Also: `hobbes-leviathan-latin.md` (Molesworth Opera latina vol. III, `thomhobbesmalme07hobbgoog`, pp. 235-236 = n247-n248 = page+12; vol2-ch5 note 118; Lecky 'comparari' vs 'comparare') and `beza-de-haereticis.md` (1554 ed. `dehaereticisacivilimagistratu-beze-1554`, image = page+3; pp. 58, 65, 93; vol2-ch4 notes 68, 73; Lecky 'inferiorum' vs 'inferorum', 'defuisset' vs 'desiisset'). Beza's text has no djvu.xml pages in loc.py; use the `_djvu.xml` download directly. Castellio/Bellius passages (notes 69-70, Gluten 1610) not found in any scan. Still undone: Farinacius, Paramo, Jurieu, Bossuet Variations, Ventura, Sarpi, Bianchi French, ch. VI notes 27, 36, 49, 57.
 
+- Also: `castellio-traite-des-heretiques.md` (Geneva 1913, `traitdeshr00castuoft`, p. 31 = n46 = page+15; French version of vol2-ch4 note 69; Latin original and note 70's epithets still NOT found; only French/modern editions online).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
