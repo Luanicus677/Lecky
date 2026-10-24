@@ -178,6 +178,8 @@ Notes for continuing:
 
 - Also: `neander-history-of-christian-dogmas.md` (Bohn 1858 `lecturesonhisto01neangoog`, p. 658 = n324 = page-334; ch. IV notes 16-17; pp. 657, 659 unread; Bossuet Variations ii c. 21 in note 17 not done).
 
+- Also: `wall-history-of-infant-baptism.md` (Oxford ed. vol. 2 `historyofinfantb02wall`, image = page+23: p. 180 = n203, p. 211 = n234; ch. IV notes 2, 13, matches). Vol. i = `historyofinfantb01wall` (no XML pages); `historyofinfantb03wall` has other vols. Still: notes 3-4 (vol. i pp. 282-283; vol. ii pp. 192-206), 12.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

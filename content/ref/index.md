@@ -309,4 +309,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="neander-history-of-christian-dogmas.html">Neander, <em>History of Christian Dogmas</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Socinus and Zwingli on original sin (p. 658), cited in ch. IV, notes 16 and 17. Accurate; page numbers match.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="wall-history-of-infant-baptism.html">Wall, <em>History of Infant Baptism</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Calvin the first to deny that John iii. 5 means baptism (vol. 2, p. 180) and Hincmar’s hope for unbaptised infants (p. 211), cited in ch. IV, notes 13 and 2. Accurate; pages match.</div>
+</li>
 </ul>

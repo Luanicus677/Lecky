@@ -1,0 +1,35 @@
+---
+title: Wall, History of Infant Baptism
+description: "William Wall’s History of Infant Baptism (Oxford ed., vol. 2, ch. VI): Calvin as the first to deny that John iii. 5 means baptism (p. 180) and Hincmar of Rheims as the first to express a hope for unbaptised infants (p. 211), cited by Lecky in Chapter IV, notes 2 and 13."
+heading: Wall, <em>The History of Infant Baptism</em>
+subtitle: "Calvin on John iii. 5 (vol. 2, p. 180) and Hincmar’s hope (p. 211)"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/William_Wall_(theologian)\">William Wall</a> (1646–1728), Anglican divine; <em>The History of Infant Baptism</em> (1705). Lecky cites it by volume and page in <a href=\"../rationalism/vol1-ch4.html#fn2\">Chapter IV</a> (notes 2, 3, 4, 12, 13)."]
+  - ["Edition used", "The Oxford (Clarendon, 1844) edition, vol. 2: Internet Archive <a href=\"https://archive.org/details/historyofinfantb02wall\">historyofinfantb02wall</a>; p. 180 = image <a href=\"https://archive.org/details/historyofinfantb02wall/page/n203/mode/2up\">n203</a> and p. 211 = image <a href=\"https://archive.org/details/historyofinfantb02wall/page/n234/mode/2up\">n234</a> (image = page + 23). Lecky’s page numbers match. I did not read the title page, so the year of this printing is from the archive record."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn2\">Rationalism, ch. IV, note 2</a> and <a href=\"../rationalism/vol1-ch4.html#fn13\">note 13</a>."]
+  - ["Status", "Two pages read on the images. Lecky’s other Wall citations (vol. i pp. 282–283; vol. ii pp. 192–206) are not checked; the “peevishness” anecdote (note 3) was not found."]
+abstract: |
+  <p>Both citations check out. On p. 180 Wall writes that “All the ancient Christians (without the exception of one man) do understand that rule of our Saviour, John iii. 5 … of baptism”, and “I believe Calvin was the first that ever denied this place to mean baptism” (with a reference to Calvin’s <em>Institutes</em> IV. xvi. 25): Lecky’s “according to Wall, Calvin was the very first theologian who denied …” is a fair paraphrase, with Wall’s “I believe” dropped. On p. 211 Wall says he “took some pains” to find who first ventured to express the charitable opinion that unbaptised infants may be saved, after Vincentius’s recantation, and finds “none elder than Hincmarus archbishop of Rheims, anno Dom. 860”, in a letter rebuking Hincmar of Laon (<em>Opusculum</em> 55, c. 48): Lecky’s statement (“he has been unable to discover a single instance … before Hinckmar … in the ninth century”) agrees; Wall’s case is one of a bishop who had excommunicated all his clergy, so that infants could not be baptised.</p>
+---
+<section id="calvin-180" class="passage">
+<h2>Calvin the first to deny that John iii. 5 means baptism (vol. 2, p. 180)</h2>
+<p class="passage-source">English: vol. 2, p. 180, <a href="https://archive.org/details/historyofinfantb02wall/page/n203/mode/2up">scan</a>, chapter VI, “The Opinions of the Ancients concerning the future State of Infants, or other Persons, that happen to die unbaptized”.</p>
+<blockquote>
+<p>§. I. The account of their opinion in this matter will be best given in these particulars: 1. All the ancient Christians (without the exception of one man) do understand that rule of our Saviour, John iii. 5. <em>Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God</em>; of baptism. … Neither did I ever see it otherwise applied in any ancient writer. <span class="cited-passage">I believe Calvin was the first that ever denied this place to mean baptism.</span><sup>r</sup> He gives another interpretation, which he confesses to be new. …</p>
+<p><small>r Institution. lib. iv. cap. 16. §. 25.</small></p>
+</blockquote>
+<p>Lecky (ch. IV, note 13): “According to Wall, Calvin was the very first theologian who denied that the passage, ‘Except a man be born of water and of the spirit,’ &c., applied to baptism. (Vol. ii. p. 180.)” Accurate; Wall hedges with “I believe”, which Lecky omits. The Jeremy Taylor sentence in the same note is not on this page.</p>
+</section>
+
+<section id="hincmar-211" class="passage">
+<h2>Hincmar, the first to hope for unbaptised infants (vol. 2, p. 211)</h2>
+<p class="passage-source">English: vol. 2, p. 211, <a href="https://archive.org/details/historyofinfantb02wall/page/n234/mode/2up">scan</a>.</p>
+<blockquote>
+<p>… I have taken some pains (more perhaps than such a particular thing deserves) to find who was the first that ventured to declare this charitable opinion, after it had been so decried by the ancients, and recanted by Vincentius. <span class="cited-passage">I find none elder than Hincmarus archbishop of Rheims, anno Dom. 860. who expressed such hopes</span>; but it was in a case that was very particular. A certain rash and stubborn bishop in his province, named Hincmarus too, bishop of Laudun, had excommunicated all his clergy, so that there was nobody to give baptism, absolution, or burial. The archbishop writes a severe reproof to him, and in it takes occasion to speak of the fate of such infants, as had in the meantime died without baptism; hoping that they by God’s extraordinary mercy might be saved … ‘As in the case of infants that are under the guilt of the sin of nature, that is, the sins of others; the faith of others, that is, of their godfathers that answer for them in baptism, is a means of their salvation: so also to those infants to whom you have caused baptism to be denied, the faith and godly desire of their parents or godfathers, who in sincerity desired baptism for them, but obtained it not; may be a help (or profit) by the gift of him whose Spirit (which gives regeneration) breathes where it pleases.’</p>
+<p><small>g Opusculum 55. capitulorum, cap. 48.</small></p>
+</blockquote>
+<p>Lecky (ch. IV, text above note 2): “The learned English historian of Infant Baptism states that, with the exception of a contemporary of St. Augustine named Vincentius, who speedily recanted his opinion as heretical, he has been unable to discover a single instance of an orthodox member of the Church expressing the opposite opinion before Hinckmar, who was Archbishop of Rheims in the ninth century.” Note 2 cites “vol. ii. p. 211”. This is Wall’s own account of his search. The Aquinas sentence in note 2 is not Wall’s.</p>
+</section>
