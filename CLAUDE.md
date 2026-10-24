@@ -206,15 +206,18 @@ Notes for continuing:
 
 ## Readability layer (headings, synopses, figures)
 
-Ch. I (vol1-ch1) has it; other chapters do not yet. Conventions:
+All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
 - `## Heading {: #id }` sections are editorial. Under each, `<p class="section-argument">` holds the matching words of
   Lecky's own analytical contents (vol. I OCR lines ~656-890 of `rationalismeuro01leckuoft_djvu.txt`), verbatim with OCR fixed.
   The abstract's `p.editorial-note` says so. Never split or reword Lecky's paragraphs.
 - 5+ h2s give a margin TOC (wide screens) and a collapsible inline one (popups.js `buildToc`).
 - Figures: `<figure class="float-right|wide">` + `figcaption` + `span.credit` (Commons file link + licence), images in
-  `assets/img/rationalism/<chapter>/` (floats ~700px wide, wide ones ~1400px, JPEG q80). Only public-domain or CC images,
+  `assets/img/rationalism/<chapter file stem>/` (floats ~700px wide, wide ones ~1400px, JPEG q80). Only public-domain or CC images,
   with captions stating only what the Commons description supports. Commons' API rate-limits this machine: use
   `en.wikipedia.org/api/rest_v1/page/summary/<Article>` (originalimage) and `File:<name>?action=raw`, with a User-Agent and sleeps.
+  upload.wikimedia.org returns 429 for ORIGINAL files over ~1MB; the standard 960px thumbnail
+  (`.../commons/thumb/x/xy/<File>/960px-<File>`) downloads fine. Vol. II contents (synopses): OCR lines 49-381 of
+  `rationalismineur02leckuoft_djvu.txt`; the OCR drops a line at the top of p. viii ('Interests—Reasons of this').
 
 ## Build, test, deploy
 
