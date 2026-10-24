@@ -99,6 +99,8 @@ Notes for continuing:
 
 - Volume II source pages: `mariana-de-rege.md` (1605 Mainz ed. `bub_gb_FNnUXWPFQEcC`, image n = printed page + 30; ch. V notes 52-60; the sentence 'Nos tamen non quid facturi sint homines...' in note 60 NOT found; 1599 Toledo ed. not seen) and `suarez-defensio-fidei.md` (Vivès vol. 24 `rpfranciscisuare24suar`, image n = page + 19; lib. vi cap. 4 at pp. 680-682; notes 34, 41-43, 45). Not done: Toletus, Sa, Molina, Ayala (`balthazarisayala01ayal`, `dejureetofficiis01ayaluoft`; Molina `rplodouicimolina0Nmoli`), Concina (no scan found), Sarpi, Bianchi, Troplong.
 
+- Also Vol. II: `buchanan-de-jure-regni.md` (1581 ed., p. 16 = image n15; ch. V note 83; poor microfilm, read on image) and `bossuet-defensio-declarationis.md` (1745 ed. vol. 1 `defensiodeclarat01boss`, image n = page + 65; p. 128 Abimelech, note 96). Bossuet note 77 ('Defensio lib. i. c. 15, 16', wolves/sheep) NOT located; Lecky's 'lib. i. c. 3' does not match this edition's chapter numbering. Other scans found (unused): Bianchi 1745-46 Italian `bub_gb_p6UbBtH6D1cC`; Hotman Franco-Gallia 1665 `bub_gb_8IPQdc7m1ukC`; Troplong `bub_gb_GvGwHmfT9LwC`; Desprez de Boissy `lettressurlesspe01desp`; Lebrun `discourssurlacom00lebr`; Bedarride `lesjuifsenfranc00beda`; Eymericus 1607 `10488917bsb`.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
