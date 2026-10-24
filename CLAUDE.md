@@ -155,6 +155,8 @@ Notes for continuing:
 
 - Also: `gibbon-decline-and-fall.md` (Gutenberg TEXT, Guizot-Milman annotated ed.: vol. 2 = 732 ch. XVI, vol. 3 = 733 ch. XXVIII; ch. IV pt II note 30, ch. VI note 103; Lecky's Aliturus sentence overstates Gibbon; Lecky's Augustine Latin = Gibbon's note 56 with 'enim' and 'contra' for 'adversus') and `hume-populousness-of-ancient-nations.md` (`essaysmoralpolit00hume` 1875, p. 396 = n411 = page+15; ch. VI note 13; accurate). Other Gibbon/Hume/Bayle notes not done: Hume's Essay on Miracles (ch. II note 12, only named), Gibbon ch. III note 32 (Mahomedan Immaculate Conception) and others; Bayle 'Contrains-les d'entrer' pt. ii ch. iv (ch. IV pt II notes 7, 10, 76), Bayle Dict. art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187).
 
+- Also: `bayle-commentaire-philosophique.md` (1686 ed.: vol. 1 `commentairephilo01bayl` title page = n2; vol. 2 `commentairephilo02bayl` p. 295 = n110 = Part II ch. IV 'Quatrième objection' (Mosaic law); ch. IV pt II notes 7, 76; rest of ch. IV not read). Still undone Bayle: Dictionnaire art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187); Bayle's Contrains-les d'entrer is vol. 1-2 of 3 in these scans; also `suplementducomme00bayl`.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

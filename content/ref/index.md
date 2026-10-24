@@ -261,4 +261,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="gibbon-decline-and-fall.html">Gibbon, <em>Decline and Fall</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Augustine on the laws against pagan sacrifice (ch. XXVIII, note 56) and the player Aliturus (ch. XVI), cited in ch. IV (cont.) note 30 and ch. VI note 103. Read in a Gutenberg text, not a page scan.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="bayle-commentaire-philosophique.html">Bayle, <em>Commentaire philosophique</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The false title page of 1686 and Part II chapter IV (p. 295), cited in ch. IV (cont.), notes 7 and 76.</div>
+</li>
 </ul>
