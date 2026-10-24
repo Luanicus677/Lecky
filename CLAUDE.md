@@ -196,6 +196,8 @@ Notes for continuing:
 
 - Unmatched/dead ends (this run): Chillingworth Religion of Protestants ch. VII (vol1 ch. IV note 18: 'God will not deal unjustly with unbaptised infants' not found by keyword in scans `workswchillingw00chilgoog`, `..._chillingworth-william_1664_0`); Sarpi 'Pp. 89, 90' (vol2 ch. V note 11, Italian quote not in `istoriadelconci00micagoog`/`01`; the work is probably a Sarpi political tract, not found online); Strauss Life of Jesus quote (vol1 ch. II note 17); Beugnot p. 148 (vol1 ch. I note 29). Newman essay on miracles scans exist (`twoessaysonbibli00newm`) but ch. II note 16 has no quotation.
 
+- Also: `pascal-pensees-original-sin.md` (Brunschvicg text from fr.wikisource Section VII, NOT a scan; ch. IV note 12). Sarpi/St Bernard parts of note 12 unchecked.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
