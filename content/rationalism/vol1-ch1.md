@@ -474,7 +474,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^133]: Some of them, of course, were mere pamphlets, but a large proportion elaborate works. The catalogue is given by Hutchinson.
 
-[^134]: Compare Hutchinson, p. 57, and Buckle, vol. i. p. 334. I say judicially, for in the Times of Sept. 24, 1863, there is an account of an old man who was mobbed to death in the county of Essex as a wizard.
+[^134]: Compare <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#last-three-1682">Hutchinson, p. 57</a>, and Buckle, vol. i. p. 334. I say judicially, for in the Times of Sept. 24, 1863, there is an account of an old man who was mobbed to death in the county of Essex as a wizard.
 
 [^135]: Hutchinson, pp. 163-171. Some noble and liberal remarks.
 
