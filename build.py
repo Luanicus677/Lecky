@@ -96,9 +96,42 @@ def render_markdown(body_md: str) -> str:
     return html
 
 
+HEADING_RE = re.compile(r'<h([23]) id="([^"]+)">(.*?)</h\1>', re.DOTALL)
+
+
+def build_toc(body_html: str) -> str:
+    """A gwern.net-style numbered table of contents (nav#TOC) from the page's
+    h2/h3 headings, for long pages only (5+ sections)."""
+    heads = HEADING_RE.findall(body_html)
+    if sum(1 for level, _, _ in heads if level == "2") < 5:
+        return ""
+    out, n2, n3, open_sub = ['<nav id="TOC" class="TOC" aria-label="Contents"><ul>'], 0, 0, False
+    for level, anchor, text in heads:
+        if level == "2":
+            if open_sub:
+                out.append("</ul>")
+                open_sub = False
+            if n2:
+                out.append("</li>")
+            n2, n3 = n2 + 1, 0
+            out.append(f'<li><a href="#{anchor}"><span class="toc-num">{n2}</span>{text}</a>')
+        elif n2:
+            if not open_sub:
+                out.append("<ul>")
+                open_sub = True
+            n3 += 1
+            out.append(f'<li><a href="#{anchor}"><span class="toc-num">{n2}.{n3}</span>{text}</a></li>')
+    if open_sub:
+        out.append("</ul>")
+    out.append("</li></ul></nav>")
+    return "".join(out)
+
+
 def build_page(src_path: Path, out_path: Path):
     meta, body_md = parse_source(src_path)
     body_html = render_markdown(body_md)
+
+    toc_html = build_toc(body_html)
 
     # The 1865 edition's printer's ornament (redrawn as SVG): above the first
     # paragraph of a chapter, and again as a tailpiece where the text ends.
@@ -121,6 +154,7 @@ def build_page(src_path: Path, out_path: Path):
         title=meta.get("title", SITE_NAME),
         description=meta.get("description", ""),
         body=body_html,
+        toc=toc_html,
         root=root,
         site_name=SITE_NAME,
         github_repo=GITHUB_REPO,

@@ -255,12 +255,39 @@ main.article {
   margin: 0 auto 2.6rem;
 }
 .page-meta h1 {
-  font-size: 2.4rem;
-  font-weight: 700;
-  line-height: 1.12;
-  letter-spacing: -0.01em;
-  margin: 0 0 0.5rem;
+  /* gwern.net: centred, small caps, semibold */
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-variant-caps: small-caps;
+  line-height: 1.15;
+  letter-spacing: -1px;
+  text-align: center;
+  text-wrap: balance;
+  margin: 0 0 0.6rem;
 }
+.page-meta h1 .subtitle {
+  display: block;
+  margin-top: 0.3em;
+  font-size: 0.5em;
+  letter-spacing: 0;
+  font-variant-caps: normal; /* Source Serif 4 has no italic small caps */
+}
+@media (max-width: 649px) {
+  .page-meta h1 { font-size: 2rem; }
+}
+.back-link { text-align: center; font-size: 0.9rem; }
+.page-meta > .subtitle { text-align: center; }
+
+/* chapter pages: gwern-style centred metadata lines instead of the table */
+.page-metadata {
+  text-align: center;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--fg-muted);
+  margin: 1rem 0 2rem;
+}
+.page-metadata p { margin: 0 0 0.3em; }
+.page-metadata .meta-label { font-variant-caps: small-caps; letter-spacing: 0.03em; color: var(--fg-faint); }
 .page-meta .subtitle {
   font-style: italic;
   font-weight: 400;
@@ -284,26 +311,19 @@ main.article {
 .meta-table dd { margin: 0; }
 
 .abstract {
-  font-size: 0.97rem;
-  color: var(--fg-muted);
-  background: var(--sidenote-bg);
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--border-strong);
-  border-radius: 2px;
-  padding: 1rem 1.2rem;
+  /* gwern.net: a plain bordered box, set beside the floated TOC */
+  display: flow-root;
+  font-size: 0.95rem;
+  color: var(--fg);
+  border: 1px solid var(--border-strong);
+  padding: 0.8rem 1rem;
   margin-top: 1.2rem;
   position: relative;
+  text-align: justify;
+  hyphens: auto;
 }
-.abstract::before {
-  content: "Abstract";
-  display: block;
-  font-family: var(--font-sans);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  font-size: 0.7rem;
-  color: var(--fg-faint);
-  margin-bottom: 0.5em;
-}
+.abstract p { margin: 0 0 0.6em; }
+.abstract p:last-child { margin-bottom: 0; }
 .abstract em { color: var(--fg); }
 
 /* ---------- typography ---------- */
@@ -323,7 +343,26 @@ main.article {
   font-weight: 400;
 }
 .content p { margin: 0 0 1.15rem; }
-.content > p:first-child { margin-top: 0; }
+
+/* gwern.net paragraph setting: justified, hyphenated, first-line indents and
+   no space between paragraphs; no indent after a heading or other block. */
+.content > p {
+  margin: 0;
+  text-indent: 2.5em;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+.content > p * { text-indent: 0; }
+.content > p:first-child,
+.content > :is(h2, h3, .fleuron-head, blockquote, hr, details, ul, ol, div, pre, table, section) + p,
+.content > :is(h2, h3, .section-argument) + figure + p,
+.content > :is(h2, h3, .section-argument) + figure + figure + p,
+.content > p.section-argument + p { text-indent: 0; }
+.content > p + :is(blockquote, ul, ol, details, div, table, pre) { margin-top: 1.15rem; }
+@media (max-width: 649px) {
+  .content > p { text-align: left; text-indent: 1.75em; }
+}
 
 .dropcap {
   float: left;
@@ -438,6 +477,7 @@ details.inline-toc a:hover { color: var(--fg); text-decoration: underline; }
 /* ---------- section arguments and figures ---------- */
 
 /* Lecky's own synopsis line for a section, from his analytical table of contents */
+.content > p.section-argument { text-indent: 0; text-align: left; hyphens: manual; }
 .section-argument {
   font-size: 0.9rem;
   font-style: italic;
@@ -453,7 +493,11 @@ details.inline-toc a:hover { color: var(--fg); text-decoration: underline; }
 }
 .abstract p:first-child { margin-top: 0; }
 
-.content h2, .content h3 { clear: both; }
+.content h2, .content h3 {
+  clear: right;        /* past right-floated figures, but beside the left TOC */
+  display: flow-root;
+}
+.content figure.wide { clear: both; }
 
 .content figure {
   margin: 2.2rem 0;
@@ -1053,5 +1097,46 @@ main.dropcaps-de-zs .dropcap {
 }
 /* gwern.net drops them below 650px; here they shrink instead. */
 @media (max-width: 649px) {
-  main[class*="dropcaps-"] .dropcap { font-size: 4.6em; }
+  main[class*="dropcaps-"] .dropcap { font-size: 4.6em; margin-bottom: 0 !important; }
+  .abstract { text-align: left; }
+}
+
+/* ---------- table of contents (gwern.net #TOC) ----------
+   Built by build.py for pages with 5+ sections. Desktop: a numbered box
+   floated left beside the abstract and opening text; narrower screens: a
+   full-width two-column box without numbers. */
+#TOC {
+  position: relative;
+  z-index: 2;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  line-height: 1.25;
+  background: var(--sidenote-bg);
+  border: 1px solid var(--border);
+  padding: 0.625em 0.75em 0.75em;
+}
+#TOC ul { list-style: none; margin: 0; padding: 0; }
+#TOC > ul > li { font-weight: 600; margin: 0 0 0.5em; padding-left: 1.6em; position: relative; }
+#TOC > ul > li:last-child { margin-bottom: 0; }
+#TOC ul ul { padding: 0.35em 0 0 0.2em; }
+#TOC ul ul li { font-weight: 400; font-size: 0.92em; margin: 0 0 0.3em; padding-left: 1.9em; position: relative; }
+#TOC a { color: var(--fg); text-decoration: none; background: none; display: block; }
+#TOC a:hover { background: var(--border); }
+#TOC .toc-num { position: absolute; left: 0; color: #909090; font-weight: 400; }
+@media (min-width: 901px) {
+  #TOC { float: left; max-width: 285px; margin: 0 2.25rem 1rem 0; }
+  #TOC + .abstract { margin-top: 0; }
+}
+@media (max-width: 900px) {
+  #TOC {
+    margin: 1.6rem 0 1.4rem;
+    background-image: linear-gradient(var(--border), var(--border));
+    background-repeat: no-repeat;
+    background-size: 1px 100%;
+    background-position: 50% 0;
+  }
+  #TOC > ul { column-count: 2; column-gap: 1.5em; }
+  #TOC li { break-inside: avoid; }
+  #TOC > ul > li, #TOC ul ul li { padding-left: 0; }
+  #TOC .toc-num { display: none; }
 }

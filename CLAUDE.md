@@ -214,7 +214,10 @@ All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it we
   first paragraph and as a tailpiece before the notes (build.py). The 1865 edition has NO drop caps (plain capital + small caps);
   the drop caps are this edition's gwern-style choice: gwern.net's own initial fonts (one file per letter, `assets/fonts/dropcap/`,
   see its README; only D, T, W shipped), chosen per page with front matter `dropcap: goudy|yinit|kanzlei|de-zs` (sizes copied from gwern's style.css).
-- 5+ h2s give a margin TOC (wide screens) and a collapsible inline one (popups.js `buildToc`).
+- 5+ h2s: build.py (`build_toc`) emits a gwern-style numbered `nav#TOC` in `.page-meta` before the abstract (floats left on desktop,
+  two columns without numbers below 901px); pages with fewer h2s keep the JS margin TOC (popups.js `buildToc`).
+- Gwern typesetting: `.content > p` justified, hyphenated, first-line indent, no gap; no indent after headings/blocks.
+  Pages with `fleuron: true` show meta_rows as centred lines (`.page-metadata`); others keep the `.meta-table`.
 - Figures: `<figure class="float-right|wide">` + `figcaption` + `span.credit` (Commons file link + licence), images in
   `assets/img/rationalism/<chapter file stem>/` (floats ~700px wide, wide ones ~1400px, JPEG q80). Only public-domain or CC images,
   with captions stating only what the Commons description supports. Commons' API rate-limits this machine: use

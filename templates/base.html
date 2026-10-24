@@ -31,11 +31,16 @@
 <div class="page-meta">
 <h1>{{ heading | default(title) | safe }}</h1>
 {% if subtitle %}<p class="subtitle">{{ subtitle | safe }}</p>{% endif %}
-{% if meta_rows %}
+{% if meta_rows and fleuron %}
+<div class="page-metadata">
+{% for row in meta_rows %}<p><span class="meta-label">{{ row[0] }}:</span> {{ row[1] | safe }}</p>
+{% endfor %}</div>
+{% elif meta_rows %}
 <dl class="meta-table">
 {% for row in meta_rows %}<dt>{{ row[0] }}</dt><dd>{{ row[1] | safe }}</dd>
 {% endfor %}</dl>
 {% endif %}
+{% if toc %}{{ toc | safe }}{% endif %}
 {% if abstract %}<div class="abstract">{{ abstract | safe }}</div>{% endif %}
 </div>
 

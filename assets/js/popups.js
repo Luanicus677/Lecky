@@ -516,6 +516,9 @@
     content.insertBefore(toc, content.firstChild);
   }
 
+  // Long pages now get a gwern-style nav#TOC from build.py; this margin TOC is
+  // only for shorter pages without one.
+  if (document.getElementById("TOC")) return;
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", buildToc);
   } else {
