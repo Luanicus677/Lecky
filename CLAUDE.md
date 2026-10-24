@@ -129,6 +129,8 @@ Notes for continuing:
 
 - Also: `blanqui-histoire-de-leconomie-politique.md` (`histoiredelco01blan`, page foot '3e Edit. t. I.', image = page+31: pp. 225-226 = n256-n257, p. 250 = n281; ch. VI notes 83, 85, 164 (p. 277 = n308, Spain as author of mercantile system; Ustariz footnote)). Lecky's 1294 summary matches; the Florentine 'officer to repress the luxury of women' is in a 1336-38 budget table (Lecky: 'beginning of the fourteenth century'). Notes 96 (pp. 244-270), 159 (271-284), 164 (277), 169 not yet checked. Another copy: `histoiredelcon01blan` (1860 ed., different pagination).
 
+- Also: `pecchio-storia-della-economia-pubblica.md` (`storiadellaecon01peccgoog`, image = page+9, p. 11 = n20; ch. VI note 90). Pecchio p. 11 has the Tavola Amalfitana and compass, NOT Lecky's 'manuscript of Roman laws found at Amalfi'. Not found online: Rios (only Spanish original `estudioshistoric00amad`, not the French ed. Lecky cites), Lamet & Fromageau. Eden's State of the Poor 1797 is online (`bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`; Lecky's vol. i pp. 10, 50 for notes 11, 17 not yet checked; Champagny `lacharitechreti00chamgoog` notes 9, 15 not checked).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

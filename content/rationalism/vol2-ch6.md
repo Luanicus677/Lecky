@@ -404,7 +404,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^89]: This lias been noticed in a very forcible but, of course, one sided manner by De Maistre, who recurs to the subject again and again in his works; also by Villeneuve Bargemont, Economic Politique Chretienne.
 
-[^90]: Pecchio, Storia della Economic/, Publica in Italia (Lugano, 1849), p. 11.
+[^90]: Pecchio, Storia della Economic/, Publica in Italia (Lugano, 1849), p. 11. <a class="popup-ref" href="../ref/pecchio-storia-della-economia-pubblica.html#tavola-amalfitana">source page</a>
 
 [^91]: Anderson, Hist. of Commerce, vol. i. p. 117. The first English commercial companies were 'the Merchants of the Staple' and 'the Merchants of St. Thomas a Becket.'
 
