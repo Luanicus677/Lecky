@@ -105,6 +105,8 @@ Notes for continuing:
 
 - Also Vol. II: `molina-de-iustitia-et-iure.md` (vol. 4 `rplodouicimolina04moli`, pp. 539-540 = image n27; ch. V note 67; Lecky's Latin is a compressed paraphrase omitting Molina's qualifications). Toletus and Sa (notes 65-66) still not done.
 
+- Also Vol. II: `toletus-instructio-sacerdotum.md` (1625 ed. `bub_gb_KyxnUbkc4K0C`, p. 378 = image n426 = page+48; note 65; chapter number not checked; Lecky's 'p. 653' is another edition) and `sa-aphorismi-confessariorum.md` (1599 ed. `bub_gb_5AK7-pKY-O8C`, p. 308 = n309; note 66, verbatim). Toletus's claim 'made a cardinal in 1583' in Lecky's text: Toledo was made cardinal in 1593 (from memory, unchecked). So all of ch. V notes 65-68 are done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

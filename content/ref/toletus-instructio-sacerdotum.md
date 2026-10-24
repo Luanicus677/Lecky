@@ -1,0 +1,42 @@
+---
+title: Toletus, Instructio sacerdotum
+description: "Francisco Toledo’s Instruction of Priests (Summa casuum conscientiae), Book V: the passage on two kinds of tyrant that Lecky quotes in Chapter V, note 65, compared with a 1625 printing. Lecky’s Latin is a lightly edited version."
+heading: Toletus, <em>Instructio sacerdotum</em>
+subtitle: "Book V: the two kinds of tyrant"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Francisco_de_Toledo_(cardinal)\">Francisco Toledo</a> (Toletus, 1532–1596), Spanish Jesuit, made cardinal in 1593. Lecky says he was “made a cardinal in 1583”, in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a>; this is from my knowledge of the cardinalate and not checked on a scan."]
+  - ["Edition used", "<em>Instructio sacerdotum, vulgo Summa casuum conscientiae</em>, a 1625 printing: <a href=\"https://archive.org/details/bub_gb_KyxnUbkc4K0C\">archive.org/details/bub_gb_KyxnUbkc4K0C</a>. Printed p. 378 is image <a href=\"https://archive.org/details/bub_gb_KyxnUbkc4K0C/page/n426/mode/2up\">n426</a> (p + 48), Book V, § 10. Lecky cites “lib. v. c. vi. p. 653”, so he used another edition with different pagination. A 1636 printing is <code>bub_gb_7EYWRIgDl5MC</code>. The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn65\">Rationalism, ch. V, note 65</a>."]
+  - ["Status", "The passage transcribed from the image, translated and collated. I did not check the chapter number (Lecky’s “c. vi”) on the page."]
+abstract: |
+  <p>Lecky quotes Toletus for a distinction between a tyrant by power and lordship, who has no true title and whom anyone may kill if there is no other way of freeing the state, and a tyrant by administration, who has a true title and whom no one may kill without public authority. The Latin is Toletus’s, with a few small changes in word order and wording (see the table). Lecky’s gloss that Toletus “intimated also” that a nation could depose a lawful sovereign and condemn him is a reading beyond this passage.</p>
+---
+<section id="duplex" class="passage">
+<h2>“Adverte duplicem esse tyrannum” (Book V, § 10)</h2>
+<p class="passage-source">Latin: p. 378, right column, <a href="https://archive.org/details/bub_gb_KyxnUbkc4K0C/page/n426/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Est autem unus casus, in quo licet privato cuilibet occidere, cum puta, tyrannus est in civitate aliqua, quem aliter non possunt cives expellere. Ita habet S. Thom. 2. senten. dist. 44. q. 2. art. 2. &amp; opusc. 20. de regim. princ. c. 6. ubi dicit, non peccasse Brutum, occidendo Cæsarem. Tamen <span class="cited-passage">adverte, duplicem esse tyrannum, unum potestate, &amp; dominio, qui non habet titulum verum, sed tyrannicè occupat Rempub. &amp; hunc licet occidere</span>, ut diximus, <span class="cited-passage">dum aliter non potest resp. liberari, &amp; dum spes est probabilis liberationis: aliter, non licet privato cuilibet occidere. Alterum, tyrannum administratione, qui habet quidem verum titulum, sed tyrannicè tractat subditos: &amp; hunc non licet absque publica auctoritate occidere</span>: &amp; asserere contrarium damnatur ut hæreticum in Conc. Const. sess. 15. non tamen ista damnatio de priori tyranno est intelligenda.</p>
+</div>
+<div class="rendering" lang="en">
+<p>There is one case in which it is lawful for any private man to kill: namely when there is a tyrant in some city whom the citizens cannot otherwise expel. So Saint Thomas holds (<em>Sentences</em> II, dist. 44, q. 2, a. 2; and <em>On the Rule of Princes</em>, ch. 6), where he says that Brutus did not sin in killing Caesar. Yet <span class="cited-passage">note that there are two kinds of tyrant: one by power and lordship, who has no true title but seizes the commonwealth tyrannically, and this one it is lawful to kill</span>, as we said, <span class="cited-passage">so long as the state cannot otherwise be freed, and so long as there is a probable hope of liberation; otherwise it is not lawful for any private man to kill. The other, a tyrant by administration, who has indeed a true title but treats his subjects tyrannically: and this one it is not lawful to kill without public authority</span>; and to assert the contrary is condemned as heretical in the Council of Constance, session 15; yet that condemnation is not to be understood of the former tyrant.</p>
+</div>
+</div>
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th></th><th>Lecky, 1865 (note 65)</th><th>Toletus, 1625, p. 378</th></tr></thead>
+<tbody>
+<tr><td>Opening</td><td lang="la">Adverte duplicem esse tyrannum</td><td lang="la">Tamen adverte, duplicem esse tyrannum</td></tr>
+<tr><td>“commonwealth”</td><td lang="la">rempublicam</td><td lang="la">Rempub.</td></tr>
+<tr><td>Cut</td><td lang="la">et hunc licet occidere, dum aliter…</td><td lang="la">et hunc licet occidere, ut diximus, dum aliter…</td></tr>
+<tr><td>“hope”</td><td lang="la">dum spes est libertatis probabilis</td><td lang="la">dum spes est probabilis liberationis</td></tr>
+<tr><td>Second kind</td><td lang="la">Alterum administrationi qui habet…</td><td lang="la">Alterum, tyrannum administratione, qui habet…</td></tr>
+<tr><td>End</td><td lang="la">…absque publica auctoritate occidere.</td><td lang="la">…absque publica auctoritate occidere: et asserere contrarium damnatur ut hæreticum in Conc. Const. sess. 15…</td></tr>
+</tbody>
+</table>
+</div>
+<p>The changes are minor, and several (“spes est libertatis probabilis”, “administrationi”) may come from the edition Lecky used; I have not seen it. What he omits at the end is the point of the passage in its Gallican/Constance context: the Council’s condemnation of tyrannicide does not cover the usurper. Lecky does not mention it, and his statement that Toletus “intimated also, that the nation might depose a lawful sovereign … and condemn him to death” is not in this passage, which says the opposite for the lawful tyrant (no killing without public authority).</p>
+</section>
