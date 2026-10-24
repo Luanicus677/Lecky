@@ -137,6 +137,8 @@ Notes for continuing:
 
 - Also: `maury-la-magie-et-lastrologie.md` (Didier 1860 `BSG_8R428_3INV2303FA`, image = page+11; OCR page headers in this scan are unreliable, read page numbers on images: p. 117 = n128, 118 = n129, 221 = n232, 317 = n328; vol1-ch1 notes 20, 29, 92, 93). Lecky's quotations match (slip 'leur dépouiller' for 'les'; 'ce que' for 'ce qui' in note 93; note 20's 'religious exercise'/'inhaled' is not on p. 317). Maury also footnotes 'Cod. Theodos. IX.16 l.4 p. 128 t. III ed. Ritter' (same edition as our Codex page). Notes 33, 49 (p. 185, pacts; Lecky says witch concept "first appeared" in 12th c., Maury only dates the pact belief) and 94 (p. 219, La Bruyère) also done. Unchecked Maury notes: ch. I notes 13, 15 (pp. 78-85), 16, 25, 36; Légendes pieuses (ch. I note 52; ch. II note 3; ch. III notes 16, 17, 113, 168, 169) and Croyances et légendes (ch. III note 23, ch. IV note 37) are DIFFERENT books, not found yet.
 
+- Also: `didron-iconographie-chretienne.md` (vol. `iconographiechr02didruoft`, image = page+11, p. 262 = n273; ch. I note 52). Lecky's quoted English is a free rendering of Didron ('Jésus s'attriste davantage ... vraiment redoutable'). Other Didron copies: `iconographiechr00didr`, `iconographiechrtienn...`. Not done: ch. III notes 17, 169 (Didron p. 216 = n227), Soldan `geschichtederhe01soldgoog`, Beugnot `histoiredelades0[0-3]beuggoog`.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

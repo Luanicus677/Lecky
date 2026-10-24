@@ -233,4 +233,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="maury-la-magie-et-lastrologie.html">Maury, <em>La magie et l’astrologie</em></a><span class="work-status">6 passages</span></div>
 <div class="work-desc">Constantius’s laws on divination (pp. 117–118), Valentinian’s persecution (pp. 118–119), pacts with the devil (p. 185), La Bruyère on magic (p. 219), the first free-thinkers (p. 221) and the Messalians (p. 317), cited in ch. I, notes 20, 29, 33, 49, 92, 93 and 94. Lecky’s quotations are accurate.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="didron-iconographie-chretienne.html">Didron, <em>Iconographie chrétienne</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The stern Christ of the Last Judgment from the twelfth century (p. 262), translated in ch. I, note 52. Lecky’s English is a free rendering.</div>
+</li>
 </ul>
