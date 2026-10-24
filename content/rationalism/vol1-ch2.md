@@ -86,7 +86,7 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^7]: This argument, in a modified form, has been reproduced by Muzarelli (a Roman theologian of some note), in his Treatise on the Inquisition. He cites the destruction of Ananias and Sapphira, and of Simon Magus. This class of miracles, he says, has ceased; and the Inquisition is, in consequence, required. I know this very remarkable treatise by a translation in the fifth volume of Henrion, *Histoire de l'Eglise*.
 
-[^8]: Brewster's *Life of Newton*, p. 275. There is another letter from Newton to Locke on the subject, in King's *Life of Locke*, vol. i. p. 415; but it is little more than a catalogue of authorities.
+[^8]: Brewster's *Life of Newton*, p. 275. <a class="popup-ref" href="../ref/brewster-life-of-newton.html#miracles-letter">source page</a> There is another letter from Newton to Locke on the subject, in King's *Life of Locke*, vol. i. p. 415; but it is little more than a catalogue of authorities.
 
 [^9]: Third Letter on Toleration, p. 269.
 

@@ -165,6 +165,8 @@ Notes for continuing:
 
 - Also: `sprat-history-of-the-royal-society.md` (1667 ed. `bub_gb_g30OAAAAQAAJ`, p. 350 = n373 = page+23; ch. II note 6; matches except inserted 'a'). Other ch. II notes not done: 1-2, 4, 5 (Guizot Hist. de Civilisation Leçon XVII), 7 (Muzarelli), 8 (Brewster Life of Newton p. 275), 9 (Locke Third Letter on Toleration p. 269), 12 (Locke commonplace; King Life of Locke i pp. 230-231), 13-25.
 
+- Also: `brewster-life-of-newton.md` (1860 vol. 2 `memoirsoflifewri02brewuoft`, pp. 252-253 = n269-n270 = page+17; Lecky's p. 275 = the 1855 ed.; ch. II note 8). Lecky's last sentence 'The history of those ages is very imperfect' NOT in Brewster. King's Life of Locke i p. 415 and Locke's Third Letter on Toleration p. 269 (ch. II note 9) not done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

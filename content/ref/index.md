@@ -277,4 +277,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="sprat-history-of-the-royal-society.html">Sprat, <em>History of the Royal Society</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“God … has commonly chosen the dark and ignorant Ages, wherein to work Miracles” (1667, p. 350), quoted in ch. II, note 6. Accurate; the page number matches.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="brewster-life-of-newton.html">Brewster, <em>Memoirs of Newton</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Newton’s letter to Locke on the miracles of the early Church (vol. 2, p. 252 of the 1860 edition), quoted in ch. II, note 8. The last sentence Lecky quotes is not in Brewster’s text.</div>
+</li>
 </ul>
