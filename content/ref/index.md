@@ -329,4 +329,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="glanvill-saducismus-triumphatus.html">Glanvill, <em>Saducismus Triumphatus</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Atheism is begun in Sadducism” (Preface, 1700 ed.), quoted in ch. I, note 122. Accurate.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="bossuet-variations.html">Bossuet, <em>Histoire des variations</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Book X, § 56: Catholics and Protestants agree on punishing heretics (p. 475), quoted in ch. IV (cont.), note 75. Accurate, with Jurieu’s references abridged.</div>
+</li>
 </ul>

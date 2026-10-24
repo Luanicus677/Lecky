@@ -188,6 +188,8 @@ Notes for continuing:
 
 - Also: `glanvill-saducismus-triumphatus.md` (1700 ed. `bim_early-english-books-1641-1700_saducismus-triumphatus_glanvill-joseph_1700`, Preface n49-n50, unnumbered; ch. I note 122). Other editions: 1689 `..._saducismus-triumphatus-_glanvill-joseph_1689` (OCR poorer), `b30514472` (1726). Other Glanvil notes (113, 118-121, Plus Ultra) not done.
 
+- Also: `bossuet-variations.md` (Paris 1844? vol. 2 `bub_gb_0tGUU8OopAUC`, p. 475 = n492 = page+17; liv. X § 56; ch. IV pt II note 75). Other Variations scans: `bub_gb_kywIVVvxpp0C`, `bub_gb_DFpKf9T_ersC`. Liv. II (ch. IV notes 17, 28) not done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
