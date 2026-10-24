@@ -163,6 +163,8 @@ Notes for continuing:
 
 - Buckle vol. 1 (`10278775bsb`, image = page+27) pagination MATCHES Lecky's: also done p. 333 (n360, note 50: 1660/1688 quote, ch. I note 132; its footnote is the source of Lecky's 'others ... 1712' for ch. I note 134 via Parr's Works iv p. 182), p. 345 (n372, eclipse of Otho, ch. I note 41); p. 316 (n343) is NOT about spirits (ch. I note 70 unmatched). Still to do with this scan: ch. I notes 64 (p. 424 note), 144, 145 (vol. ii, not scanned), ch. IV pt II 5 (p. 385) and ch. V 25-26 (pp. 380-381) now DONE; still: ch. IV pt II 49 (vol. ii p. 231; vol. ii not scanned yet). Note 51 done for pp. 509-510 only (image = page+29 in this part of the scan, NOT +27; pp. 511-523 = n540-n552 unread). ch. I note 64 (p. 424 = n451) done.
 
+- Also: `sprat-history-of-the-royal-society.md` (1667 ed. `bub_gb_g30OAAAAQAAJ`, p. 350 = n373 = page+23; ch. II note 6; matches except inserted 'a'). Other ch. II notes not done: 1-2, 4, 5 (Guizot Hist. de Civilisation Leçon XVII), 7 (Muzarelli), 8 (Brewster Life of Newton p. 275), 9 (Locke Third Letter on Toleration p. 269), 12 (Locke commonplace; King Life of Locke i pp. 230-231), 13-25.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

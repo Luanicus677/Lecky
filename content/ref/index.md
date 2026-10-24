@@ -273,4 +273,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="hallam-literature-and-constitutional-history.html">Hallam, <em>Literature of Europe</em> and <em>Constitutional History</em></a><span class="work-status">3 passages</span></div>
 <div class="work-desc">“The simple proposition” on burning heretics and “Persecution is the deadly original sin of the reformed churches” (ch. IV cont., note 74), and the Fathers on the corporeity of the soul (ch. III, note 164). All accurate with small changes.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="sprat-history-of-the-royal-society.html">Sprat, <em>History of the Royal Society</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“God … has commonly chosen the dark and ignorant Ages, wherein to work Miracles” (1667, p. 350), quoted in ch. II, note 6. Accurate; the page number matches.</div>
+</li>
 </ul>
