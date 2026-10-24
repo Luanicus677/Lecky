@@ -198,6 +198,8 @@ Notes for continuing:
 
 - Also: `pascal-pensees-original-sin.md` (Brunschvicg text from fr.wikisource Section VII, NOT a scan; ch. IV note 12). Sarpi/St Bernard parts of note 12 unchecked.
 
+- Also: `voltaire-dictionnaire-philosophique-patrie.md` (Garnier 1878 text on fr.wikisource, NOT a scan; ch. VI note 177; Lecky reverses the order and drops 'donc'; OCR fixed in the note: humaine, à, Il, peut).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

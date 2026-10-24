@@ -578,7 +578,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^176]: There are some striking, though now rather ancient, statistics on this point in Babbage On Machines, ch. i. In 1830, the noncultivators were in Italy as 31 to 100; in France, as 50 to 100; in England, as 200 to 100. During the first thirty years of the century, the population of England increased about fifty-one per cent.; that of the great towns, 123 per cent.
 
-[^177]: Even Voltaire said, ‘Telle est la condition hrnnaine, que souhaiter la grandeur de son pays c'est souhaiter du mal a ses voisins.... II est clair qu'un pays ne pent gagner sans qu'un autre perd,' (Diet. Phil, art. Patrie.)
+[^177]: Even Voltaire said, ‘Telle est la condition humaine, que souhaiter la grandeur de son pays c'est souhaiter du mal à ses voisins.... Il est clair qu'un pays ne peut gagner sans qu'un autre perd,' (Diet. Phil, art. Patrie.) <a class="popup-ref" href="../ref/voltaire-dictionnaire-philosophique-patrie.html#patrie">source page</a>
 
 [^178]: There is a full description of these in Chevallier's Lettres sur I' Organisation du Travail — a very able, and, considering that it was written in 1848, a very courageous book.
 
