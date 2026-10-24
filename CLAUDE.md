@@ -176,6 +176,8 @@ Notes for continuing:
 
 - Also: `cudworth-mosheim-note-on-the-soul.md` (Harrison's Cudworth vol. 3 = `trueintellectua00moshgoog`, p. 325 = n334 = page+9; ch. III note 164; matches). Hallam half of note 164 done earlier. Neander Dogmas `neandershistory01neanuoft` (ch. IV notes 16-17) searched for Zwingli: no hit yet.
 
+- Also: `neander-history-of-christian-dogmas.md` (Bohn 1858 `lecturesonhisto01neangoog`, p. 658 = n324 = page-334; ch. IV notes 16-17; pp. 657, 659 unread; Bossuet Variations ii c. 21 in note 17 not done).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
