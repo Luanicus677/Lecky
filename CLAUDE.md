@@ -147,6 +147,8 @@ Notes for continuing:
 
 - Augustine De civ. Dei additions (PL 41 scan, col = 2*image+1): XXI.4 peacock cols. 711-712 = n355 (ch. III note 8; Lecky 'regard as a miracle' is a gloss: Augustine gives it as a natural example); XVIII.23 Sibyl acrostic cols. 579-580 = n289 (ch. III note 14; Lecky cites 'cap. 20', Migne has c. 23).
 
+- Also: `augustine-de-natura-et-gratia.md` (PL 44 `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_44`, col. 267 = n133; c. XXXVI § 42; ch. III note 32; Lecky 'habere' for 'haberi', inserted 'eum'). Rest of note 32 (Heeren, Gibbon, Bernard) unchecked.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

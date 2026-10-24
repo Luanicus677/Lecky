@@ -241,4 +241,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="michelet-la-sorciere.html">Michelet, <em>La Sorcière</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The last burnings of witches (Spain 1782, Germany 1751, Switzerland 1781), cited in ch. I, note 50. Michelet’s 1782 is Spain’s, not Switzerland’s; Lecky’s page number does not fit the printing read.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="augustine-de-natura-et-gratia.html">Augustine, <em>De natura et gratia</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“Excepta itaque sancta virgine Maria” (c. XXXVI, § 42; Migne PL 44, col. 267), quoted in ch. III, note 32. Lecky’s Latin is accurate apart from “habere” for “haberi” and an inserted “eum”.</div>
+</li>
 </ul>

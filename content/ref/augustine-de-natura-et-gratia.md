@@ -1,0 +1,39 @@
+---
+title: Augustine, De natura et gratia
+description: "Augustine’s sentence excluding the Virgin Mary from every question of sin (De natura et gratia, c. XXXVI, § 42; Migne PL 44, col. 267), which Lecky quotes in Chapter III, note 32, on the history of the Immaculate Conception."
+heading: Augustine, <em>De natura et gratia</em>
+subtitle: "“Excepta itaque sancta virgine Maria” (c. 42)"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Augustine_of_Hippo\">Augustine of Hippo</a>, <em>De natura et gratia contra Pelagium</em> (415). Lecky cites it without chapter in <a href=\"../rationalism/vol1-ch3.html#fn32\">Chapter III, note 32</a>."]
+  - ["Edition used", "J.-P. Migne, <em>Patrologia Latina</em>, vol. 44 (Paris, 1845): Internet Archive <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_44\">…_1845_44</a>. Cols. 267–268 are image <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_44/page/n133/mode/2up\">n133</a> (for this volume, col. 267 = n133). The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn32\">Rationalism, ch. III, note 32</a>."]
+  - ["Status", "The sentence read on the page image and collated. The rest of note 32 (Heeren, Gibbon, St Bernard) is not checked."]
+abstract: |
+  <p>Lecky’s Latin is the sentence at the head of Augustine’s chapter XXXVI, § 42, which the Migne editors summarise as “Sancta virgo Maria sine ullo vixit peccato”. It matches word for word apart from three small differences: Lecky has “habere” where Migne prints “haberi” (the editors say the older printed editions read “habere” and the manuscripts “haberi”), Lecky inserts “eum” before “quem”, and Lecky ends with a full stop for Augustine’s question mark. In the sentence before it, Augustine reports Pelagius as saying that piety requires us to confess the Mother of the Lord to have been without sin; Augustine then says he will not raise the question of sin in her case “out of honour to the Lord”.</p>
+---
+<section id="excepta-42" class="passage">
+<h2>The Virgin excepted (c. XXXVI, § 42)</h2>
+<p class="passage-source">Latin: Migne PL 44, col. 267, <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_44/page/n133/mode/2up">scan</a>, left column, lines from the end of the first paragraph of § 42. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… ipsam etiam Domini ac Salvatoris nostri Matrem, quam « dicit sine peccato confiteri necesse esse pietati. » <span class="cited-passage">Excepta itaque sancta virgine Maria, de qua propter honorem Domini nullam prorsus cum de peccatis agitur, haberi volo quaestionem : unde enim scimus quid ei plus gratiae collatum fuerit ad vincendum omni ex parte peccatum, quae concipere ac parere meruit, quem constat nullum habuisse peccatum ?</span> Hac ergo virgine excepta, si omnes illos sanctos et sanctas, cum hic viverent, congregare possemus et interrogare utrum essent sine peccato, quid fuisse responsuros putamus ? …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… even the Mother of our Lord and Saviour, whom he says “piety requires us to confess to have been without sin.” <span class="cited-passage">With the holy Virgin Mary excepted, therefore, concerning whom, out of honour to the Lord, I will have no question raised at all when sins are in discussion — for how do we know what more of grace was bestowed on her for overcoming sin in every way, who deserved to conceive and bear him who, it is agreed, had no sin?</span> With this virgin excepted, then, if we could gather together all those holy men and women while they lived here and ask them whether they were without sin, what do we think they would have answered? …</p>
+</div>
+</div>
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th>Lecky (ch. III, note 32)</th><th>Migne PL 44, col. 267</th></tr></thead>
+<tbody>
+<tr><td>Excepta itaque Sancta Virgine Maria</td><td>Excepta itaque sancta virgine Maria</td></tr>
+<tr><td>de qua, propter honorem Domini, nullam prorsus cum de peccatis agitur habere volo quæstionem</td><td>de qua propter honorem Domini nullam prorsus cum de peccatis agitur, haberi volo quaestionem (a footnote: “in editis legebatur, <em>habere</em>. At in Mss., <em>haberi</em>”)</td></tr>
+<tr><td>quæ concipere ac parere meruit eum quem constat nullum habuisse peccatum.</td><td>quae concipere ac parere meruit, quem constat nullum habuisse peccatum ?</td></tr>
+</tbody>
+</table>
+</div>
+<p>Lecky quotes the sentence, with a reference to “De Naturâ et Gratiâ” and no chapter, as Augustine’s own words on the Virgin; the chapter is XXXVI (§ 42), and the sentence follows Augustine’s report of what Pelagius says about her.</p>
+</section>
