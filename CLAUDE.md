@@ -190,6 +190,8 @@ Notes for continuing:
 
 - Also: `bossuet-variations.md` (Paris 1844? vol. 2 `bub_gb_0tGUU8OopAUC`, p. 475 = n492 = page+17; liv. X § 56; ch. IV pt II note 75). Other Variations scans: `bub_gb_kywIVVvxpp0C`, `bub_gb_DFpKf9T_ersC`. Liv. II p. 73 = n81 (page+8) done for vol. I ch. IV note 17; note 28 (p. 70 = n78) done.
 
+- Also: `taylor-liberty-of-prophesying.md` (1836 `discourseofliber1836tayl`, pp. 328-329 = n369-n370 = page+41; ch. IV note 13 § 18; matches). Other Taylor: ch. IV note 36 (Ductor Dubitantium iii c. 2), vol2 ch. IV note 7 (Liberty sec. 22) not done. Other scans: `discourseofliber00tayl` (1834), `cu31924029261506`.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
