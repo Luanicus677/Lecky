@@ -1,0 +1,43 @@
+---
+title: Macpherson, Annals of Commerce
+description: "David Macpherson’s Annals of Commerce (1805): the 1346 footnote on the office of consul (vol. i, p. 536), the Portuguese ransom of Moors for negro slaves (vol. i, p. 661) and the first English–Spanish slave convention (vol. ii, p. 638), cited in Chapter VI, notes 94, 160 and 162."
+heading: Macpherson, <em>Annals of Commerce</em>
+subtitle: "Three passages (vol. i pp. 536, 661; vol. ii p. 638)"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/David_Macpherson_(historian)\">David Macpherson</a> (1746–1816), <em>Annals of Commerce, Manufactures, Fisheries, and Navigation</em>, four volumes quarto, London, 1805. Lecky spells the name “Maepherson” (OCR for Macpherson) and “M’Pherson” in <a href=\"../rationalism/vol2-ch6.html\">Chapter VI</a>."]
+  - ["Edition used", "The 1805 quarto. Vol. i: <a href=\"https://archive.org/details/annalsofcommerce01macp\">annalsofcommerce01macp</a> (p. 536 = image <a href=\"https://archive.org/details/annalsofcommerce01macp/page/n547/mode/2up\">n547</a>; p. 661 = image <a href=\"https://archive.org/details/annalsofcommerce01macp/page/n672/mode/2up\">n672</a>; image = page + 11). Vol. ii: <a href=\"https://archive.org/details/annalsofcommerce02macpuoft\">annalsofcommerce02macpuoft</a> (p. 638 = image <a href=\"https://archive.org/details/annalsofcommerce02macpuoft/page/n647/mode/2up\">n647</a>; image = page + 9). Lecky’s page numbers match. The long s is printed as s below."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn94\">Rationalism, ch. VI, note 94</a>, <a href=\"../rationalism/vol2-ch6.html#fn160\">160</a> and <a href=\"../rationalism/vol2-ch6.html#fn162\">162</a>."]
+  - ["Status", "Three passages transcribed from the page images. Lecky’s paraphrase of two of them differs from the book, as set out below. Macpherson’s own sources (Rymer’s Foedera, Faria y Sousa, Cada Mosto) are not checked."]
+abstract: |
+  <p>All three pages are as Lecky cites them, but only the third agrees with his sentence without qualification. Note 94 turns Macpherson’s footnote into a claim about the “English consul”; the footnote says something narrower. In note 160 Lecky’s 1440 is Macpherson’s 1443 (the page is headed A.D. 1443 and says “this year”). In note 162 Macpherson dates the first Anglo-Spanish convention for supplying the Spanish West Indies with negro slaves from Jamaica only to “about this time”, on a page headed A.D. 1689; Lecky’s “in 1689” is a little firmer than the book.</p>
+---
+<section id="consul-1346" class="passage">
+<h2>The earliest consul in an English record (vol. i, p. 536, footnote †)</h2>
+<p class="passage-source">English: vol. i p. 536, page headed A.D. 1346, <a href="https://archive.org/details/annalsofcommerce01macp/page/n547/mode/2up">scan</a>. The footnote is attached to the entry for 10 April 1346.</p>
+<blockquote>
+<p>April 10th.—For a considerable time past we have had little notice of any commercial intercourse between England and Venice. In consequence of an application by the consul † of the Venetian merchants at Bruges and an English merchant, the king now took all the merchants of Venice, trading to England, Ireland, and his other dominions, under his protection during one year. [<em>Foedera</em>, V. v, p. 558.]</p>
+<p>† <span class="cited-passage">If I mistake not, this is the earliest notice of the office of a consul of merchants in any English record.</span> But long before this time the commercial states in the Mediterranean had consuls in every considerable port to which they traded. Capmany, in his valuable <em>Memorias historicas de Barcelona</em>, gives a list of consuls commissioned by that city since the year 1270.</p>
+</blockquote>
+<p>Lecky’s note: “The earliest notice Macpherson has been able to find of an English consul is in 1346.” The footnote concerns a <em>Venetian</em> merchants’ consul at Bruges, mentioned in an English record (the <em>Foedera</em>), and says that it is the earliest notice of the office in any English record. It is not a notice of a consul <em>of English</em> merchants abroad, which is what “an English consul” would ordinarily mean. I did not search the rest of Macpherson for an earlier or later English consul abroad (a keyword hit on a page near the 1490s, p. 715, mentions a “first consul for the English merchants at Pisa” commissioned by a King Richard; I did not read that page on the image).</p>
+</section>
+
+<section id="moors-1443" class="passage">
+<h2>Moors ransomed for negro slaves (vol. i, p. 661)</h2>
+<p class="passage-source">English: vol. i p. 661, page headed A.D. 1443, <a href="https://archive.org/details/annalsofcommerce01macp/page/n672/mode/2up">scan</a>.</p>
+<blockquote>
+<p>The Portuguese, in the progress of their discoveries along the coast of Africa, <span class="cited-passage">having kidnapped some of the Moors</span>, Prince Henry this year ordered the commanders of his vessels to carry them home to their own country. His officers, however, instead of obeying his humane and judicious order, <span class="cited-passage">obliged the friends of the captives to redeem them, and received in exchange ten Negro slaves and a quantity of gold</span>. These two kind of new objects, thus unexpectedly offered to the avidity of the Portuguese, silenced the murmurs against Prince Henry’s schemes of discovery … [and later in the paragraph] Such was the commencement of the European trade on the coast of Africa for slaves, who were then all carried to Portugal.</p>
+</blockquote>
+<p>Lecky’s note: “The beginning of the trade dates from 1440, in which year some Portuguese merchants having kidnapped some Moors on the coast of Africa, only consented to ransom them on receiving negroes in exchange.” Two differences: the page is headed 1443, and the book says the kidnappers’ officers were Prince Henry’s ship commanders, not “merchants” (the “company of merchants at Lagos” comes later in the paragraph). Macpherson gives the number of slaves as ten. Whether 1440, 1441 or 1443 is right is a question for Portuguese sources that this page does not take up. Lecky’s 1440 is left as printed.</p>
+</section>
+
+<section id="convention-1689" class="passage">
+<h2>The first convention for supplying slaves to Spanish America (vol. ii, p. 638)</h2>
+<p class="passage-source">English: vol. ii p. 638, page headed A.D. 1689, <a href="https://archive.org/details/annalsofcommerce02macpuoft/page/n647/mode/2up">scan</a>.</p>
+<blockquote>
+<p>… and to retire to the neighbouring isle of Nevis, to the great loss of many merchants in London and Bristol. Soon after which the French drove the Dutch out of their own island of Eustatia in that neighbourhood. <span class="cited-passage">It was about this time that the first convention was made at London between England and Spain, for supplying the Spanish West-Indies with negro slaves from the island of Jamaica.</span></p>
+</blockquote>
+<p>Lecky: “At a much later period, in 1689, the English made a convention with Spain to supply the West Indies with slaves from Jamaica.” The page matches, with the qualification in the abstract: “about this time”, under the year 1689.</p>
+</section>

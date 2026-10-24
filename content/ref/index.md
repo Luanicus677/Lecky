@@ -209,4 +209,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="clementinae-ex-gravi.html">Clement V, <em>Ex gravi</em> (Clementines V.5)</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The decree of the Council of Vienne making it heresy to affirm that usury is no sin, quoted in ch. VI, note 46. Lecky’s Latin is accurate.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="macpherson-annals-of-commerce.html">Macpherson, <em>Annals of Commerce</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">The consul of 1346, the Moors ransomed for slaves, and the first Anglo-Spanish slave convention, cited in ch. VI, notes 94, 160, 162. Lecky’s dates and wording differ in places.</div>
+</li>
 </ul>

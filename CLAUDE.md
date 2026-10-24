@@ -125,6 +125,8 @@ Notes for continuing:
 
 - Also: `clementinae-ex-gravi.md` (Friedberg Corpus iuris canonici vol. 2, `BD1141952`, cols. 1183-1184 = n627; Clem. V.5 § 2; ch. VI note 46; Lecky 'istum' for 'illum'; title page not read). The Corpus of 1879 `bub_gb_sfwfAQAAMAAJ` is vol. 1 (Decretum). Lamet & Fromageau's French Dictionnaire (1733; ch. VI notes 28, 31, 139) and the Conférences sur l'usure NOT found online (archive search returns only Pontas).
 
+- Also: `macpherson-annals-of-commerce.md` (1805 quarto; vol. i `annalsofcommerce01macp`, image = page+11: p. 536 = n547, p. 661 = n672; vol. ii `annalsofcommerce02macpuoft`, image = page+9: p. 638 = n647; ch. VI notes 94, 160, 162). Findings: p. 536's footnote is about a VENETIAN consul at Bruges in an English record, not an 'English consul' (note 94); p. 661 is headed A.D. 1443, Lecky says 1440 (note 160); p. 638 says 'about this time' under 1689. Unread: p. 715 mentions 'first consul for the English merchants at Pisa' under King Richard (OCR only).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

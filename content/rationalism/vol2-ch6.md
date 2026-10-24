@@ -412,7 +412,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^93]: See the stages of its developement in Warden, On Consular Establishments.
 
-[^94]: The earliest notice Maepherson has been able to find of an English consul is in 1346 (Annals of Commerce, vol. i. p. 536).
+[^94]: The earliest notice Maepherson has been able to find of an English consul is in 1346 (Annals of Commerce, vol. i. p. 536). <a class="popup-ref" href="../ref/macpherson-annals-of-commerce.html#consul-1346">source page</a>
 
 [^95]: Before this time ambassadors were sent only on occasions of emergency. The first instance of a resident ambassador seems to have been in 1455, when Francis Sforza, Duke of Milan, established one at Genoa, and towards the close of the century the institution became somewhat common in Italy (Cibrario, Economia Politico, del Medio Evo [Torino, 1842], vol. i. p. 319). It was also about this time that the use of cipher in diplomacy became usual. (Hid. De Plassan, Hist. de la Diplomatic Frangaise, In trod.)
 
@@ -544,11 +544,11 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^159]: See Blanqui, Hist. d Economic Politique, tom. i. pp. 271-284, where the whole subject of the political economy of Charles V. is admirably treated.
 
-[^160]: The beginning of the trade dates from 1440, in which year some Portuguese merchants having kidnapped some Moors on the coast of Africa, only consented to ransom them on receiving negroes in ex change. (M'Pherson's Annals of Commerce, vol. i. p. 661.)
+[^160]: The beginning of the trade dates from 1440, in which year some Portuguese merchants having kidnapped some Moors on the coast of Africa, only consented to ransom them on receiving negroes in ex change. (M'Pherson's Annals of Commerce, vol. i. p. 661.) <a class="popup-ref" href="../ref/macpherson-annals-of-commerce.html#moors-1443">source page</a>
 
 [^161]: The first writer who undertook the defence of Las Casas was Gregoire, Bishop of Blois, in a paper read before the French Institute in 1804, and the subject was afterwards treated, though in a rather different point of view, in a letter by a Mexican priest named Don Gregorio Funes, and in an essay by Llorente. They are reprinted, together with translations of all the relevant passages from Herrera (the original authority on the subject), in Llorente's edition of the works of Las Casas (1822). The first of these writers attempted to impugn the authority of Herrera, but for this there seems no sufficient reason; nor does it appear that Herrera, or indeed anyone else at the time, considered the conduct of Las Casas wrong. The monks of St. Jerome are much more responsible for the introduction of negroes than Las Casas. It is impossible to read the evidence Llorente has collected without feeling that, as a general rule (with a few striking exceptions), the Spanish clergy laboured earnestly to alleviate the condition of the captive Indians, that this was one of their chief reasons in advocating the import of negroes, and that they never contemplated the horrors that soon grew out of the trade.
 
-[^162]: M'Pherson's Annals of Commerce, vol. ii. p. 638. At a much later period, in 1689, the English made a convention with Spain to supply the West Indies with slaves from Jamaica.
+[^162]: M'Pherson's Annals of Commerce, vol. ii. p. 638. <a class="popup-ref" href="../ref/macpherson-annals-of-commerce.html#convention-1689">source page</a> At a much later period, in 1689, the English made a convention with Spain to supply the West Indies with slaves from Jamaica.
 
 [^163]: This was noticed by Bodin in his time. See La Repulliqite, p. 47 (1577).
 
