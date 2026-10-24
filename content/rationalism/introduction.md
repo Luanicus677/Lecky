@@ -1,4 +1,5 @@
 ---
+fleuron: true
 title: "Introduction — Rise and Influence of Rationalism in Europe"
 description: Lecky's introduction to the History of the Rise and Influence of the Spirit of Rationalism in Europe (1865), on the historian's task of tracing the causes of changing belief.
 heading: Introduction

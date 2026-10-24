@@ -1000,3 +1000,9 @@ table.collation strong { font-weight: 700; }
   main.article { padding: 1.6rem 1.1rem 4rem; }
   .dropcap { font-size: 3.1em; }
 }
+
+/* ---------- printer's ornament (from the 1865 edition, redrawn) ---------- */
+.fleuron-head, .fleuron-tail { text-align: center; color: var(--fg-muted); }
+.fleuron-head { margin: 0 0 2rem; }
+.fleuron-tail { margin: 3rem 0 0; clear: both; }
+svg.fleuron { width: 12em; max-width: 60%; height: auto; display: inline-block; }

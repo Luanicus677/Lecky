@@ -1,4 +1,5 @@
 ---
+fleuron: true
 title: "Chapter V — On the Secularisation of Politics"
 description: "Lecky's chapter “On the Secularisation of Politics”, 1865: pages 106–249 of the second edition, vol. II (the decline of theological politics, the Inquisition and the State, tyrannicide, the divine right of kings and the social contract)."
 heading: "Chapter V<br><span class=\"subtitle\" style=\"font-style:italic;\">On the Secularisation of Politics</span>"

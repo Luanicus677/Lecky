@@ -1,4 +1,5 @@
 ---
+fleuron: true
 title: "Chapter II — The Miracles of the Church"
 description: "Lecky's chapter on the decline of belief in the miracles of the Church, 1865. Complete: pages 151–205 of the 1865 second edition, vol. I."
 heading: "Chapter II<br><span class=\"subtitle\" style=\"font-style:italic;\">On the Declining Sense of the Miraculous &mdash; The Miracles of the Church</span>"

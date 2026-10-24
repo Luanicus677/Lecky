@@ -1,4 +1,5 @@
 ---
+fleuron: true
 title: "Chapter I — On the Declining Sense of the Miraculous"
 description: "Lecky's chapter on the decline of belief in witchcraft and magic, 1865. Complete: pages 1–150 of the 1865 second edition, vol. I."
 heading: "Chapter I<br><span class=\"subtitle\" style=\"font-style:italic;\">On the Declining Sense of the Miraculous &mdash; Magic and Witchcraft</span>"

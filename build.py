@@ -100,6 +100,18 @@ def build_page(src_path: Path, out_path: Path):
     meta, body_md = parse_source(src_path)
     body_html = render_markdown(body_md)
 
+    # The 1865 edition's printer's ornament (redrawn as SVG): above the first
+    # paragraph of a chapter, and again as a tailpiece where the text ends.
+    if meta.get("fleuron"):
+        ornament = env.get_template("fleuron.svg").render()
+        body_html = f'<div class="fleuron-head">{ornament}</div>\n' + body_html
+        tail = f'<div class="fleuron-tail">{ornament}</div>\n'
+        marker = '\n<section class="footnotes"'
+        if marker in body_html:
+            body_html = body_html.replace(marker, "\n" + tail + marker[1:], 1)
+        else:
+            body_html += tail
+
     depth = len(out_path.relative_to(OUT).parts) - 1
     root = "../" * depth
 
