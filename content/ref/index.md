@@ -133,4 +133,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="ayala-de-jure-et-officiis-bellicis.html">Ayala, <em>De jure et officiis bellicis</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Ayala on killing a usurping tyrant (1582), compared with Lecky’s Latin in <em>Rationalism</em>, ch. V, note 68. Verbatim; Ayala’s restriction to usurpers confirms Lecky’s gloss.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="molina-de-iustitia-et-iure.html">Molina, <em>De justitia et jure</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Molina on the two kinds of tyrant (vol. 4, tract. 3, disp. 6), compared with Lecky’s Latin in <em>Rationalism</em>, ch. V, note 67. Lecky’s version is a compressed paraphrase that drops Molina’s qualifications.</div>
+</li>
 </ul>

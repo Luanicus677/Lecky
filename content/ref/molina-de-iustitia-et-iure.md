@@ -1,0 +1,42 @@
+---
+title: Molina, De justitia et jure
+description: "Luis de Molina’s discussion of killing tyrants (De justitia et jure, vol. 4, tract. 3, disp. 6), cited in Chapter V, note 67. Lecky’s Latin is a compressed paraphrase that omits Molina’s qualifications, which are transcribed and translated here."
+heading: Molina, <em>De justitia et jure</em>
+subtitle: "Tract. 3, disputation 6: may a private man kill a tyrant?"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Luis_de_Molina\">Luis de Molina</a> (1535–1600), Spanish Jesuit. Lecky names him with Toletus and Sa as defenders of tyrannicide in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a>."]
+  - ["Edition used", "<em>De justitia et jure</em>, a six-volume set that archive.org dates 1659; volume 4 (<em>De justitia commutativa</em>): <a href=\"https://archive.org/details/rplodouicimolina04moli\">archive.org/details/rplodouicimolina04moli</a>. Printed pp. 539–540 are image <a href=\"https://archive.org/details/rplodouicimolina04moli/page/n27/mode/2up\">n27</a> (a two-page spread). Lecky’s “Comment. Pars IV. tract. iii. disp. 6” corresponds to volume 4, tract. 3, disp. 6; I do not know which edition he used or whether the wording differs in the first edition. The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn67\">Rationalism, ch. V, note 67</a>."]
+  - ["Status", "The passage (pp. 539–540) transcribed from the image, translated and compared with Lecky. The doctrinal paraphrase in Lecky’s text is not checked against Molina’s other works."]
+abstract: |
+  <p>Lecky quotes Molina in note 67 as teaching that it is wrong for a private man to kill a tyrant of the first kind, but that anyone may lawfully kill a tyrant of the second kind. The Latin he prints is a condensation, not a quotation: it joins phrases from two places on p. 539, supplies “eum”, and leaves out three qualifications. Molina allows killing a usurper only if greater evils to the commonwealth would not follow, and only without a higher authority to appeal to; and his rule about a lawful tyrant lets the state, not an individual, act. Lecky’s sense is fair in the main, but the version he gives is stronger than Molina’s.</p>
+---
+<section id="tyrannus" class="passage">
+<h2>The two kinds of tyrant (p. 539–540)</h2>
+<p class="passage-source">Latin: p. 539 (left column, bottom) to p. 540, <a href="https://archive.org/details/rplodouicimolina04moli/page/n27/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: the words Lecky uses.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Quod verò ad secundam attinet, distinguendum est. Quoniam duobus modis aliquis est tyrannus. Uno, quia licet sit vere dominus reipublicæ, in qua tyrannidem exercet, inique tamen atque injustè eam administrat. Altero verò, quoniam non est reipublicæ dominus, sed eam usurpatam habet ac oppressam.</p>
+<p><span class="cited-passage">Tyrannum primo modo nefas est privatis interficere.</span> Posset tamen unusquisque ab eo se defendere, vim vi repellendo cum moderamine inculpatæ tutelæ, eumque interficere; si ita esset opus ad propriam vitam defendendam, quam ille injustè auferre vellet. <span class="cited-passage">Posset item respublica ipsa quo ad capita convenire, eique resistere, lataque sententia, deponere illum ab administratione</span>, si id ita excessus illius, communeque bonum, efflagitarent, <span class="cited-passage">atque illum depositum punire.</span> Ante latam tamen sententiam nefas privatis esset, eum interficere, nisi quando, ut dictum est, necessarium omnino esset ad vitæ defensionem, quam injustè vellet auferre. …</p>
+<p><span class="cited-passage">Tyrannum verò secundo modo quivis de republica potest licitè interficere</span>, nisi ex ea interfectione majora mala reipublicæ imminerent: nam tunc contra reipublicæ caritatem peccaret illum interficiendo: aut nisi, qui illum vellet interficere, haberet superiorem, ad quem recurrere deberet, &amp; cujus auctoritate id efficere deberet. …</p>
+</div>
+<div class="rendering" lang="en">
+<p>As to the second part, a distinction must be made. For a man is a tyrant in two ways. In the first, because though he is truly lord of the commonwealth in which he exercises tyranny, he governs it wrongly and unjustly. In the second, because he is not lord of the commonwealth but holds it usurped and oppressed.</p>
+<p><span class="cited-passage">It is unlawful for private persons to kill a tyrant of the first kind.</span> Yet anyone could defend himself against him, repelling force with force with the moderation of blameless defence, and kill him, if that were necessary to defend his own life, which he wished to take unjustly. <span class="cited-passage">The commonwealth itself could also come together by its heads, and resist him, and by sentence depose him from the administration</span>, if his excesses and the common good so required, <span class="cited-passage">and punish him once deposed.</span> Before the sentence it would, however, be unlawful for private persons to kill him, except when, as has been said, it was altogether necessary to defend the life he wished to take unjustly. …</p>
+<p><span class="cited-passage">But a tyrant of the second kind any member of the commonwealth may lawfully kill</span>, unless greater evils for the commonwealth would threaten from the killing, for then by killing him he would sin against love of the commonwealth; or unless the man who wanted to kill him had a superior to whom he ought to have recourse, and by whose authority he ought to do it. …</p>
+</div>
+</div>
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th></th><th>Lecky, 1865 (note 67)</th><th>Molina</th></tr></thead>
+<tbody>
+<tr><td>First kind</td><td lang="la">Tyrannum primo modo nefas est privatis interficere; possit tamen respublica quoad capita convenire, eique resistere, lataque sententia deponere ab administratione atque illum depositum punire.</td><td lang="la">Tyrannum primo modo nefas est privatis interficere. Posset tamen unusquisque ab eo se defendere … Posset item respublica ipsa quo ad capita convenire, eique resistere, lataque sententia, deponere illum ab administratione, si id ita excessus illius, communeque bonum, efflagitarent, atque illum depositum punire.</td></tr>
+<tr><td>Second kind</td><td lang="la">Secundo modo tyrannum quivis de republica potest licite eum interficere.</td><td lang="la">Tyrannum verò secundo modo quivis de republica potest licitè interficere, nisi … (two exceptions, above)</td></tr>
+</tbody>
+</table>
+</div>
+<p>What Lecky leaves out: (1) the right of self-defence against the first kind of tyrant; (2) the condition “si id ita excessus illius, communeque bonum, efflagitarent” for deposition; (3) both exceptions to killing a usurper; and (4) Molina’s later citation of Aquinas and of Caesar’s killing as approved, which is not Lecky’s point. He also writes “licite eum interficere”, where the print has “licitè interficere” without “eum”. In his text Lecky says only that Molina “expressed the same opinion with still greater emphasis” as Sa. On the evidence of this page the emphasis is not greater than Sa’s; I have not read Sa.</p>
+</section>

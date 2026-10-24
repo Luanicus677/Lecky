@@ -362,7 +362,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^66]: 'Tyrannice gubernans juste acquisitum dominium non potest spoliari sine publico judicio; lata vero sententia potest quisque fieri executor: potest autem deponi a populo etiam qui juravit ei obedientiam perpetuam si monitus non vult corrigi. At occupantem tyrannice potestatem quisque de populo potest occidere si aliud non sit remedium est enim publicus hostis.' (Aphorism. Confessariorum, verb. Tyrannus.)
 
-[^67]: 'Tyrannum primo modo nefas est privatis interficere; possit tamen respublica quoad capita convenire, eique resistere, lataque sententia deponere ab administratione atque illum depositum punire. Secundo modo tyrannum quivis de republica potest licite eum interficere.' (Comment. Pars IV. tract. iii. disp. 6.)
+[^67]: 'Tyrannum primo modo nefas est privatis interficere; possit tamen respublica quoad capita convenire, eique resistere, lataque sententia deponere ab administratione atque illum depositum punire. Secundo modo tyrannum quivis de republica potest licite eum interficere.' (Comment. Pars IV. tract. iii. disp. 6.) (<a class="popup-ref" href="../ref/molina-de-iustitia-et-iure.html#tyrannus">source page</a>)
 
 [^68]: 'Tyrannum qui per vim et illegitime principatum occupavit, si tyrannis aliter tolli non possit, occidere cuilibet licitum sit.' (De Jure et Officiis bellicis, lib. i.) (<a class="popup-ref" href="../ref/ayala-de-jure-et-officiis-bellicis.html#usurper">source page</a>)
 

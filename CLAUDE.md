@@ -103,6 +103,8 @@ Notes for continuing:
 
 - Also Vol. II: `ayala-de-jure-et-officiis-bellicis.md` (Carnegie 1912 reprint of the 1582 text, `dejureetofficiis01ayaluoft`, image n91; ch. V note 68; verbatim; page number and chapter not read). Note: new source-page front matter with a colon in `subtitle:` must be quoted (YAML).
 
+- Also Vol. II: `molina-de-iustitia-et-iure.md` (vol. 4 `rplodouicimolina04moli`, pp. 539-540 = image n27; ch. V note 67; Lecky's Latin is a compressed paraphrase omitting Molina's qualifications). Toletus and Sa (notes 65-66) still not done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
