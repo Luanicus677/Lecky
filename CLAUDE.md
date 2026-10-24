@@ -135,6 +135,8 @@ Notes for continuing:
 
 - Also: `hogarth-memoirs-of-the-opera.md` (vol. i 1851 `memoirsoperaini00hogagoog`, image = page+16: p. 7 = n23, p. 8 = n24, p. 28 = n44; ch. VI notes 131, 148). Lulli: matches (Hogarth adds the 'I have got a copy' sequel). Politian: no Cardinal Gonzaga on pp. 7-8 (Lecky's detail presumably from Roscoe ch. v). p. 6 not read. Riccoboni 1728 (`histoiredutheatr00ricc`): printed p. 55 = n110, so pagination does NOT match Lecky's tom. i p. 89 (Cecchino): Lecky used another edition (probably 1731); Cecchini/Frittellino at about n63. Not done: Riccoboni notes 112, 123, 129, 132.
 
+- Also: `maury-la-magie-et-lastrologie.md` (Didier 1860 `BSG_8R428_3INV2303FA`, image = page+11; OCR page headers in this scan are unreliable, read page numbers on images: p. 117 = n128, 118 = n129, 221 = n232, 317 = n328; vol1-ch1 notes 20, 29, 92, 93). Lecky's quotations match (slip 'leur dépouiller' for 'les'; 'ce que' for 'ce qui' in note 93; note 20's 'religious exercise'/'inhaled' is not on p. 317). Maury also footnotes 'Cod. Theodos. IX.16 l.4 p. 128 t. III ed. Ritter' (same edition as our Codex page). Unchecked Maury notes: ch. I notes 13, 15 (pp. 78-85), 16, 25, 33 (pp. 118-119), 36, 49 (p. 185), 94 (p. 219); Légendes pieuses (ch. I note 52; ch. II note 3; ch. III notes 16, 17, 113, 168, 169) and Croyances et légendes (ch. III note 23, ch. IV note 37) are DIFFERENT books, not found yet.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
