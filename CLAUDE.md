@@ -109,6 +109,8 @@ Notes for continuing:
 
 - Also: `lebrun-discours-sur-la-comedie.md` (1731 ed. `discourssurlacom00lebr`, p. 259 = n312 = page+53; ch. VI note 143) and `montaigne-essais-ii-12.md` (Courbet-Royer 1900 vol. 3 `19essaispublis03montuoft`, p. 179 = n192; ch. V note 117; Lecky reads 'imprudence', text 'impudence'). Still undone Latin/French notes: Hobbes Leviathan (V.118), Rousseau Contrat social IV.8 (IV.81), Beza/Castellio (IV.68-70, 73), Jurieu (IV.62-63), Bossuet Variations (IV.75), Eymericus (IV.40-42), Farinacius (IV.43), Ventura (V.28), Sarpi (V.11), Bianchi French (V.131), ch. VI Leo X bull/Augustine sermon/Turgot (notes 27, 36, 49, 57).
 
+- Also: `rousseau-contrat-social-iv-8.md` (1903 critical ed. `ducontratsocialt00rous`, pp. 331-333 = n334-n336 = page+3; vol2-ch4 note 81; Lecky's French has older spelling and 'tous les religions'). `eymericus-directorium-inquisitorum.md` (BSB copy `10488917bsb`, Pegna commentary, catalogued 1607, image = page+35; p. 516 anecdote n551, p. 481 torture n516, sentence n555 ~p. 520; vol2-ch4 notes 40-42; Lecky's quotation of note 40 stops at 'nescio' and omits the 14-year sequel; the opening 'Si quaestionatus decenter noluerit...' of note 41 not found there). Remaining undone: Farinacius (43), Paramo, Beza/Castellio (68-70, 73), Jurieu (62-63), Bossuet Variations (75), Hobbes (V.118), Ventura, Sarpi, Bianchi French, ch. VI notes 27, 36, 49, 57.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
