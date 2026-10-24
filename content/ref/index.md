@@ -266,7 +266,7 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The false title page of 1686 and Part II chapter IV (p. 295), cited in ch. IV (cont.), notes 7 and 76.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="bayle-dictionnaire.html">Bayle, <em>Dictionnaire historique et critique</em></a><span class="work-status">2 passages</span></div>
-<div class="work-desc">Remark H of “Augustin” (the Walloon synod of Amsterdam, 1690) and remark C of “Socin” (Socinus against armed resistance and the Dutch revolt), cited in ch. IV (cont.) note 55 and ch. V note 133. Both accurate; some detail of Lecky’s is not on the page.</div>
+<div class="work-title"><a class="popup-ref" href="bayle-dictionnaire.html">Bayle, <em>Dictionnaire historique et critique</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Remark H of “Augustin” (the Walloon synod of Amsterdam, 1690) and remark C of “Socin” (Socinus against armed resistance and the Dutch revolt), and Mahomet Efendi from the <em>Pensées diverses</em> (§ 182), cited in ch. IV (cont.) note 55, ch. V note 133 and ch. VI note 187. Accurate; some detail of Lecky’s is not on the page.</div>
 </li>
 </ul>

@@ -598,7 +598,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^186]: Perin, La Richesse dans Us Societes Chretiennes.
 
-[^187]: Mahomet Effendi. See Bayle, Pensces Diverses, § 182.
+[^187]: Mahomet Effendi. See Bayle, Pensces Diverses, § 182. <a class="popup-ref" href="../ref/bayle-dictionnaire.html#mahomet-efendi">source page</a>
 
 [^188]: As Madame de Staël said, 'La morale fondée sur l'intérêt, si fortement prêchée par les écrivains français du dernier siècle, est dans une connexion intime avec la metaphysique, qui attribue toutes nos idees a des sensations' (L'Allemagne). I believe all who are conversant with the history of philosophy will acknowledge this to be profoundly true.
 

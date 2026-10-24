@@ -157,7 +157,7 @@ Notes for continuing:
 
 - Also: `bayle-commentaire-philosophique.md` (1686 ed.: vol. 1 `commentairephilo01bayl` title page = n2; vol. 2 `commentairephilo02bayl` p. 295 = n110 = Part II ch. IV 'Quatrième objection' (Mosaic law); ch. IV pt II notes 7, 76; rest of ch. IV not read). Still undone Bayle: Dictionnaire art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187); Bayle's Contrains-les d'entrer is vol. 1-2 of 3 in these scans; also `suplementducomme00bayl`.
 
-- Also: `bayle-dictionnaire.md` (Beuchot 1820: 'Augustin' remark H p. 557 = n566 in tome 2 `dictionnairehist02bayl` (image = page+9); 'Socin' remark C pp. 351-352 = n358-n359 in `bub_gb_RucOAAAAQAAJ` (tome not read); ch. IV pt II note 55, ch. V note 133). Lecky's synod description ('partly Dutch, partly French and English') differs from Bayle (Walloon churches, refugee ministers); Socinus 'dissolution of society' prediction not on the pages. Not done: Pensées diverses §182 (ch. VI note 187), Dict. in ch. III note 117 (no article named).
+- Also: `bayle-dictionnaire.md` (Beuchot 1820: 'Augustin' remark H p. 557 = n566 in tome 2 `dictionnairehist02bayl` (image = page+9); 'Socin' remark C pp. 351-352 = n358-n359 in `bub_gb_RucOAAAAQAAJ` (tome not read); ch. IV pt II note 55, ch. V note 133). Lecky's synod description ('partly Dutch, partly French and English') differs from Bayle (Walloon churches, refugee ministers); Socinus 'dissolution of society' prediction not on the pages. Pensées diverses §182 also done (pensesdiverse02bayl, p. 378 = n73; ch. VI note 187). Not done: Dict. in ch. III note 117 (no article named).
 
 ## Build, test, deploy
 
