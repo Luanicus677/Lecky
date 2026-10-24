@@ -77,17 +77,18 @@
 }
 
 :root {
-  --bg: #fdfdfb;
-  --fg: #111110;
-  --fg-muted: #5a5a56;
-  --fg-faint: #8a8a84;
-  --border: #d9d9d3;
-  --border-strong: #b6b6ae;
-  --sidenote-bg: #f4f4ef;
-  --code-bg: #f2f2ec;
-  --link: #111110;
-  --link-underline: #b6b6ae;
-  --selection: #d9d9d3;
+  /* gwern.net's greyscale palette (its --GW-* colour variables) */
+  --bg: #fff;
+  --fg: #000;
+  --fg-muted: #555;
+  --fg-faint: #888;
+  --border: #ccc;
+  --border-strong: #aaa;
+  --sidenote-bg: #f8f8f8;
+  --code-bg: #f8f8f8;
+  --link: #333;
+  --link-underline: #aaa;
+  --selection: #ccc;
   --measure: 42.5em;
   --font-serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype",
     Palatino, "Book Antiqua", Georgia, serif;
@@ -96,31 +97,31 @@
 }
 
 :root[data-theme="dark"] {
-  --bg: #161614;
-  --fg: #e6e6e1;
-  --fg-muted: #a3a39c;
-  --fg-faint: #7a7a73;
-  --border: #322;
-  --border-strong: #46463d;
-  --sidenote-bg: #1e1e1a;
-  --code-bg: #1e1e1a;
-  --link: #e6e6e1;
-  --link-underline: #5a5a52;
-  --selection: #3a3a32;
+  --bg: #000;
+  --fg: #fff;
+  --fg-muted: #b4b4b4;
+  --fg-faint: #8a8a8a;
+  --border: #5c5c5c;
+  --border-strong: #6c6c6c;
+  --sidenote-bg: #212121;
+  --code-bg: #212121;
+  --link: #dcdcdc;
+  --link-underline: #6c6c6c;
+  --selection: #444;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #161614;
-    --fg: #e6e6e1;
-    --fg-muted: #a3a39c;
-    --fg-faint: #7a7a73;
-    --border: #322;
-    --border-strong: #46463d;
-    --sidenote-bg: #1e1e1a;
-    --code-bg: #1e1e1a;
-    --link: #e6e6e1;
-    --link-underline: #5a5a52;
-    --selection: #3a3a32;
+    --bg: #000;
+    --fg: #fff;
+    --fg-muted: #b4b4b4;
+    --fg-faint: #8a8a8a;
+    --border: #5c5c5c;
+    --border-strong: #6c6c6c;
+    --sidenote-bg: #212121;
+    --code-bg: #212121;
+    --link: #dcdcdc;
+    --link-underline: #6c6c6c;
+    --selection: #444;
   }
 }
 
