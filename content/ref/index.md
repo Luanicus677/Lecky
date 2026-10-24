@@ -301,4 +301,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="palmer-treatise-on-the-church.html">Palmer, <em>Treatise on the Church of Christ</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Salvation in the Church only”: the Fathers and the synod of Zerta (vol. 1, p. 12), cited in ch. IV, notes 19, 21, 26. Lecky’s English matches; his page is 13.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="cudworth-mosheim-note-on-the-soul.html">Mosheim’s note to Cudworth on the soul</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Fathers on the corporeity of the soul (Harrison’s Cudworth, vol. 3, p. 325), quoted at length in ch. III, note 164. Accurate; page matches.</div>
+</li>
 </ul>

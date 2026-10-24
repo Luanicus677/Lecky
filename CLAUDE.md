@@ -174,6 +174,8 @@ Notes for continuing:
 
 - Also: `palmer-treatise-on-the-church.md` (1842 vol. 1 `treatiseonchurch01palmiala`, p. 12 = n39 = page+27; Zerta + Fathers; ch. IV notes 19, 21, 26; Lecky says p. 13). Palmer cites Fulgentius De remissione peccatorum i. 22 (maybe Lecky's '§ 22'). pp. 11, 13 unread. Also scans for Neander Dogmas (`neandershistory01neanuoft`), Cudworth/Mosheim (`trueintellectual03cudwuoft`) not used yet.
 
+- Also: `cudworth-mosheim-note-on-the-soul.md` (Harrison's Cudworth vol. 3 = `trueintellectua00moshgoog`, p. 325 = n334 = page+9; ch. III note 164; matches). Hallam half of note 164 done earlier. Neander Dogmas `neandershistory01neanuoft` (ch. IV notes 16-17) searched for Zwingli: no hit yet.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
