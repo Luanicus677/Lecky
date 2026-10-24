@@ -289,4 +289,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="fulgentius-de-fide-ad-petrum.html">Fulgentius, <em>De fide ad Petrum</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Unbaptised infants in eternal fire (c. 27) and no salvation outside the Church, even by martyrdom (cc. 38–39), quoted in ch. IV, notes 8 and 20. Lecky’s section numbers do not match this edition’s chapters.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="marangoni-cose-gentilesche.html">Marangoni, <em>Delle cose gentilesche e profane</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Orpheus as a symbol of the Divine Word, with Eusebius (p. 45), behind ch. III, note 10; Lecky’s p. 45 in notes 11 and 13 is not on that page.</div>
+</li>
 </ul>
