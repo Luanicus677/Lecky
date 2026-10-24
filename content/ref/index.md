@@ -270,8 +270,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Remark H of “Augustin” (the Walloon synod of Amsterdam, 1690) and remark C of “Socin” (Socinus against armed resistance and the Dutch revolt), and Mahomet Efendi from the <em>Pensées diverses</em> (§ 182), cited in ch. IV (cont.) note 55, ch. V note 133 and ch. VI note 187. Accurate; some detail of Lecky’s is not on the page.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="hallam-literature-and-constitutional-history.html">Hallam, <em>Literature of Europe</em> and <em>Constitutional History</em></a><span class="work-status">3 passages</span></div>
-<div class="work-desc">“The simple proposition” on burning heretics and “Persecution is the deadly original sin of the reformed churches” (ch. IV cont., note 74), and the Fathers on the corporeity of the soul (ch. III, note 164). All accurate with small changes.</div>
+<div class="work-title"><a class="popup-ref" href="hallam-literature-and-constitutional-history.html">Hallam, <em>Literature of Europe</em> and <em>Constitutional History</em></a><span class="work-status">4 passages</span></div>
+<div class="work-desc">“The simple proposition” on burning heretics and “Persecution is the deadly original sin of the reformed churches” (ch. IV cont., note 74), the Fathers on the corporeity of the soul (ch. III, note 164) and Mariana’s “eternal glory of France” (ch. V, note 50). All accurate with small changes.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="sprat-history-of-the-royal-society.html">Sprat, <em>History of the Royal Society</em></a><span class="work-status">1 passage</span></div>

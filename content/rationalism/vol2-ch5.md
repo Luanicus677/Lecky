@@ -328,7 +328,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^49]: Ibid. lib. i. ch. vi. 'An tyrannum opprimere fas sit? '
 
-[^50]: P. 69. Mr. Hallam observes that the words 'æternum Galliæ decus' were omitted in the later editions, which, however, in other respects scarcely differed from the first. (Hist. of Lit,}
+[^50]: P. 69. Mr. Hallam observes that the words 'æternum Galliæ decus' were omitted in the later editions, which, however, in other respects scarcely differed from the first. (Hist. of Lit,} <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#mariana-197">source page</a>
 
 [^51]: P. 72.
 
