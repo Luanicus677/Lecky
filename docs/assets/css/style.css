@@ -154,9 +154,7 @@ a.popup-ref { text-decoration-style: dotted; cursor: help; }
 /* ---------- layout ---------- */
 
 .site-header {
-  border-bottom: 1px solid var(--border);
-  padding: 1.1rem 1.5rem;
-  font-family: var(--font-sans);
+  padding: 1.4rem 1.5rem 0;
 }
 
 #floating-header {
@@ -178,7 +176,7 @@ a.popup-ref { text-decoration-style: dotted; cursor: help; }
   transition: transform 0.2s ease;
 }
 #floating-header.visible { transform: translateY(0); }
-#floating-header .site-mark { width: 1.1em; height: 1.1em; flex-shrink: 0; }
+#floating-header .site-mark { font-size: 1.5em; line-height: 1; flex-shrink: 0; }
 #floating-header .floating-title {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -193,49 +191,61 @@ a.popup-ref { text-decoration-style: dotted; cursor: help; }
   white-space: nowrap;
   font-style: italic;
 }
+/* gwern.net header: a large blackletter logo and the links as a joined row of
+   bordered small-caps buttons (a dotted-box grid on phones). */
 .site-header nav {
-  max-width: 1200px;
+  max-width: var(--measure);
   margin: 0 auto;
   display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1.5rem;
-}
-.site-header .site-title {
-  display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  font-weight: 700;
-  font-size: 1.02rem;
-  letter-spacing: 0.02em;
-  text-decoration: none;
+  justify-content: center;
+  gap: 1.2rem;
 }
-.site-header .site-mark {
-  width: 1.3em;
-  height: 1.3em;
+.site-header .logo { text-decoration: none; background: none; line-height: 1; }
+.site-mark {
+  font-family: "UnifrakturMaguntia", var(--font-serif);
+  font-weight: 400;
   color: var(--fg-muted);
-  flex-shrink: 0;
 }
-.site-header .site-links { display: flex; gap: 1.4rem; font-size: 0.92rem; }
-@media (max-width: 640px) {
-  .site-header { padding: 0.9rem 1rem; }
-  .site-header nav { flex-wrap: wrap; gap: 0.5rem 1rem; }
-  .site-header .site-links { flex-wrap: wrap; gap: 0.4rem 1rem; }
-}
-.site-header .site-links a { text-decoration: none; color: var(--fg-muted); }
-.site-header .site-links a:hover { color: var(--fg); text-decoration: underline; }
-
-#theme-toggle {
-  background: none;
+.site-header .site-mark { font-size: 3.6rem; display: block; line-height: 0.9; }
+.site-header .logo:hover .site-mark { color: var(--fg); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.site-header .site-links { display: flex; font-family: var(--font-serif); }
+.site-header .site-links > * {
   border: 1px solid var(--border-strong);
-  color: var(--fg-muted);
-  border-radius: 2px;
-  font-family: inherit;
-  font-size: 0.8rem;
-  padding: 0.15rem 0.5rem;
-  cursor: pointer;
+  margin-left: -1px;
+  padding: 0.3em 1em 0.35em;
+  font-size: 1.05rem;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.03em;
+  color: var(--fg);
+  text-decoration: none;
+  background: none;
 }
-#theme-toggle:hover { color: var(--fg); }
+.site-header .site-links > a:hover { background: var(--sidenote-bg); }
+#theme-toggle {
+  font-family: var(--font-serif);
+  cursor: pointer;
+  border-radius: 0;
+}
+#theme-toggle:hover { background: var(--sidenote-bg); }
+@media (max-width: 649px) {
+  .site-header { padding: 0.9rem 1rem 0; }
+  .site-header nav { gap: 0.8rem; }
+  .site-header .site-mark { font-size: 3.2rem; }
+  .site-header .site-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2.4em;
+    flex: 1;
+  }
+  .site-header .site-links > * {
+    border-style: dotted;
+    margin: 0 -1px -1px 0;
+    text-align: center;
+    padding: 0.35em 0.3em;
+  }
+  .site-header #theme-toggle { grid-column: 3; grid-row: 1 / span 2; }
+}
 
 main.article {
   max-width: 1200px;
