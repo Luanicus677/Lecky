@@ -316,7 +316,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^45]: Ibid. This Council is reckoned a general one by the Catholics.
 
-[^46]: Ibid. The Council of Vienna, presided over by Clement V., pronounced it to be heretical to justify usury: 'Sane si quis in istum errorem inciderit, ut pertinaciter affirmare præsumat exercere usuras non esse peccatum, decernimus eum velut hæreticum puniendum.' (Conférences sur l'Usure, tom. i. p. 93.)
+[^46]: Ibid. The Council of Vienna, presided over by Clement V., pronounced it to be heretical to justify usury: 'Sane si quis in istum errorem inciderit, ut pertinaciter affirmare præsumat exercere usuras non esse peccatum, decernimus eum velut hæreticum puniendum.' (Conférences sur l'Usure, tom. i. p. 93.) <a class="popup-ref" href="../ref/clementinae-ex-gravi.html#ex-gravi">source page</a>
 
 [^47]: According to Concina, usury has been condemned by twentyeight Councils (six of them regarded by the Church of Rome as general), and by seventeen popes (Adversus Usuram, pp. 112-113).
 

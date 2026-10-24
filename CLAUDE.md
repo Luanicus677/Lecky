@@ -123,6 +123,8 @@ Notes for continuing:
 
 - Also: `ventura-le-pouvoir-politique-chretien.md` (`lepouvoirpolitiq00vent`, p. 139 = n174 = page+35; ch. V note 28) and `llorente-histoire-de-linquisition.md` (French ed. 1817-18: tom. i `bub_gb_6rkHAAAAQAAJ`, pp. 273-275 = n330-n332; tom. iv `histoirecritiqu04llor`, p. 271 = n282 = page+11; vol2-ch4 note 37). Llorente: Lecky's totals match (31,912 burnt; 291,450 penanced); Lecky says Mariana's 2,000 burnt were in 'Andalusia', Llorente says Seville; the inscription's Latin has 'fere millia', Llorente's French 'plus de mille', Lecky 'nearly 1,000'. Tom. iv p. 272 and tom. i p. 272 not read.
 
+- Also: `clementinae-ex-gravi.md` (Friedberg Corpus iuris canonici vol. 2, `BD1141952`, cols. 1183-1184 = n627; Clem. V.5 § 2; ch. VI note 46; Lecky 'istum' for 'illum'; title page not read). The Corpus of 1879 `bub_gb_sfwfAQAAMAAJ` is vol. 1 (Decretum). Lamet & Fromageau's French Dictionnaire (1733; ch. VI notes 28, 31, 139) and the Conférences sur l'usure NOT found online (archive search returns only Pontas).
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
