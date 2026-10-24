@@ -635,7 +635,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^168]: See on this subject Maury, *Légendes Pieuses*, pp. 125–127.
 
-[^169]: Maury, *Légendes Pieuses*, p. 124. There is an example of this in the *Triumph of Death*, by Orgagna, at Pisa. In the Greek churches the souls of the blest were sometimes represented as little children clasped in the mighty hand of God. (Didron, *Iconographie*, p. 216.)
+[^169]: Maury, *Légendes Pieuses*, p. 124. There is an example of this in the *Triumph of Death*, by Orgagna, at Pisa. In the Greek churches the souls of the blest were sometimes represented as little children clasped in the mighty hand of God. (Didron, *Iconographie*, p. 216.) <a class="popup-ref" href="../ref/didron-iconographie-chretienne.html#ames-main-de-dieu">source page</a>
 
 [^170]: Schelling.
 

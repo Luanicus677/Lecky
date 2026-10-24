@@ -2,15 +2,15 @@
 title: Didron, Iconographie chrétienne
 description: "Adolphe Napoléon Didron’s Iconographie chrétienne: Histoire de Dieu (1843), p. 262, the passage on the stern Christ from the twelfth century (“Rex tremendae majestatis”), which Lecky translates in Chapter I, note 52."
 heading: Didron, <em>Iconographie chrétienne</em>
-subtitle: "The Christ of the Last Judgment (p. 262)"
+subtitle: "The Christ of the Last Judgment (p. 262) and the souls in God’s hand (p. 216)"
 back_link:
   url: index.html
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Adolphe_Napol%C3%A9on_Didron\">Adolphe Napoléon Didron</a> (1806–1867), <em>Iconographie chrétienne. Histoire de Dieu</em> (Paris, Imprimerie royale, 1843). Lecky calls it “one of the most important contributions ever made to Christian archaeology” (<a href=\"../rationalism/vol1-ch3.html#fn17\">Chapter III, note 17</a>) and quotes it in <a href=\"../rationalism/vol1-ch1.html#fn52\">Chapter I, note 52</a>."]
   - ["Edition used", "Internet Archive <a href=\"https://archive.org/details/iconographiechr02didruoft\">iconographiechr02didruoft</a> (a Toronto copy). Printed p. 262 is image <a href=\"https://archive.org/details/iconographiechr02didruoft/page/n273/mode/2up\">n273</a> (image = page + 11); p. 261 is n272. Lecky’s page number matches. The translation is this edition’s own draft."]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn52\">Rationalism, ch. I, note 52</a>."]
-  - ["Status", "One page transcribed from the image and compared with Lecky’s English. Lecky’s other Didron citations (ch. III notes 17 and 169, p. 216; ch. I note 52’s “pp. 255–273”) are not checked."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn52\">Rationalism, ch. I, note 52</a> and <a href=\"../rationalism/vol1-ch3.html#fn169\">ch. III, note 169</a>."]
+  - ["Status", "Two pages transcribed from the images (pp. 262 and 216) and compared with Lecky’s English. Lecky’s other Didron citations (ch. III note 17; the “pp. 255–273” of ch. I note 52) are not checked."]
 abstract: |
   <p>Lecky gives, in quotation marks, as a translation of Didron: “Christ appears more and more melancholy, and often truly terrible. It is, indeed, the <em>rex tremendæ majestatis</em> of our <em>Dies iræ</em>. It is almost the God of the Jews making fear the beginning of wisdom.” The substance is on p. 262, but the English is a free rendering, not a literal one: Didron has “Jésus s’attriste davantage et se montre surtout à sa passion et au dernier jugement. Alors il est vraiment redoutable”. Lecky’s “often truly terrible” turns “at his Passion and the Last Judgment” into “often”; the sentence about the Last Judgment is Didron’s main point.</p>
 ---
@@ -28,4 +28,20 @@ abstract: |
 </div>
 </div>
 <p>Collation with Lecky’s note 52: “‘Christ appears more and more melancholy, and often truly terrible. It is, indeed, the <em>rex tremendæ majestatis</em> of our <em>Dies iræ</em>. It is almost the God of the Jews making fear the beginning of wisdom.’” Lecky renders “Jésus s’attriste davantage” as “Christ appears more and more melancholy” and drops “de plus en plus rares”, “à sa passion et au dernier jugement”; “truly terrible” is Didron’s “vraiment redoutable” (“redoubtable”, “fearsome”), and “often” is Lecky’s. Lecky’s sentence introducing the quotation (“About the twelfth century, this change became almost universal”) is consistent with “à partir du XII<sup>e</sup> siècle, ces exceptions deviennent de plus en plus rares”, a little stronger. The preceding page (p. 261) tells, from Orderic Vitalis, the story of two knights’ dreams, one of a terrible and one of a smiling Christ on the cross; Lecky does not use it.</p>
+</section>
+
+<section id="ames-main-de-dieu" class="passage">
+<h2>The souls of the just in the hand of God (p. 216)</h2>
+<p class="passage-source">French: p. 216, <a href="https://archive.org/details/iconographiechr02didruoft/page/n227/mode/2up">scan</a>, with the engraving no. 56.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… Enfin tous ces textes de l’Ancien et du Nouveau Testament semblent se résumer dans ce motif que <span class="cited-passage">la peinture des églises grecques offre si fréquemment, et qui représente les âmes des justes, petits êtres humains nus, priant à mains jointes, dans la grande main de Dieu</span>. Cette main sort des nuages ; après avoir été prendre sur la terre ces âmes des justes, elle les remonte au ciel, dans le paradis².</p>
+<p><small>56. — Les âmes des justes dans la main de Dieu. Fresque grecque du XVIII<sup>e</sup> siècle. … ² Ce dessin est tiré d’une fresque de Salamine, qui est dans l’église du grand couvent. « Animæ justorum in dextra Domini. » — Ces peintures de l’église principale du grand couvent de Salamine nous ont fourni plusieurs dessins, bien qu’elles datent seulement de 1735 …</small></p>
+</div>
+<div class="rendering" lang="en">
+<p>… Finally, all these texts of the Old and New Testament seem to sum themselves up in this motif, <span class="cited-passage">which the painting of the Greek churches offers so frequently, and which represents the souls of the just, little naked human beings, praying with joined hands, in the great hand of God</span>. This hand comes out of the clouds; after having gone to take these souls of the just from the earth, it lifts them back to heaven, into paradise².</p>
+<p><small>56. — The souls of the just in the hand of God. Greek fresco of the eighteenth century. … ² This drawing is taken from a fresco at Salamis, which is in the church of the great convent. “The souls of the just are in the hand of the Lord.” — These paintings of the principal church of the great convent of Salamis have supplied us with several drawings, although they date only from 1735 …</small></p>
+</div>
+</div>
+<p>Lecky’s note 169 (chapter III): “In the Greek churches the souls of the blest were sometimes represented as little children clasped in the mighty hand of God. (Didron, <em>Iconographie</em>, p. 216.)” Didron says “petits êtres humains nus, priant à mains jointes” (little naked human beings, praying with joined hands), not “children”, and says the motif is frequent, not occasional; and the engraving he gives is from an eighteenth-century (1735) fresco, though he explains that Greek art had stood still since the eleventh or twelfth century. “Clasped” is Lecky’s; Didron’s hand takes them up to heaven.</p>
 </section>
