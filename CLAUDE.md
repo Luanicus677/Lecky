@@ -186,6 +186,8 @@ Notes for continuing:
 
 - Also: `pitcairn-ancient-criminal-trials-of-scotland.md` (vol. 3 `ancientcrim43pt203pitcuoft`, p. 598 = n249 = page-349; ch. I notes 149, 162). Note 162's Earl of Mar is not on p. 598.
 
+- Also: `glanvill-saducismus-triumphatus.md` (1700 ed. `bim_early-english-books-1641-1700_saducismus-triumphatus_glanvill-joseph_1700`, Preface n49-n50, unnumbered; ch. I note 122). Other editions: 1689 `..._saducismus-triumphatus-_glanvill-joseph_1689` (OCR poorer), `b30514472` (1726). Other Glanvil notes (113, 118-121, Plus Ultra) not done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
