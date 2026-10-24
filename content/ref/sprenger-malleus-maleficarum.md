@@ -248,3 +248,11 @@ abstract: |
 
 <p>Lecky has turned the inquisitors’ complaint about incautious preachers into a condemnation by the Cologne doctors of a “rebellion”. The facts of the preachers’ statement are right; the framing and the doctors’ part are his own.</p>
 </section>
+
+<section id="further-reading">
+<h2>Further reading</h2>
+<blockquote>
+<p>“The book has three parts. Part 1 is basically <em>Summa Theologica</em>, except all the questions are about witches. Part 2 is basically the <em>DSM 5</em>, except every condition is witchcraft. Part 3 is a manual for judges presiding over witch trials.”</p>
+</blockquote>
+<p>Scott Alexander, “<a href="https://www.astralcodexten.com/p/book-review-malleus-maleficarum">Book Review: Malleus Maleficarum</a>”, <em>Astral Codex Ten</em>. A modern reader’s review of the whole book, including the question it ends on: why a whole civilisation spent three centuries killing people over a threat that did not exist. It is a popular essay, not a scholarly edition, and I have not checked its quotations from the <em>Malleus</em> against the Lyon 1620 text used on this page.</p>
+</section>
