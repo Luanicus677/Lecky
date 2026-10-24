@@ -494,7 +494,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^132]: See, for some striking evidence of these sentiments, the Discours par un Ministre Patriote sur le projet d'accorder l'état civil aux Protestants, by the Abbé de L'Enfert (Paris, 1787).
 
-[^133]: Bayle, Diet., art. Faustus Socinus, Remarque c.
+[^133]: Bayle, Diet., art. Faustus Socinus, Remarque c. <a class="popup-ref" href="../ref/bayle-dictionnaire.html#socin-c">source page</a>
 
 [^134]: La Sagesse, p. iii.
 

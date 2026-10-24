@@ -208,7 +208,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^54]: Temple, On the United Provinces.
 
-[^55]: Bayle, art. Augustine, note H. See too, on the general intolerance of the Dutch clergy, Hallam, Hist, of Lit., vol. iii. p. 289.
+[^55]: Bayle, art. Augustine, note H. <a class="popup-ref" href="../ref/bayle-dictionnaire.html#augustin-h">source page</a> See too, on the general intolerance of the Dutch clergy, Hallam, Hist, of Lit., vol. iii. p. 289.
 
 [^56]: Biog. Univ., art. Descartes; Voltaire (Lettres Philosopliiques, xiv.). Considering the writings of Descartes, this is perhaps the most preposterous accusation ever brought against a philosopher, if we except one of which Linnaeus was the victim. Some good people in Sweden desired, it is said, to have his system of botany suppressed, because it was based upon the discovery of the sexes of the plants, and was therefore calculated to inflame the minds of youth. (Gioja, Philosqfia della Statistica, torn. ii. p. 389.)
 
