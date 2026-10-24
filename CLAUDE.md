@@ -121,6 +121,8 @@ Notes for continuing:
 
 - Also (24 Oct run): `hallam-middle-ages.md` (1822 vol. 1 `stateofeuropedur01hall`, p. 221 = n244 = page+23; ch. VI note 19), `augustine-enarratio-psalm-36.md` (PL 36 `..._1845_36`, image n192; col. not read; ch. VI note 27), `turgot-memoire-sur-les-prets-dargent.md` (Schelle Oeuvres vol. 3 `turgot-oc-3`, p. 168 = n168; ch. VI note 30; § 29 not confirmed). Ch. VI notes done so far: 19, 27, 30, 147, 150, 167 + earlier 143.
 
+- Also: `ventura-le-pouvoir-politique-chretien.md` (`lepouvoirpolitiq00vent`, p. 139 = n174 = page+35; ch. V note 28) and `llorente-histoire-de-linquisition.md` (French ed. 1817-18: tom. i `bub_gb_6rkHAAAAQAAJ`, pp. 273-275 = n330-n332; tom. iv `histoirecritiqu04llor`, p. 271 = n282 = page+11; vol2-ch4 note 37). Llorente: Lecky's totals match (31,912 burnt; 291,450 penanced); Lecky says Mariana's 2,000 burnt were in 'Andalusia', Llorente says Seville; the inscription's Latin has 'fere millia', Llorente's French 'plus de mille', Lecky 'nearly 1,000'. Tom. iv p. 272 and tom. i p. 272 not read.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
