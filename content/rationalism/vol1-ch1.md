@@ -432,7 +432,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^112]: This is alluded to in Hudibras:<br>'Hath not this present Parliament<br>A ledger to the devil sent<br>Fully empowered to treat about<br>Finding revolted witches out?<br>And has not he within a year<br>Hanged threescore of them in one shire,' &c.<br>Second part, Canto iii.
 
-[^113]: Baxter relates the whole story with evident pleasure. He says, 'Among the rest, an old reading parson named Lowis, not far from Framlingham, was one that was hanged, who confessed that he had two imps, and that one of them was always putting him on doing mischief, and (being near the sea) as he saw a ship under sail, it moved him to send him to sink the ship, and he consented, and saw the ship sink before him.' (World of Spirits, p. 53.) For the other view of the case, see Hutchinson, pp. 88-90.
+[^113]: Baxter relates the whole story with evident pleasure. He says, 'Among the rest, an old reading parson named Lowis, not far from Framlingham, was one that was hanged, who confessed that he had two imps, and that one of them was always putting him on doing mischief, and (being near the sea) as he saw a ship under sail, it moved him to send him to sink the ship, and he consented, and saw the ship sink before him.' (World of Spirits, p. 53.) For the other view of the case, see <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#lowes-90">Hutchinson, pp. 88-90</a>.
 
 [^114]: On the opinions of Hobbes on this subject, and on his great influence in discrediting these superstitions, see Cudworth's Intellectual System, vol. i. p. 116.
 
