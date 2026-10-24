@@ -304,7 +304,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^49]: Maury, p. 185. <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#pactes-185">source page</a>
 
-[^50]: The last judicial execution in Europe was, I believe, in Switzerland, in 1782 (Michelet's Sorcière, p. 415), the last law on the subject, the Irish Statute, which was not repealed till 1821.
+[^50]: The last judicial execution in Europe was, I believe, in Switzerland, in 1782 (<a class="popup-ref" href="../ref/michelet-la-sorciere.html#dernieres-brulures">Michelet's Sorcière, p. 415</a>), the last law on the subject, the Irish Statute, which was not repealed till 1821.
 
 [^51]: For the history of this very remarkable movement, see the able essay of Renan on Averroes. Among the Mahomedans, the panic was so great, that the theologians pronounced logic and philosophy to be the two great enemies of their profession, and ordered all books on those dangerous subjects to be burnt. Among the Christians, St. Thomas Aquinas devoted his genius to the controversy; and, for two or three centuries, most of the great works in Christendom bore some marks of Averroes. M. Renan has collected some curious evidence from the Italian painters of the fourteenth century, of the prominence Averroes had assumed in the popular mind. The three principal figures in Orgagna's picture of Hell, in the Campo Santo, at Pisa, are Mahomet, Antichrist, and Averroes.
 

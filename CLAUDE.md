@@ -143,6 +143,8 @@ Notes for continuing:
 
 - Hutchinson: Lecky used the SECOND edition (1720), `b30512967_0001` (image = page+31; p. 56 = n87, p. 57 = n88, Wenham ch. X from ~p. 153 = n194; Lecky's pp. 163-171 = n194-n202). p. 57 'I suppose these are the last three that have been hanged in England' (1682 Exeter) done (ch. I note 134); Lecky's 1712 'others ... endured the same fate' is not in Hutchinson there. Not yet done with the 1720 ed.: ch. I notes (7 done, p. 55) 115, 130/131 (pp. 95-119), 133 (catalogue), 138/139 (Dedication); note 135 done for p. 167 only.
 
+- Also: `michelet-la-sorciere.md` (`lasorcire02michgoog`, catalogued 1863, image = page+7: p. 371 = n378; the 1862 first-ed. scan `lasorcire00mich` returns HTML instead of page images, its OCR has the same sentence at n448 = Lecky's p. 415 probably). ch. I note 50: Michelet has Spain 1782, Switzerland 1781, Germany 1751; Lecky's 'Switzerland, 1782' mixes them. Other Michelet notes (ch. I 2, 6, 36, 55; ch. III 133) not done.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
