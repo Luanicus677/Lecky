@@ -486,7 +486,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^130]: Compare Riccoboni, tom. ii. pp. 9, 10; and Sismondi, Hist. de la Litterature du Midi, tom. ii. pp. 188-199. The two pieces seem to have been acted nearly at the same time; but the Sophonisba was not printed for some years afterwards. Euccellai also wrote a play called Orestes, which, however, was not brought at this time on the stage.
 
-[^131]: Roscoe's Lorenzo de1 Medici, ch. v.; Hogarth's Memoirs of the Opera, pp. 6-8. Of course, as Hallain has observed, recitative not being yet invented, the music was confined to choruses and songs scattered throughout the piece.
+[^131]: Roscoe's Lorenzo de1 Medici, ch. v.; Hogarth's Memoirs of the Opera, pp. 6-8. <a class="popup-ref" href="../ref/hogarth-memoirs-of-the-opera.html#orfeo-politian">source page</a> Of course, as Hallain has observed, recitative not being yet invented, the music was confined to choruses and songs scattered throughout the piece.
 
 [^132]: Riccoboni, tom. i. p. 183.
 
@@ -520,7 +520,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^147]: See the curious Arret du Parlement, in Desprez de Boissy, tom. i. pp. 473-481. (<a class="popup-ref" href="../ref/desprez-de-boissy-lettres-sur-les-spectacles.html#arret">source page</a>)
 
-[^148]: Hogarth, Memoirs of the Opera, p. 28.
+[^148]: Hogarth, Memoirs of the Opera, p. 28. <a class="popup-ref" href="../ref/hogarth-memoirs-of-the-opera.html#lulli-absolution">source page</a>
 
 [^149]: Philip II., however, and Philip IV. banished all actors from Spain (Boissy, Letters sur les Spectacles, tom. i. pp. 483-484); and the venerable and miracle-working Father Possada, at a later period, caused the destruction of the theatre of Cordova. (Concina, De Sped. p. 178.) On the extent to which actors laboured to win the favour of the Church by religious plays and by singing at the Church festivals, see the indignant remarks of Mariana, De Rege, pp. 406-419.
 

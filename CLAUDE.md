@@ -133,6 +133,8 @@ Notes for continuing:
 
 - Also: `eden-state-of-the-poor.md` (1797 vol. i `bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`, image = page+39: pp. 7, 10, 50 = n46, n49, n89; ch. VI notes 11, 17). Becket sentence is shorter in Eden than in Lecky; Giraldus/Strongbow sentence in note 17 is not on these pages. Eden's other pages unchecked.
 
+- Also: `hogarth-memoirs-of-the-opera.md` (vol. i 1851 `memoirsoperaini00hogagoog`, image = page+16: p. 7 = n23, p. 8 = n24, p. 28 = n44; ch. VI notes 131, 148). Lulli: matches (Hogarth adds the 'I have got a copy' sequel). Politian: no Cardinal Gonzaga on pp. 7-8 (Lecky's detail presumably from Roscoe ch. v). p. 6 not read. Riccoboni 1728 (`histoiredutheatr00ricc`): printed p. 55 = n110, so pagination does NOT match Lecky's tom. i p. 89 (Cecchino): Lecky used another edition (probably 1731); Cecchini/Frittellino at about n63. Not done: Riccoboni notes 112, 123, 129, 132.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
