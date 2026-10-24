@@ -117,6 +117,8 @@ Notes for continuing:
 
 - Also: `paramo-de-origine-inquisitionis.md` (1598 ed. `bub_gb_mOToVY5wvVYC`, p. 588 = n706 = page+118; vol2-ch4 note 43; Lecky 'damnatur' vs 'damnetur'; Paramo's 'First Inquisitor'/Adam passages not found). Farinacius (note 43, 'De Delictis et Poenis p. 205, Venice 1619') NOT found: scans `bub_gb_PZLHDHkeQ3YC`, `bub_gb_381AS18arc8C`, `bub_gb_c2EXWUXSeU0C`, `bub_gb_b5ogYhxQQY0C` (Praxis et theoricae criminalis) have bad long-s OCR; searches for 'sordescere', 'solatium', 'uno nummo' failed. Note 85 is Neal's Puritans, not Paramo (user mix-up).
 
+- Also (overnight-style run, 24 Oct): `desprez-de-boissy-lettres-sur-les-spectacles.md` (1777 vol. 1 `lettressurlesspe01desp`, p. 481 = n522 = page+41; ch. VI note 147; arret dated 22 April 1761 = Lecky's 1761, confirmed) and `buckle-history-of-civilization.md` (1857 vol. 1 `10278775bsb`, p. 344 = n371 = page+27; ch. VI notes 150, 167; p. 346 not read). Anderson Annals: Lecky's pagination does not match the 1764 folio (`historicalchrono01ande`, p. 190 = n249 has the St Thomas Becket merchants) nor 1787; skipped. Bedarride editions: `lesjuifsenfranc00beda` (1859), `lesjuifsenfrance00beda` (1864) not matched to Lecky's pages yet.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).

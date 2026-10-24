@@ -518,13 +518,13 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^146]: The Archbishop of Paris. This refusal was of course comprised in the general rule, that actors as excommunicated persons should be excluded from the sacraments (Desprez de Boissy, torn i. p. 447). And yet these priests had the audacity to reproach actors with their immorality! The Council of Illiberis, perhaps the oldest on record, prohibited any Christian woman from marrying an actor. (Lebrun, Discours, p. 157.)
 
-[^147]: See the curious Arret du Parlement, in Desprez de Boissy, tom. i. pp. 473-481.
+[^147]: See the curious Arret du Parlement, in Desprez de Boissy, tom. i. pp. 473-481. (<a class="popup-ref" href="../ref/desprez-de-boissy-lettres-sur-les-spectacles.html#arret">source page</a>)
 
 [^148]: Hogarth, Memoirs of the Opera, p. 28.
 
 [^149]: Philip II., however, and Philip IV. banished all actors from Spain (Boissy, Letters sur les Spectacles, tom. i. pp. 483-484); and the venerable and miracle-working Father Possada, at a later period, caused the destruction of the theatre of Cordova. (Concina, De Sped. p. 178.) On the extent to which actors laboured to win the favour of the Church by religious plays and by singing at the Church festivals, see the indignant remarks of Mariana, De Rege, pp. 406-419.
 
-[^150]: Buckle, Hist., vol. i. p. 347, note. In the same way, Lebrun ascribes the earthquakes that desolated ancient Antioch to the passion of the inhabitants for the theatre (Discours, pp. 132, 133). The English bishops, in 1563, attributed the plague to the theatres (Fronde's Hist. vol. vii. p. 519).
+[^150]: Buckle, Hist., vol. i. p. 347, note. In the same way, Lebrun ascribes the earthquakes that desolated ancient Antioch to the passion of the inhabitants for the theatre (Discours, pp. 132, 133). The English bishops, in 1563, attributed the plague to the theatres (Fronde's Hist. vol. vii. p. 519). (<a class="popup-ref" href="../ref/buckle-history-of-civilization.html#opera">Buckle, source page</a>)
 
 [^151]: See an energetic extract which Concina has prefixed to his book. Some of the cardinals, however, were less severe, and in the first half of the seventeenth century the musical parties of the Cardinal Barberini were very famous. It was probably there, and certainly at Rome, that Milton met Leonora Baroni, who was one of the first of the long line of great Italian operasingers, and to whom he, with a very unpuritanical gallantry, addressed three Latin poems (Hogarth, Memoirs of the Opera, pp. 17, 18). These carnival dramas excited the great indignation of the Calvinist Dallaeus (Concina, pp. 302-303). The Italians do not seem to have been so violent against the theatre as the French priests, though De Boissy has collected a rather long list of condemnations.
 
@@ -558,7 +558,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^166]: I do not include among these causes the diminution of Church holidays, for, although in some few countries they may have degenerated into an abuse, the number of the fasts which were compulsory has been grossly exaggerated; and moreover, their good effects in procuring some additional recreation for the working classes appears to me to have much more than counterbalanced any slight injury they may have done to labour. There is some correspondence between Dr. Doyle and Lord Cloncurry on this subject, which is well worthy of attention, in Fitzpatrick's Life of Doyle. B
 
-[^167]: The difference between town and country in this respect has been fully noticed by Mr. Buckle (Hist. of Civ., vol. i. pp. 344-347), who ascribes it chiefly to the fact that agriculturists are dependent for their success upon atmospheric changes, which man can neither predict nor control.
+[^167]: The difference between town and country in this respect has been fully noticed by Mr. Buckle (Hist. of Civ., vol. i. pp. 344-347), who ascribes it chiefly to the fact that agriculturists are dependent for their success upon atmospheric changes, which man can neither predict nor control. (<a class="popup-ref" href="../ref/buckle-history-of-civilization.html#weather">Buckle, source page</a>)
 
 [^168]: See M'Culloch's Political Economy, and his Introduction to the Wealth of Nations.
 

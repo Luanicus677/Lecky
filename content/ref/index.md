@@ -177,4 +177,12 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="paramo-de-origine-inquisitionis.html">Paramo, <em>De origine et progressu officii sanctae inquisitionis</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Why the Inquisition tried dead heretics (1598, p. 588), compared with Lecky’s Latin in ch. IV (continued), note 43. Farinacius, cited in the same note, is not found.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="desprez-de-boissy-lettres-sur-les-spectacles.html">Desprez de Boissy, <em>Lettres sur les spectacles</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The 1761 decree burning Huerne de la Motte’s defence of actors (vol. 1, p. 481), cited in ch. VI, note 147. Confirms Lecky.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="buckle-history-of-civilization.html">Buckle, <em>History of Civilization in England</em>, vol. 1</a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Buckle on farmers, weather and superstition (pp. 344–347), cited in <em>Rationalism</em>, ch. VI, notes 150 and 167. Lecky’s summary is accurate.</div>
+</li>
 </ul>
