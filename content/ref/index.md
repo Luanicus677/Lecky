@@ -185,4 +185,16 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="buckle-history-of-civilization.html">Buckle, <em>History of Civilization in England</em>, vol. 1</a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Buckle on farmers, weather and superstition (pp. 344–347), cited in <em>Rationalism</em>, ch. VI, notes 150 and 167. Lecky’s summary is accurate.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="hallam-middle-ages.html">Hallam, <em>Middle Ages</em>, vol. 1</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Hallam on the Church and manumission (1822 ed., p. 221), quoted by Lecky in ch. VI, note 19 with three small changes.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="augustine-enarratio-psalm-36.html">Augustine, <em>Enarratio in Psalmum XXXVI</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Augustine on lending at interest (Migne PL 36), quoted in ch. VI, note 27, with small differences.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="turgot-memoire-sur-les-prets-dargent.html">Turgot, <em>Mémoire sur les prêts d’argent</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Turgot on the lawyers’ adoption of the theologians’ “alienation of capital” (Œuvres, ed. Schelle, vol. 3, p. 168), quoted in ch. VI, note 30.</div>
+</li>
 </ul>

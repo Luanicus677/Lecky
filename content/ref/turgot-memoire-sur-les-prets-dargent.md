@@ -1,0 +1,39 @@
+---
+title: Turgot, Mémoire sur les prêts d’argent
+description: "Turgot’s 1769 Memoir on loans of money, the sentence on the “subtlety of the alienation of capital” that Lecky quotes in Chapter VI, note 30, compared with Schelle’s edition of Turgot’s Œuvres (vol. 3, p. 168). Lecky’s French differs in several small ways."
+heading: Turgot, <em>Mémoire sur les prêts d’argent</em>
+subtitle: "How canon law shaped the lawyers’ view of interest"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Anne-Robert-Jacques_Turgot,_Baron_de_Laune\">Anne-Robert-Jacques Turgot</a> (1727–1781), economist and minister. Lecky cites “Mém. sur les Prêts d’Argent, § 29” in <a href=\"../rationalism/vol2-ch6.html\">Chapter VI</a>."]
+  - ["Edition used", "<em>Œuvres de Turgot et documents le concernant</em>, ed. Gustave Schelle, vol. 3, a modern reprint (I did not check the date of the original edition): <a href=\"https://archive.org/details/turgot-oc-3\">archive.org/details/turgot-oc-3</a>. The passage is on printed p. 168, image <a href=\"https://archive.org/details/turgot-oc-3/page/n168/mode/2up\">n168</a>. I did not find the paragraph number (§ 29) on the page, so Lecky’s section reference is unconfirmed. I do not know which edition Lecky used and have not seen it. The translation is this edition’s own draft."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn30\">Rationalism, ch. VI, note 30</a>."]
+  - ["Status", "The sentence transcribed from the page image, translated and compared. The Alexander VII proposition in the same note (<em>Conférences sur l’usure</em>) is not transcribed."]
+abstract: |
+  <p>Lecky quotes Turgot for the view that the theologians’ “subtlety” of alienating the capital (so that a loan became a sale of an income) was adopted by lawyers under the influence of canon law. The sentence is Turgot’s. Lecky’s version has two wording differences (“des peuples” for “du peuple”, and “a été adopté aussi par les jurisconsultes, à raison de” for “est devenu aussi celui des jurisconsultes, par”), plus punctuation and accents. They may come from an older edition of the text.</p>
+---
+<section id="alienation" class="passage">
+<h2>The “subtilité de l’aliénation du capital” (p. 168)</h2>
+<p class="passage-source">French: p. 168, <a href="https://archive.org/details/turgot-oc-3/page/n168/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>Cependant, l’opinion la plus rigide et la plus populaire prit peu à peu le dessus, et le plus grand nombre des théologiens s’y rangea, surtout dans les siècles d’ignorance qui suivirent ; mais, <span class="cited-passage">tandis que le cri du peuple contre le prêt à intérêt le faisait proscrire, l’impossibilité de l’abolir entièrement fit imaginer la subtilité de l’aliénation du capital, et c’est ce système qui, étant devenu presque général parmi les théologiens, est devenu aussi celui des jurisconsultes, par l’influence beaucoup trop grande qu’ont eue, sur notre jurisprudence et notre législation, les principes du droit canon.</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>However, the most rigid and most popular opinion gradually prevailed, and the greater number of theologians joined it, especially in the ages of ignorance that followed; but, <span class="cited-passage">while the cry of the people against lending at interest got it proscribed, the impossibility of abolishing it entirely led to the invention of the subtlety of the alienation of capital, and it is this system which, having become almost general among theologians, has become that of the jurists too, through the far too great influence that the principles of canon law have had on our jurisprudence and our legislation.</span></p>
+</div>
+</div>
+<div class="table-wrap">
+<table class="collation">
+<thead><tr><th></th><th>Lecky, 1865 (note 30)</th><th>Schelle edition, p. 168</th></tr></thead>
+<tbody>
+<tr><td>“people”</td><td lang="fr">le cri des peuples</td><td lang="fr">le cri du peuple</td></tr>
+<tr><td>Adoption</td><td lang="fr">a été adopté aussi par les jurisconsultes, à raison de l’influence beaucoup trop grande qu’ont eue sur notre jurisprudence</td><td lang="fr">est devenu aussi celui des jurisconsultes, par l’influence beaucoup trop grande qu’ont eue, sur notre jurisprudence</td></tr>
+<tr><td>Rest</td><td>same</td><td>same</td></tr>
+</tbody>
+</table>
+</div>
+<p>The two real differences are in wording, not in sense. Because I have not seen the edition Lecky used, they may be genuine variants of that text; I cannot tell. The translation and the page are what a reader can check.</p>
+</section>
