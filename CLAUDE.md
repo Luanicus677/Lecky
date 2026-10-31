@@ -244,6 +244,17 @@ All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it we
   (`.../commons/thumb/x/xy/<File>/960px-<File>`) downloads fine. Vol. II contents (synopses): OCR lines 49-381 of
   `rationalismineur02leckuoft_djvu.txt`; the OCR drops a line at the top of p. viii ('Interests—Reasons of this').
 
+## Delegating to Meta's Muse Spark (tools/muse.py)
+
+- `python3 tools/muse.py "prompt"` (or `from muse import ask`) calls Meta's Model API. The key is a NETWORK SECRET on the Claude
+  environment (proxy adds `Authorization` for api.meta.ai); never put a key in code, chat or env vars. Default model
+  `muse-spark-1.3-contributor` ($0.10/$0.20 per M tokens; Meta trains on it): send only public-domain material. `--standard` for $1.25/$4.25.
+- It spends ~1,000-2,500 hidden reasoning tokens per answer (hence max_tokens 8000); ~15 s per call.
+- Pilot (Oct 2026, 5 Latin/French/Italian passages vs this edition's translations, total cost ~$0.002): accurate, no invented
+  content, but literal and stiff ('republic' for respublica, 'signification'), with small slips in the hardest passage
+  (Tertullian: 'coram discipulis' as 'together with', 'quaestuaria' softened to 'hired woman'). Use it for FIRST DRAFTS and bulk
+  searching; every output is reviewed before it goes on the site, and nothing it says about pages or citations is trusted unverified.
+
 ## Build, test, deploy
 
 - `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
