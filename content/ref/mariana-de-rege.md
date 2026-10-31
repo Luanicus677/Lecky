@@ -1,6 +1,6 @@
 ---
 title: Mariana, De rege et regis institutione
-description: "Juan de Mariana’s book on tyrannicide (Toledo 1599), the passages Lecky quotes in Chapter V, notes 52–60, read in the 1605 Mainz printing and compared with Lecky’s Latin. Most quotations are accurate; one sentence Lecky quotes was not found in this printing."
+description: "Juan de Mariana’s book on tyrannicide (Toledo 1599), the passages Lecky quotes in Chapter V, notes 52–60, read in the 1605 Mainz printing and compared with Lecky’s Latin. All seven quotations are accurate to this printing."
 heading: Mariana, <em>De rege et regis institutione</em>
 subtitle: Book I, chapter 6, “Is it lawful to kill a tyrant?”
 back_link:
@@ -8,11 +8,11 @@ back_link:
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Juan_de_Mariana\">Juan de Mariana</a> (1536–1624), Spanish Jesuit. Lecky discusses the book in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a> and cites it by page, “1st ed.”, i.e. the Toledo edition of 1599."]
-  - ["Edition used", "<em>De rege et regis institutione libri III</em>, Mainz 1605: <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC\">archive.org/details/bub_gb_FNnUXWPFQEcC</a>. Printed page p is image n(p+30): p. 57 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n87/mode/2up\">n87</a>, p. 58 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n88/mode/2up\">n88</a>, p. 59 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n89/mode/2up\">n89</a>, p. 60 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n90/mode/2up\">n90</a>, pp. 66–67 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n96/mode/2up\">n96</a>–<a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n97/mode/2up\">n97</a>. Lecky’s page numbers (72–85) are 15–18 higher than these, as expected from a different edition; I have not seen the 1599 Toledo printing. Translations are this edition’s own drafts."]
+  - ["Edition used", "<em>De rege et regis institutione libri III</em>, Mainz 1605: <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC\">archive.org/details/bub_gb_FNnUXWPFQEcC</a>. Printed page p is image n(p+30): p. 57 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n87/mode/2up\">n87</a>, p. 58 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n88/mode/2up\">n88</a>, p. 59 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n89/mode/2up\">n89</a>, p. 60 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n90/mode/2up\">n90</a>, p. 65 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n95/mode/2up\">n95</a>, pp. 66–67 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n96/mode/2up\">n96</a>–<a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n97/mode/2up\">n97</a>. Lecky’s page numbers (72–85) are 15–18 higher than these, as expected from a different edition; I have not seen the 1599 Toledo printing. Translations are this edition’s own drafts."]
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn52\">Rationalism, ch. V, notes 52</a>, <a href=\"../rationalism/vol2-ch5.html#fn53\">53</a>, <a href=\"../rationalism/vol2-ch5.html#fn55\">55</a>, <a href=\"../rationalism/vol2-ch5.html#fn56\">56</a>, <a href=\"../rationalism/vol2-ch5.html#fn57\">57</a>, <a href=\"../rationalism/vol2-ch5.html#fn60\">60</a>."]
-  - ["Status", "Six quotations transcribed from the page images, translated and collated. The sentence in note 60 beginning “Nos tamen non quid facturi sint homines” was not found in this printing (see below). Long-s abbreviations expanded silently."]
+  - ["Status", "Seven quotations transcribed from the page images, translated and collated. Long-s abbreviations expanded silently."]
 abstract: |
-  <p>Lecky uses Mariana as the type of Jesuit teaching on tyrannicide. His Latin quotations in notes 52–60 are accurate to this printing in almost every word. The differences are small: “et si” for “etsi”, “potiore” for “potiori”, the word “princeps” added after “Si medicinam respuat”, and an omitted “Equidem”.</p><p>One quotation does not match. The sentence Lecky gives in note 60, “Nos tamen non quid facturi sint homines sed quid per naturae leges concessum sit despicimus”, is not on p. 66 of the 1605 Mainz printing, where the corresponding place reads quite differently. Either the 1599 text differed here or Lecky’s quotation is faulty; <a href="#nos-tamen">the comparison</a> shows what I found. I have not seen the 1599 edition.</p>
+  <p>Lecky uses Mariana as the type of Jesuit teaching on tyrannicide. His Latin quotations in notes 52–60 are accurate to this printing in almost every word. The differences are small: “et si” for “etsi”, “potiore” for “potiori”, the word “princeps” added after “Si medicinam respuat”, and an omitted “Equidem”.</p><p>The first sentence of note 60, “Nos tamen non quid facturi sint homines …”, is <a href="#nos-tamen">at the foot of p. 65</a>, more than a page before the second.</p>
 ---
 <section id="consentire" class="passage">
 <h2>The “consent” of philosophers and theologians (pp. 58–59)</h2>
@@ -75,15 +75,15 @@ abstract: |
 </section>
 
 <section id="nos-tamen" class="passage">
-<h2>The sentence not found (note 60)</h2>
-<p>Lecky’s note 60 begins: “‘Nos tamen non quid facturi sint homines sed quid per naturæ leges concessum sit despicimus. … Et est naturæ vox communis hominum sensus vituperantium …’ (pp. 83–85).” The second half is on pp. 66–67 as above. The first sentence is not on p. 66 of the 1605 printing. The place where it would stand reads:</p>
+<h2>“Nos tamen non quid facturi sint homines” (p. 65)</h2>
+<p class="passage-source">Latin: foot of p. 65, <a href="https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n95/mode/2up">scan</a> (note 60, first sentence). Found in October 2026 by a full-text search of the OCR by a second language model (Meta’s Muse Spark), then read on the page image; an earlier check had looked only at p. 66, where a different sentence also begins “Nos tamen”.</p>
 <div class="parallel">
 <div class="original" lang="la">
-<p>Nos tamen de nostris moribus sublatum videmus, quod Athenis atque Romæ frequens antiquis temporibus fuit, rerum capitalium convictos noxio medicamento tollere. Nimirum crudele existimarunt, atque a Christianis moribus alienum …</p>
+<p>… quo nihil de publica lætitia minuatur hoste perempto, conservatoque auctore et architecto publicæ libertatis. <span class="cited-passage">Nos tamen non quid facturi sint homines, sed quid per naturæ leges concessum sit, despicimus.</span> Et sane quid interest ferro aut veneno perimas? præsertim concessa dolo et fraude agendi facultate.</p>
 </div>
 <div class="rendering" lang="en">
-<p>But we see it taken out of our customs, what was frequent at Athens and Rome in ancient times, to put to death with a harmful drug those convicted of capital offences. They thought it cruel, and foreign to Christian morals …</p>
+<p>… so that nothing is taken from the public rejoicing when the enemy is killed and the author and architect of public liberty is preserved. <span class="cited-passage">We, however, consider not what men are going to do, but what is permitted by the laws of nature.</span> And indeed what difference does it make whether you kill with steel or with poison, especially when leave has been granted to act by guile and deceit?</p>
 </div>
 </div>
-<p>Only “Nos tamen” and the sense of a contrast with ancient practice coincide. The words “non quid facturi sint homines sed quid per naturæ leges concessum sit despicimus” did not turn up in a text search of the OCR of this printing or of the 1611 Mainz one (<code>joannismarianaeh00mari</code>; the OCR is poor, so this is not proof), and I did not read all of chapter 6. Treat Lecky’s sentence as unverified.</p>
+<p>Lecky’s Latin matches the print word for word. The sentence comes before the passage on pp. 66–67, where Mariana goes on to reject poisoning in food or drink; Lecky’s dots cover more than a page. On p. 66 a second sentence begins “Nos tamen de nostris moribus sublatum videmus …” (poison as a judicial punishment, abandoned in Christian times); that one is not Lecky’s.</p>
 </section>
