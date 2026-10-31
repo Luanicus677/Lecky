@@ -183,7 +183,7 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^18]: Italy since the late political changes, and as a consequence of the direction given to the national sympathies by those changes, furnishes, perhaps, a slight exception; but even there the conquests of Protestantism are insignificant as compared with those of Free-thinking, and it is said that among Protestants the Plymouth Brethren, who are among the least dogmatic, have also been among the most successful.
 
-[^19]: I need hardly remind the reader how forcibly and eloquently this point has been brought out by Macaulay, in his Essay on *Ranke's History*.
+[^19]: I need hardly remind the reader how forcibly and eloquently this point has been brought out by <a class="popup-ref" href="../ref/macaulay-history-and-essays.html">Macaulay</a>, in his Essay on *Ranke's History*.
 
 [^20]: M. de Montalembert, in his *Life of Lacordaire*, has observed of Lammenais, that there is probably no instance in history of a man possessing so eminently the gifts of a great heresiarch making so little impression by his defection from the Church, and failing so completely to become the nucleus of a sect. After, all, however, this was quite natural. The course which Lammenais pursued stimulated a great intellectual movement; but it was not, and was never intended to be, in the direction of a sect.
 
