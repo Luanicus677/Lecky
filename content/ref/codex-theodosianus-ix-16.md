@@ -101,6 +101,8 @@ abstract: |
 </div>
 </div>
 
+<p>Lecky quotes the last sentence of law 2 in Chapter IV (continued), <a href="../rationalism/vol2-ch4.html#fn15">note 15</a>, beginning “Addite aras publicas”, “add public altars”: the print has “adite”, “go to”, which is what the sense requires. His “sollemnia” is spelled “solemnia” and “praeteritae” “preteritæ”; otherwise the words are the same.</p>
+
 <details class="collapse">
 <summary>Doubtful points</summary>
 <p>“PP.” after law 1’s date is as printed; I have not looked up what the editors take it to mean. The translation “burnt up” renders <em>concremando</em>, which the Latin does not qualify with “alive”. The year 319 is the edition’s, not mine; its own note on the date (note (m)) discusses an uncertainty about the prefect’s term of office, which I have not followed up. The Justinian Code’s version of law 1, which the edition reports at length, adds “nullus sacerdos, nullus eorum, qui huic ritui adsolent ministrare” (“no priest, none of those who are accustomed to serve this rite”) to the opening; that is not in this text.</p>
