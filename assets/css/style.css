@@ -1264,3 +1264,10 @@ a.footnote-ref.popin-source {
 figure.facsimile { margin: 1.25em auto; max-width: 100%; text-align: center; }
 figure.facsimile img { max-width: 100%; height: auto; border: 1px solid var(--border); box-shadow: 0 1px 4px rgba(0,0,0,0.15); }
 figure.facsimile figcaption { font-size: 0.85em; margin-top: 0.4em; text-align: center; }
+
+/* Title pages and frontispieces of the cited books, floated beside the first passage on source pages. */
+figure.title-page { float: right; width: 260px; max-width: 45%; margin: 0.3em 0 1em 1.5em; text-align: center; }
+figure.title-page img { width: 100%; height: auto; border: 1px solid var(--border); box-shadow: 0 1px 4px rgba(0,0,0,0.15); }
+figure.title-page figcaption { font-size: 0.8em; line-height: 1.35; margin-top: 0.4em; text-align: left; }
+figure.title-page.large { width: 340px; }
+@media (max-width: 650px) { figure.title-page, figure.title-page.large { float: none; width: auto; max-width: 300px; margin: 1em auto; } }

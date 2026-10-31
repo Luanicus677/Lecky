@@ -14,6 +14,7 @@ meta_rows:
 abstract: |
   <p>Lecky’s quotation is accurate to the word except for one inserted “a” (“without a witness”, where Sprat has “without witness”) and modern spelling and punctuation. Lecky calls the observation “extremely ingenious”; in Sprat’s page it comes in the course of a defence of natural philosophy against devout men who would reject it: he adds that it is “almost a proverbial speech” that the most learned ages are the most atheistical and the ignorant the most devout, and says the true piety is “little beholden” to whoever devised that distinction.</p>
 ---
+<figure class="title-page"><a href="../assets/img/ref/sprat-1667-title.jpg"><img src="../assets/img/ref/sprat-1667-title.jpg" alt="Title page “The History of the Royal-Society of London, for the Improving of Natural Knowledge. By Tho. Sprat. London, 1667”" loading="lazy"></a><figcaption>Title page, London, 1667. The plate facing it in this copy shows the arms of the Royal Society. <span class="credit"><a href="https://archive.org/details/bub_gb_g30OAAAAQAAJ/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <section id="dark-ages-miracles" class="passage">
 <h2>“The dark and ignorant Ages, wherein to work Miracles”</h2>
 <p class="passage-source">English: p. 350, <a href="https://archive.org/details/bub_gb_g30OAAAAQAAJ/page/n373/mode/2up">scan</a>. The long s is printed as s. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>

@@ -14,6 +14,7 @@ meta_rows:
 abstract: |
   <p>Lecky says the Inquisition’s trials of dead men were not “impotent malice” but aimed to rob the heirs. Paramo’s sentence, on p. 588, confirms this: one reason for proceeding against the dead heretic is that his goods may be taken “through the fisc” from his heirs or any other possessors. The Latin is Paramo’s, with one small change; Lecky leaves out the third reason, that the dead man’s body may be exhumed and burned.</p>
 ---
+<figure class="title-page"><a href="../assets/img/ref/paramo-1598-title.jpg"><img src="../assets/img/ref/paramo-1598-title.jpg" alt="Engraved title page “De origine et progressu Officii Sanctae Inquisitionis … Matriti, ex Typographia Regia”, with a coat of arms" loading="lazy"></a><figcaption>Title page of Paramo’s history of the Inquisition, Madrid, Royal Press, 1598. <span class="credit"><a href="https://archive.org/details/bub_gb_mOToVY5wvVYC/page/n3/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <section id="inquisitorum-primus" class="passage">
 <h2>“Deus Inquisitorum primus”: Adam stripped of Paradise (Book I, pp. 45–46)</h2>
 <p class="passage-source">Latin: Book I, Title 2, chapter VII (“Prima mundi aetas”), p. 45 (<a href="https://archive.org/details/bub_gb_mOToVY5wvVYC/page/n167/mode/2up">scan</a>) to p. 46 (<a href="https://archive.org/details/bub_gb_mOToVY5wvVYC/page/n168/mode/2up">scan</a>). Abbreviations expanded. <span class="cited-passage">Highlighted</span>: what Lecky paraphrases.</p>
