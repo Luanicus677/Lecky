@@ -224,6 +224,10 @@ All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it we
 - Header: blackletter 'L' logo (UnifrakturMaguntia) + bordered small-caps link buttons; dotted grid on phones.
 - OCR split-word hunt done Oct 2026 (dictionary join of adjacent pairs, ~110 fixes, mostly chs. V-VI). Line-break-only compounds
   (slavetrade, slavelabour, wellspent, antinational, thumbkins) left as they are: hyphen status unverifiable.
+- Translation sweep done Oct 2026: every quoted Latin/French/Italian passage in the notes (~100, all chapters) has a
+  span.foreign + span.translation.editorial pair (this edition's drafts). Detector: quoted runs >= 6 words scored by
+  Latin/French/Italian vs English function words; re-run it after adding notes. OCR fixes made inside those quotations
+  (magis, sacrificiorum, quæri, nec laici Christiani, Say's French accents, etc.).
 - Gwern typesetting: `.content > p` justified, hyphenated, first-line indent, no gap; no indent after headings/blocks.
   Pages with `fleuron: true` show meta_rows as centred lines (`.page-metadata`); others keep the `.meta-table`.
 - Figures: `<figure class="float-right|wide">` + `figcaption` + `span.credit` (Commons file link + licence), images in
