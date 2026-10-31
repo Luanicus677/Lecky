@@ -591,7 +591,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^92]: Eccl. Pol, lib. i. sec. 10.
 
-[^93]: 'The lawful power of making laws to command whole political societies of men belonging so properly unto the same entire societies, that for any prince or potentate, of what kind soever, upon earth to exercise the same of himself and not by express commission immediately and personally received from God, or else from authority derived at the first from their consent upon whose persons they impose laws, it is no better than mere tyranny. Laws they are not therefore which public approbation hath not made so.' (Eccl. Pol., lib. i. sec. 10.)
+[^93]: 'The lawful power of making laws to command whole political societies of men belonging so properly unto the same entire societies, that for any prince or potentate, of what kind soever, upon earth to exercise the same of himself and not by express commission immediately and personally received from God, or else from authority derived at the first from their consent upon whose persons they impose laws, it is no better than mere tyranny. Laws they are not therefore which public approbation hath not made so.' (<a class="popup-ref" href="../ref/hooker-ecclesiastical-polity.html#mere-tyranny">Eccl. Pol., lib. i. sec. 10.</a>)
 
 [^94]: Eccl. Pol., b. viii. ch. ii. At a later period Burnet threw himself into the liberal movement as cordially as Locke, but he was almost isolated in the Church.
 
