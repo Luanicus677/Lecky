@@ -210,6 +210,24 @@ Notes for continuing:
 
 - Oct 2026 (top-5 untranscribed by backlinks): Garinet p. 176 = n233 (`#p176`; De Lancre apples, Spain fugitives; Lecky's 'orchards'/'about Bourdeaux' not in Garinet); Buckle vol. 1 p. 334 = n361 (`#p334-spain`; Spain witch 1781 vs Lecky 1780); Dalyell pp. 669-670 = n685-n686 (`#scotland-669`; Leith 1644 vs Lecky 1664, verified on Lecky p. 143 = n172); Hutchinson 1720 pp. 95, 108 = n126, n139 (`#new-england-95`; 19 hanged + 1 pressed vs Lecky's 27; Baxter preface was to Mather's 1690 Goodwin book); Suarez Defensio lib. III cap. 2 pp. 206-210, § 10 p. 209 = n228 (`#immediate-a-deo`; § 11 ff. p. 210 only OCR-read).
 
+- 31 Oct 2026 run (Muse-assisted): new pages `beugnot-destruction-du-paganisme.md` (tome I p. 143 = n167, page+24; ch. I note 29 'p. 148'),
+  `vives-de-anima.md` (Basel 1555 `bub_gb_t8gfYaq2Om8C`: p. 11 = n20, p. 12 = n21; copy `ioannislodovici00unkngoog` p. 12 = n18, lacks p. 11; ch. III note 172),
+  `descartes-reponses-sixiemes-objections.md` (Cousin vol. II `oeuvresdedescar04cousgoog`, p. 322 = n335, p. 343 = n356, page+13; OCR misreads 3 as 5 in page heads; ch. III note 176),
+  `tertullian-adversus-hermogenem.md` (PL 2 cols. 197-198 = n100; ch. III note 48), `aquinas-summa-secunda-secundae.md` (Corpus Thomisticum TEXT, not scan:
+  q. 11 in sth3001.html, q. 104 in sth3102.html; vol2-ch4 note 1, vol2-ch5 note 36), `say-olbie.md` (1800 `olbieouessaisurl00sayj`, note A = n98; page number not legible; ch. VI note 185).
+  New sections: Paramo #inquisitorum-primus (p. 45 = n167), Eymericus #teneantur (appendix p. 50 = n829) and Peña lemma p. 483 = n518, Malleus #serenus-150,
+  Bayle Commentaire #part-i-ch-i (vol. 1 p. 11 = n112, p. 27 = n128; vol2-ch4 note 78), Hallam #glanvil-scepsis (Lit. of Europe 1837 vol. IV `introtolitofeur04halliala`,
+  p. 263 = n288, page+25; ch. I note 118), Codex IX.16.2 now linked from vol2-ch4 note 15 (Lecky 'Addite' for 'adite').
+  Dead ends: Cosmas Topographia Latin (ch. III notes 96-98; Montfaucon `bub_gb_XVCw0n6PM-wC` is vol. I only; PG 88 scans on archive are not Cosmas);
+  De Maistre 'Leur physique est à peu près nulle' (ch. III note 110) not in Soirées 1831/1854 vols. 1-2 nor Examen de Bacon vols. 1-2; Suárez de Paz Praxis (ch. III note 154) not on archive.org.
+- Facsimile figures: `<figure class="facsimile">` (CSS in style.css) with a crop of the scanned page holding the passage, images in `assets/img/ref/`
+  (~600-1000px wide, JPEG q80), caption + `span.credit` 'Scan: Internet Archive · public domain'. Added to Mariana, Malleus, Eymericus (2), Beugnot, Vives,
+  Descartes, Tertullian Hermogenes, Paramo, Bayle, Say. Readers like seeing the old print: add one to every new source page.
+- `tools/hunt.py BOOK_djvu.txt "target" OUT.json`: Muse full-text hunt for paraphrased quotations, chunked, re-sends failed chunks (Meta and the
+  agent proxy drop many requests: 502s, 'ws_closed_mid_exchange'), checks quotes against the OCR. Try keyword grep FIRST (a word the OCR reads well,
+  e.g. 'decenter', 'ambiguam', 'Talapoin'); the volume's own INDEX is often the best lead (Malleus Serenus, Paramo). Costs: 1M-char book ~$0.01-0.02; 5M chars ~$0.17.
+  archive.org downloads intermittently return a 170-byte 500 page: retry in a loop.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
