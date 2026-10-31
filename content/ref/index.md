@@ -262,6 +262,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Spontaneous generation and the mice “some from filth, some from coupling” (Basel 1555, pp. 11–12), cited in ch. III, note 172; with the beasts born to the women of Naples and Flanders.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="descartes-reponses-sixiemes-objections.html">Descartes, <em>Réponses aux sixièmes objections</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Real fire or a God-given idea of fire in hell, and the objection that God could likewise deceive us into seeing “no sky, no stars, no earth” (Cousin ed., vol. II, pp. 322, 343), cited in ch. III, note 176.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
