@@ -15,9 +15,10 @@ meta_rows:
 abstract: |
   <p>Bodin’s book, a huge compilation of authorities and trial reports in French, was the standard reply to <a href="https://en.wikipedia.org/wiki/Johann_Weyer">Wier</a>’s attack on the witch trials. Lecky devotes pp. 95–99 of Chapter I to it as the sceptics’ chief opponent, and cites it for a handful of details and quotations.</p><p>The three passages here are the ones Lecky gives page numbers for and quotes in French or paraphrases closely. Lecky modernises Bodin’s spelling and condenses and rearranges his lists; where he adds to or departs from Bodin, the comparisons below say so.</p>
 ---
-<figure class="title-page"><a href="../assets/img/ref/bodin-1582-title.jpg"><img src="../assets/img/ref/bodin-1582-title.jpg" alt="Title page “De la Démonomanie des sorciers … par I. Bodin Angevin”, Paris, Jacques du Puys, 1582, with a printer’s device" loading="lazy"></a><figcaption>Title page of the Paris 1582 printing of Bodin’s <i>Démonomanie</i>, dedicated to Christophe de Thou. <span class="credit"><a href="https://archive.org/details/per_witchcraft-in-europe-and-america_bodin-jean_1582_125/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <section id="p15" class="passage">
 <h2>Book I, p. 15: Baal-zebub and the Flies</h2>
+<figure class="title-page"><a href="../assets/img/ref/bodin-1582-title.jpg"><img src="../assets/img/ref/bodin-1582-title.jpg" alt="Title page “De la Démonomanie des sorciers … par I. Bodin Angevin”, Paris, Jacques du Puys, 1582, with a printer’s device" loading="lazy"></a><figcaption>Title page of the Paris 1582 printing of Bodin’s <i>Démonomanie</i>, dedicated to Christophe de Thou. <span class="credit"><a href="https://archive.org/details/per_witchcraft-in-europe-and-america_bodin-jean_1582_125/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 
 <p class="passage-source">French: Paris, 1582, p. 15 (<a href="https://archive.org/details/per_witchcraft-in-europe-and-america_bodin-jean_1582_125/page/n52/mode/2up">scan</a>). Spelling as printed, except that long <em>s</em> is normalised and abbreviation marks are expanded. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
 

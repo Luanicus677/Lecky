@@ -14,9 +14,10 @@ meta_rows:
 abstract: |
   <p>The three quotations are Eymericus’s own words (with the commentary by Peña around them), and Lecky’s Latin matches closely. One omission is important: the Barcelona anecdote in note 40, which Lecky ends with “verum si bene vel male, nescio”, goes on to say that the priest who was pulled from the fire and abjured was accused fourteen years later, found to have stayed in heresy and to have infected many, and was burned after all as a relapsed heretic. Lecky’s “edifying anecdote” is therefore less pointless than it seems: Eymericus is arguing that a sudden repentance under the flames can be insincere.</p>
 ---
-<figure class="title-page"><a href="../assets/img/ref/eymericus-1607-title.jpg"><img src="../assets/img/ref/eymericus-1607-title.jpg" alt="Title page in red and black: “Directorium inquisitorum F. Nicolai Eymerici … cum commentariis Francisci Pegnæ”, Venice, Marco Antonio Zalterio, 1607" loading="lazy"></a><figcaption>Title page of the copy used here: Eymeric’s <i>Directorium inquisitorum</i> with Peña’s commentary, Venice, 1607, dedicated to Gregory XIII. <span class="credit"><a href="https://archive.org/details/10488917bsb/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <section id="barchinon" class="passage">
 <h2>The priest in the flames (Part III, p. 516)</h2>
+<figure class="title-page"><a href="../assets/img/ref/eymericus-1607-title.jpg"><img src="../assets/img/ref/eymericus-1607-title.jpg" alt="Title page in red and black: “Directorium inquisitorum F. Nicolai Eymerici … cum commentariis Francisci Pegnæ”, Venice, Marco Antonio Zalterio, 1607" loading="lazy"></a><figcaption>Title page of the copy used here: Eymeric’s <i>Directorium inquisitorum</i> with Peña’s commentary, Venice, 1607, dedicated to Gregory XIII. <span class="credit"><a href="https://archive.org/details/10488917bsb/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">Latin: p. 516, <a href="https://archive.org/details/10488917bsb/page/n551/mode/2up">scan</a>, left column. Peña’s margin note: “Hoc narrat Eymericus supra par. 2. q. xj.” <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
 <div class="parallel">
 <div class="original" lang="la">
