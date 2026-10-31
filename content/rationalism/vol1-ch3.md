@@ -790,7 +790,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^119]: See the remarks on the consistence of morphological conceptions with the doctrine of final causes in Whewell's *History of Scientific Ideas*.
 
-[^120]: Laplace, who has done more than anyone else to systematise arguments from probability, and who will certainly not be accused of any desire to subordinate science to theology, states the argument for design derived from the motions of the planetary bodies in the following almost bewildering terms: 'Des phénomènes aussi extraordinaires ne sont point dûs à des causes irrégulières. En soumettant au calcul leur probabilité, on trouve qu'il y a plus de deux cents mille milliards à parier contre un qu'ils ne sont point l'effet du hasard.'—*Système du Monde*, liv. v. c. 6.
+[^120]: Laplace, who has done more than anyone else to systematise arguments from probability, and who will certainly not be accused of any desire to subordinate science to theology, states the argument for design derived from the motions of the planetary bodies in the following almost bewildering terms: 'Des phénomènes aussi extraordinaires ne sont point dûs à des causes irrégulières. En soumettant au calcul leur probabilité, on trouve qu'il y a plus de deux cents mille milliards à parier contre un qu'ils ne sont point l'effet du hasard.'—<a class="popup-ref" href="../ref/laplace-exposition-du-systeme-du-monde.html#deux-cent-mille-milliards">*Système du Monde*, liv. v. c. 6.</a>
 
 [^121]: Lemoine, *Le Vitalisme de Stahl*, p. 6.
 
