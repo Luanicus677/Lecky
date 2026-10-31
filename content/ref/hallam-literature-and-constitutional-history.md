@@ -14,6 +14,16 @@ meta_rows:
 abstract: |
   <p>Lecky’s two quotations are accurate, with small changes. In the first, Hallam writes “ought not to be burned alive, or otherwise put to death”, and “Thus, at the end of the sixteenth century”; Lecky has “should not be burned alive or otherwise put to death” and drops “Thus”. In the second, the changes are punctuation only. The context matters: Hallam is speaking of the 1590s (the first sentence follows his notice of Koornhert, who wrote against the death penalty for heresy) and of the Reformation period generally (the second).</p>
 ---
+<section id="glanvil-scepsis" class="passage">
+<h2>Glanvill’s <em>Vanity of Dogmatizing</em> (Literature of Europe, ch. III § 97)</h2>
+<p class="passage-source">English: <em>Introduction to the Literature of Europe</em>, 1837, vol. IV, p. 263 (<a href="https://archive.org/details/introtolitofeur04halliala/page/n288/mode/2up">scan</a>; image = page + 25), “From 1650 to 1700”, ch. III, § 97, margin “Glanvil’s Scepsis Scientifica”. Lecky (ch. I, note 118) cites “vol. iii. pp. 358–362”, which is another edition’s pagination. <span class="cited-passage">Highlighted</span>: the facts Lecky repeats.</p>
+<blockquote>
+<p>97. England, about the æra of the Restoration, began to make a struggle against the metaphysical creed of the Aristotelians, as well as against their natural philosophy. <span class="cited-passage">A remarkable work, but one so scarce as to be hardly known at all, except by name, was published by Glanvil in 1661, with the title, The Vanity of Dogmatizing. A second edition, in 1665, considerably altered, is entitled Scepsis Scientifica.</span> This edition has a dedication …</p>
+<p>[Hallam’s footnote:] This book, I believe, especially in the second edition, is exceedingly scarce. The editors, however, of the Biographia Britannica, art. Glanvil, had seen it, and also Dugald Stewart. The first edition, or Vanity of Dogmatizing, is in the Bodleian Catalogue, …</p>
+</blockquote>
+<p>On the next page (read in the OCR only) Hallam goes on to the dedication to the Royal Society, which replaced a “fanciful preface” on the perfections of Adam before the Fall, and to the book’s attack on the Peripatetic philosophy as “captious and verbal”. Lecky’s account of the book’s three forms and its rarity follows Hallam; Lecky’s “short essay” stage before the 1661 treatise is not in this passage.</p>
+</section>
+
 <section id="simple-proposition" class="passage">
 <h2>“The simple proposition” (<em>Literature of Europe</em>, ch. II, p. 116)</h2>
 <p class="passage-source">English: 1837 ed., vol. 2, p. 116, <a href="https://archive.org/details/introtolitofeur02halliala/page/n137/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
