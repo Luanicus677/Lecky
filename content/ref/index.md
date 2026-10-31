@@ -346,6 +346,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Why Christian art made death hideous (1841, p. 8), cited in ch. IV, note 22; with an engraving of the fifteenth-century Dance of Death.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="constans-epidemie-morzine.html">Constans, <em>Relation sur une épidémie d’hystéro-démonopathie en 1861</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The “possessed” of Morzine felt no pin, but only during their fits (1863, p. 63), cited in ch. I, note 104.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
