@@ -69,3 +69,13 @@ abstract: |
 </table>
 </div>
 </section>
+
+<section id="scotland-669" class="passage">
+<h2>Scotland, 1662–1678: numbers accused and burnt (pp. 669–670)</h2>
+<p class="passage-source">English: Edinburgh, 1834, pp. 669–670, <a href="https://archive.org/details/darkersuperstit00dalygoog/page/n685/mode/2up">scan p. 669</a>, <a href="https://archive.org/details/darkersuperstit00dalygoog/page/n686/mode/2up">scan p. 670</a>. The asterisked note on p. 670 is not transcribed.</p>
+<blockquote>
+<p><em>P. 669.</em> Hutchison computes, that in the course of two centuries above 149 persons had been put to death in England, where the latest conviction was in 1712. It is probable that a greater number perished in Scotland during a single year, 1662, especially considering that <span class="cited-passage">above 150 of those then accused are known</span>. <span class="cited-passage">On the 13th of September 1678, ten women were brought to the bar of the Court of Justiciary, nine of whom were condemned to be strangled and burnt</span>: and on the very day that this bloody tribunal sanctioned their slaughter, other nine were outlawed. But immediately afterwards, as if the sense of the nation had been awakened to such an outrage on reason and mercy, persecution seems to have slumbered for a season.</p>
+<p><em>P. 670.</em> Besides the numerous trials and punishments for sorcery occupying the records of judicatories, and historical compositions, general allusions are found to “the last burning of witches,” regarding which no other memorials are preserved. “I remember,” says a stranger visiting Scotland, that “<span class="cited-passage">in 1644, I saw nine burnt at one time in Leith Links</span>.”* Only a single capital conviction, in the course of that year, appears in the records of the supreme court. Therefore the numbers perishing must have been very great.</p>
+</blockquote>
+<p>Lecky uses these pages for three statements (ch. I, pp. 142–143). “We know that in 1662, more than 150 persons were accused of witchcraft” (note 157, “Dalyell, p. 669”): accurate. “In 1678, nine others were condemned in a single day” (note 159, “Dalyell, pp. 669, 670”): accurate. But “one traveller casually notices having seen <strong>nine women</strong> burning together at Leith in <strong>1664</strong>” departs from Dalyell twice: Dalyell’s traveller saw nine burnt in <strong>1644</strong>, and does not say they were women. The 1865 print (vol. I, p. 143, <a href="https://archive.org/details/rationalismeuro01leckuoft/page/n172/mode/2up">scan</a>) does read “1664”; it is left as printed.</p>
+</section>

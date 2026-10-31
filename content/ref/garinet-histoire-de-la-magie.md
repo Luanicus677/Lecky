@@ -124,3 +124,21 @@ abstract: |
 
 <p>Lecky’s page references are right this time: unlike the “pp. 13, 14” of the preface, his “p. 38” and “p. 42” are the arabic pages of the history proper.</p>
 </section>
+
+<section id="p176" class="passage">
+<h2>P. 176: De Lancre in the Labourd, 1609 (apples, and the flight to Spain)</h2>
+<p class="passage-source">French: Paris, 1818, pp. 175–176, <a href="https://archive.org/details/histoiredelamagi00gari/page/n232/mode/2up">scan p. 175</a>, <a href="https://archive.org/details/histoiredelamagi00gari/page/n233/mode/2up">scan p. 176</a>, spelling as printed. Garinet’s inner quotation marks (» at line starts) are omitted.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p><em>P. 175.</em> Au mois de mai 1609, Henri IV donna commission à Pierre De Lancre, conseiller au parlement de Bordeaux, et au président d’Espaignet, de purger de sorciers le pays de Labour.</p>
+<p>Les habitans de ces contrées s’adonnent au commerce et entreprennent des voyages de long <em>[p. 176]</em> cours. Pendant ce temps, dit De Lancre, leurs femmes deviennent sorcières. Les prêtres étaient accusés de dire la messe en l’honneur du diable. Ces malheureux, instruits de l’arrivée des commissaires, <span class="cited-passage">s’enfuyaient en Espagne. L’inquisition demanda un état de ces sorciers, et, en l’attendant, fit brûler tous ceux qui arrivèrent.</span></p>
+<p>L’instruction de cette affaire dura long-temps, et les grandes preuves de sortiléges étaient que les femmes aimaient la danse, et que le tambourin qui battait la mesure était le même qui servait au sabbat; que leur costume était trop galant, et que leurs cotillons étaient plissés par derrière. Enfin, observe De Lancre, « <span class="cited-passage">c’est un pays de pommes; elles ne mangent que pommes, ne boivent que jus de pommes, qui est occasion qu’elles mordent si volontiers à cette pomme de transgression</span>, qui fit outre-passer le commandement de Dieu à notre premier père. Ce sont des Èves qui séduisent des Adams; elles écoutent hommes et diables. » On voit, dans la procédure, des enfans de l’âge le plus tendre convenir d’avoir été au sabbat.</p>
+</div>
+<div class="rendering" lang="en">
+<p><em>P. 175.</em> In May 1609 Henri IV commissioned Pierre De Lancre, councillor in the parlement of Bordeaux, and the president d’Espaignet, to purge the Labourd of sorcerers.</p>
+<p>The inhabitants of those parts give themselves to trade and undertake long voyages. Meanwhile, says De Lancre, their wives become witches. The priests were accused of saying Mass in honour of the Devil. These wretches, learning that the commissioners were coming, <span class="cited-passage">fled into Spain. The Inquisition asked for a list of these sorcerers and, while waiting for it, had all who arrived burned.</span></p>
+<p>The investigation of the affair lasted a long time, and the great proofs of sorcery were that the women loved dancing, and that the tambourine that beat time was the same that served at the Sabbath; that their dress was too coquettish, and their petticoats pleated at the back. Finally, De Lancre observes, “<span class="cited-passage">it is a land of apples; they eat nothing but apples and drink nothing but apple juice, which is why they bite so willingly into that apple of transgression</span> which made our first father overstep the commandment of God. They are Eves who seduce Adams; they listen to men and devils.” In the proceedings one sees children of the tenderest age admit to having been at the Sabbath.</p>
+</div>
+</div>
+<p>Lecky cites this page twice in ch. I. Note 3: “It was a brilliant suggestion of De Lancre, that the witchcraft about Bourdeaux might be connected with the number of orchards — the Devil being well known to have an especial power over apples. (See the passage quoted in Garinet, p. 176.)” Garinet’s De Lancre does not speak of orchards or of the Devil’s power over apples: his point is the Eve story, that women raised on apples bite readily at the “apple of transgression”. And the district is the Basque Labourd, not the country “about Bourdeaux” (De Lancre sat in the Bordeaux parlement). Note 4 is attached to “The fugitives who escaped to Spain, were there seized and burned by the Inquisition”: accurate to this page.</p>
+</section>

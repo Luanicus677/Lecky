@@ -208,6 +208,8 @@ Notes for continuing:
 
 - Also: `de-maistre-soirees-de-saint-petersbourg.md` (1831 vol. 2 `lessoiresdesa01mais`, p. 437 = n462, p. 452 = n477 = page+25; ch. IV note 45 Locke quotes exact; Bacon quotes are in De Maistre's Examen de la philosophie de Bacon vol. 2 `examendelaphi02mais` p. 100 = n109 = page+9: 'parfaitement nul et méprisable' and Novum Organum/Bedlam DONE on the same page; 'un charlatan' not found).
 
+- Oct 2026 (top-5 untranscribed by backlinks): Garinet p. 176 = n233 (`#p176`; De Lancre apples, Spain fugitives; Lecky's 'orchards'/'about Bourdeaux' not in Garinet); Buckle vol. 1 p. 334 = n361 (`#p334-spain`; Spain witch 1781 vs Lecky 1780); Dalyell pp. 669-670 = n685-n686 (`#scotland-669`; Leith 1644 vs Lecky 1664, verified on Lecky p. 143 = n172); Hutchinson 1720 pp. 95, 108 = n126, n139 (`#new-england-95`; 19 hanged + 1 pressed vs Lecky's 27; Baxter preface was to Mather's 1690 Goodwin book); Suarez Defensio lib. III cap. 2 pp. 206-210, § 10 p. 209 = n228 (`#immediate-a-deo`; § 11 ff. p. 210 only OCR-read).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
