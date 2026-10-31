@@ -619,7 +619,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^36]: On these representations, the miracles they wrought, and the great importance they assumed in the Iconoclastic controversies, see Maimbourg, *Histoire des Iconoclastes* (1686), pp. 44–47; and on other early miracles attributed to images, Spanheim, *Historia Imaginum* (1686), pp. 417–420. The first of these books is Catholic, and the second the Protestant reply. See, too, Marangoni, *Sancta Sanctorum*; and Arringhi, *Roma Subterranea*, tom. ii. pp. 452–460.
 
-[^37]: <span class="foreign" lang="la">'Ne quod colitur et adoratur in parietibus depingatur.'</span><span class="translation editorial" lang="en">[That what is worshipped and adored be not painted on walls.]</span> The Catholics maintain that this was a decree elicited by the persecution, and that its object was to prevent the profanation of Christian images by the pagans.
+[^37]: <span class="foreign" lang="la">'Ne quod colitur et adoratur in parietibus depingatur.'</span><span class="translation editorial" lang="en">[That what is worshipped and adored be not painted on walls.]</span> The Catholics maintain that this was a decree elicited by the persecution, and that its object was to prevent the profanation of Christian images by the pagans. (<a class="popup-ref" href="../ref/council-of-elvira-canon-36.html#canon-36">source page</a>)
 
 [^38]: Probably because there is no reason to believe that pictures had ever been employed as idols by the ancient Greeks or Romans.
 

@@ -278,6 +278,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Virtue without utility is “futile, ridiculous”, like the Talapoin standing on one foot for years (Paris 1800, note A), cited in ch. VI, note 185.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="council-of-elvira-canon-36.html">Council of Elvira, canon 36</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“No pictures in church, lest what is worshipped be painted on the walls”, with Hefele’s account of the Catholic readings (Hefele, <em>History of the Councils</em>, vol. I, p. 151), cited in ch. III, note 37.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
