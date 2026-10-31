@@ -428,23 +428,24 @@
     document.removeEventListener("keydown", popin.onKey);
     popin = null;
   }
-  function openPopin(ref, note) {
+  // A gwern-style popin (touch screens): page dimmed, a box under the tapped
+  // link with a title bar (linked) and ×. `html` fills the box.
+  function openPopinBox(ref, titleText, titleHref, html, onTitle) {
     closePopin();
-    var num = ref.textContent.trim();
     var backdrop = document.createElement("div");
     backdrop.className = "popin-backdrop";
     backdrop.addEventListener("click", closePopin);
     var box = document.createElement("div");
     box.className = "popin";
     box.setAttribute("role", "dialog");
-    box.setAttribute("aria-label", "Footnote " + num);
+    box.setAttribute("aria-label", titleText);
     var bar = document.createElement("div");
     bar.className = "popin-titlebar";
     var title = document.createElement("a");
     title.className = "popin-title";
-    title.href = "#" + note.id;
-    title.textContent = "Footnote #" + num;
-    title.addEventListener("click", closePopin); // then follow the link down
+    title.href = titleHref;
+    title.textContent = titleText;
+    if (onTitle) title.addEventListener("click", onTitle);
     var close = document.createElement("button");
     close.className = "popin-close";
     close.type = "button";
@@ -455,10 +456,11 @@
     bar.appendChild(close);
     var body = document.createElement("div");
     body.className = "popin-content";
-    var clone = note.cloneNode(true);
-    clone.querySelectorAll(".footnote-back, .translate-toggle").forEach(function (el) { el.remove(); });
-    body.innerHTML = clone.innerHTML;
+    body.innerHTML = html;
     body.querySelectorAll(".translation").forEach(addTranslationToggle);
+    body.querySelectorAll('a[href*="wikipedia.org/wiki/"]').forEach(function (a) {
+      if (!a.closest(".popup-more")) bindWikiPopin(a);
+    });
     box.appendChild(bar);
     box.appendChild(body);
     var r = ref.getBoundingClientRect();
@@ -468,12 +470,47 @@
     ref.classList.add("popin-source");
     var onKey = function (e) { if (e.key === "Escape") closePopin(); };
     document.addEventListener("keydown", onKey);
-    popin = { box: box, backdrop: backdrop, ref: ref, onKey: onKey };
-    // keep the whole note on screen if it opens near the bottom
-    var b = box.getBoundingClientRect();
+    popin = { box: box, backdrop: backdrop, ref: ref, onKey: onKey, body: body, title: title };
+    keepPopinOnScreen();
+    return popin;
+  }
+  function keepPopinOnScreen() {
+    if (!popin) return;
+    var b = popin.box.getBoundingClientRect();
     if (b.bottom > window.innerHeight) {
       window.scrollBy({ top: Math.min(b.bottom - window.innerHeight + 16, b.top - 70), behavior: "smooth" });
     }
+  }
+  function openPopin(ref, note) {
+    var num = ref.textContent.trim();
+    var clone = note.cloneNode(true);
+    clone.querySelectorAll(".footnote-back, .translate-toggle").forEach(function (el) { el.remove(); });
+    openPopinBox(ref, "Footnote #" + num, "#" + note.id, clone.innerHTML, closePopin);
+  }
+  // Touch screens: tapping a Wikipedia link shows the article's lead in a
+  // popin first; the title bar (and "Read on Wikipedia") go to the article.
+  function bindWikiPopin(link) {
+    var m = /^https?:\/\/([a-z-]+)\.(?:m\.)?wikipedia\.org\/wiki\/([^#?]+)/.exec(link.href);
+    if (!m) return;
+    var lang = m[1], title = decodeURIComponent(m[2]);
+    link.addEventListener("click", function (e) {
+      if (popin && popin.ref === link) return; // second tap: follow the link
+      e.preventDefault();
+      var pi = openPopinBox(link, title.replace(/_/g, " ") + " (Wikipedia)", link.href,
+        '<p class="popup-loading">Fetching Wikipedia article…</p>');
+      fetchWiki(lang, title).then(function (data) {
+        if (popin !== pi) return;
+        var html = "";
+        if (data.thumbnail && data.thumbnail.source) html += '<img class="wiki-thumb" alt="" src="' + data.thumbnail.source + '">';
+        html += data.extract_html || "<p>" + (data.extract || "") + "</p>";
+        html += '<p class="popup-more"><a href="' + link.href + '">Read on Wikipedia →</a></p>';
+        pi.body.innerHTML = html;
+        pi.title.textContent = (data.title || title.replace(/_/g, " ")) + " (Wikipedia)";
+        keepPopinOnScreen();
+      }, function () {
+        if (popin === pi) pi.body.innerHTML = '<p class="popup-loading">Couldn’t reach Wikipedia. <a href="' + link.href + '">Open the article →</a></p>';
+      });
+    });
   }
   function bindFootnotePopin(ref) {
     var note = document.getElementById((ref.getAttribute("href") || "").slice(1));
@@ -492,6 +529,7 @@
     root.querySelectorAll(".translation").forEach(addTranslationToggle);
     if (isTouch) {
       if (!foreign) root.querySelectorAll("a.footnote-ref").forEach(bindFootnotePopin);
+      root.querySelectorAll('a[href*="wikipedia.org/wiki/"]').forEach(bindWikiPopin);
       return;
     }
     if (!foreign) root.querySelectorAll("a.footnote-ref").forEach(bindFootnoteRef);

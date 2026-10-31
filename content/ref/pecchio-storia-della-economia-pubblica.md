@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Giuseppe_Pecchio\">Giuseppe Pecchio</a> (1785–1835), Italian exile in England. The book was first published in 1829 (Lugano), the same title as Lecky’s citation. Lecky cites it in <a href=\"../rationalism/vol2-ch6.html#fn90\">Chapter VI, note 90</a>."]
+  - ["Author", "<a href=\"https://it.wikipedia.org/wiki/Giuseppe_Pecchio\">Giuseppe Pecchio</a> (1785–1835), Italian exile in England. The book was first published in 1829 (Lugano), the same title as Lecky’s citation. Lecky cites it in <a href=\"../rationalism/vol2-ch6.html#fn90\">Chapter VI, note 90</a>."]
   - ["Edition used", "A Google scan catalogued 1849: <a href=\"https://archive.org/details/storiadellaecon01peccgoog\">storiadellaecon01peccgoog</a>. Printed p. 11 is image <a href=\"https://archive.org/details/storiadellaecon01peccgoog/page/n20/mode/2up\">n20</a> (image = page + 9). Lecky’s “(Lugano, 1849)” and p. 11 match. The translation is this edition’s own draft."]
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn90\">Rationalism, ch. VI, note 90</a>."]
   - ["Status", "One page transcribed from the image and compared with Lecky’s sentence. A keyword search of the scan’s OCR for “Amalfi” and “Pandette” found Amalfi on pp. 10–11 (commerce, the Tavola, the compass) and on a later page (Gioia, the compass); the only “Pandette” hit is a note on Roman law and the value of money (Carli), unrelated. Only p. 11 was read on the image"]

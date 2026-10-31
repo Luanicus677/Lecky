@@ -848,13 +848,13 @@ section.footnotes a.footnote-back:hover {
 .popup .popframe-content-view p { margin: 0 0 0.6em; }
 .popup .popframe-content-view > :last-child,
 .popup .popframe-content-view p:last-child { margin-bottom: 0; }
-.popup .popup-loading { color: var(--fg-faint); font-style: italic; }
+.popup .popup-loading, .popin .popup-loading { color: var(--fg-faint); font-style: italic; }
 .popup.collapsed .popframe-scroll-view { display: none; }
 
-.popup .popup-more { font-size: 0.85em; }
+.popup .popup-more, .popin .popup-more { font-size: 0.85em; }
 .popup .popframe-content-view h2 { font-size: 1.15rem; margin: 0 0 0.6em; font-variant: small-caps; border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
 .popup .popframe-content-view details.collapse { font-size: 0.9em; }
-.popup .wiki-thumb {
+.popup .wiki-thumb, .popin .wiki-thumb {
   float: right;
   max-width: 35%;
   max-height: 12em;
@@ -1271,3 +1271,16 @@ figure.title-page img { width: 100%; height: auto; border: 1px solid var(--borde
 figure.title-page figcaption { font-size: 0.8em; line-height: 1.35; margin-top: 0.4em; text-align: left; }
 figure.title-page.large { width: 340px; }
 @media (max-width: 650px) { figure.title-page, figure.title-page.large { float: none; width: auto; max-width: 300px; margin: 1em auto; } }
+
+/* Source pages: English first, the original language folded away (build.py fold_originals). */
+.parallel.folded { display: block; }
+.content .parallel.folded { margin-left: 0; margin-right: 0; }
+.parallel.folded .rendering { border: none; padding: 0; }
+details.original-toggle { margin: 0.6em 0 1.2em; border-left: 2px solid var(--border); padding-left: 1em; }
+details.original-toggle > summary { cursor: pointer; font-variant: small-caps; letter-spacing: 0.03em; font-size: 0.9em; color: var(--fg-faint, #777); list-style: none; }
+details.original-toggle > summary::-webkit-details-marker { display: none; }
+details.original-toggle > summary::before { content: "▸ "; }
+details.original-toggle[open] > summary::before { content: "▾ "; }
+details.original-toggle > summary:hover { color: inherit; }
+details.original-toggle .original { margin-top: 0.5em; font-style: italic; }
+details.original-toggle .original em, details.original-toggle .original i { font-style: normal; }

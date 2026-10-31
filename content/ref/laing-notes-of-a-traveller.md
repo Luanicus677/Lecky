@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Samuel_Laing_(politician,_born_1812)\">Samuel Laing</a> (1812–1897). Lecky: “The following passage from another work of the same writer [Laing, author of <em>Sweden</em>] …” (<a href=\"../rationalism/vol1-ch4.html#fn35\">Chapter IV, note 35</a>), with no title or page."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Samuel_Laing_(travel_writer)\">Samuel Laing</a> (1780–1868), the Orkney travel writer (not his son of the same name, the railway chairman and MP). Lecky: “The following passage from another work of the same writer [Laing, author of <em>Sweden</em>] …” (<a href=\"../rationalism/vol1-ch4.html#fn35\">Chapter IV, note 35</a>), with no title or page."]
   - ["Edition used", "The 1854 reprint of the <em>Notes of a Traveller</em>: Internet Archive <a href=\"https://archive.org/details/notesatraveller02laingoog\">notesatraveller02laingoog</a> (a Google scan); p. 323 = image <a href=\"https://archive.org/details/notesatraveller02laingoog/page/n341/mode/2up\">n341</a> and p. 324 = n342 (image = page + 18). I identified the work from the quotation itself, not from Lecky’s reference. The “Church of Geneva” chapter, p. 324 on the running head."]
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn35\">Rationalism, ch. IV, note 35</a>."]
   - ["Status", "pp. 323–324 read on the images. Lecky’s “Laing’s <em>Sweden</em>, pp. 108–141” (the figures on illegitimate births) is a different book and not checked."]

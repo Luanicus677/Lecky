@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Gioacchino_Ventura\">Gioacchino Ventura</a> (1792–1861), Theatine priest and preacher. The book is a French edition (1858) of discourses given at the Tuileries chapel. Lecky quotes it in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a> as “written by a most competent observer in 1858”."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Gioacchino_Ventura_di_Raulica\">Gioacchino Ventura</a> (1792–1861), Theatine priest and preacher. The book is a French edition (1858) of discourses given at the Tuileries chapel. Lecky quotes it in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a> as “written by a most competent observer in 1858”."]
   - ["Edition used", "The 1858 Paris edition: <a href=\"https://archive.org/details/lepouvoirpolitiq00vent\">archive.org/details/lepouvoirpolitiq00vent</a>. Printed p. 139 (the page header reads “dans l’intérêt de la religion”) is image <a href=\"https://archive.org/details/lepouvoirpolitiq00vent/page/n174/mode/2up\">n174</a> (p + 35). Lecky’s page number matches. The translation is this edition’s own draft."]
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn28\">Rationalism, ch. V, note 28</a>."]
   - ["Status", "The footnote transcribed from the page image, translated and compared. The book’s date of delivery (“1857”) is not on the page I read."]

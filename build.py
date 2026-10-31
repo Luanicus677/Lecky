@@ -168,6 +168,27 @@ def backlinks_html(entries):
             '(generated automatically when the site is built).</p><ul>' + "".join(items) + "</ul></section>\n")
 
 
+LANG_NAMES = {"la": "Latin", "fr": "French", "it": "Italian", "de": "German", "es": "Spanish", "grc": "Greek", "el": "Greek"}
+PARALLEL_RE = re.compile(
+    r'<div class="parallel">\s*<div class="original"(?: lang="([a-z-]+)")?>(.*?)</div>\s*'
+    r'<div class="rendering"([^>]*)>(.*?)</div>\s*</div>', re.DOTALL)
+
+
+def fold_originals(body_html: str) -> str:
+    """On source pages, show the English rendering first and fold the
+    original-language text into a gwern-style collapsible block, so readers
+    are not met by a wall of Latin. Only the plain two-column form is folded."""
+    def sub(m):
+        lang, original, rattrs, rendering = m.group(1), m.group(2), m.group(3), m.group(4)
+        name = LANG_NAMES.get(lang or "")
+        if not name or "<div" in original or "<div" in rendering:
+            return m.group(0)
+        return (f'<div class="parallel folded"><div class="rendering"{rattrs}>{rendering}</div>'
+                f'<details class="original-toggle"><summary>Original {name}</summary>'
+                f'<div class="original" lang="{lang}">{original}</div></details></div>')
+    return PARALLEL_RE.sub(sub, body_html)
+
+
 BACKLINKS = {}
 
 
@@ -178,6 +199,8 @@ def build_page(src_path: Path, out_path: Path):
     toc_html = build_toc(body_html)
 
     rel = src_path.relative_to(CONTENT)
+    if rel.parts[0] == "ref":
+        body_html = fold_originals(body_html)
     if rel.parts[0] == "ref" and src_path.stem != "index" and BACKLINKS.get(src_path.stem):
         section = backlinks_html(BACKLINKS[src_path.stem])
         marker = '\n<section class="footnotes"'

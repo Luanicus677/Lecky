@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Raoul-Rochette\">Désiré Raoul-Rochette</a> (1790–1854). Lecky: “See on this symbol, Maitland, <em>On the Catacombs</em>, p. 110; Raoul Rochette, <em>Tab. des Cat.</em> p. 138” (<a href=\"../rationalism/vol1-ch3.html#fn10\">Chapter III, note 10</a>)."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Raoul_Rochette\">Désiré Raoul-Rochette</a> (1790–1854). Lecky: “See on this symbol, Maitland, <em>On the Catacombs</em>, p. 110; Raoul Rochette, <em>Tab. des Cat.</em> p. 138” (<a href=\"../rationalism/vol1-ch3.html#fn10\">Chapter III, note 10</a>)."]
   - ["Edition used", "<a href=\"https://archive.org/details/tableaudescataco00roch\">tableaudescataco00roch</a> (catalogued 1853): p. 138 = image <a href=\"https://archive.org/details/tableaudescataco00roch/page/n163/mode/2up\">n163</a> (image = page + 25). Lecky’s page number matches. The translation is this edition’s own draft."]
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn10\">Rationalism, ch. III, note 10</a>."]
   - ["Status", "p. 138 read on the image. Maitland’s p. 110 (<a href=\"https://archive.org/details/churchincatacomb00mait_0\">churchincatacomb00mait_0</a>, whose p. 95 is image n108; the Orpheus sentence is at about n123) was not read. Raoul-Rochette’s other pages cited by Lecky (notes 13, 28) are not checked."]

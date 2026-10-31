@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Francisco_de_Toledo_(cardinal)\">Francisco Toledo</a> (Toletus, 1532–1596), Spanish Jesuit, made cardinal in 1593. Lecky says he was “made a cardinal in 1583”, in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a>; this is from my knowledge of the cardinalate and not checked on a scan."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Francisco_de_Toledo_(Jesuit)\">Francisco Toledo</a> (Toletus, 1532–1596), Spanish Jesuit, made cardinal in 1593. Lecky says he was “made a cardinal in 1583”, in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a>; this is from my knowledge of the cardinalate and not checked on a scan."]
   - ["Edition used", "<em>Instructio sacerdotum, vulgo Summa casuum conscientiae</em>, a 1625 printing: <a href=\"https://archive.org/details/bub_gb_KyxnUbkc4K0C\">archive.org/details/bub_gb_KyxnUbkc4K0C</a>. Printed p. 378 is image <a href=\"https://archive.org/details/bub_gb_KyxnUbkc4K0C/page/n426/mode/2up\">n426</a> (p + 48), Book V, § 10. Lecky cites “lib. v. c. vi. p. 653”, so he used another edition with different pagination. A 1636 printing is <code>bub_gb_7EYWRIgDl5MC</code>. The translation is this edition’s own draft."]
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn65\">Rationalism, ch. V, note 65</a>."]
   - ["Status", "The passage transcribed from the image, translated and collated. I did not check the chapter number (Lecky’s “c. vi”) on the page."]

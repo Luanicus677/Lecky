@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Manuel_S%C3%A1\">Manuel (Emmanuel) Sá</a> (1530–1596), Portuguese Jesuit. Lecky calls him one of the three Jesuits (with Toletus and Molina) who “had defended” tyrannicide before Mariana, in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a>."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Manuel_de_S%C3%A1\">Manuel (Emmanuel) Sá</a> (1530–1596), Portuguese Jesuit. Lecky calls him one of the three Jesuits (with Toletus and Molina) who “had defended” tyrannicide before Mariana, in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a>."]
   - ["Edition used", "<em>Aphorismi confessariorum ex doctorum sententiis collecti</em>, a 1599 printing: <a href=\"https://archive.org/details/bub_gb_5AK7-pKY-O8C\">archive.org/details/bub_gb_5AK7-pKY-O8C</a>. The entry is on printed p. 308 (the OCR reads “308”; the page number is faint), image <a href=\"https://archive.org/details/bub_gb_5AK7-pKY-O8C/page/n309/mode/2up\">n309</a>. Lecky gives no page. I did not read the title page. A 1608 printing (<code>10597221bsb</code>) also exists. The translation is this edition’s own draft."]
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn66\">Rationalism, ch. V, note 66</a>."]
   - ["Status", "The entire entry (two aphorisms) transcribed from the image, translated and collated."]
