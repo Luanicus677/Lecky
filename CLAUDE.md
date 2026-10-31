@@ -219,7 +219,7 @@ Notes for continuing:
   Bayle Commentaire #part-i-ch-i (vol. 1 p. 11 = n112, p. 27 = n128; vol2-ch4 note 78), Hallam #glanvil-scepsis (Lit. of Europe 1837 vol. IV `introtolitofeur04halliala`,
   p. 263 = n288, page+25; ch. I note 118), Codex IX.16.2 now linked from vol2-ch4 note 15 (Lecky 'Addite' for 'adite').
   Dead ends: Cosmas Topographia Latin (ch. III notes 96-98; Montfaucon `bub_gb_XVCw0n6PM-wC` is vol. I only; PG 88 scans on archive are not Cosmas);
-  De Maistre 'Leur physique est à peu près nulle' (ch. III note 110) not in Soirées 1831/1854 vols. 1-2 nor Examen de Bacon vols. 1-2; Suárez de Paz Praxis (ch. III note 154) not on archive.org.
+  De Maistre 'Leur physique est à peu près nulle' (ch. III note 110) not in Soirées 1831/1854 vols. 1-2 nor Examen de Bacon vols. 1-2; Suárez de Paz Praxis (ch. III note 154) not on archive.org. Also `council-of-elvira-canon-36.md` (Hefele Eng. vol. I `historyofcouncil00hefeuoft`, p. 151 = n168; ch. III note 37).
 - Facsimile figures: `<figure class="facsimile">` (CSS in style.css) with a crop of the scanned page holding the passage, images in `assets/img/ref/`
   (~600-1000px wide, JPEG q80), caption + `span.credit` 'Scan: Internet Archive · public domain'. Added to Mariana, Malleus, Eymericus (2), Beugnot, Vives,
   Descartes, Tertullian Hermogenes, Paramo, Bayle, Say. Readers like seeing the old print: add one to every new source page.
