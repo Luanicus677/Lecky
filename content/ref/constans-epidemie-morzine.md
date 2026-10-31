@@ -32,5 +32,5 @@ abstract: |
 <p>[p. 64:] The authors who wrote about the <i>possessed</i> and the <i>sorcerers</i> of past centuries also noted their insensibility, which was always evidence against them; but they do not say whether this insensibility was permanent or not … It is to be believed that they were like the patients of Morzine, keeping their sensibility while calm, but ceasing to be calm as soon as some circumstance brought them back to their idea; interrogations, bodily searches, the apparatus of justice, were among the circumstances that can rarely have failed to have this effect …</p>
 </div>
 </div>
-<p>Lecky’s text has “longuer” and “douleureuse”; the print has “longueur” and “douloureuse”.</p>
+<p>The transcription of Lecky’s note on this site reads “longuer” and “douleureuse” where Constans has “longueur” and “douloureuse”; whether these are Lecky’s slips or errors in the transcription has not been checked against his page.</p>
 </section>
