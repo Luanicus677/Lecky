@@ -1,0 +1,38 @@
+---
+title: Tertullian, Adversus Hermogenem
+description: "Tertullian’s treatise against Hermogenes, chapter 1, in Migne’s Patrologia Latina vol. 2, cols. 197–198: the painter-heretic who ‘paints unlawfully and marries incessantly’, quoted by Lecky in Chapter III, note 48."
+heading: Tertullian, <em>Adversus Hermogenem</em>
+subtitle: "“Pingit illicite, nubit assidue”: the painter-heretic"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Tertullian\">Tertullian</a> (c. 155 – c. 220), of Carthage. <em>Adversus Hermogenem</em> attacks Hermogenes, who taught that God made the world out of eternal matter."]
+  - ["Edition used", "Migne, <em>Patrologia Latina</em> vol. 2, Paris 1844 (Internet Archive <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_2\">patrologiae-cursus-completus-_1844_2</a>), cols. 197–198 = <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_2/page/n100/mode/2up\">n100</a>, with the commentary printed below the text (notes signed “Rig.” and “Le Pr.”)."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn48\">Rationalism, ch. III, note 48</a> (no reference given)."]
+  - ["Status", "One passage and the relevant notes of the commentary read on the page image, transcribed and translated. Lecky’s quotation is exact."]
+abstract: |
+  <p>Lecky cites this sentence as evidence that some early Christians condemned painting altogether, adding cautiously that it “has been quoted as to the same effect”. The commentary printed with Migne’s text explains why Tertullian’s jibe is about painting: Hermogenes was a painter by trade and went on painting images of the pagan gods after he became a Christian, and he married again and again. “Bis falsarius, et cauterio et stylo”, “twice a forger, with the branding-iron and the pen”, puns on the hot iron of encaustic painting and the writer’s stylus: he falsified the gods in wax and the faith in his books. So the passage is not clearly a condemnation of painting as such, which bears on the use Lecky makes of it.</p>
+---
+<section id="pingit-illicite" class="passage">
+<h2>“Bis falsarius, et cauterio et stylo” (chapter 1)</h2>
+<p class="passage-source">Latin: Migne, PL 2, col. 198 (the sentence begins at the foot of col. 197), <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_2/page/n100/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="facsimile"><a href="../assets/img/ref/tertullian-hermogenes-col198.jpg"><img src="../assets/img/ref/tertullian-hermogenes-col198.jpg" alt="A column of Latin in Migne’s Patrologia beginning “lis, officium bonæ conscientiæ judicet. Præterea pingit illicite”" loading="lazy"></a><figcaption>Migne, <i>Patrologia Latina</i> vol. 2 (1844), col. 198. The letters in brackets point to the commentary below. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Hermogenes autem doctrina tam novella est … et maledicere singulis, officium bonæ conscientiæ judicet. Præterea <span class="cited-passage">pingit illicite, nubit assidue; legem Dei in libidinem defendit, in artem contemnit; bis falsarius, et cauterio et stylo</span>; totus adulter, et prædicationis et carnis, siquidem et nubentium contagio fœtet, nec ipse apostolicus Hermogenes in regula perseveraverit.</p>
+</div>
+<div class="rendering" lang="en">
+<p>… [he] counts it the duty of a good conscience to speak ill of everyone. Besides, <span class="cited-passage">he paints unlawfully and marries incessantly; he pleads the law of God in defence of his lust, and despises it in defence of his art; twice a forger, with the branding-iron and with the pen</span>; an adulterer through and through, of preaching and of flesh, since he reeks of the contagion of the marrying, and not even the apostolic Hermogenes kept to the rule.</p>
+</div>
+</div>
+<p>From the commentary below the text, same page (abridged):</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>(b) <i>Pingit illicite.</i> Hermogenes erat pictor. Pingebat autem illicite, quia post susceptum christiani nomen, nihilominus pingebat simulacra deorum … (c) <i>Nubit assidue.</i> Mutatis subinde conjugiis, etenim polygamiæ favebat. (e) <i>In artem contemnit.</i> Eamdem scilicet legem arte sua contemnit, pingens simulacra, quod lex vetabat, <i>Non facies idolum</i>. (f) <i>Bis falsarius, cauterio et stylo.</i> Falsarius, cauterio suo pictorio … Falsarius etiam, scripturis stylo hæretico depravatis.</p>
+</div>
+<div class="rendering" lang="en">
+<p>(b) <i>He paints unlawfully.</i> Hermogenes was a painter. He painted unlawfully because, after taking the name of Christian, he still painted images of the gods … (c) <i>He marries incessantly.</i> Changing wives repeatedly, for he favoured polygamy. (e) <i>Despises it in defence of his art.</i> That is, he despises the same law by his art, painting images, which the law forbade: <i>Thou shalt not make an idol</i>. (f) <i>Twice a forger, with branding-iron and pen.</i> A forger with his painter’s iron … a forger too, having corrupted the Scriptures with a heretical pen.</p>
+</div>
+</div>
+</section>
