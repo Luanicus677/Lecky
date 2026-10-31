@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "Jean-Baptiste Thiers (1636–1703), a French country priest and scholar who catalogued the superstitions of ordinary people, from charms and amulets to bell-ringing against storms (<a href=\"https://fr.wikipedia.org/wiki/Jean-Baptiste_Thiers\">French Wikipedia</a>)."]
+  - ["Author", "Jean-Baptiste Thiers (1636–1703), a French country priest and scholar who catalogued the superstitions of ordinary people and the Church’s rulings against them (<a href=\"https://fr.wikipedia.org/wiki/Jean-Baptiste_Thiers\">French Wikipedia</a>)."]
   - ["Work", "<em>Traité des superstitions selon l’Écriture sainte, les décrets des conciles et les sentiments des saints Pères et des théologiens</em>, first printed 1679. Lecky used the Paris edition of 1741 (four volumes)."]
   - ["Edition used", "Paris, 1697 printing (<a href=\"https://archive.org/details/bub_gb_sn7cWyefS5AC\">scan</a>), book I, chapter IV, pp. 139–140 = <a href=\"https://archive.org/details/bub_gb_sn7cWyefS5AC/page/n173/mode/2up\">n173</a>–<a href=\"https://archive.org/details/bub_gb_sn7cWyefS5AC/page/n174/mode/2up\">n174</a>. Lecky’s 1741 edition was not found online; his “p. 138” is in its pagination."]
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn5\">Rationalism, ch. I, note 5</a>; Thiers is also cited in notes <a href=\"../rationalism/vol1-ch1.html#fn3\">3</a>, <a href=\"../rationalism/vol1-ch1.html#fn9\">9</a>, <a href=\"../rationalism/vol1-ch1.html#fn80\">80</a> and others (not yet transcribed)."]

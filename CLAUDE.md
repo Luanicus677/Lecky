@@ -229,6 +229,16 @@ Notes for continuing:
   e.g. 'decenter', 'ambiguam', 'Talapoin'); the volume's own INDEX is often the best lead (Malleus Serenus, Paramo). Costs: 1M-char book ~$0.01-0.02; 5M chars ~$0.17.
   archive.org downloads intermittently return a 170-byte 500 page: retry in a loop.
 
+- Source-page layout (Oct 31, owner's request): build.py `fold_originals` shows the English `div.rendering` first and folds the
+  `div.original` into `details.original-toggle` ("▸ Original Latin/French"), for every plain two-div `.parallel` on ref pages (keep writing
+  pages in the parallel form; the build folds them). Owner wants each page to open with an interesting nugget in plain English: a short,
+  concrete abstract (what is surprising, what Lecky got wrong), a plain-English subtitle (not the full original title), title page /
+  facsimile images. Thiers page rebuilt as the model.
+- Touch screens: Wikipedia links open a popin with the article summary (popups.js `bindWikiPopin`; second tap follows the link).
+- Wikipedia link check: ordinary article pages (not the API) load from this machine; check with curl status codes, 1s apart. Oct 31 check
+  fixed 8 broken links (Thiers -> fr.wikipedia; Raoul_Rochette; Edward_Burt; Francisco_de_Toledo_(Jesuit); Gioacchino_Ventura_di_Raulica;
+  it:Giuseppe_Pecchio; Manuel_de_Sá; Samuel_Laing_(travel_writer), whose dates are 1780–1868, not the son's).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
