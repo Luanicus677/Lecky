@@ -18,6 +18,8 @@ abstract: |
 <section id="humani-generis-inimici" class="passage">
 <h2>“Humani generis inimici” (tome I, p. 143)</h2>
 <p class="passage-source">French: tome I, p. 143, <a href="https://archive.org/details/histoiredelades01beuggoog/page/n167/mode/2up">scan</a>. Beugnot’s side notes: “Cod. Th., l. 9, t. 16, l. 5” for the first law and “Id., 6” for the second. <span class="cited-passage">Highlighted</span>: the observation Lecky repeats.</p>
+<figure class="facsimile"><a href="../assets/img/ref/beugnot-p143.jpg"><img src="../assets/img/ref/beugnot-p143.jpg" alt="A printed French page with Latin in italics, including “humani generis inimici”" loading="lazy"></a><figcaption>Beugnot, tome I (1835), p. 143. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+
 <div class="parallel">
 <div class="original" lang="fr">
 <p>Quelques mois après avoir publié cette loi, il en rend une autre dont le style mystérieux et emphatique est bien d’accord avec le sujet&#8239;: «&#8239;<i lang="la">Multis magicis artibus ausi elementa turbare, vitas insontium labefactare non dubitant, et Manibus accitis audent ventilare, ut quisque suos conficiat malis artibus inimicos&#8239;: hos, quoniam naturæ peregrini sunt, feralis pestis absumat.</i>&#8239;»</p>

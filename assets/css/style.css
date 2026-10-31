@@ -1259,3 +1259,8 @@ a.footnote-ref.popin-source {
 .backlinks-intro { color: var(--fg-muted); font-size: 0.85rem; text-indent: 0 !important; }
 .backlinks ul { padding-left: 1.2em; }
 .backlinks li { margin-bottom: 0.35em; }
+
+/* Facsimile strips on source pages: a crop of the scanned page holding the passage. */
+figure.facsimile { margin: 1.25em auto; max-width: 100%; text-align: center; }
+figure.facsimile img { max-width: 100%; height: auto; border: 1px solid var(--border); box-shadow: 0 1px 4px rgba(0,0,0,0.15); }
+figure.facsimile figcaption { font-size: 0.85em; margin-top: 0.4em; text-align: center; }

@@ -176,6 +176,8 @@ abstract: |
 <h2>The <em>Malleus</em> Itself, pp. 150–151: Serenus and Equitius</h2>
 
 <p class="passage-source">Latin: Lyon, 1620, vol. I, p. 150 (<a href="https://archive.org/details/bub_gb_Dm4ywfjNpVUC/page/n190/mode/2up">scan</a>) and p. 151 (<a href="https://archive.org/details/bub_gb_Dm4ywfjNpVUC/page/n191/mode/2up">scan</a>), running titles “Quibus malef. nocere non potest” and “Par. II. Quaest. I.”: the opening chapter of Part II, on the people whom witches cannot harm. Margins: “Castificati ab Angelis”, “De S. Sereno ab Angelo castificato”, “De S. Equitio ab angelo eunuchato”. Located in October 2026 from the volume’s index (“Angelus eximit Abbati Sancto Sereno viscera libidinis”). Abbreviations expanded. <span class="cited-passage">Highlighted</span>: the two saints Lecky names.</p>
+<figure class="facsimile"><a href="../assets/img/ref/malleus-p150.jpg"><img src="../assets/img/ref/malleus-p150.jpg" alt="A stained page of Latin with the margin note “De S. Sereno ab Angelo castificato”" loading="lazy"></a><figcaption>The angel and Abbot Serenus, as printed in the <i>Malleus</i>: Lyon, 1620, vol. I, p. 150. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+
 
 <div class="parallel">
 <div class="original" lang="la">
