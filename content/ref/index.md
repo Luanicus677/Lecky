@@ -318,6 +318,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Actors denied the sacraments, ordination and Christian burial (§ XI; Gazier ed. 1881, p. 46), cited in ch. VI, note 142.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="edwards-freedom-of-will.html">Edwards, <em>Freedom of the Will</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“I don’t deny that God is the Author of Sin”, in one sense (Boston 1754, p. 254), cited in ch. IV, note 34; Lecky cuts the qualification.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
