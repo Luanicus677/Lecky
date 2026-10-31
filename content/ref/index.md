@@ -338,6 +338,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">“Where Protestantism becomes vicious” (1838, p. 188), the young Gladstone’s Toryism, cited in ch. V, note 27.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="harrington-system-of-politics.html">Harrington, <em>A System of Politics</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“If ever it comes to pull down the hierarchy, it pulls down that monarchy also” (Works 1771, p. 475), cited in ch. IV (continued), note 88.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>

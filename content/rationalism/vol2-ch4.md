@@ -400,7 +400,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^87]: Political Aphorisms, 23-24.
 
-[^88]: A System of Politics, ch. vi. Passages very similar occur in the Oceana, and, indeed, all through the writings of Harrington. The following is, I think, a very remarkable instance of political prescience: 'If it be said that in France there is liberty of conscience in part, it is also plain that while the hierarchy is standing this liberty is falling, and that if ever it comes to pull down the hierarchy, it pulls down that monarchy also. Wherefore the monarchy and hierarchy will be beforehand with it, if they see their true interest.' (System of Politics, ch. vi.)
+[^88]: <a class="popup-ref" href="../ref/harrington-system-of-politics.html#france">A System of Politics, ch. vi.</a> Passages very similar occur in the Oceana, and, indeed, all through the writings of Harrington. The following is, I think, a very remarkable instance of political prescience: 'If it be said that in France there is liberty of conscience in part, it is also plain that while the hierarchy is standing this liberty is falling, and that if ever it comes to pull down the hierarchy, it pulls down that monarchy also. Wherefore the monarchy and hierarchy will be beforehand with it, if they see their true interest.' (System of Politics, ch. vi.)
 
 [^89]: Areopagitica.
 
