@@ -8,7 +8,7 @@ back_link:
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/James_Harrington_(author)\">James Harrington</a> (1611–1677), English republican theorist, author of <em>The Commonwealth of Oceana</em> (1656). <em>A System of Politics</em>, a series of numbered aphorisms, was printed after his death."]
-  - ["Edition used", "<em>The Oceana and Other Works of James Harrington</em>, ed. John Toland, London 1771 (Internet Archive <a href=\"https://archive.org/details/oceanaotherworks1771harr\">oceanaotherworks1771harr</a>), <em>A System of Politics</em>, ch. VI, p. 475 = <a href=\"https://archive.org/details/oceanaotherworks1771harr/page/n528/mode/2up\">n528</a>."]
+  - ["Edition used", "<em>The Oceana and Other Works of James Harrington</em>, London 1771 (Internet Archive <a href=\"https://archive.org/details/oceanaotherworks1771harr\">oceanaotherworks1771harr</a>), <em>A System of Politics</em>, ch. VI, p. 475 = <a href=\"https://archive.org/details/oceanaotherworks1771harr/page/n528/mode/2up\">n528</a>."]
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn88\">Rationalism, ch. IV (continued), note 88</a> (“System of Politics, ch. vi”)."]
   - ["Status", "One aphorism read on the page image and transcribed."]
 abstract: |
