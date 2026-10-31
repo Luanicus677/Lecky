@@ -223,6 +223,7 @@ Notes for continuing:
 - Facsimile figures: `<figure class="facsimile">` (CSS in style.css) with a crop of the scanned page holding the passage, images in `assets/img/ref/`
   (~600-1000px wide, JPEG q80), caption + `span.credit` 'Scan: Internet Archive · public domain'. Added to Mariana, Malleus, Eymericus (2), Beugnot, Vives,
   Descartes, Tertullian Hermogenes, Paramo, Bayle, Say. Readers like seeing the old print: add one to every new source page.
+- `data/unlinked-citations.json` (made by `tools/catalog_citations.py` with Muse, 31 Oct): citations in footnotes without a ref link; PARTIAL, 201 of 553 notes parsed, the rest are {"error"} entries (bad JSON or dropped connections); rerun only the errors before relying on it. Work titles are not normalised.
 - `tools/hunt.py BOOK_djvu.txt "target" OUT.json`: Muse full-text hunt for paraphrased quotations, chunked, re-sends failed chunks (Meta and the
   agent proxy drop many requests: 502s, 'ws_closed_mid_exchange'), checks quotes against the OCR. Try keyword grep FIRST (a word the OCR reads well,
   e.g. 'decenter', 'ambiguam', 'Talapoin'); the volume's own INDEX is often the best lead (Malleus Serenus, Paramo). Costs: 1M-char book ~$0.01-0.02; 5M chars ~$0.17.
