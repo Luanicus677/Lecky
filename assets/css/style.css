@@ -1253,3 +1253,9 @@ a.footnote-ref.popin-source {
 .popin-content { padding: 0.7rem 0.9rem 0.8rem; }
 .popin-content p { margin: 0 0 0.6em; }
 .popin-content p:last-child { margin-bottom: 0; }
+
+/* ---------- automatic backlinks on source pages (build.py) ---------- */
+.backlinks { margin-top: 3rem; font-size: 0.92rem; }
+.backlinks-intro { color: var(--fg-muted); font-size: 0.85rem; text-indent: 0 !important; }
+.backlinks ul { padding-left: 1.2em; }
+.backlinks li { margin-bottom: 0.35em; }

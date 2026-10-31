@@ -60,6 +60,10 @@ Model: `content/ref/grillandi-de-sortilegiis.md`. For a cited work:
 - Link from Lecky's footnote with `<a class="popup-ref" href="../ref/<page>.html#<section-id>">`.
   Link people to Wikipedia (`https://en.wikipedia.org/wiki/...`); popups and icons are automatic.
 - Add the page to `content/ref/index.md`.
+- Backlinks are AUTOMATIC: build.py (`collect_backlinks`) lists every chapter note/text that links to a source page in a
+  'Backlinks' section at its foot. The hand-written 'Cited in' meta row is optional context (which passage each note uses); it need
+  not be complete. Oct 2026 link pass: footnote citations of works with pages are linked (work-level `../ref/<slug>.html`);
+  same-author different-work citations deliberately left unlinked (Maury's Légendes/Croyances, Michelet's Hist. de France etc.).
 
 Source pages so far (`content/ref/`; also Middleton, see below): Grillandi (1 passage), Garinet (3: preface pp. xiii-xiv, pp. 38, 42),
 Bodin's Demonomanie (3: pp. 15, 151-152, Refutation near p. 252), Codex Theodosianus IX.16 (laws 4 and 6).

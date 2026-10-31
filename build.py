@@ -127,11 +127,62 @@ def build_toc(body_html: str) -> str:
     return "".join(out)
 
 
+REF_LINK_RE = re.compile(r'href="\.\./ref/([a-z0-9-]+)\.html(?:#[^"]*)?"')
+CHAPTER_LABELS = {"vol1-ch4": "Chapter IV, Part I", "vol2-ch4": "Chapter IV, Part II"}
+
+
+def collect_backlinks():
+    """Map each source-page slug to the places in the book that link to it:
+    {slug: [(page label, page stem, note number or None)]}, in reading order.
+    Used for the automatic Backlinks section on source pages (as gwern.net
+    generates backlinks), so it never goes stale like hand-kept lists."""
+    links = {}
+    for src in sorted((CONTENT / "rationalism").glob("*.md")):
+        if src.stem == "index":
+            continue
+        meta, body = parse_source(src)
+        label = CHAPTER_LABELS.get(src.stem) or re.split(r"<br>", str(meta.get("heading") or meta.get("title")))[0]
+        for line in body.split("\n"):
+            m = re.match(r"\[\^(\d+)\]:", line)
+            note = int(m.group(1)) if m else None
+            for slug in dict.fromkeys(REF_LINK_RE.findall(line)):
+                entry = (label, src.stem, note)
+                if entry not in links.setdefault(slug, []):
+                    links[slug].append(entry)
+    return links
+
+
+def backlinks_html(entries):
+    groups = {}
+    for label, stem, note in entries:
+        groups.setdefault((label, stem), []).append(note)
+    items = []
+    for (label, stem), notes in groups.items():
+        parts = [f'<a class="popup-ref" href="../rationalism/{stem}.html#fn{n}">note {n}</a>'
+                 for n in notes if n is not None]
+        if None in notes:
+            parts.append(f'<a href="../rationalism/{stem}.html">the text</a>')
+        items.append(f"<li><strong>{label}</strong>: " + ", ".join(parts) + "</li>")
+    return ('<section id="backlinks" class="backlinks"><h2>Backlinks</h2>'
+            '<p class="backlinks-intro">Every place in <i>Rationalism in Europe</i> that links to this page '
+            '(generated automatically when the site is built).</p><ul>' + "".join(items) + "</ul></section>\n")
+
+
+BACKLINKS = {}
+
+
 def build_page(src_path: Path, out_path: Path):
     meta, body_md = parse_source(src_path)
     body_html = render_markdown(body_md)
 
     toc_html = build_toc(body_html)
+
+    rel = src_path.relative_to(CONTENT)
+    if rel.parts[0] == "ref" and src_path.stem != "index" and BACKLINKS.get(src_path.stem):
+        section = backlinks_html(BACKLINKS[src_path.stem])
+        marker = '\n<section class="footnotes"'
+        body_html = (body_html.replace(marker, "\n" + section + marker[1:], 1)
+                     if marker in body_html else body_html + section)
 
     # The 1865 edition's printer's ornament (redrawn as SVG): above the first
     # paragraph of a chapter, and again as a tailpiece where the text ends.
@@ -170,6 +221,7 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
 
+    BACKLINKS.update(collect_backlinks())
     print("Rendering pages:")
     for src in sorted(CONTENT.rglob("*.md")):
         rel = src.relative_to(CONTENT)
