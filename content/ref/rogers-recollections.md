@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn6\">Rationalism, ch. IV (continued), note 6</a>."]
   - ["Status", "Two pages read on the images and transcribed."]
 abstract: |
-  <p>Lecky opens his history of persecution with this remark of Fox’s: a man who truly believes he can save souls from hell will think himself bound to save them by any means, even by “cutting off one generation”; only some degree of scepticism makes toleration possible. That is close to Lecky’s own thesis. The quotation is exact. On the page it comes as one of Rogers’s jottings, between Fox on the nightingales (“Had heard no nightingales here this spring—but many thrushes”) and Fox on Burke (“Never heard Burke say he was no Christian; but had no reason to think he was one—certainly no papist”).</p>
+  <p>Early in his chapter on persecution Lecky quotes this remark of Fox’s: a man who truly believes he can save souls from hell will think himself bound to save them by any means, even by “cutting off one generation”; only some degree of scepticism makes toleration possible. That is close to Lecky’s own thesis. The quotation is exact. On the page it comes as one of Rogers’s jottings, between Fox on the nightingales (“Had heard no nightingales here this spring—but many thrushes”) and Fox on Burke (“Never heard Burke say he was no Christian; but had no reason to think he was one—certainly no papist”).</p>
 ---
 <section id="toleration" class="passage">
 <h2>“A degree of scepticism” (pp. 49–50)</h2>
