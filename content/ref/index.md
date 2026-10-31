@@ -270,6 +270,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">“Pingit illicite, nubit assidue”: the heretic who painted pagan gods and kept remarrying (Migne PL 2, col. 198), cited in ch. III, note 48.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="aquinas-summa-secunda-secundae.html">Aquinas, <em>Summa theologiae</em>, II-II</a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Heretics may justly be killed, as forgers are (q. 11 a. 3), and no duty to obey a usurper (q. 104 a. 6 ad 3), cited in ch. IV (continued) note 1 and ch. V note 36. From the Corpus Thomisticum text, not a scan.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
