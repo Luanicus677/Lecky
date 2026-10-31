@@ -298,6 +298,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">“I have ever believed, and do now know, that there are Witches” (1672 ed., p. 24), cited in ch. I, note 107; with Browne on spirits and changelings, and the annotator who disagreed.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="knox-first-blast.html">Knox, <em>The First Blast of the Trumpet</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“To promote a woman to beare rule … is repugnant to nature” (1558; Arber reprint p. 11), cited in ch. V, note 110.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>

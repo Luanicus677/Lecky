@@ -625,7 +625,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^109]: Franco- Gallia, lib. i. c. 9.
 
-[^110]: Lib. i. c. 24. So Knox: 'To promote a woman to beare rule is repugnant to nature, conturnelie to God, a thing most contrarious to his reveled will and approved ordinance; and finallie it is the subversion of good order, of all equitie and justice.' (Monstrous Regiment of Women.)
+[^110]: Lib. i. c. 24. So Knox: 'To promote a woman to beare rule is repugnant to nature, contumelie to God, a thing most contrarious to his reveled will and approved ordinance; and finallie it is the subversion of good order, of all equitie and justice.' (<a class="popup-ref" href="../ref/knox-first-blast.html#repugnant">Monstrous Regiment of Women.</a>)
 
 [^111]: Quæst. ii.
 
