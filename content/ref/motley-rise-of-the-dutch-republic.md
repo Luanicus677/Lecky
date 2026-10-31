@@ -1,0 +1,25 @@
+---
+title: Motley, The Rise of the Dutch Republic
+description: "John Lothrop Motley’s Rise of the Dutch Republic (1856), vol. II, p. 158: the sentence of the Holy Office of 16 February 1568 condemning ‘all the inhabitants of the Netherlands to death as heretics’, quoted by Lecky in Chapter IV (continued), note 39, with the qualification that follows it."
+heading: Motley, <em>The Rise of the Dutch Republic</em>
+subtitle: "Three million people sentenced to death in three lines"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/John_Lothrop_Motley\">John Lothrop Motley</a> (1814–1877), American historian and diplomat. <em>The Rise of the Dutch Republic</em> (1856), a vivid Protestant epic of the revolt against Philip II, was a bestseller in Britain and America."]
+  - ["Edition used", "London, 1856, vol. II (Internet Archive <a href=\"https://archive.org/details/1856riseofdutchrep02motl\">1856riseofdutchrep02motl</a>), p. 158 = <a href=\"https://archive.org/details/1856riseofdutchrep02motl/page/n165/mode/2up\">n165</a>. Lecky’s “vol. ii. p. 155” is presumably another printing’s pagination."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn39\">Rationalism, ch. IV (continued), note 39</a>."]
+  - ["Status", "One passage read on the page image and transcribed. Lecky quotes it almost word for word, with omissions."]
+abstract: |
+  <p>Motley calls it “the most sublime sentence of death … ever pronounced since the creation of the world”: a decree of the Inquisition condemning the whole population of the Netherlands as heretics, confirmed by Philip II ten days later. Lecky quotes the passage nearly word for word, but stops at its most striking line, “Three millions of people … were sentenced to the scaffold in three lines.” Motley’s very next sentences temper it: “It was hardly the purpose of Government to compel the absolute completion of the wholesale plan in all its length and breadth”; the point was that when all were condemned, anyone could be taken to the scaffold at a moment’s notice. Motley’s sources, in his footnotes, are the Dutch chroniclers Bor, Hooft and Van Meteren.</p>
+---
+<section id="three-lines" class="passage">
+<h2>“The most sublime sentence of death” (vol. II, p. 158)</h2>
+<p class="passage-source">English: London 1856, vol. II, p. 158, <a href="https://archive.org/details/1856riseofdutchrep02motl/page/n165/mode/2up">scan</a>. Italics as printed. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<figure class="facsimile"><a href="../assets/img/ref/motley-1856-ii-p158.jpg"><img src="../assets/img/ref/motley-1856-ii-p158.jpg" alt="A printed page of Motley describing the sentence of 16 February 1568 condemning all the inhabitants of the Netherlands to death" loading="lazy"></a><figcaption>Motley, <i>The Rise of the Dutch Republic</i> (London, 1856), vol. II, p. 158. <span class="credit">Scan: Internet Archive (University of Toronto) · public domain</span></figcaption></figure>
+<blockquote>
+<p>Events now marched with rapidity. The monarch seemed disposed literally to execute the threat of his viceroy. Early in the year, the most sublime sentence of death was promulgated which has ever been pronounced since the creation of the world. The Roman tyrant wished that his enemies’ heads were all upon a single neck, that he might strike them off at a blow; the inquisition assisted Philip to place the heads of all his Netherland subjects upon a single neck for the same fell purpose. <span class="cited-passage">Upon the 16th February, 1568, a sentence of the Holy Office condemned <i>all the inhabitants</i> of the Netherlands <i>to death</i> as heretics. From this universal doom <i>only a few persons, especially named,</i> were excepted. A proclamation of the King, dated ten days later, confirmed this decree of the inquisition, and ordered it to be carried into instant execution,</span> without regard to age, sex, or condition. This is probably the most concise death-warrant that was ever framed. <span class="cited-passage">Three millions of people, men, women, and children, were sentenced to the scaffold in three lines</span>; and, as it was well-known that these were not harmless thunders, like some bulls of the Vatican, but serious and practical measures, which it was intended should be enforced, the horror which they produced may be easily imagined. It was hardly the purpose of Government to compel the absolute completion of the wholesale plan in all its length and breadth, yet in the horrible times upon which they had fallen, the Netherlanders might be excused for believing that no measure was too monstrous to be fulfilled. At any rate, it was certain that when <i>all</i> were condemned, <i>any</i> might at a moment’s warning be carried to the scaffold, and this was precisely the course adopted by the authorities.</p>
+</blockquote>
+<p>Lecky drops “without regard to age, sex, or condition” and the sentence “This is probably the most concise death-warrant that was ever framed”, and writes “the 16th of February”.</p>
+</section>

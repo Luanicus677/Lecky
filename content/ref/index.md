@@ -310,6 +310,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Laws made without consent are “no better than mere tyranny” (Book I, ch. X § 8), cited in ch. V, note 93; and how broadly Hooker defined consent.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="motley-rise-of-the-dutch-republic.html">Motley, <em>The Rise of the Dutch Republic</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Inquisition’s sentence of 1568 on “all the inhabitants of the Netherlands” (1856 ed., vol. II, p. 158), cited in ch. IV (continued), note 39.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
