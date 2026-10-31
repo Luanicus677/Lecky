@@ -1,6 +1,6 @@
 ---
 title: Edwards, Freedom of the Will
-description: "Jonathan Edwards’s Careful and Strict Enquiry into … Freedom of Will (Boston, 1754), part IV, section IX, p. 254: in one sense ‘I don’t deny that God is the Author of Sin’, quoted by Lecky in Chapter IV, note 34, with the qualification Lecky leaves out."
+description: "Jonathan Edwards’s Careful and Strict Enquiry into … Freedom of Will (Boston, 1754), part IV, p. 254: in one sense ‘I don’t deny that God is the Author of Sin’, quoted by Lecky in Chapter IV, note 34, with the qualification Lecky leaves out."
 heading: Edwards, <em>Freedom of the Will</em>
 subtitle: "The great Calvinist concedes that God is “the Author of Sin”, in a sense"
 back_link:
@@ -8,14 +8,14 @@ back_link:
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)\">Jonathan Edwards</a> (1703–1758), Congregational minister of Northampton, Massachusetts, preacher of the Great Awakening and the most rigorous philosopher of American Calvinism. Lecky calls him “the ablest writer of the school”."]
-  - ["Edition used", "<em>A Careful and Strict Enquiry into the Modern Prevailing Notions of that Freedom of Will …</em>, Boston, 1754, the first edition (Internet Archive <a href=\"https://archive.org/details/carefulstrictenq00edwa_2\">carefulstrictenq00edwa_2</a>), part IV, section IX, p. 254 = <a href=\"https://archive.org/details/carefulstrictenq00edwa_2/page/n269/mode/2up\">n269</a>. Lecky’s “p. 369” is another edition’s pagination."]
+  - ["Edition used", "<em>A Careful and Strict Enquiry into the Modern Prevailing Notions of that Freedom of Will …</em>, Boston, 1754, the first edition (Internet Archive <a href=\"https://archive.org/details/carefulstrictenq00edwa_2\">carefulstrictenq00edwa_2</a>), part IV, p. 254 = <a href=\"https://archive.org/details/carefulstrictenq00edwa_2/page/n269/mode/2up\">n269</a>. Lecky’s “p. 369” is another edition’s pagination."]
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn34\">Rationalism, ch. IV, note 34</a>."]
   - ["Status", "One passage read on the page image and transcribed."]
 abstract: |
   <p>Lecky argues that Calvinist predestination makes God responsible for sin, and calls Edwards as a hostile witness: if “author of sin” means the one who permits sin while arranging events so that it must follow, then “I do not deny that God is the author of sin.” The words are Edwards’s. But Lecky stops in mid-sentence. Edwards goes straight on: “though I dislike and reject the Phrase”, and “it is no Reproach for the most High to be thus the Author of Sin. This is not to be the Actor of Sin, but on the contrary, of Holiness.” He also insists that in the ordinary sense, God as the doer of sin, “I utterly deny” it, and that the Arminians’ own doctrine leads to the same conclusion.</p>
 ---
 <section id="author-of-sin" class="passage">
-<h2>“I don’t deny that God is the Author of Sin” (part IV, section IX)</h2>
+<h2>“I don’t deny that God is the Author of Sin” (part IV)</h2>
 <p class="passage-source">English: Boston, 1754, p. 254, <a href="https://archive.org/details/carefulstrictenq00edwa_2/page/n269/mode/2up">scan</a>. Long s modernised; italics as printed. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
 <figure class="facsimile"><a href="../assets/img/ref/edwards-1754-p254.jpg"><img src="../assets/img/ref/edwards-1754-p254.jpg" alt="A page of eighteenth-century print with long s: “II. They who object, that this Doctrine makes God the Author of Sin …”" loading="lazy"></a><figcaption>Edwards, <i>Freedom of Will</i>, first edition (Boston, 1754), p. 254. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
 <blockquote>
