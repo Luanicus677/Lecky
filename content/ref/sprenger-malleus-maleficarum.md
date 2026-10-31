@@ -2,7 +2,7 @@
 title: Sprenger, Malleus Maleficarum
 description: Passages of the Malleus Maleficarum (Lyon, 1620) that Lecky cites in Chapter I, notes 21, 22, 68, 78 and 79 (St. Paul’s “because of the angels”, incubi and women’s hair, exorcism at baptism, the etymologies of femina, maleficus and diabolus, St. Silvanus, and the angels’ treatment of Serenus and Equitius), with Latin, English, and comparison with Lecky.
 heading: Sprenger, <em>Malleus Maleficarum</em>
-subtitle: <em>Malleus maleficarum</em>, attributed to Jakob Sprenger and Heinrich Kramer
+subtitle: "The witch-hunters’ handbook of the fifteenth century"
 back_link:
   url: index.html
   text: Sources

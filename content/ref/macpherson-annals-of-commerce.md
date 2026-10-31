@@ -2,7 +2,7 @@
 title: Macpherson, Annals of Commerce
 description: "David Macpherson’s Annals of Commerce (1805): the 1346 footnote on the office of consul (vol. i, p. 536), the Portuguese ransom of Moors for negro slaves (vol. i, p. 661) and the first English–Spanish slave convention (vol. ii, p. 638), cited in Chapter VI, notes 94, 160 and 162."
 heading: Macpherson, <em>Annals of Commerce</em>
-subtitle: "Three passages (vol. i pp. 536, 661; vol. ii p. 638)"
+subtitle: "Medieval trade year by year: merchants, consuls and markets"
 back_link:
   url: index.html
   text: Sources

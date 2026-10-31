@@ -2,7 +2,7 @@
 title: Blanqui, Histoire de l’économie politique en Europe
 description: "Adolphe Blanqui’s history of political economy: the sumptuary ordinances of 1294 (tom. i, pp. 225–226) and the Florentine budget of 1336–38 with its officer “to repress the luxury of women” (p. 250), cited in Chapter VI, notes 83 and 85."
 heading: Blanqui, <em>Histoire de l’économie politique en Europe</em>
-subtitle: "Philip the Fair’s sumptuary laws (pp. 225–226) and the Florentine budget (p. 250)"
+subtitle: "How medieval kings policed luxury, and what Florence spent"
 back_link:
   url: index.html
   text: Sources

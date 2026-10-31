@@ -2,7 +2,7 @@
 title: Gerson, De probatione spirituum and De erroribus
 description: "Two tracts of Jean Gerson printed in the Malleus Maleficarum collection (Lyon 1620): the passage on a devil disguised as Christ (De probatione spirituum), and the passage on the ridicule of theologians who speak of demons (De erroribus circa artem magicam), each with Latin, English, and comparison with Lecky."
 heading: Gerson, <em>De probatione spirituum</em> and <em>De erroribus</em>
-subtitle: Jean Gerson, <em>De probatione spirituum</em> (“On the testing of spirits”) and <em>Tractatus de erroribus circa artem magicam</em> (“On errors concerning the magic art”)
+subtitle: "How to tell a true vision from a demon’s, and the errors of the magicians"
 back_link:
   url: index.html
   text: Sources

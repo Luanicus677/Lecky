@@ -2,7 +2,7 @@
 title: Aquinas, Summa Supplement q. 94
 description: "The article of the Supplement to Aquinas’s Summa (q. 94, art. 1) on whether the blessed see the punishments of the damned, which Lecky quotes in Chapter III, note 150, in Latin and English from an 18th-century edition, with Lecky’s quotation compared; it is not word for word."
 heading: Aquinas, <em>Summa theologiae</em>, Supplement, q. 94
-subtitle: Thomas Aquinas, “Whether the blessed will see the punishments of the damned”
+subtitle: "Will the blessed in heaven see the sufferings of the damned?"
 back_link:
   url: index.html
   text: Sources

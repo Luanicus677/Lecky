@@ -2,7 +2,7 @@
 title: Spina, Quaestio de Strigibus and Apologia
 description: "Bartolomeo Spina's work on witches (Lyon 1620 reprint): the passages Lecky cites in notes 5, 67 and 84 on the numbers burned at Como, the inquisitors' opponents, and Peter Martyr, with Latin, English, and comparison with Lecky."
 heading: Spina, <em>Quaestio de Strigibus</em> and <em>Apologia</em>
-subtitle: Bartolomeo Spina, <em>Quaestio de strigibus</em>, and his <em>Apologia</em> against Ponzinibio
+subtitle: "An inquisitor insists that witches really fly, and answers a sceptic"
 back_link:
   url: index.html
   text: Sources

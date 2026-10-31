@@ -2,7 +2,7 @@
 title: Pascal, Pensées (original sin)
 description: "Pascal’s fragment on the injustice of damning an infant for a sin committed six thousand years before (Pensées, Brunschvicg 434, in Section VII), quoted by Lecky in Chapter IV, note 12. Read in the Brunschvicg text on French Wikisource, not in a scan."
 heading: Pascal, <em>Pensées</em>
-subtitle: "“Que de damner éternellement un enfant incapable de volonté” (Section VII)"
+subtitle: "Pascal on the doctrine that most offends reason"
 back_link:
   url: index.html
   text: Sources

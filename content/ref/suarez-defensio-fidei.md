@@ -2,7 +2,7 @@
 title: Suárez, Defensio fidei catholicae, Book VI
 description: "The passages of Francisco Suárez’s Defence of the Catholic Faith (Book VI, chapter 4) that Lecky quotes in Chapter V, notes 34, 41–43 and 45, read in the Vivès edition and compared with Lecky’s Latin. The quotations are accurate; the one in note 34 stops short of the sentence’s end."
 heading: Suárez, <em>Defensio fidei catholicae</em>, Book VI
-subtitle: Chapter 4, “Whether the third part of the oath contains anything beyond civil obedience”
+subtitle: "May the Pope release subjects from their oath to a king? The Jesuit reply to James I"
 back_link:
   url: index.html
   text: Sources

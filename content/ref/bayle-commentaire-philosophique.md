@@ -2,7 +2,7 @@
 title: Bayle, Commentaire philosophique
 description: "Pierre Bayle’s Commentaire philosophique sur ces paroles de Jésus-Christ, Contrain-les d’entrer (1686): the false title page Lecky describes in Chapter IV, note 76, and the opening of Part II, chapter IV (p. 295), the chapter Lecky cites in note 7 on the Mosaic law of idolatry."
 heading: Bayle, <em>Commentaire philosophique</em>
-subtitle: "The title page (1686) and Part II, chapter IV (p. 295)"
+subtitle: "Bayle’s case for toleration: no reading of Scripture can command cruelty"
 back_link:
   url: index.html
   text: Sources

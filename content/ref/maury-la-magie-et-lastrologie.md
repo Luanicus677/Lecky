@@ -2,7 +2,7 @@
 title: Maury, La magie et l’astrologie
 description: "Alfred Maury’s La magie et l’astrologie dans l’antiquité et au moyen âge (Paris, 1860): the passages Lecky quotes or cites in Chapter I, notes 20, 29, 92 and 93 (pp. 117–118, 221, 317), with the French transcribed, translated and collated."
 heading: Maury, <em>La magie et l’astrologie</em>
-subtitle: "Constantius’s laws (pp. 117–118), the first free-thinkers (p. 221) and the Messalians (p. 317)"
+subtitle: "Roman laws against diviners, the first medieval doubters, and the praying heretics"
 back_link:
   url: index.html
   text: Sources

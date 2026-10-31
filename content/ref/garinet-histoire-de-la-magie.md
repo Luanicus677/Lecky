@@ -2,7 +2,7 @@
 title: Garinet, Histoire de la Magie en France
 description: Jules Garinet’s history of magic in France (1818), the passage on ancient laws against sorcerers that Lecky follows for “Lemia”, with French text, translation, and a comparison with Lecky’s summary.
 heading: Garinet, <em>Histoire de la Magie en France</em>
-subtitle: Jules Garinet, <em>Histoire de la magie en France, depuis le commencement de la monarchie jusqu’à nos jours</em>
+subtitle: "A history of magic in France, from the Frankish kings to the author’s own day"
 back_link:
   url: index.html
   text: Sources

@@ -2,7 +2,7 @@
 title: De Maistre, Soirées de Saint-Pétersbourg
 description: "Joseph de Maistre’s Soirées de Saint-Pétersbourg, sixth conversation: the sentences on Locke (“le mépris de Locke est le commencement de la sagesse”; the Essay “tout ce que le défaut absolu de génie et de style peut enfanter de plus assommant”), quoted by Lecky in Chapter IV, note 45."
 heading: De Maistre, <em>Les soirées de Saint-Pétersbourg</em>
-subtitle: "Locke in the sixth conversation (pp. 437, 452); Bacon in the Examen (p. 100)"
+subtitle: "A Catholic counter-revolutionary against Locke and Bacon"
 back_link:
   url: index.html
   text: Sources

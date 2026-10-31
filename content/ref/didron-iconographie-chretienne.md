@@ -2,7 +2,7 @@
 title: Didron, Iconographie chrétienne
 description: "Adolphe Napoléon Didron’s Iconographie chrétienne: Histoire de Dieu (1843), p. 262, the passage on the stern Christ from the twelfth century (“Rex tremendae majestatis”), which Lecky translates in Chapter I, note 52."
 heading: Didron, <em>Iconographie chrétienne</em>
-subtitle: "The Christ of the Last Judgment (p. 262) and the souls in God’s hand (p. 216)"
+subtitle: "How medieval art pictured Christ the Judge"
 back_link:
   url: index.html
   text: Sources

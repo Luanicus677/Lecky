@@ -2,7 +2,7 @@
 title: Llorente, Histoire critique de l’Inquisition
 description: "Juan Antonio Llorente’s totals for the Spanish Inquisition (tom. iv, p. 271) and his Seville figures from Mariana, Bernáldez and the inscription of 1524 (tom. i, pp. 273–275), the evidence behind Lecky’s note 37 in Chapter IV."
 heading: Llorente, <em>Histoire critique de l’Inquisition d’Espagne</em>
-subtitle: "The grand total (tom. iv, p. 271) and the Seville figures (tom. i, pp. 273–275)"
+subtitle: "How many did the Spanish Inquisition burn? Its former secretary counts"
 back_link:
   url: index.html
   text: Sources

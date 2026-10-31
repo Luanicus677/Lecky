@@ -2,7 +2,7 @@
 title: Grillandus, De Sortilegiis
 description: Paolo Grillandi’s treatise on sorcery (1530s), the passage Lecky quotes on the poverty of sorcerers, with Latin text, translation, and a comparison of editions.
 heading: Grillandus, <em>De Sortilegiis</em>
-subtitle: Paolo Grillandi, <em>Tractatus de hereticis et sortilegiis</em>
+subtitle: "An Italian judge’s casebook of sorcery trials"
 back_link:
   url: index.html
   text: Sources

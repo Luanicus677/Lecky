@@ -2,7 +2,7 @@
 title: Bayle, Dictionnaire historique et critique
 description: "Two articles of Bayle’s Dictionary that Lecky cites: Remark (H) of “Augustin”, on the Walloon synod of Amsterdam in 1690 (Chapter IV Part II, note 55), and Remark (C) of “Socin (Fauste)”, on Socinus’s condemnation of armed resistance, including the Dutch revolt (Chapter V, note 133)."
 heading: Bayle, <em>Dictionnaire historique et critique</em>
-subtitle: "Articles “Augustin”, remark H, and “Socin”, remark C"
+subtitle: "Pierre Bayle’s dictionary on St. Augustine and on Socinus"
 back_link:
   url: index.html
   text: Sources

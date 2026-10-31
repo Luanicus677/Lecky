@@ -2,7 +2,7 @@
 title: Codex Theodosianus, IX.16
 description: Laws of Constantine, Constantius II and Valentinian against haruspices, divination and magic that Lecky cites in Chapter I (Book IX, title 16, laws 1–4, 6 and 7), with English drafts and comparisons with Lecky’s text.
 heading: <em>Codex Theodosianus</em>, IX.16
-subtitle: <em>De maleficis et mathematicis et ceteris similibus</em> (“On sorcerers, astrologers, and the like”)
+subtitle: "The Christian emperors’ laws against sorcerers, diviners and astrologers"
 back_link:
   url: index.html
   text: Sources

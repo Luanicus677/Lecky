@@ -2,7 +2,7 @@
 title: Madden, Phantasmata
 description: "R. R. Madden's Phantasmata (1857), vol. I p. 305, the passage that Lecky's note 5 draws on for the Como figures and the Venetian rising against the inquisitors, with comparison with Lecky."
 heading: Madden, <em>Phantasmata</em>
-subtitle: Richard Robert Madden, <em>Phantasmata; or, Illusions and Fanaticisms of Protean Forms</em>
+subtitle: "An Irish doctor’s history of delusions, and the witch-burnings in an Alpine valley"
 back_link:
   url: index.html
   text: Sources
