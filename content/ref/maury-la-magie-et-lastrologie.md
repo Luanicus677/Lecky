@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="constance-117" class="passage">
 <h2>The laws of Constantius against divination (pp. 117–118)</h2>
+<figure class="title-page"><a href="../assets/img/ref/maury-1860-title.jpg"><img src="../assets/img/ref/maury-1860-title.jpg" alt="Title page: “La Magie et l’astrologie” by L. F. Alfred Maury" loading="lazy"></a><figcaption>Title page of the copy used here (Paris, 1860). <span class="credit"><a href="https://archive.org/details/BSG_8R428_3INV2303FA/page/n10/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">French: pp. 117–118, <a href="https://archive.org/details/BSG_8R428_3INV2303FA/page/n128/mode/2up">scan</a> and <a href="https://archive.org/details/BSG_8R428_3INV2303FA/page/n129/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: what Lecky quotes (note 29).</p>
 <div class="parallel">
 <div class="original" lang="fr">

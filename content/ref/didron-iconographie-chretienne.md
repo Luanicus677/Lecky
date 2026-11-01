@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="christ-redoutable" class="passage">
 <h2>“Alors il est vraiment redoutable” (p. 262)</h2>
+<figure class="title-page"><a href="../assets/img/ref/didron-title.jpg"><img src="../assets/img/ref/didron-title.jpg" alt="Title page: “Iconographie chrétienne. Histoire de Dieu, par M. Didron”, with a royal seal" loading="lazy"></a><figcaption>Title page of Didron’s <i>Iconographie chrétienne. Histoire de Dieu</i> (Paris, Imprimerie royale). <span class="credit"><a href="https://archive.org/details/iconographiechr02didruoft/page/n10/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">French: p. 262, <a href="https://archive.org/details/iconographiechr02didruoft/page/n273/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: the sentences Lecky translates.</p>
 <div class="parallel">
 <div class="original" lang="fr">

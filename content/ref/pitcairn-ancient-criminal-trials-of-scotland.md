@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="presbyteries-598" class="passage">
 <h2>Confessions taken before presbyteries (p. 598)</h2>
+<figure class="title-page"><a href="../assets/img/ref/pitcairn-vol3-title.jpg"><img src="../assets/img/ref/pitcairn-vol3-title.jpg" alt="Title page: “Ancient Criminal Trials in Scotland … by Robert Pitcairn”, vol. III, part II" loading="lazy"></a><figcaption>Title page of vol. III, part II, which contains the Gowdie confessions. <span class="credit"><a href="https://archive.org/details/ancientcrim43pt203pitcuoft/page/n10/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">English: Appendix, p. 598, <a href="https://archive.org/details/ancientcrim43pt203pitcuoft/page/n249/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
 <blockquote>
 <p>… The Editor has been induced, in compliance with the repeated desire of literary friends, contrary to his own private opinion, to annex to this work the Confessions of these unhappy women, and a few other similar Examinations. <span class="cited-passage">Such declarations were commonly taken before Presbyteries, or certain Special Commissioners, who usually ranked among their number the leading Clergy of those districts where their hapless victims resided.</span> The details of all such cases, and, in particular, those which are now annexed, are repulsive and shocking to every well-regulated mind; but, as recording the superstitions and crimes common at the period in question to all the civilized …</p>

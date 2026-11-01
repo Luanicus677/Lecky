@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="seville-estimates" class="passage">
 <h2>Mariana and Bernáldez (tom. i, pp. 273)</h2>
+<figure class="title-page"><a href="../assets/img/ref/llorente-portrait.jpg"><img src="../assets/img/ref/llorente-portrait.jpg" alt="Engraved oval portrait of a priest with a medal on a ribbon, books and inkwell below, captioned “Dn. Juan Antonio Llorente”" loading="lazy"></a><figcaption>Juan Antonio Llorente: the portrait in tome I of the French edition of his history. <span class="credit"><a href="https://archive.org/details/bub_gb_6rkHAAAAQAAJ/page/n7/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">French: tom. i p. 273, <a href="https://archive.org/details/bub_gb_6rkHAAAAQAAJ/page/n330/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: the figures Lecky uses.</p>
 <div class="parallel">
 <div class="original" lang="fr">

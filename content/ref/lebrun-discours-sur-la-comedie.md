@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="moliere" class="passage">
 <h2>Molière and Rosimond (p. 259)</h2>
+<figure class="title-page"><a href="../assets/img/ref/lebrun-1731-title.jpg"><img src="../assets/img/ref/lebrun-1731-title.jpg" alt="Title page: “Discours sur la comédie, ou traité historique et dogmatique des jeux de théâtre … par le R. P. Pierre Le Brun”, Paris, 1731" loading="lazy"></a><figcaption>Title page of the 1731 Paris edition used here. <span class="credit"><a href="https://archive.org/details/discourssurlacom00lebr/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">French: p. 259, <a href="https://archive.org/details/discourssurlacom00lebr/page/n312/mode/2up">scan</a>. Long s modernised. <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
 <div class="parallel">
 <div class="original" lang="fr">

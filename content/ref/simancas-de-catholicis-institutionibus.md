@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="fides-365" class="passage">
 <h2>Faith with Heretics (pp. 365–366)</h2>
+<figure class="title-page"><a href="../assets/img/ref/simancas-1575-title.jpg"><img src="../assets/img/ref/simancas-1575-title.jpg" alt="Engraved title page with architectural frame and figures: “Iacobi Simancae Pacensis episcopi De catholicis institutionibus liber”" loading="lazy"></a><figcaption>Engraved title page of the Rome printing of 1575. <span class="credit"><a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 
 <p class="passage-source">Latin: Rome, 1575, <em>Titulus</em> XLVI (on penalties for heretics), §§ 52–54, pp. 365–366 (<a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n406/mode/2up">scan</a>, <a href="https://archive.org/details/bub_gb_n-Ktt0tILHMC/page/n407/mode/2up">next page</a>). Abbreviations expanded, <em>u</em>/<em>v</em> and <em>j</em>/<em>i</em> normalised, and the marginal citations of authorities omitted. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
 

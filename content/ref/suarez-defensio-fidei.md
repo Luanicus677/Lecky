@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="deposition" class="passage">
 <h2>Who may depose a king (§ 15–16, p. 680)</h2>
+<figure class="title-page"><a href="../assets/img/ref/suarez-vives-24-title.jpg"><img src="../assets/img/ref/suarez-vives-24-title.jpg" alt="Title page: “R. P. Francisci Suarez … Opera omnia”, tome 24, Paris, Vivès" loading="lazy"></a><figcaption>Title page of vol. 24 of Suárez’s <i>Opera omnia</i> (Paris, Vivès), which contains the <i>Defensio fidei</i>. <span class="credit"><a href="https://archive.org/details/rpfranciscisuare24suar/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">Latin: p. 680, <a href="https://archive.org/details/rpfranciscisuare24suar/page/n699/mode/2up">scan</a> (notes 41 and 43). <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
 <div class="parallel">
 <div class="original" lang="la">

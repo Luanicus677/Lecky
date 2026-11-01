@@ -16,6 +16,8 @@ abstract: |
 ---
 <section id="zerta-412" class="passage">
 <h2>Salvation only in the Church; the synod of Zerta</h2>
+<figure class="title-page"><a href="../assets/img/ref/palmer-title.jpg"><img src="../assets/img/ref/palmer-title.jpg" alt="Title page: “A Treatise on the Church of Christ … by the Rev. William Palmer”, vol. I" loading="lazy"></a><figcaption>Title page of vol. I of the edition used here. <span class="credit"><a href="https://archive.org/details/treatiseonchurch01palmiala/page/n10/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+
 <p class="passage-source">English and Latin: vol. 1, p. 12, <a href="https://archive.org/details/treatiseonchurch01palmiala/page/n39/mode/2up">scan</a>.</p>
 <blockquote>
 <p>… Cyprian says: “That man cannot have God for his father who has not the church for his mother. …” Augustine continues the chain of tradition thus: “No one cometh to salvation and eternal life, except he who hath Christ for his Head, but no one can have Christ for his Head, except he that is in his body, the church.” Fulgentius observes, that “Without this church neither doth the name of Christian help in any degree, nor doth baptism save, nor is a clean sacrifice offered to God, nor is remission of sins received, nor is the felicity of eternal life found.” These are indeed the sentiments of all the fathers and doctors of the church. I shall only add the testimony of two councils. <span class="cited-passage">The synod of Zerta (A.D. 412) said: “Whosoever is separated from this catholic church, however innocently he may think he lives; for this crime alone, that he is separated from the unity of Christ, will not have life, but the wrath of God remaineth on him.”</span></p>
