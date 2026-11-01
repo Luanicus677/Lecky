@@ -191,6 +191,21 @@ abstract: |
 </details>
 </section>
 
+<section id="f216-angers" class="passage">
+<h2>Burnt for eating meat on a Friday: Angers, 1539 (Book IV, f. 216)</h2>
+<p class="passage-source">French: Paris 1582, Book IV, f. 216 recto, <a href="https://archive.org/details/per_witchcraft-in-europe-and-america_bodin-jean_1582_125/page/n466/mode/2up">scan</a>. Margin: “l. Manichæos de hæret. Cod. … cap. ad abolendam § præsenti, de hæret. lib. 6”. <span class="cited-passage">Highlighted</span>: what Lecky reports in ch. III, note 135.</p>
+<figure class="facsimile"><a href="../assets/img/ref/bodin-1582-f216.jpg"><img src="../assets/img/ref/bodin-1582-f216.jpg" alt="A page headed “Livre quatriesme. 216”, with the words “mangé de la chair au Vendredy estoit bruslé tout vif, comme il fut faict en la ville d’Angers”" loading="lazy"></a><figcaption>Bodin, <i>Démonomanie</i> (Paris, 1582), Book IV, f. 216. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>[On ne doit pas pardonner au] Sorcier penitent, soubs ombre que les Loix &amp; Canons veulent qu’on pardonne aux heretiques repentis (combien que <span class="cited-passage">les Magistrats en quelques lieux par cy devant, y ont eu tel esgard, que celuy qui avoit mangé de la chair au Vendredy estoit bruslé tout vif, comme il fut faict en la ville d’Angers l’an mil cinq cens trente neuf, s’il ne s’en repentoit&#8239;: &amp; iaçoit qu’il se repentist, si estoit-il pendu par compassion.</span>) Car celuy qui void une chose contre la loy de Dieu, encores qu’il soit heretique, si est-ce que ceste opinion estant changee, la conscience demeure entiere. Mais celuy qui adore Satan ou renie Dieu (combien que l’un ne peut estre sans l’autre) a mis en effect une chose qui ne peut qu’elle ne soit faicte, &amp; comme on dict en droict, <i lang="la">Factum infectum esse non potest</i>.</p>
+</div>
+<div class="rendering" lang="en">
+<p>[One must not spare the] penitent sorcerer on the pretext that the laws and canons require repentant heretics to be pardoned (although <span class="cited-passage">magistrates in some places have hitherto had such regard to it that whoever had eaten meat on a Friday was burnt alive, as was done in the town of Angers in the year fifteen hundred and thirty-nine, if he did not repent; and even if he repented, he was hanged, out of compassion</span>). For he who sees a thing contrary to the law of God, though he be a heretic, yet once that opinion is changed, his conscience remains whole. But he who worships Satan or denies God (though the one cannot be without the other) has carried out a deed that cannot be undone, and as the lawyers say, <i>what is done cannot be made undone</i>.</p>
+</div>
+</div>
+<p>Lecky reports the Angers executions accurately but not their setting. Bodin mentions them in a parenthesis, to concede that repentant heretics were sometimes treated leniently (hanging instead of burning), on the way to arguing that a repentant witch must not be pardoned at all, because a pact with Satan is a deed, not an opinion.</p>
+</section>
+
 <section id="later-comparison" class="passage">
 <h2>Lecky’s Notes 68, 88 and 137 Compared</h2>
 
