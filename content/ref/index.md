@@ -358,6 +358,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Matthew Hopkins “hang’d threescore of ’em in one Shire” (Part II, Canto III; Grey’s annotated ed., 1744), cited in ch. I, note 112.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="milton-areopagitica.html">Milton, <em>Areopagitica</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Truth hewn in pieces like Osiris (1644; Hales ed., p. 43), cited in ch. IV (continued), note 90.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
