@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn83\">Rationalism, ch. VI, note 83</a>, <a href=\"../rationalism/vol2-ch6.html#fn85\">85</a> and <a href=\"../rationalism/vol2-ch6.html#fn164\">note 164</a>."]
   - ["Status", "Three notes checked on page images (83, 85, 164). Notes 96 (pp. 244–270), 159 (pp. 271–284) and 169 are not yet checked; the edition Lecky used (he does not say which) is not known."]
 abstract: |
-  <p>Note 83 is accurate: pp. 225–226 print the ordinance of 1294 on robes and tables and the ordinance on the wives of burghers, and Blanqui goes on, as Lecky says, to argue that the French king was trying to keep gold in the kingdom. Note 85 is accurate as to the officer “charged with repressing the luxury of women”, but Blanqui’s table is the Florentine budget of <em>1336–1338</em>; Lecky puts the office “in the beginning of the fourteenth century”.</p>
+  <p>Adolphe Blanqui’s history of economics gave Lecky two vivid details about medieval luxury: Philip the Fair’s law of 1294 fixing how many robes each rank might own and how many dishes might be served at dinner, and a Florentine official whose job was to repress the luxury of women. Both are on the page, but the Florentine officer comes from a budget of 1336–1338, later than Lecky’s “beginning of the fourteenth century”.</p>
 ---
 <section id="ordonnance-1294" class="passage">
 <h2>The sumptuary ordinances of 1294 (pp. 225–226)</h2>
@@ -73,3 +73,7 @@ abstract: |
 </div>
 <p>Lecky’s sentence, that Spain “was the true author of the mercantile theory and of the colonial policy which have been the sources of disastrous wars to every European nation”, is Blanqui’s thesis and almost his wording, and note 164 cites this page for it. Blanqui’s “accession of Charles V” is not Lecky’s phrase; Lecky has dropped the date and widened “Europe” to “every European nation”. The footnote’s quotation from Ustáriz and its date (1740) were read on a clear image; I did not check them against Ustáriz.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Note 83 is accurate: pp. 225–226 print the ordinance of 1294 on robes and tables and the ordinance on the wives of burghers, and Blanqui goes on, as Lecky says, to argue that the French king was trying to keep gold in the kingdom. Note 85 is accurate as to the officer “charged with repressing the luxury of women”, but Blanqui’s table is the Florentine budget of <em>1336–1338</em>; Lecky puts the office “in the beginning of the fourteenth century”.</p>
+</details>

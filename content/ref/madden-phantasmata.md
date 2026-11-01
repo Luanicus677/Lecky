@@ -13,7 +13,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn5\">Rationalism in Europe, ch. I, note 5</a>; Lecky also cites Madden at notes <a href=\"../rationalism/vol1-ch1.html#fn3\">3</a>, <a href=\"../rationalism/vol1-ch1.html#fn6\">6</a>, <a href=\"../rationalism/vol1-ch1.html#fn106\">106</a> and others (not yet transcribed)"]
   - ["Status", "One passage summarised and compared; the 1518 event checked against an Italian archival study, Sanudo’s <em>Diarii</em>, and the Council of Ten’s letter of 31 July 1518 as transcribed in that study (see the last three sections). Short quotations only."]
 abstract: |
-  <p>Madden's book is a nineteenth-century medical and historical survey of religious and witch manias. On p. 305 he gives a rapid chronology of papal bulls and trials in Italy. Lecky's note 5 cites “Madden, vol. i. 305”, and it is the source of his claim that “the severity of the inquisitors at last created an absolute rebellion”.</p>
+  <p>Lecky says the witch-burnings in the valleys north of Brescia in 1518 provoked “an absolute rebellion” against the inquisitors. His source is a single page of R. R. Madden, an Irish doctor writing in 1857. The Venetian records tell a different story: it was the Council of Ten, the Venetian government, that ordered the inquisitors to stop, and later that summer delegates from the valley itself came to Venice asking for the inquisition to continue. This page sets Madden beside Marino Sanudo’s diary and the Council’s own letter.</p>
 ---
 <section id="p305" class="passage">
 <h2>P. 305: Venice 1518, and Como</h2>
@@ -135,3 +135,7 @@ abstract: |
 
 <p><strong>Verdict on the wording.</strong> Sanudo’s 14 July account and the register’s 31 July letter fit together: the heads of the Ten first told Brescia to stop the executions and send the record (14 July), and on 31 July the full Council confirmed the stop and ordered the records and the people involved brought to Venice. The study’s statement that the Council “decided on 31 July to block” is looser than the document, which refers to an earlier, already obeyed order. Neither document describes a rising. This remains a check through a modern transcription, not the manuscript, and without Del Col.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Madden's book is a nineteenth-century medical and historical survey of religious and witch manias. On p. 305 he gives a rapid chronology of papal bulls and trials in Italy. Lecky's note 5 cites “Madden, vol. i. 305”, and it is the source of his claim that “the severity of the inquisitors at last created an absolute rebellion”.</p>
+</details>

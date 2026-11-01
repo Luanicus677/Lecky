@@ -2,7 +2,7 @@
 title: Macaulay, History and Essays
 description: "Four passages of Macaulay that Lecky cites or quotes, read in Project Gutenberg texts (not page scans): the Puritans and bear-baiting (History, ch. 2), the Church of England as “servile handmaid of monarchy” (the Hallam essay), the Low Church clergy (History, ch. 11) and the Associate Presbytery’s belief in witchcraft (History, ch. 16, footnote)."
 heading: Macaulay, <em>History of England</em> and <em>Essays</em>
-subtitle: "Four passages, found by their words, not by Lecky’s page numbers"
+subtitle: "Macaulay on Puritans, bear-baiting and the servile Church"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn132\">Rationalism, ch. III, note 132</a>, <a href=\"../rationalism/vol1-ch3.html#fn87\">note 87</a>; <a href=\"../rationalism/vol1-ch1.html#fn167\">ch. I, note 167</a>; <a href=\"../rationalism/vol2-ch5.html#fn86\">ch. V, note 86</a>."]
   - ["Status", "Four passages found and collated against the Gutenberg texts. Not covered: ch. I note 19 and ch. II (the essay on Ranke), ch. IV Part II note 52 (Essays vol. ii p. 140)."]
 abstract: |
-  <p>Two of Lecky’s quotations are not exact. In Chapter III, note 132, he gives “If the Puritans suppressed bull-baiting, it was not because it gave pain to the bull, but because it gave pleasure to the spectators”. Macaulay wrote “The Puritan hated bearbaiting, not because it gave pain to the bear, but because it gave pleasure to the spectators”: a different animal and no “if”. In Chapter V, note 86, the sentences on the Church of England are Macaulay’s, in the essay on Hallam’s <em>Constitutional History</em>, with small changes (“for more than 150 years” for “a hundred and fifty years”, “judgement” for “judgment”, “the submission she had taught” for “the submission which she had taught”, and the punctuation).</p>
-  <p>The other two are accurate in substance with qualifications. Macaulay’s “a tenth part of the priesthood” (note 87) is a figure he says would overstate the Low Church clergy’s numbers, and he is speaking of 1687–88, before William’s accession. The Associate Presbytery’s witchcraft declaration (ch. I, note 167) is in a footnote of Macaulay’s chapter on Scotland and gives the date 1773 and the author (Adam Gib), but says nothing of a “resolution”.</p>
+  <p>Lecky quotes Macaulay’s most famous joke slightly wrong. Macaulay wrote that “the Puritan hated bearbaiting, not because it gave pain to the bear, but because it gave pleasure to the spectators”; Lecky makes it bull-baiting. His other borrowings, on the Church of England as “the servile handmaid of monarchy”, the Low Church clergy and the Scottish Presbytery that still declared for witchcraft, are accurate in substance, with small changes noted below.</p>
 ---
 <section id="bearbaiting" class="passage">
 <h2>The Puritans and bear-baiting (<em>History</em>, ch. 2)</h2>
@@ -50,3 +49,8 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. I, note 167, “Macaulay, Hist. vol. iii. p. 706”, attached to “As late as 1773, ‘the divines of the Associated Presbytery’ passed a resolution declaring their belief in witchcraft, and deploring the scepticism that was general”): Macaulay names the 1773 <em>Act, Declaration, and Testimony</em> and calls its authors “absurd” on witchcraft, but does not call it a “resolution” or say it deplored scepticism; those details are Lecky’s (presumably from the publication itself, which I have not seen). Lecky’s quotation marks around “the divines of the Associated Presbytery” reproduce Macaulay’s “the Divines of the Associate Presbytery” with “Associated” for “Associate”.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Two of Lecky’s quotations are not exact. In Chapter III, note 132, he gives “If the Puritans suppressed bull-baiting, it was not because it gave pain to the bull, but because it gave pleasure to the spectators”. Macaulay wrote “The Puritan hated bearbaiting, not because it gave pain to the bear, but because it gave pleasure to the spectators”: a different animal and no “if”. In Chapter V, note 86, the sentences on the Church of England are Macaulay’s, in the essay on Hallam’s <em>Constitutional History</em>, with small changes (“for more than 150 years” for “a hundred and fifty years”, “judgement” for “judgment”, “the submission she had taught” for “the submission which she had taught”, and the punctuation).</p>
+<p>The other two are accurate in substance with qualifications. Macaulay’s “a tenth part of the priesthood” (note 87) is a figure he says would overstate the Low Church clergy’s numbers, and he is speaking of 1687–88, before William’s accession. The Associate Presbytery’s witchcraft declaration (ch. I, note 167) is in a footnote of Macaulay’s chapter on Scotland and gives the date 1773 and the author (Adam Gib), but says nothing of a “resolution”.</p>
+</details>

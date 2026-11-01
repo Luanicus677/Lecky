@@ -2,7 +2,7 @@
 title: Pitcairn, Ancient Criminal Trials in Scotland
 description: "Robert Pitcairn’s Ancient Criminal Trials in Scotland (1833), vol. 3, Appendix, p. 598: the editor’s remark that witch confessions were taken before presbyteries or special commissioners who included the leading clergy, quoted by Lecky in Chapter I, note 149 (and cited again in note 162)."
 heading: Pitcairn, <em>Ancient Criminal Trials in Scotland</em>
-subtitle: "Confessions taken before presbyteries (vol. 3, p. 598)"
+subtitle: "Isobel Gowdie’s confessions, and who took them"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn149\">Rationalism, ch. I, note 149</a>; note 162 cites the same page (see below)."]
   - ["Status", "p. 598 read on the image. Lecky’s “Pitcairn gives numbers of these confessions” is not checked."]
 abstract: |
-  <p>Lecky’s quotation (“The confessions were commonly taken before presbyteries, or certain special commissioners, who usually ranked among their number the leading clergy of those districts where their hapless victims resided”) is Pitcairn’s sentence from the editor’s introduction to the Confessions of Isobel Gowdie and Janet Breadhead, with “Such declarations” changed to “The confessions” and Lecky’s lower-case. The same page also says that matters were “no better in England”, under Charles I, Charles II and the Puritans, with Hopkins the Witch-finder (Pitcairn’s footnote refers to Scott’s <em>Letters on Demonology and Witchcraft</em>, 1830).</p>
-  <p>Note 162 cites p. 598 for a sentence about the Earl of Mar being “bled to death” (that sentence cites Scott’s <em>Demonology</em>, letter ix.). Nothing about the Earl of Mar is on this page; the note’s “Pitcairn, vol. iii. p. 598” probably belongs to the note that came before it.</p>
+  <p>Robert Pitcairn printed the records of Scottish criminal trials, including the confessions of Isobel Gowdie (1662), among the most elaborate witch-confessions on record. His introduction notes who took such confessions: presbyteries or special commissioners who “usually ranked among their number the leading clergy”. Lecky quotes the sentence almost word for word, but the Earl of Mar story he attributes to the same page is not there.</p>
 ---
 <section id="presbyteries-598" class="passage">
 <h2>Confessions taken before presbyteries (p. 598)</h2>
@@ -23,3 +22,8 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. I, note 149): “The confessions were commonly taken before presbyteries, or certain special commissioners, who usually ranked among their number the leading clergy of those districts where their hapless victims resided.” Matches except for the opening words and capitals. On the same page, before this passage, Pitcairn quotes a Scottish chronicle on witches burnt alive and says it is hardly necessary to remind the reader that matters were no better in England.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s quotation (“The confessions were commonly taken before presbyteries, or certain special commissioners, who usually ranked among their number the leading clergy of those districts where their hapless victims resided”) is Pitcairn’s sentence from the editor’s introduction to the Confessions of Isobel Gowdie and Janet Breadhead, with “Such declarations” changed to “The confessions” and Lecky’s lower-case. The same page also says that matters were “no better in England”, under Charles I, Charles II and the Puritans, with Hopkins the Witch-finder (Pitcairn’s footnote refers to Scott’s <em>Letters on Demonology and Witchcraft</em>, 1830).</p>
+<p>Note 162 cites p. 598 for a sentence about the Earl of Mar being “bled to death” (that sentence cites Scott’s <em>Demonology</em>, letter ix.). Nothing about the Earl of Mar is on this page; the note’s “Pitcairn, vol. iii. p. 598” probably belongs to the note that came before it.</p>
+</details>

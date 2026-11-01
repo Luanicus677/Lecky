@@ -2,7 +2,7 @@
 title: Simancas, De Catholicis Institutionibus
 description: "Passages from Diego de Simancas’s De Catholicis Institutionibus (Rome, 1575) that Lecky cites: faith with heretics (pp. 365–366), and torture (pp. 494, 495, 506), in Latin and English, with Lecky’s quotations and page numbers compared."
 heading: Simancas, <em>De Catholicis Institutionibus</em>
-subtitle: Diego de Simancas, bishop of Badajoz and Zamora
+subtitle: "An inquisitor’s handbook: no faith with heretics, and torture"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn158\">Rationalism, ch. III, note 158</a> (torture; the notes there also name Simancas in note 155) and <a href=\"../rationalism/vol1-ch4.html#fn37\">ch. IV, note 37</a> (faith with heretics)."]
   - ["Status", "Four passages transcribed from the page images and translated (translations are this edition’s own drafts). Lecky’s page numbers for the torture material do not match this edition; see below."]
 abstract: |
-  <p>Simancas wrote his handbook for the Spanish Inquisition. Lecky uses it twice. In Chapter IV he quotes it to show the doctrine that heretics have “no moral rights”: faith given to them need not be kept. In Chapter III he cites it for the frequency of torture in the hands of the inquisitors, for Simancas’s attack on Juan Luis Vives’s condemnation of torture, and for the contrast between public torture elsewhere and secret torture in Spain.</p><p>The Latin Lecky quotes is accurate except for one dropped word. But the page numbers he gives for torture (pp. 297–309, and p. 305) match nothing in the 1575 Rome edition, where the chapter on torture is at pp. 494–513, and he leaves out the qualification Simancas adds on the next page: that a promise given by a prince or public authority <em>must</em> be kept. See <a href="#comparison">the comparison below</a>.</p>
+  <p>Diego de Simancas wrote his handbook for the Spanish Inquisition in the 1560s. Lecky quotes it for the doctrine that promises made to heretics need not be kept; Simancas adds, on the next page, that a promise given by a prince or public authority must be, and Lecky leaves that out. Simancas also attacks Juan Luis Vives for condemning torture, and boasts that Spain tortures in private where other nations torture in public.</p>
 ---
 <section id="fides-365" class="passage">
 <h2>Faith with Heretics (pp. 365–366)</h2>
@@ -108,3 +108,7 @@ abstract: |
 <li><strong>Left out.</strong> Lecky’s “heretics are so intensely criminal as to have no moral rights” is a fair reading of § 52, but it is not the whole of Simancas’s position. The next two sections limit it: faith given by a prince or public authority, including a safe-conduct, must be kept (§ 54, and Menochius’s defence of the Council of Constance on p. 366). Simancas still holds that the Council of Constance rightly burned the heretics it did, and that private promises to heretics bind no one.</li>
 </ul>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Simancas wrote his handbook for the Spanish Inquisition. Lecky uses it twice. In Chapter IV he quotes it to show the doctrine that heretics have “no moral rights”: faith given to them need not be kept. In Chapter III he cites it for the frequency of torture in the hands of the inquisitors, for Simancas’s attack on Juan Luis Vives’s condemnation of torture, and for the contrast between public torture elsewhere and secret torture in Spain.</p><p>The Latin Lecky quotes is accurate except for one dropped word. But the page numbers he gives for torture (pp. 297–309, and p. 305) match nothing in the 1575 Rome edition, where the chapter on torture is at pp. 494–513, and he leaves out the qualification Simancas adds on the next page: that a promise given by a prince or public authority <em>must</em> be kept. See <a href="#comparison">the comparison below</a>.</p>
+</details>

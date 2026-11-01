@@ -2,7 +2,7 @@
 title: Dalyell, Darker Superstitions of Scotland
 description: "Pages 623–624 and 644–645 of John Graham Dalyell’s The Darker Superstitions of Scotland (1834), which Lecky uses in Chapter I for the Scottish church’s hunt for witches (the box in the church, the Aberdeen inquisition of 1603) and for the torture of ‘waking’, with Lecky’s statements compared."
 heading: Dalyell, <em>The Darker Superstitions of Scotland</em>
-subtitle: John Graham Dalyell, 1834
+subtitle: "The tortures of the Scottish witch-trials"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn146\">Rationalism, ch. I, notes 146</a>, <a href=\"../rationalism/vol1-ch1.html#fn147\">147</a>, <a href=\"../rationalism/vol1-ch1.html#fn148\">148</a>, <a href=\"../rationalism/vol1-ch1.html#fn151\">151</a> and <a href=\"../rationalism/vol1-ch1.html#fn153\">153</a>. Other Dalyell notes (150, 152, 155, 157, 159; pp. 645, 657, 669–670) are not yet covered."]
   - ["Status", "Four pages transcribed (in part) from the page images. Everything is in English and is quoted as printed, including Dalyell’s Scots quotations."]
 abstract: |
-  <p>Lecky’s picture of the Scottish ministers hunting witches rests on a handful of pages of Dalyell. They bear him out on the Aberdeen inquisition of 1603 and on “waking” (keeping a prisoner from sleep, up to nine nights), but in three places Lecky states as fact what Dalyell reports with a qualification: that boxes “were placed in the churches” to receive accusations (Dalyell says “it is said”, and cites Bodin on Milan), that a minister from the pulpit “denounced her by name” (I did not find that on the page cited), and that pricking was a “regular profession” (not on p. 645, but earlier in the chapter).</p><p>Dalyell also says that waking was not peculiar to Scotland: it was used in England, “common on the continent”, and in the Turkish dominions. See <a href="#comparison">the comparison</a>.</p>
+  <p>John Graham Dalyell’s <em>Darker Superstitions of Scotland</em> (1834) is Lecky’s chief source for the Scottish witch-hunt, and its most terrible pages are on “waking”: keeping the accused from sleep for up to nine nights until they confessed. Dalyell adds that the method was not peculiar to Scotland. In three places Lecky states as fact what Dalyell only reports (“it is said”), and his date for the Leith burnings, 1664, should be 1644.</p>
 ---
 <section id="boxes-623" class="passage">
 <h2>The Box in the Church (p. 623) and the Aberdeen Inquisition (p. 624)</h2>
@@ -79,3 +79,7 @@ abstract: |
 </blockquote>
 <p>Lecky uses these pages for three statements (ch. I, pp. 142–143). “We know that in 1662, more than 150 persons were accused of witchcraft” (note 157, “Dalyell, p. 669”): accurate. “In 1678, nine others were condemned in a single day” (note 159, “Dalyell, pp. 669, 670”): accurate. But “one traveller casually notices having seen <strong>nine women</strong> burning together at Leith in <strong>1664</strong>” departs from Dalyell twice: Dalyell’s traveller saw nine burnt in <strong>1644</strong>, and does not say they were women. The 1865 print (vol. I, p. 143, <a href="https://archive.org/details/rationalismeuro01leckuoft/page/n172/mode/2up">scan</a>) does read “1664”; it is left as printed.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s picture of the Scottish ministers hunting witches rests on a handful of pages of Dalyell. They bear him out on the Aberdeen inquisition of 1603 and on “waking” (keeping a prisoner from sleep, up to nine nights), but in three places Lecky states as fact what Dalyell reports with a qualification: that boxes “were placed in the churches” to receive accusations (Dalyell says “it is said”, and cites Bodin on Milan), that a minister from the pulpit “denounced her by name” (I did not find that on the page cited), and that pricking was a “regular profession” (not on p. 645, but earlier in the chapter).</p><p>Dalyell also says that waking was not peculiar to Scotland: it was used in England, “common on the continent”, and in the Turkish dominions. See <a href="#comparison">the comparison</a>.</p>
+</details>

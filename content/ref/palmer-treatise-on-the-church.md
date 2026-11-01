@@ -2,7 +2,7 @@
 title: Palmer, Treatise on the Church of Christ
 description: "William Palmer’s Treatise on the Church of Christ (vol. 1, part I, ch. I, “Salvation in the Church only”), p. 12 of the 1842 printing: the Fathers on salvation only in the Church and the synod of Zerta (412), cited by Lecky in Chapter IV, notes 19, 21 and 26."
 heading: Palmer, <em>A Treatise on the Church of Christ</em>
-subtitle: "“Salvation in the Church only” (vol. 1, p. 12)"
+subtitle: "“Whosoever is separated from the Catholic Church … will not have life”"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn19\">Rationalism, ch. IV, note 19</a>, <a href=\"../rationalism/vol1-ch4.html#fn21\">21</a> and <a href=\"../rationalism/vol1-ch4.html#fn26\">26</a>."]
   - ["Status", "p. 12 read on the image. Pages 11 and 13 were not read; the full evidence Lecky mentions (note 19) is partly there."]
 abstract: |
-  <p>Lecky’s note 21 quotes the synod of Zerta (A.D. 412): “Whosoever is separated from the Catholic Church, however innocently he may think he lives, for this crime alone that he is separated from the unity of Christ will not have life, but the wrath of God remaineth on him.” This is Palmer’s English on p. 12 with “this catholic church” for Lecky’s “the Catholic Church” and different punctuation: Palmer cites the Latin in <em>Harduin, Concilia</em>, tom. i. p. 1203. The page also gives the Fathers Lecky relies on in note 19: Theophilus of Antioch, Origen, Cyprian, Augustine and Fulgentius.</p>
-  <p>It also bears on <a href="fulgentius-de-fide-ad-petrum.html">the Fulgentius page</a>: Palmer’s Fulgentius sentence (“Without this church neither doth the name of Christian help …”) is cited from <em>De remissione peccatorum</em>, lib. i. c. 22, not from <em>De fide</em>. Lecky’s “§ 22” for a sentence from <em>De fide</em> may be a confusion with this reference; I could not confirm.</p>
+  <p>An Anglican of the Oxford Movement, William Palmer, collected the strongest statements of the Fathers that there is no salvation outside the Church, and Lecky takes his examples straight from Palmer’s page: the synod of Zerta in 412 declared that whoever is separated from the Church, “however innocently he may think he lives … will not have life, but the wrath of God remaineth on him”.</p>
 ---
 <section id="zerta-412" class="passage">
 <h2>Salvation only in the Church; the synod of Zerta</h2>
@@ -24,3 +23,8 @@ abstract: |
 </blockquote>
 <p>Lecky’s English (“this statement is said to have been drawn up by St. Augustine. See Hawarden’s <em>Charity and Truth</em>”) differs from Palmer’s only in “the Catholic Church” for “this catholic church” and in punctuation (a semicolon and comma after “lives” and “crime alone”); the Augustine attribution is not on this page.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s note 21 quotes the synod of Zerta (A.D. 412): “Whosoever is separated from the Catholic Church, however innocently he may think he lives, for this crime alone that he is separated from the unity of Christ will not have life, but the wrath of God remaineth on him.” This is Palmer’s English on p. 12 with “this catholic church” for Lecky’s “the Catholic Church” and different punctuation: Palmer cites the Latin in <em>Harduin, Concilia</em>, tom. i. p. 1203. The page also gives the Fathers Lecky relies on in note 19: Theophilus of Antioch, Origen, Cyprian, Augustine and Fulgentius.</p>
+<p>It also bears on <a href="fulgentius-de-fide-ad-petrum.html">the Fulgentius page</a>: Palmer’s Fulgentius sentence (“Without this church neither doth the name of Christian help …”) is cited from <em>De remissione peccatorum</em>, lib. i. c. 22, not from <em>De fide</em>. Lecky’s “§ 22” for a sentence from <em>De fide</em> may be a confusion with this reference; I could not confirm.</p>
+</details>

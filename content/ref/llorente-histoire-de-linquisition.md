@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn37\">Rationalism, ch. IV (continued), note 37</a>."]
   - ["Status", "Tom. i pp. 273–275 transcribed from the page images and translated; tom. iv p. 271 read for its totals only (not transcribed). Llorente’s own sources (Mariana’s manuscripts, Bernáldez) are not re-checked here. Pages 272 and 276 and tom. iv p. 272 are not read."]
 abstract: |
-  <p>Lecky’s note gives Llorente’s grand total as “more than 31,000 burnt, more than 290,000 condemned to lesser punishments”. Llorente’s recapitulation on tom. iv p. 271 reads 31,912 burnt in person, 17,659 burnt in effigy, 291,450 penanced, 341,021 in all; Lecky omits the effigies.</p>
-  <p>The Seville figures in the note come from a different place, tom. i pp. 273–275, where Llorente is estimating the early victims. He is reasoning from three ancient figures to an average, and says so (“je supposerai”, “je me contenterai de supposer”). Lecky’s three instances are fair summaries, with two differences worth knowing: Llorente places Mariana’s 2,000 burnings at <em>Seville</em> in the first year (Lecky says Andalusia), and the inscription of 1524 says that over twenty thousand abjured and that more than a thousand were burnt, which is how Lecky’s “nearly 1,000” should be read: the French prose says “près de mille”, the French rendering of the inscription says “plus de mille”, and the Latin of the inscription as printed has “fere millia” with a small-capital setting, whose sense I have not settled.</p>
+  <p>Juan Antonio Llorente, once secretary to the Spanish Inquisition, published its own records after its suppression and totalled its victims: 31,912 burnt alive, 17,659 burnt in effigy, 291,450 sentenced to lesser penalties. Lecky gives the first and last figures and leaves out the effigies. His figures for the first years at Seville come from a passage where Llorente openly estimates (“je supposerai”) rather than counts.</p>
 ---
 <section id="seville-estimates" class="passage">
 <h2>Mariana and Bernáldez (tom. i, pp. 273)</h2>
@@ -63,3 +62,8 @@ abstract: |
 </tbody>
 </table>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s note gives Llorente’s grand total as “more than 31,000 burnt, more than 290,000 condemned to lesser punishments”. Llorente’s recapitulation on tom. iv p. 271 reads 31,912 burnt in person, 17,659 burnt in effigy, 291,450 penanced, 341,021 in all; Lecky omits the effigies.</p>
+<p>The Seville figures in the note come from a different place, tom. i pp. 273–275, where Llorente is estimating the early victims. He is reasoning from three ancient figures to an average, and says so (“je supposerai”, “je me contenterai de supposer”). Lecky’s three instances are fair summaries, with two differences worth knowing: Llorente places Mariana’s 2,000 burnings at <em>Seville</em> in the first year (Lecky says Andalusia), and the inscription of 1524 says that over twenty thousand abjured and that more than a thousand were burnt, which is how Lecky’s “nearly 1,000” should be read: the French prose says “près de mille”, the French rendering of the inscription says “plus de mille”, and the Latin of the inscription as printed has “fere millia” with a small-capital setting, whose sense I have not settled.</p>
+</details>

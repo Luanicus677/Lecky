@@ -2,7 +2,7 @@
 title: Lebrun, Discours sur la comédie
 description: "Pierre Le Brun’s Discourse on the Theatre (1731 edition), p. 259: the passage on Molière’s death and Rosimond’s burial that Lecky quotes in Chapter VI, note 143. His French is close to the print with a few small differences."
 heading: Lebrun, <em>Discours sur la comédie</em>
-subtitle: "Molière and Rosimond: burial refused"
+subtitle: "Why actors were buried at night, without priest or prayer"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn143\">Rationalism, ch. VI, note 143</a>."]
   - ["Status", "The passage transcribed from the page image, translated and collated. Not checked: Lecky’s other citations from Le Brun in notes 140–141."]
 abstract: |
-  <p>Lecky quotes Le Brun’s remark that Molière’s death is a “terrible moral” for all actors, that only “a little earth obtained by prayer” was granted him, and that the actor Rosimond, dying suddenly in 1691, was buried without clergy, light or prayer in the part of the St. Sulpice cemetery where unbaptised children lay. The quotation is faithful. Lecky’s “et encore fallut-il bien protester” corresponds to Le Brun’s “encore falut-il bien protester”, and he leaves out the sentence after it.</p>
+  <p>The Oratorian Pierre Le Brun wrote that Molière’s death should be a “terrible moral” for every actor: all that could be obtained for him was “a little earth”, and only by prayer. The actor Rosimond, who died suddenly in 1691, was buried without clergy, candles or prayers in the corner of the cemetery of Saint-Sulpice kept for unbaptised children. Lecky quotes the passage faithfully.</p>
 ---
 <section id="moliere" class="passage">
 <h2>Molière and Rosimond (p. 259)</h2>
@@ -38,3 +38,7 @@ abstract: |
 </div>
 <p>Lecky’s “il a” for Le Brun’s past tense “il eut”, and “lumière” for “luminaire” (candles), are small slips or changes; the sense is the same. The dash and the added “et” are Lecky’s. He says Le Brun “relates this with much exultation”; I read only this page and cannot judge the tone of the whole book, though nothing on this page is plainly exultant.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Le Brun’s remark that Molière’s death is a “terrible moral” for all actors, that only “a little earth obtained by prayer” was granted him, and that the actor Rosimond, dying suddenly in 1691, was buried without clergy, light or prayer in the part of the St. Sulpice cemetery where unbaptised children lay. The quotation is faithful. Lecky’s “et encore fallut-il bien protester” corresponds to Le Brun’s “encore falut-il bien protester”, and he leaves out the sentence after it.</p>
+</details>

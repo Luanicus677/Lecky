@@ -2,7 +2,7 @@
 title: Michelet, La Sorcière
 description: "Jules Michelet’s La Sorcière: the sentence on the last burnings of witches in the eighteenth century (Spain 1782, Germany 1751, Switzerland 1781), which is the passage Lecky’s Chapter I, note 50, cites for “the last judicial execution in Europe”."
 heading: Michelet, <em>La Sorcière</em>
-subtitle: "The last burnings (note 50)"
+subtitle: "When were the last witches burnt?"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn50\">Rationalism, ch. I, note 50</a>."]
   - ["Status", "One passage transcribed from a page image; Lecky’s other Michelet notes (2, 6, 36, 55; ch. III 133) are not checked."]
 abstract: |
-  <p>Lecky says: “The last judicial execution in Europe was, I believe, in Switzerland, in 1782 (Michelet’s <em>Sorcière</em>, p. 415).” Michelet’s sentence is in the book, but it does not say that: it says that Spain “still burns a witch in 1782”, Germany one in 1751 and Switzerland one “also” in 1781. So Lecky’s “Switzerland, 1782” combines Michelet’s Swiss place with the Spanish year; in Michelet it is Spain, not Switzerland, that has the latest date. (Lecky hedges with “I believe”.) Michelet, in the same sentence, also says that Rome burned secretly in the cellars of the Inquisition, on the word of a consultor of the Holy Office, which is not an execution of record.</p>
+  <p>Lecky writes that the last judicial execution for witchcraft in Europe was “I believe, in Switzerland, in 1782”, citing Jules Michelet’s <em>La Sorcière</em>. Michelet says something else: Spain still burnt a witch in 1782, Germany in 1751, Switzerland in 1781, and Rome, he was told, burnt them secretly in the cellars of the Inquisition. Lecky has joined Michelet’s Swiss place to his Spanish date.</p>
 ---
 <section id="dernieres-brulures" class="passage">
 <h2>“On brûle encore partout au dix-huitième siècle”</h2>
@@ -29,3 +29,7 @@ abstract: |
 </div>
 <p>Lecky’s note: “The last judicial execution in Europe was, I believe, in Switzerland, in 1782 (Michelet’s <em>Sorcière</em>, p. 415), the last law on the subject, the Irish Statute, which was not repealed till 1821.” The Irish statute is not on this page. The figure “1600” under Philip V is Michelet’s; I have not checked it. For the Swiss case, historians’ usual date of the last European execution for witchcraft by a court is Anna Göldi in Glarus in 1782, which I give from memory and have not checked on a source here; Michelet’s “1781” for Switzerland is then his own date.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says: “The last judicial execution in Europe was, I believe, in Switzerland, in 1782 (Michelet’s <em>Sorcière</em>, p. 415).” Michelet’s sentence is in the book, but it does not say that: it says that Spain “still burns a witch in 1782”, Germany one in 1751 and Switzerland one “also” in 1781. So Lecky’s “Switzerland, 1782” combines Michelet’s Swiss place with the Spanish year; in Michelet it is Spain, not Switzerland, that has the latest date. (Lecky hedges with “I believe”.) Michelet, in the same sentence, also says that Rome burned secretly in the cellars of the Inquisition, on the word of a consultor of the Holy Office, which is not an execution of record.</p>
+</details>

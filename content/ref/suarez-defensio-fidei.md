@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn34\">Rationalism, ch. V, note 34</a>, <a href=\"../rationalism/vol2-ch5.html#fn41\">41</a>, <a href=\"../rationalism/vol2-ch5.html#fn42\">42</a>, <a href=\"../rationalism/vol2-ch5.html#fn43\">43</a>, <a href=\"../rationalism/vol2-ch5.html#fn45\">45</a>. See also <a href=\"mariana-de-rege.html\">Mariana</a>."]
   - ["Status", "Five quotations transcribed from the page images, translated and collated. Other Suárez citations in Chapter V (notes 38 and 40, lib. iii; the passage cited in note 72) are not transcribed."]
 abstract: |
-  <p>Lecky says Suárez taught that a nation may depose a tyrant, and that the Pope may depose a heretic prince, who may then be killed only by those whom the Pope has commissioned. The Latin he prints is Suárez’s own, with ellipses where Suárez cites other authors.</p><p>One small thing: in note 34 Lecky ends a sentence at “vel deprivatis a papa”, with a semicolon, where Suárez goes on “omnes subditi sint” (“all are subjects”). The cut does not change the sense.</p>
+  <p>Francisco Suárez wrote this book in 1613 against James I of England, and it was burnt by the hangman in London. It argues that a nation may depose a tyrant, that the Pope may depose a heretic king, and that once deposed such a king may be killed, though only by those the Pope commissions. It also maintains that no king’s power comes directly from God. Lecky’s Latin is Suárez’s own.</p>
 ---
 <section id="deposition" class="passage">
 <h2>Who may depose a king (§ 15–16, p. 680)</h2>
@@ -79,3 +79,7 @@ abstract: |
 </div>
 <p>Lecky (vol. II, ch. V, notes 38 and 40, “Suarez, De Fide, lib. iii. cap. 2”) says that for some schoolmen “a pope was directly and immediately the representative of the Almighty, but a king derived his power directly from the people”, and that Suarez “devoted himself especially to the question of the mediate or immediate nature of the Divine Right of Kings” in a book “written in reply to one by James I. of England”. All accurate: the chapter opens (§ 1) by naming “Jacobus Rex” as holding that the king has his power “not from the people, but immediately from God”, and attacking Bellarmine for denying it (the “rex” mocked above is James). Suarez’s fuller statement that God gives the power to kings only mediately, having given it immediately to the people who transferred it to the king, follows in § 11 ff. on p. 210 (read from the OCR, not yet checked on the page image).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says Suárez taught that a nation may depose a tyrant, and that the Pope may depose a heretic prince, who may then be killed only by those whom the Pope has commissioned. The Latin he prints is Suárez’s own, with ellipses where Suárez cites other authors.</p><p>One small thing: in note 34 Lecky ends a sentence at “vel deprivatis a papa”, with a semicolon, where Suárez goes on “omnes subditi sint” (“all are subjects”). The cut does not change the sense.</p>
+</details>

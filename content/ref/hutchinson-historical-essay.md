@@ -2,7 +2,7 @@
 title: Hutchinson, Historical Essay on Witchcraft
 description: "One page of Francis Hutchinson’s Historical Essay concerning Witchcraft (1718), the ‘Table of Facts’ for 1634–46 (p. 37): the Pendle witches, Hopkins at Yarmouth, Chelmsford and Bury St Edmunds. It is the table Lecky calls ‘the most complete authority’ on the number of English executions (Chapter I, notes 101 and 111), compared with his statements."
 heading: Hutchinson, <em>An Historical Essay concerning Witchcraft</em>
-subtitle: Francis Hutchinson, 1718
+subtitle: "Counting the English witch-trials, and the last three hanged"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn101\">Rationalism, ch. I, note 101</a>, <a href=\"../rationalism/vol1-ch1.html#fn111\">note 111</a> and <a href=\"../rationalism/vol1-ch1.html#fn134\">note 134</a> <a href=\"../rationalism/vol1-ch1.html#fn135\">135</a> <a href=\"../rationalism/vol1-ch1.html#fn7\">7</a> and <a href=\"../rationalism/vol1-ch1.html#fn113\">113</a>, <a href=\"../rationalism/vol1-ch1.html#fn138\">138</a> and <a href=\"../rationalism/vol1-ch1.html#fn139\">139</a>."]
   - ["Status", "Six passages transcribed (the table, 1718 ed.; pp. 55, 56–57, 90 and 167 and the Dedication, 1720 ed.). I did <strong>not</strong> total the table, so Lecky’s figure of “about 140” English executions in 250 years is not checked."]
 abstract: |
-  <p>Lecky’s note 101 calls Hutchinson’s chronological table “the most complete authority” on witch-trials, says Hutchinson “restricted himself for the most part to cases of which he had learnt precise particulars, and he carefully gives his authorities”, and gives a count of about 140 English executions. Note 111 cites Hutchinson p. 68 for the claim that more witches perished in England during the Commonwealth than in all the period before and after.</p><p>This one page bears out the style of the table: dated entries with references, and a candid “I have been told” for the Bury figures (“near Forty … and as many more in the County as made up Threescore”). It lists three Commonwealth-era events totalling about 16 + 15 + 60 (Yarmouth, Chelmsford and Manningtree, Bury and Suffolk), which is consistent in size with Lecky’s statement but does not prove it.</p>
+  <p>Francis Hutchinson’s <em>Historical Essay</em> (1718) was an early attempt to count the victims of the English witch-trials; its author later became a bishop. These pages give the scale of the Commonwealth hunts (“near Forty” at Bury, “Threescore” in the county), the three women hanged at Exeter in 1682 whom Hutchinson supposed “the last three that have been hanged in England”, the Swedish panic at Mohra in 1670, and Salem, where Hutchinson’s own figures are lower than Lecky’s.</p>
 ---
 <section id="table-37" class="passage">
 <h2>The Table of Facts, 1634–1646 (p. 37)</h2>
@@ -112,3 +112,7 @@ abstract: |
 </blockquote>
 <p>Lecky’s account of Salem (ch. I) cites “Hutchinson, pp. 95-119” twice, alongside Bancroft, and departs from these pages at three points. (1) He says “twenty-seven persons were executed”; Hutchinson counts nineteen hanged and one pressed to death, that is twenty, with eight more condemned but not executed (Lecky’s figure equals Hutchinson’s hanged plus condemned). (2) He says Mather “wrote a history of the earliest of the trials” which “was introduced to the English public by Richard Baxter”; in Hutchinson, Baxter’s “very obdurate Sadducee” preface belongs to Mather’s 1690 book on the Goodwin children, two years before Salem. (3) That Baxter’s <em>Certainty of the World of Spirits</em> “being widely circulated beyond the Atlantic, is said to have contributed much to stimulate the prosecutions” (note 131) goes beyond Hutchinson, who says only that Mather dispersed it in New England. The address of the Boston and Charlestown ministers thanking the commissioners (note 130) is not on these two pages; Lecky’s other authority there is Bancroft, not checked here. Pp. 96–107 and 109–119 are not transcribed.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s note 101 calls Hutchinson’s chronological table “the most complete authority” on witch-trials, says Hutchinson “restricted himself for the most part to cases of which he had learnt precise particulars, and he carefully gives his authorities”, and gives a count of about 140 English executions. Note 111 cites Hutchinson p. 68 for the claim that more witches perished in England during the Commonwealth than in all the period before and after.</p><p>This one page bears out the style of the table: dated entries with references, and a candid “I have been told” for the Bury figures (“near Forty … and as many more in the County as made up Threescore”). It lists three Commonwealth-era events totalling about 16 + 15 + 60 (Yarmouth, Chelmsford and Manningtree, Bury and Suffolk), which is consistent in size with Lecky’s statement but does not prove it.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Bodin, Démonomanie des Sorciers
 description: Jean Bodin’s treatise on sorcerers (1580), passages Lecky cites or quotes (Beelzebub and the flies, the pardon of Trois-Échelles, the appeal to all the laws of mankind, God “au grand nez”, stoning against burning, and the plague stories), with French text, translation, and comparison with Lecky.
 heading: Bodin, <em>Démonomanie des Sorciers</em>
-subtitle: Jean Bodin, <em>De la démonomanie des sorciers</em>
+subtitle: "The great lawyer who wrote the witch-hunters’ handbook"
 back_link:
   url: index.html
   text: Sources
@@ -13,7 +13,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn74\">Rationalism in Europe, ch. I, note 74</a> (p. 15) and <a href=\"../rationalism/vol1-ch1.html#fn89\">note 89</a> (p. 152); also <a href=\"../rationalism/vol1-ch1.html#fn68\">note 68</a> (p. 40), <a href=\"../rationalism/vol1-ch1.html#fn88\">note 88</a> (pp. 217, 228), and <a href=\"../rationalism/vol1-ch1.html#fn91\">note 91</a> (p. 252, the third passage below), and <a href=\"../rationalism/vol1-ch1.html#fn3\">note 3</a> (the work in general)"]
   - ["Status", "Six passages transcribed and translated (pp. 15, 152, 252, 40, 217–218, 228). Translation is this edition’s own draft."]
 abstract: |
-  <p>Bodin’s book, a huge compilation of authorities and trial reports in French, was the standard reply to <a href="https://en.wikipedia.org/wiki/Johann_Weyer">Wier</a>’s attack on the witch trials. Lecky devotes pp. 95–99 of Chapter I to it as the sceptics’ chief opponent, and cites it for a handful of details and quotations.</p><p>The three passages here are the ones Lecky gives page numbers for and quotes in French or paraphrases closely. Lecky modernises Bodin’s spelling and condenses and rearranges his lists; where he adds to or departs from Bodin, the comparisons below say so.</p>
+  <p>Jean Bodin was the most admired political thinker of sixteenth-century France, and also the author of one of the most ferocious books ever written against witches (1580). These pages show both sides: the learned etymology of Baal-zebub as “lord of flies”, God “au grand nez”, “with a great nose”, from a literal reading of the Hebrew phrase for “patient”, the plague sent on cities that spare witches, and an aside about Angers, where in 1539 people who ate meat on a Friday were burnt alive. Lecky modernises Bodin’s French and condenses his lists; the comparisons say where he adds or departs.</p>
 ---
 <section id="p15" class="passage">
 <h2>Book I, p. 15: Baal-zebub and the Flies</h2>
@@ -220,3 +220,7 @@ abstract: |
 </table>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Bodin’s book, a huge compilation of authorities and trial reports in French, was the standard reply to <a href="https://en.wikipedia.org/wiki/Johann_Weyer">Wier</a>’s attack on the witch trials. Lecky devotes pp. 95–99 of Chapter I to it as the sceptics’ chief opponent, and cites it for a handful of details and quotations.</p><p>The three passages here are the ones Lecky gives page numbers for and quotes in French or paraphrases closely. Lecky modernises Bodin’s spelling and condenses and rearranges his lists; where he adds to or departs from Bodin, the comparisons below say so.</p>
+</details>

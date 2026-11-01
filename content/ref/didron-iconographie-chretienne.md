@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn52\">Rationalism, ch. I, note 52</a> and <a href=\"../rationalism/vol1-ch3.html#fn169\">ch. III, note 169</a>."]
   - ["Status", "Two pages transcribed from the images (pp. 262 and 216) and compared with Lecky’s English. Lecky’s other Didron citations (ch. III note 17; the “pp. 255–273” of ch. I note 52) are not checked."]
 abstract: |
-  <p>Lecky gives, in quotation marks, as a translation of Didron: “Christ appears more and more melancholy, and often truly terrible. It is, indeed, the <em>rex tremendæ majestatis</em> of our <em>Dies iræ</em>. It is almost the God of the Jews making fear the beginning of wisdom.” The substance is on p. 262, but the English is a free rendering, not a literal one: Didron has “Jésus s’attriste davantage et se montre surtout à sa passion et au dernier jugement. Alors il est vraiment redoutable”. Lecky’s “often truly terrible” turns “at his Passion and the Last Judgment” into “often”; the sentence about the Last Judgment is Didron’s main point.</p>
+  <p>Adolphe-Napoléon Didron traced how the face of Christ in Christian art grew sterner over the centuries, until at the Last Judgment he is “vraiment redoutable”, truly terrible. Lecky turns this into a general claim that Christ appears “more and more melancholy, and often truly terrible”; Didron confines the terror to the Passion and the Last Judgment. The second passage shows the souls of the just as small naked figures held in the hand of God.</p>
 ---
 <section id="christ-redoutable" class="passage">
 <h2>“Alors il est vraiment redoutable” (p. 262)</h2>
@@ -45,3 +45,7 @@ abstract: |
 </div>
 <p>Lecky’s note 169 (chapter III): “In the Greek churches the souls of the blest were sometimes represented as little children clasped in the mighty hand of God. (Didron, <em>Iconographie</em>, p. 216.)” Didron says “petits êtres humains nus, priant à mains jointes” (little naked human beings, praying with joined hands), not “children”, and says the motif is frequent, not occasional; and the engraving he gives is from an eighteenth-century (1735) fresco, though he explains that Greek art had stood still since the eleventh or twelfth century. “Clasped” is Lecky’s; Didron’s hand takes them up to heaven.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky gives, in quotation marks, as a translation of Didron: “Christ appears more and more melancholy, and often truly terrible. It is, indeed, the <em>rex tremendæ majestatis</em> of our <em>Dies iræ</em>. It is almost the God of the Jews making fear the beginning of wisdom.” The substance is on p. 262, but the English is a free rendering, not a literal one: Didron has “Jésus s’attriste davantage et se montre surtout à sa passion et au dernier jugement. Alors il est vraiment redoutable”. Lecky’s “often truly terrible” turns “at his Passion and the Last Judgment” into “often”; the sentence about the Last Judgment is Didron’s main point.</p>
+</details>

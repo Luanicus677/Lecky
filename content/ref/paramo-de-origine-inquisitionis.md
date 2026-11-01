@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn43\">Rationalism, ch. IV (continued), note 43</a>."]
   - ["Status", "One passage transcribed from the page image, translated and compared. Paramo’s “God the first of the inquisitors”, who stripped Adam and his descendants of Paradise, is <a href=\"#inquisitorum-primus\">transcribed from p. 45</a> (found in October 2026 by a full-text search of the OCR by Meta’s Muse Spark model, which turned up the book’s index entries). <strong>Not found:</strong> Lecky’s statement that the heretic’s impurity “falls upon all related to him”. Lecky’s second Latin quotation in that note (Farinacius, <em>De delictis et poenis</em>) is not on a source page: I found Farinacius scans but could not locate the passage in their poor OCR."]
 abstract: |
-  <p>Lecky says the Inquisition’s trials of dead men were not “impotent malice” but aimed to rob the heirs. Paramo’s sentence, on p. 588, confirms this: one reason for proceeding against the dead heretic is that his goods may be taken “through the fisc” from his heirs or any other possessors. The Latin is Paramo’s, with one small change; Lecky leaves out the third reason, that the dead man’s body may be exhumed and burned.</p>
+  <p>Luis de Páramo, a Spanish inquisitor, wrote the official history of the Inquisition in 1598, and began it in the Garden of Eden: God was “the first of the inquisitors”, who tried Adam and Eve and confiscated their goods. That is his justification for seizing the property of heretics and their children. He is equally frank about why the Inquisition tried dead men: so that their goods could still be taken from their heirs.</p>
 ---
 <section id="inquisitorum-primus" class="passage">
 <h2>“Deus Inquisitorum primus”: Adam stripped of Paradise (Book I, pp. 45–46)</h2>
@@ -54,3 +54,7 @@ abstract: |
 </div>
 <p>Lecky’s “damnatur” (indicative) for Paramo’s subjunctive “damnetur” is a small slip or a variant reading; I could not tell which. The omitted third reason does not weaken his point: the same page (marginal notes 83–88) says the action can be brought at any time, however long after death, that the heirs are notified, and that the dead man’s statue is paraded and handed to the secular court. The confiscation is plainly a main purpose.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says the Inquisition’s trials of dead men were not “impotent malice” but aimed to rob the heirs. Paramo’s sentence, on p. 588, confirms this: one reason for proceeding against the dead heretic is that his goods may be taken “through the fisc” from his heirs or any other possessors. The Latin is Paramo’s, with one small change; Lecky leaves out the third reason, that the dead man’s body may be exhumed and burned.</p>
+</details>

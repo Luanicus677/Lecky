@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn52\">Rationalism, ch. V, notes 52</a>, <a href=\"../rationalism/vol2-ch5.html#fn53\">53</a>, <a href=\"../rationalism/vol2-ch5.html#fn55\">55</a>, <a href=\"../rationalism/vol2-ch5.html#fn56\">56</a>, <a href=\"../rationalism/vol2-ch5.html#fn57\">57</a>, <a href=\"../rationalism/vol2-ch5.html#fn60\">60</a>."]
   - ["Status", "Seven quotations transcribed from the page images, translated and collated. Long-s abbreviations expanded silently."]
 abstract: |
-  <p>Lecky uses Mariana as the type of Jesuit teaching on tyrannicide. His Latin quotations in notes 52–60 are accurate to this printing in almost every word. The differences are small: “et si” for “etsi”, “potiore” for “potiori”, the word “princeps” added after “Si medicinam respuat”, and an omitted “Equidem”.</p><p>The first sentence of note 60, “Nos tamen non quid facturi sint homines …”, is <a href="#nos-tamen">at the foot of p. 65</a>, more than a page before the second.</p>
+  <p>Juan de Mariana, a Spanish Jesuit, argued in 1599 that subjects may kill a tyrant, and debated how: by the sword, yes, but poison raised scruples. The book was burnt in Paris after the assassination of Henri IV. Lecky’s Latin quotations from it are accurate almost word for word; even the one sentence that once seemed missing turns up at the foot of p. 65.</p>
 ---
 <section id="consentire" class="passage">
 <h2>The “consent” of philosophers and theologians (pp. 58–59)</h2>
@@ -89,3 +89,7 @@ abstract: |
 </div>
 <p>Lecky’s Latin matches the print word for word. The sentence comes before the passage on pp. 66–67, where Mariana goes on to reject poisoning in food or drink; Lecky’s dots cover more than a page. On p. 66 a second sentence begins “Nos tamen de nostris moribus sublatum videmus …” (poison as a judicial punishment, abandoned in Christian times); that one is not Lecky’s.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky uses Mariana as the type of Jesuit teaching on tyrannicide. His Latin quotations in notes 52–60 are accurate to this printing in almost every word. The differences are small: “et si” for “etsi”, “potiore” for “potiori”, the word “princeps” added after “Si medicinam respuat”, and an omitted “Equidem”.</p><p>The first sentence of note 60, “Nos tamen non quid facturi sint homines …”, is <a href="#nos-tamen">at the foot of p. 65</a>, more than a page before the second.</p>
+</details>
