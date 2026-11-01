@@ -261,6 +261,13 @@ Notes for continuing:
   Linked notes now ~345/850. Good next targets: ch. III (lowest coverage): Barrington On the Statutes p. 461 (notes 178, 180), Roccamora De cometis (112, 115),
   Cudworth vol. iii p. 318 (165, Harrison ed. scan known), Matter Gnosticisme, Beausobre Manichéisme, Raoul-Rochette Cours d'archéologie; ch. VI Leo X bull (27/36).
 
+- 1 Nov 2026 (openings pass): the 20 most-linked older source pages (Buckle, Garinet, Hutchinson, Maury, Didron, Madden, Paramo, Bodin, Dalyell,
+  Blanqui, Lebrun, Mariana, Macaulay, Llorente, Palmer, Suárez, Michelet, Simancas, Sprenger, Pitcairn) got new plain-English abstracts (nugget first);
+  their old editorial abstracts were moved, unchanged, into `<details class="collapse editor-notes">` at the foot of each page. 14 got title pages /
+  frontispieces (`figure.title-page` after the first h2): Garinet frontispiece = Joan of Arc (n5), Madden plate 'Jeanne Darc' (n7), Llorente portrait (tom. i n7),
+  Simancas engraved title (n4), Michelet copy = 3rd ed. Brussels & Leipzig 1863 (n10). Macaulay has no scan (Gutenberg text), so no picture. Next: same pass for the
+  next ~40 older pages (Glanvill, Middleton, Augustine, Gibbon, Agobard, Hecker, Codex, Desprez, Wright, Hogarth ...).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
