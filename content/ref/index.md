@@ -394,6 +394,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Natural law, miracles and the widening of “nature” (vol. 116, p. 380), cited in ch. II, note 24.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="swinden-nature-and-place-of-hell.html">Swinden, <em>An Enquiry into the Nature and Place of Hell</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">No religion describes hell with such “Particularities” (1727, p. 129), cited in ch. III, note 151; from the book that put hell in the sun.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
