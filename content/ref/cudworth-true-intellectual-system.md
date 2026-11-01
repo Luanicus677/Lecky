@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn127\">Rationalism, ch. I, note 127</a> (“Int. Syst., vol. ii. p. 650”)."]
   - ["Status", "One passage read on the page image and transcribed."]
 abstract: |
-  <p>Cudworth was no credulous man: he wrote the most learned defence of reason and free will of his century. Yet in a chapter on the phenomena that “confute atheism”, he lists apparitions, witches and demoniacs as proofs that spirits exist, and says that those who now “explode” witches “can hardly escape the suspicion of having some hankering towards atheism”. Lecky quotes the sentence accurately except for a dropped phrase (“in a peculiar manner”). Cudworth’s very next sentence raises a question that troubled believers: why were there so many demoniacs in Christ’s time, “and hardly any, or none, in this present age of ours”?</p>
+  <p>Cudworth was a philosopher of reason, not a credulous man. Yet in a chapter on the phenomena that “confute atheism”, he lists apparitions, witches and demoniacs as proofs that spirits exist, and says that those who now “explode” witches “can hardly escape the suspicion of having some hankering towards atheism”. Lecky quotes the sentence accurately except for a dropped phrase (“in a peculiar manner”). Cudworth’s very next sentence raises a question that troubled believers: why were there so many demoniacs in Christ’s time, “and hardly any, or none, in this present age of ours”?</p>
 ---
 <section id="hankering" class="passage">
 <h2>“Some hankering towards atheism” (Book I, ch. V)</h2>

@@ -9,7 +9,7 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Walter_Scott\">Sir Walter Scott</a> (1771–1832). The <em>Letters</em>, addressed to his son-in-law J. G. Lockhart, were written for Murray’s Family Library and published in 1830, two years before his death."]
   - ["Edition used", "New York, Harper (Harper’s Family Library), 1830 (Internet Archive <a href=\"https://archive.org/details/lettersondemono00lockgoog\">lettersondemono00lockgoog</a>), Letter IX, p. 261 = <a href=\"https://archive.org/details/lettersondemono00lockgoog/page/n265/mode/2up\">n265</a>. Lecky gives the letter but no page."]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn163\">Rationalism, ch. I, note 163</a> (“Demonology, Letter ix”)."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn143\">Rationalism, ch. I, notes 143</a> (Letter VIII) and <a href=\"../rationalism/vol1-ch1.html#fn163\">163</a> (“Demonology, Letter ix”)."]
   - ["Status", "One passage read on the page image and transcribed."]
 abstract: |
   <p>Lecky borrows from Scott the idea that the great Scottish persecution began when James VI and the Presbyterian clergy were briefly on good terms, after the king left the kirk to keep order while he sailed to Denmark to fetch his bride (1589). Lecky’s quotation is exact except for one word (“all persons” for “the persons”). Scott’s next sentences are sharper than anything Lecky quotes: the clergy thought Catholics, the mass and the witches “natural allies in the great cause of mischief”; the pedantic king, author of <em>Daemonologie</em>, “considered the execution of every witch who was burned, as a necessary conclusion of his own royal syllogisms”; and juries were afraid to acquit, because they could themselves be tried for a wrong verdict.</p>
@@ -24,3 +24,14 @@ abstract: |
 </blockquote>
 <p>Lecky has “against all persons suspected”; Scott “against the persons suspected”.</p>
 </section>
+
+<section id="calvinists" class="passage">
+<h2>“The most suspicious of sorcery” (Letter VIII, pp. 198–199)</h2>
+<p class="passage-source">English: New York 1830, pp. 198–199, <a href="https://archive.org/details/lettersondemono00lockgoog/page/n202/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation (ch. I, note 143).</p>
+<blockquote>
+<p>… these, like the holy water, the robes of the priest, and the sign of the cross, the Calvinists considered either with scorn and contempt, as the tools of deliberate quackery and imposture, or with horror and loathing, as the fit emblems and instruments of an idolatrous system.</p>
+<p>Such of them as did not absolutely deny the supernatural powers of which the Romanists made boast, regarded the success of the exorcising priest, to whatever extent they admitted it, as at best a casting out of devils by the power of Beelzebub, the King of the Devils. They saw also, and resented bitterly, the attempt to confound any dissent from the doctrines of Rome with the proneness to an encouragement of rites of sorcery. <span class="cited-passage">On the whole, the Calvinists, generally speaking, were, of all the contending sects, the most suspicious of sorcery, the most undoubting believers in its existence, and the most eager to follow it up with what they conceived to be the due punishment of the most fearful of crimes.</span></p>
+</blockquote>
+<p>Lecky quotes the sentence exactly.</p>
+</section>
+

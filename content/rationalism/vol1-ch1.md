@@ -701,7 +701,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^142]: See Scott's Discovery, passim.
 
-[^143]: Sir W. Scott has well noticed this influence of Puritanism on English witchcraft; and, in comparing the different sections of the Church, he says: 'On the whole, the Calvinists, generally speaking, were, of all the contending sects, the most suspicious of sorcery, the most undoubting believers in its existence, and the most eager to follow it up with what they conceived to be the due punishment of the most fearful of crimes.' (Demonology and Witchcraft, Letter 8.)
+[^143]: Sir W. Scott has well noticed this influence of Puritanism on English witchcraft; and, in comparing the different sections of the Church, he says: 'On the whole, the Calvinists, generally speaking, were, of all the contending sects, the most suspicious of sorcery, the most undoubting believers in its existence, and the most eager to follow it up with what they conceived to be the due punishment of the most fearful of crimes.' (<a class="popup-ref" href="../ref/scott-letters-on-demonology.html#calvinists">Demonology and Witchcraft, Letter 8.</a>)
 
 [^144]: I need hardly refer to the noble description of the Scotch Kirk in <a class="popup-ref" href="../ref/buckle-history-of-civilization.html">Buckle's</a> History — a description the substantial justice of which will be questioned by no one who is acquainted with the history of Scotch witchcraft. On the multitude of miracles and apparitions of Satan that were believed, see pp. 349-369.
 
