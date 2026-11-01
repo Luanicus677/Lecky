@@ -253,6 +253,14 @@ Notes for continuing:
   Title pages/plates added: Malleus 1620, Bodin 1582, Eymericus 1607, Paramo 1598, Hutchinson 1720, Sprat 1667, Glanvill 1700 frontispiece + Endor plate (Faithorne); CSS figure.title-page.
   18 source-page subtitles rewritten into plain English. Dead end: Suárez de Paz; De Maistre 'physique nulle'; Cosmas Latin.
 
+- 1 Nov 2026 (after container restart): + bacon-novum-organum (Spedding vol. IV 1858 p. 115 = n128; Lecky's English is another translation),
+  knox-appellation (Laing vol. IV p. 507 = n518), locke-commonplace-book-miracles (King's Life of Locke 1830 `10064652bsb` pp. 231-232 = n246-n247; ch. II note 12),
+  hume-of-miracles (Gutenberg 9662 TEXT; Saragossa leg, ch. II note 4), edinburgh-review-the-supernatural (Oct 1862 vol. 116 p. 380 = n85; ch. II note 24),
+  swinden-nature-and-place-of-hell (1727 2nd ed. `natureofhell00swin` p. 129 = n156, title n4; hell in the sun; ch. III note 151). Sections added: Bossuet § XXXI (ch. VI n114),
+  Scott Letter VIII (ch. I n143), Glanvill pp. 3-4 (ch. I n123-124), Bodin f. 216 Angers 1539 (n466; ch. III n135). Berkeley Querist: Lecky's 'No. 54' = 1735 query 58.
+  Linked notes now ~345/850. Good next targets: ch. III (lowest coverage): Barrington On the Statutes p. 461 (notes 178, 180), Roccamora De cometis (112, 115),
+  Cudworth vol. iii p. 318 (165, Harrison ed. scan known), Matter Gnosticisme, Beausobre Manichéisme, Raoul-Rochette Cours d'archéologie; ch. VI Leo X bull (27/36).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
