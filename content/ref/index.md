@@ -350,6 +350,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The “possessed” of Morzine felt no pin, but only during their fits (1863, p. 63), cited in ch. I, note 104.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="cudworth-true-intellectual-system.html">Cudworth, <em>The True Intellectual System of the Universe</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Deniers of witches have “some hankering towards atheism” (1743 ed., vol. II, p. 702), cited in ch. I, note 127.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>

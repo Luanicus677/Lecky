@@ -669,7 +669,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^126]: On Credulity and Incredulity. This Casaubon was son of the great Greek scholar.
 
-[^127]: 'As for wizards and magicians, persons who associate and confederate themselves with these evil spirits for the gratification of their own revenge, lust, ambition, and other passions; besides the Scriptures, there hath been so full an attestation given to them by persons unconcerned in all ages, that those our so confident exploders of them in this present age can hardly escape the suspicion of having some hankering towards atheism.' (Int. Syst., vol. ii. p. 650.) See also vol. i. p. 116.
+[^127]: 'As for wizards and magicians, persons who associate and confederate themselves with these evil spirits for the gratification of their own revenge, lust, ambition, and other passions; besides the Scriptures, there hath been so full an attestation given to them by persons unconcerned in all ages, that those our so confident exploders of them in this present age can hardly escape the suspicion of having some hankering towards atheism.' (<a class="popup-ref" href="../ref/cudworth-true-intellectual-system.html#hankering">Int. Syst., vol. ii. p. 650.</a>) See also vol. i. p. 116.
 
 [^128]: Webster, On Witches. The identification of the Scripture demoniacs with lunatics had been made by Hobbes also.
 
