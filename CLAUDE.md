@@ -239,6 +239,20 @@ Notes for continuing:
   fixed 8 broken links (Thiers -> fr.wikipedia; Raoul_Rochette; Edward_Burt; Francisco_de_Toledo_(Jesuit); Gioacchino_Ventura_di_Raulica;
   it:Giuseppe_Pecchio; Manuel_de_Sá; Samuel_Laing_(travel_writer), whose dates are 1780–1868, not the son's).
 
+- 31 Oct–1 Nov 2026 run 2: new source pages (all read on page images unless noted): malone-historical-account-english-stage (10747532bsb, pp. 15-16 = n20-n21, p. 11 = n16),
+  augustine-de-trinitate (PL 42 cols. 951-952 = n479; Lecky's 'penitus ignoramus' sentence is recast from words about St Paul), laplace-exposition-du-systeme-du-monde (1835 6th ed. p. 444 = n475),
+  browne-religio-medici (1672 ed. p. 24 = n31, annotations p. 100 = n107), knox-first-blast (Arber 1878 p. 11 = n31; OCR 'conturnelie' fixed in vol2-ch5 n110),
+  locke-two-treatises (Gutenberg 7370 TEXT; vol2-ch5 notes 97-100; OCR fixes '1 1 should', 'tinder'), hooker-ecclesiastical-polity (oflawsofecclesia0000hook_s0l3 p. 59 = n94),
+  motley-rise-of-the-dutch-republic (1856 vol. II p. 158 = n165; OCR uses double spaces: grep with '  '), bossuet-maximes-sur-la-comedie (Gazier 1881 § XI p. 46 = n68, § XXXI p. 84 = n106;
+  vol2-ch6 note 142 French restored from Lecky p. 348), edwards-freedom-of-will (Boston 1754 p. 254 = n269), scott-letters-on-demonology (NY 1830: Letter IX p. 261 = n265, Letter VIII pp. 198-199 = n202-n203),
+  coleridge-notes-on-english-divines (1853 vol. I p. 209 = n222), rogers-recollections (1859 pp. 49-50 = n79-n80; Fox), gladstone-state-and-church (1838 p. 188 = n203),
+  harrington-system-of-politics (Works 1771 p. 475 = n528), jubinal-danse-des-morts (1841 p. 8 = n11; plates n26, n30, n34, n38; wide figure in vol1-ch4),
+  constans-epidemie-morzine (1863 p. 63 = n70), cudworth-true-intellectual-system (1743 vol. II p. 702 = n75), butler-hudibras (Grey ed. Dublin 1744 vol. II pp. 12-14 = n17-n19),
+  milton-areopagitica (Hales ed. p. 43 = n94), berkeley-querist (Dublin 1735 Part I p. 13 = n12; queries 57-58), baxter-holy-commonwealth (1659 'Addition to the Preface' = n50),
+  homily-against-wilful-rebellion (Philadelphia 1855 reprint pp. 512, 519 = n533, n540). Glanvill page: + 'Considerations' pp. 3-4 = n56-n57 (ch. I notes 123-124).
+  Title pages/plates added: Malleus 1620, Bodin 1582, Eymericus 1607, Paramo 1598, Hutchinson 1720, Sprat 1667, Glanvill 1700 frontispiece + Endor plate (Faithorne); CSS figure.title-page.
+  18 source-page subtitles rewritten into plain English. Dead end: Suárez de Paz; De Maistre 'physique nulle'; Cosmas Latin.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
