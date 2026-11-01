@@ -916,6 +916,6 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^182]: Barrington says this was the case when he wrote, which was in 1766.
 
-[^183]: He asks 'whether we may not, as well as other nations, contrive employment for our criminals; and whether servitude, chains, and hard labour for a term of years, would not be a more discouraging as well as a more adequate punishment for felons than even death itself.' (*Querist*, No. 54.)
+[^183]: He asks 'whether we may not, as well as other nations, contrive employment for our criminals; and whether servitude, chains, and hard labour for a term of years, would not be a more discouraging as well as a more adequate punishment for felons than even death itself.' (<a class="popup-ref" href="../ref/berkeley-querist.html#felons">*Querist*, No. 54.</a>)
 
 [^184]: See Romilly's *Life* for many statistics on the subject.

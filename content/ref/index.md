@@ -362,6 +362,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Truth hewn in pieces like Osiris (1644; Hales ed., p. 43), cited in ch. IV (continued), note 90.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="berkeley-querist.html">Berkeley, <em>The Querist</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Hard labour as “a more adequate Punishment for Felons, than even Death itself” (Dublin 1735, p. 13), cited in ch. III, note 183.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
