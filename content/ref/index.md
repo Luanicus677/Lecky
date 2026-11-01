@@ -390,6 +390,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Cardinal de Retz and the doorkeeper of Saragossa who regrew a leg (Enquiry, section X; Gutenberg text), cited in ch. II, note 4.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="edinburgh-review-the-supernatural.html">“The Supernatural”, <em>Edinburgh Review</em>, October 1862</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Natural law, miracles and the widening of “nature” (vol. 116, p. 380), cited in ch. II, note 24.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
