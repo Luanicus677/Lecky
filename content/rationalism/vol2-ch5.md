@@ -569,7 +569,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^81]: See <a class="popup-ref" href="../ref/buckle-history-of-civilization.html">Buckle's</a> Hist. of Scottish Civilization.
 
-[^82]: 'And therfor I fear not to affirm that it had bene the dutie of the nobilitie, judges, rulers, and people of England, not only to have resisted and againstanded Marie, that Jesabel whome they call their queen, but also to have punished her to the death, with all the sort of her idolatrous preestes, together with all such as should have assisted her what tyme that shee and they openly began to suppresse Christes Evangil, to shed the blood of the saincts of God, and to erect that most devillish idolatrie, the Papistical abominations.' (Knox, Appellation.)
+[^82]: 'And therfor I fear not to affirm that it had bene the dutie of the nobilitie, judges, rulers, and people of England, not only to have resisted and againstanded Marie, that Jesabel whome they call their queen, but also to have punished her to the death, with all the sort of her idolatrous preestes, together with all such as should have assisted her what tyme that shee and they openly began to suppresse Christes Evangil, to shed the blood of the saincts of God, and to erect that most devillish idolatrie, the Papistical abominations.' (<a class="popup-ref" href="../ref/knox-appellation.html#jesabel">Knox, Appellation.</a>)
 
 [^83]: As Buchanan tersely puts it, 'Rex, lex loquens; lex, rex mutus.' (<a class="popup-ref" href="../ref/buchanan-de-jure-regni.html#lex-loquens">source page</a>)
 
