@@ -1,0 +1,56 @@
+---
+title: Butler, Hudibras
+description: "Samuel Butler’s Hudibras, Part II, Canto III, lines 139–154, on the witch-finder Matthew Hopkins, who ‘hang’d threescore of ’em in one Shire’, quoted by Lecky in Chapter I, note 112; read in Zachary Grey’s annotated edition (Dublin, 1744), whose notes tell the story of how Hopkins was himself ‘swum’."
+heading: Butler, <em>Hudibras</em>
+subtitle: "The witch-finder who “hang’d threescore of ’em in one Shire”"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Samuel_Butler_(poet)\">Samuel Butler</a> (1613–1680). <em>Hudibras</em> (1663–1678), a mock-heroic satire on a Presbyterian knight and his Independent squire Ralpho, was the most popular poem of the Restoration. The witch-finder of these lines is <a href=\"https://en.wikipedia.org/wiki/Matthew_Hopkins\">Matthew Hopkins</a> (d. 1647), who worked the eastern counties for Parliament’s side in 1645–1647."]
+  - ["Edition used", "<em>Hudibras … with large annotations, and a preface, by Zachary Grey</em>, vol. II, Dublin 1744 (Internet Archive <a href=\"https://archive.org/details/hudibrasinthreep02butl\">hudibrasinthreep02butl</a>): pp. 12–13 = <a href=\"https://archive.org/details/hudibrasinthreep02butl/page/n17/mode/2up\">n17</a>–<a href=\"https://archive.org/details/hudibrasinthreep02butl/page/n18/mode/2up\">n18</a>; p. 14 = <a href=\"https://archive.org/details/hudibrasinthreep02butl/page/n19/mode/2up\">n19</a>."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn112\">Rationalism, ch. I, note 112</a> (“Second part, Canto iii”)."]
+  - ["Status", "Pp. 12–13 read on the page images and transcribed; the note on p. 14 from the OCR only."]
+abstract: |
+  <p>Lecky quotes Butler’s jibe at the Puritan Parliament, which sent “a Ledger to the Devil” (a resident ambassador) to hunt witches. Grey’s eighteenth-century notes, printed under the verses, identify him: Matthew Hopkins, “the noted Witch-finder for the associated Counties”, who hanged sixty suspected witches in Suffolk in one year. The lines that follow list the tests that sent them to the gallows, being kept sitting cross-legged for a day and a night, or failing to sink when thrown into water, and end with a joke: Hopkins “after prov’d himself a Witch”. Grey explains it from Hutchinson, the same <a class="popup-ref" href="hutchinson-historical-essay.html">Hutchinson</a> Lecky uses: indignant gentlemen tied Hopkins’s thumbs and toes as he tied others, threw him into the water, and he floated.</p>
+---
+<section id="threescore" class="passage">
+<h2>“A Ledger to the Devil” (Part II, Canto III, lines 129–154)</h2>
+<p class="passage-source">English: Grey’s edition, Dublin 1744, vol. II, pp. 12–13, <a href="https://archive.org/details/hudibrasinthreep02butl/page/n17/mode/2up">scan</a>. Ralpho is speaking. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<figure class="facsimile"><a href="../assets/img/ref/hudibras-1744-ii-p12.jpg"><img src="../assets/img/ref/hudibras-1744-ii-p12.jpg" alt="A page of Hudibras with numbered verses, “Has not this present Parliament A Ledger to the Devil sent”, and Grey’s notes below" loading="lazy"></a><figcaption><i>Hudibras</i>, Part II, Canto III, with Zachary Grey’s notes (Dublin, 1744), vol. II, p. 12. <span class="credit">Scan: Internet Archive (University of Pittsburgh) · public domain</span></figcaption></figure>
+<blockquote>
+<p>Says <i>Ralpho</i>, there’s no Doubt of that;<br>
+Those <i>Principles</i> I quoted late,<br>
+Prove that the <i>Godly</i> may alledge<br>
+For any thing their <i>Priviledge</i>:<br>
+And to the Dev’l himself may go,<br>
+If they have <i>Motives</i> thereunto.<br>
+For as there is a <i>War</i> between<br>
+The <i>Dev’l</i> and <i>them</i>, it is no <i>Sin</i>,<br>
+If they by subtle Stratagem,<br>
+Make Use of <i>him</i>, as he does them.<br>
+<span class="cited-passage">Has not this present <i>Parliament</i><br>
+A <i>Ledger</i> to the <i>Devil</i> sent,<br>
+Fully impower’d to treat about<br>
+Finding revolted <i>Witches</i> out?<br>
+And has not he, within a Year,<br>
+Hang’d threescore of ’em in one <i>Shire</i>?</span><br>
+Some only for not being <i>drown’d</i>,<br>
+And some for sitting above Ground,<br>
+Whole <i>Days</i> and <i>Nights</i>, upon their <i>Breeches</i>,<br>
+And feeling Pain, were hang’d for <i>Witches</i>.<br>
+And some for putting <i>Knavish</i> Tricks<br>
+Upon <i>Green Geese</i>, and <i>Turkey-Chicks</i>,<br>
+Or <i>Pigs</i>, that suddenly deceast<br>
+Of Griefs unnat’ral, as he guest;<br>
+Who after prov’d himself a <i>Witch</i>,<br>
+And made a Rod for his own <i>Breech</i>.</p>
+</blockquote>
+<p>Grey’s notes (pp. 12–14):</p>
+<blockquote>
+<p>Ver. 139, 140. <i>Has not this present Parliament — A Ledger to the Devil sent?</i>] <i>Ledger Ambassadors</i> were not more ancient than the Year 1500 …</p>
+<p>Ver. 143, 144. <i>And has not he within a Year — Hang’d threescore of ’em in one Shire?</i>] <i>Hopkins</i>, the noted <i>Witch-finder</i> for the associated Counties, hang’d threescore suspected Witches in one Year in the County of <i>Suffolk</i>. See Dr. <i>Hutchinson</i>’s <i>Historical Essay on Witchcraft</i>, p. 37, 38.</p>
+<p>[p. 14, OCR:] Ver. 153, 154. <i>Who after prov’d himself a Witch, — And made a Rod for his own Breech.</i>] “These two Verses (says Dr. <i>Hutchinson</i>, <i>Historical Essay</i>, p. 65.) relate to that which I have often heard, that <i>Hopkins</i> went on searching and swimming the poor Creatures till some Gentlemen out of Indignation at the Barbarity, took him and tied his own Thumbs and Toes, as he used to tie others; and when he was put into the Water, he himself swam as they did. This clear’d the Country of him …”</p>
+</blockquote>
+<p>Lecky’s wording is from another edition (“Hath not”, “Hanged”). Hutchinson, it should be said, only reports the story of Hopkins’s swimming as something he had “often heard”.</p>
+</section>
