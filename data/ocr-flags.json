@@ -636,5 +636,319 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 254
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 255
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 257
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 258
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 259
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 260
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 262
+ },
+ {
+  "error": "signifies,'",
+  "fix": "signifies,",
+  "context": "all the kings of Palestine, signifies,' My father king.' (Defensio, lib.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 263
+ },
+ {
+  "error": "from' thoroughly settled '",
+  "fix": "from 'thoroughly settled'",
+  "context": "seemed very far indeed from' thoroughly settled '), and he accordingly",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 263
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 264
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 265
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 267
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 269
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 270
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 271
+ },
+ {
+  "error": "favour able",
+  "fix": "favourable",
+  "context": "the furtive character given to the transaction is eminently favour able to imposition",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 273
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 275
+ },
+ {
+  "error": "110",
+  "fix": "no",
+  "context": "the thing itself has 110 value distinct from its usage.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 276
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 279
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 280
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 284
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 285
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 288
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 290
+ },
+ {
+  "error": "named",
+  "fix": "name",
+  "context": "and his named erased from the list of advocates.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 292
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 293
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 300
+ },
+ {
+  "error": "introduced, At",
+  "fix": "introduced. At",
+  "context": "greater than before the machinery had been introduced, At the same",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 301
+ },
+ {
+  "error": "endeavour ing",
+  "fix": "endeavouring",
+  "context": "who in this as in many other respects were simply endeavour ing to realise",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 303
+ },
+ {
+  "error": "aspirations, But",
+  "fix": "aspirations. But",
+  "context": "military antipathy by the sympathy of common aspirations, But a few",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 303
+ },
+ {
+  "error": "benefit, It",
+  "fix": "benefit. It",
+  "context": "they are intended to benefit, It proves that the material prosperity",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 305
+ },
+ {
+  "error": "with out",
+  "fix": "without",
+  "context": "sense of a common interest with out a warm feeling of",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 305
+ },
+ {
+  "error": "Formerly,,",
+  "fix": "Formerly,",
+  "context": "the contrast is very evident. Formerly,, asceticism represented the highest point of",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 306
+ },
+ {
+  "error": "anil",
+  "fix": "and",
+  "context": "with nobler motives or more comprehensive principles, anil modifying, though not altogether",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 309
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 310
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 311
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 312
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 313
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 314
+ },
+ {
+  "error": "On Usury]",
+  "fix": "On Usury)",
+  "context": "Bentham showed decisively (Letter xiii., On Usury] that such a law",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 315
+ },
+ {
+  "error": "Memoir e",
+  "fix": "Memoire",
+  "context": "Besides the Memoir e Turgot noticed the subject in a very",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 315
+ },
+ {
+  "error": "latest'",
+  "fix": "latest",
+  "context": "As their latest' historian says, ‘Le Christianisme ne prit une veritable",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 315
+ },
+ {
+  "error": "Eios",
+  "fix": "Rios",
+  "context": "sur les Juifs d'Espagne, p. 77. Eios says that the contemporary writers are",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 316
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 317
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 318
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 319
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 320
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 321
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 322
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 323
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 324
  }
 ]
