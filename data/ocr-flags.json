@@ -617,5 +617,24 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 248
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 250
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 251
+ },
+ {
+  "error": "transcendant",
+  "fix": "transcendent",
+  "context": "gave his eloquence a transcendant power in a revolutionary age.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 254
  }
 ]
