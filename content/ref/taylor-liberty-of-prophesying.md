@@ -2,7 +2,7 @@
 title: Taylor, Liberty of Prophesying
 description: "Jeremy Taylor’s Discourse of the Liberty of Prophesying (1647), § 18 (the case of the Anabaptists), pp. 328–329 of an 1836 printing: “the water and the Spirit in this place signify the same thing”, quoted by Lecky in Chapter IV, note 13."
 heading: Taylor, <em>A Discourse of the Liberty of Prophesying</em>
-subtitle: "John iii. 5: “the water and the Spirit … signify the same thing” (§ 18)"
+subtitle: "Lecky quotes Taylor accurately on water and Spirit"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn13\">Rationalism, ch. IV, note 13</a> and <a href=\"../rationalism/vol2-ch4.html#fn7\">vol. II ch. IV, note 7</a>."]
   - ["Status", "The two pages read on the images. Added p. 368 (ch. IV pt II note 7, § 22, not read as a section)."]
 abstract: |
-  <p>Lecky’s quotation is accurate (“The water and the spirit in this place signify the same thing; and by water is meant …”). Taylor’s sentence runs across the page break: “For, first, the water and the Spirit in this place signify the same thing; and by water is meant the effect of the Spirit, cleansing and purifying the soul, as appears in its parallel place of Christ baptizing with the Spirit and with fire.” Taylor’s purpose is a defence of the Anabaptists’ objection to infant baptism: he goes on to say that if the “exclusive negative” is read by analogy with Peter’s “not the washing of the flesh”, it cannot prove the necessity of infant baptism.</p>
+  <p>Lecky’s quotation is accurate apart from spelling: “baptising” for Taylor’s “baptizing” and lower-case “spirit”. Taylor’s sentence runs across the page break in the 1836 printing on pp. 328–329. Taylor uses it in defence of the Anabaptists’ objection to infant baptism, adding that infants must also pass through fire as through water.</p>
 ---
 <section id="water-and-spirit" class="passage">
 <h2>“The water and the Spirit in this place signify the same thing”</h2>
@@ -31,3 +31,7 @@ abstract: |
 </blockquote>
 <p>Lecky (vol. II, ch. IV, note 7): “Taylor, in noticing this argument, finely says that Christ, by refusing to permit his apostles to call down fire like Elias on the misbeliever, clearly indicated his separation from the intolerance of Judaism. (<em>Liberty of Prophesying</em>, sec. 22.)” A fair paraphrase; “sec. 22” is the work’s section number, not read here; the page is in the section on the Old Testament as a ground for persecution.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s quotation is accurate (“The water and the spirit in this place signify the same thing; and by water is meant …”). Taylor’s sentence runs across the page break: “For, first, the water and the Spirit in this place signify the same thing; and by water is meant the effect of the Spirit, cleansing and purifying the soul, as appears in its parallel place of Christ baptizing with the Spirit and with fire.” Taylor’s purpose is a defence of the Anabaptists’ objection to infant baptism: he goes on to say that if the “exclusive negative” is read by analogy with Peter’s “not the washing of the flesh”, it cannot prove the necessity of infant baptism.</p>
+</details>

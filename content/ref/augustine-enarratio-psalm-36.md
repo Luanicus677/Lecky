@@ -2,7 +2,7 @@
 title: Augustine, Enarratio in Psalmum XXXVI, sermo 3
 description: "Augustine’s sermon on Psalm 36 on lending at interest (§ 6), quoted by Lecky in Chapter VI, note 27, from Migne’s Patrologia Latina, vol. 36. Lecky’s Latin differs in small ways."
 heading: Augustine, <em>Enarratio in Psalmum XXXVI</em>, sermo 3, § 6
-subtitle: "“Si feneraveris homini…”"
+subtitle: "More than given, even in wheat or wine, is usury"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn27\">Rationalism, ch. VI, note 27</a>."]
   - ["Status", "The passage transcribed from the page image, translated and collated. Lecky’s other citations in note 27 (Concina, Melanchthon, Benedict XIV) are not transcribed."]
 abstract: |
-  <p>Lecky gives Augustine’s description of usury as the taking of “something more than you gave”: wheat, wine, oil or anything else. The Latin matches Migne with four small differences: “mutuam pecuniam dederis” for Migne’s “mutuam pecuniam tuam dederis”, “expectas” for “exspectes”, “sive vinum”, and the first words (“Si foeneraveris” for Migne’s “Si feneraveris”). The first two change the grammar, since “a quo … exspectes” is a subjunctive in a relative clause.</p>
+  <p>Augustine says anyone who expects back “something more than you gave” — whether wheat, wine, oil or anything else — “is a usurer, and in this to be blamed, not praised”. Lecky’s quotation matches Migne’s Patrologia Latina, vol. 36, except for four small differences in Latin spelling and grammar. The meaning is the same, and Lecky’s label for the passage as a description of the sin is fair.</p>
 ---
 <section id="foeneraveris" class="passage">
 <h2>“Si feneraveris homini” (on Ps. 36:26)</h2>
@@ -38,3 +38,7 @@ abstract: |
 </div>
 <p>The spelling (<em>foen-</em> for <em>fen-</em>) reflects the older editions that used the diphthong. “Expectas” for “exspectes” and the missing “tuam” may be the edition Lecky used (probably an older Benedictine text); I have not seen it. The meaning is the same. Lecky’s English “description given by St. Augustine of the sin” is a fair label.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky gives Augustine’s description of usury as the taking of “something more than you gave”: wheat, wine, oil or anything else. The Latin matches Migne with four small differences: “mutuam pecuniam dederis” for Migne’s “mutuam pecuniam tuam dederis”, “expectas” for “exspectes”, “sive vinum”, and the first words (“Si foeneraveris” for Migne’s “Si feneraveris”). The first two change the grammar, since “a quo … exspectes” is a subjunctive in a relative clause.</p>
+</details>

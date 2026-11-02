@@ -2,7 +2,7 @@
 title: Clementinae, Ex gravi (Council of Vienne on usury)
 description: "The Clementine constitution Ex gravi (Clementinarum lib. V, tit. V, De usuris, single chapter, § 2), the decree of the Council of Vienne that makes it heresy to affirm that usury is no sin; the Latin Lecky quotes in Chapter VI, note 46."
 heading: Clement V at the Council of Vienne, <em>Ex gravi</em>
-subtitle: "Clementinae V.5 (De usuris), § 2"
+subtitle: "Where Lecky stops short of the inquisitors’ order"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn46\">Rationalism, ch. VI, note 46</a>."]
   - ["Status", "Latin transcribed from the page image, translated and collated. Lecky’s own citation (<em>Conférences sur l’Usure</em>, tom. i. p. 93) was not seen; the Conférences are not on the site."]
 abstract: |
-  <p>Lecky’s Latin is the second paragraph of the single chapter of the Clementine title <em>De usuris</em>. He quotes it nearly word for word and stops before the clause that tells bishops and inquisitors to proceed against anyone defamed or suspected of the error. His “istum” is the edition’s “illum”; the edition’s “cum velut haereticum” (read on the image) looks like a misprint for “eum”, which Lecky has.</p>
-  <p>The first paragraph of the chapter, which Lecky does not quote, is the decree against the statutes of Italian communes that allow or enforce the payment of usury: officials who make or enforce them are excommunicated.</p>
+  <p>Lecky quotes the decree almost word for word but stops at ‘puniendum’, leaving out the order to bishops and inquisitors to proceed against anyone defamed or suspected of the error. The passage quoted says anyone who obstinately affirms that to practise usury is not a sin is to be punished as a heretic. The paragraph Lecky does not quote is the decree against the statutes of Italian communes that allow or enforce the payment of usury, excommunicating officials who make or enforce them.</p>
 ---
 <section id="ex-gravi" class="passage">
 <h2>Whoever affirms that usury is no sin is a heretic (§ 2)</h2>
@@ -38,3 +37,8 @@ abstract: |
 </div>
 <p>Lecky’s Latin has the ligature “hæreticum” and “præsumat” where this edition prints “haereticum” and “praesumat”. The differences in the table are the only ones in the words he quotes. Lecky ends at “puniendum” and so leaves out the instruction to the inquisitors.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s Latin is the second paragraph of the single chapter of the Clementine title <em>De usuris</em>. He quotes it nearly word for word and stops before the clause that tells bishops and inquisitors to proceed against anyone defamed or suspected of the error. His “istum” is the edition’s “illum”; the edition’s “cum velut haereticum” (read on the image) looks like a misprint for “eum”, which Lecky has.</p>
+<p>The first paragraph of the chapter, which Lecky does not quote, is the decree against the statutes of Italian communes that allow or enforce the payment of usury: officials who make or enforce them are excommunicated.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Gibbon, Decline and Fall
 description: "Two passages of Gibbon’s Decline and Fall, read in the Project Gutenberg text of the Guizot–Milman annotated edition: the note on St Augustine and the laws against pagan sacrifice (ch. 28, note 56), which Lecky quotes in Chapter IV, note 30, and the “favorite player” Aliturus who interceded for the Jews (ch. 16, note 40), cited in Chapter VI, note 103."
 heading: Gibbon, <em>Decline and Fall of the Roman Empire</em>
-subtitle: "Chapter 28, note 56, and chapter 16, note 40"
+subtitle: "An Augustine quotation and a stronger claim about Aliturus"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn30\">Rationalism, ch. IV (continued), note 30</a> and <a href=\"../rationalism/vol2-ch6.html#fn103\">ch. VI, note 103</a>."]
   - ["Status", "Two notes found by their words and collated. Gibbon’s own source for the Augustine quotation (Le Clerc, <em>Bibliothèque choisie</em>) is not checked, nor Augustine’s Epistle 93 (see the <a href=\"augustine-contra-mendacium.html\">Augustine pages</a> for the other works on the site)."]
 abstract: |
-  <p>Lecky’s Latin quotation of Augustine in note 30 is the same sentence Gibbon gives in a footnote to chapter 28, which Gibbon introduces with “Such a charge should not be lightly made; but it may surely be justified by the authority of St. Augustin”, and which he cites as “Epist. xciii. No. 10, quoted by Le Clerc”. Lecky’s “in some editions xcviii” is his own addition. Lecky was probably quoting Gibbon’s footnote, and his “See Gibbon, ch. xxviii” points to it.</p>
-  <p>On Aliturus, Lecky’s statement is stronger than Gibbon’s. Gibbon says that Poppaea and “a favorite player of the race of Abraham” had “already employed their intercession in behalf of the obnoxious people”, with a note that the player’s name was Aliturus and that Josephus, through the same channel, had obtained the release of some Jewish priests two years before. “Great honour” and “repeated and successful efforts to obtain a relaxation of the persecutions” go beyond that.</p>
+  <p>Gibbon says Poppaea and a player “had already employed their intercession in behalf of the obnoxious people”, with a note naming the player as Aliturus and saying Josephus had through the same channel obtained the release of some Jewish priests. Lecky turns this into “great honour” and “repeated and successful efforts” to obtain “a relaxation of the persecutions of the Jews”, which goes beyond Gibbon. His Augustine quotation is the same sentence Gibbon gives in a footnote to chapter 28, though Lecky adds “enim” and has “contra” for Gibbon’s “adversus”.</p>
 ---
 <section id="augustine-note-56" class="passage">
 <h2>Augustine on the laws against pagan sacrifice (ch. XXVIII, note 56)</h2>
@@ -33,3 +32,8 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. VI, note 103): “Gibbon has noticed the great honour in which he [Nero] held the Jewish actor Aliturus, and the repeated and successful efforts of that actor to obtain a relaxation of the persecutions of the Jews.” Gibbon’s “favorite player” supports the favour; “great honour” and “repeated” are Lecky’s. Gibbon speaks of intercession “in behalf of the obnoxious people” and of the release of priests, not of a relaxation of persecutions.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s Latin quotation of Augustine in note 30 is the same sentence Gibbon gives in a footnote to chapter 28, which Gibbon introduces with “Such a charge should not be lightly made; but it may surely be justified by the authority of St. Augustin”, and which he cites as “Epist. xciii. No. 10, quoted by Le Clerc”. Lecky’s “in some editions xcviii” is his own addition. Lecky was probably quoting Gibbon’s footnote, and his “See Gibbon, ch. xxviii” points to it.</p>
+<p>On Aliturus, Lecky’s statement is stronger than Gibbon’s. Gibbon says that Poppaea and “a favorite player of the race of Abraham” had “already employed their intercession in behalf of the obnoxious people”, with a note that the player’s name was Aliturus and that Josephus, through the same channel, had obtained the release of some Jewish priests two years before. “Great honour” and “repeated and successful efforts to obtain a relaxation of the persecutions” go beyond that.</p>
+</details>

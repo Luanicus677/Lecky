@@ -2,7 +2,7 @@
 title: Macpherson, Annals of Commerce
 description: "David Macpherson’s Annals of Commerce (1805): the 1346 footnote on the office of consul (vol. i, p. 536), the Portuguese ransom of Moors for negro slaves (vol. i, p. 661) and the first English–Spanish slave convention (vol. ii, p. 638), cited in Chapter VI, notes 94, 160 and 162."
 heading: Macpherson, <em>Annals of Commerce</em>
-subtitle: "Medieval trade year by year: merchants, consuls and markets"
+subtitle: "Macpherson’s 1346 consul footnote is not about English consuls"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn94\">Rationalism, ch. VI, note 94</a>, <a href=\"../rationalism/vol2-ch6.html#fn160\">160</a> and <a href=\"../rationalism/vol2-ch6.html#fn162\">162</a>."]
   - ["Status", "Three passages transcribed from the page images. Lecky’s paraphrase of two of them differs from the book, as set out below. Macpherson’s own sources (Rymer’s Foedera, Faria y Sousa, Cada Mosto) are not checked."]
 abstract: |
-  <p>All three pages are as Lecky cites them, but only the third agrees with his sentence without qualification. Note 94 turns Macpherson’s footnote into a claim about the “English consul”; the footnote says something narrower. In note 160 Lecky’s 1440 is Macpherson’s 1443 (the page is headed A.D. 1443 and says “this year”). In note 162 Macpherson dates the first Anglo-Spanish convention for supplying the Spanish West Indies with negro slaves from Jamaica only to “about this time”, on a page headed A.D. 1689; Lecky’s “in 1689” is a little firmer than the book.</p>
+  <p>Lecky’s ‘earliest notice … of an English consul’ in 1346 is not what Macpherson wrote. Macpherson’s footnote describes the consul of the Venetian merchants at Bruges, noticed in an English record, not a consul of English merchants abroad. The other pages are closer, but Macpherson heads the ransom of Moors for ten negro slaves 1443, not Lecky’s 1440, and puts the first convention only at ‘about this time’ on a page headed 1689.</p>
 ---
 <section id="consul-1346" class="passage">
 <h2>The earliest consul in an English record (vol. i, p. 536, footnote †)</h2>
@@ -41,3 +41,7 @@ abstract: |
 </blockquote>
 <p>Lecky: “At a much later period, in 1689, the English made a convention with Spain to supply the West Indies with slaves from Jamaica.” The page matches, with the qualification in the abstract: “about this time”, under the year 1689.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>All three pages are as Lecky cites them, but only the third agrees with his sentence without qualification. Note 94 turns Macpherson’s footnote into a claim about the “English consul”; the footnote says something narrower. In note 160 Lecky’s 1440 is Macpherson’s 1443 (the page is headed A.D. 1443 and says “this year”). In note 162 Macpherson dates the first Anglo-Spanish convention for supplying the Spanish West Indies with negro slaves from Jamaica only to “about this time”, on a page headed A.D. 1689; Lecky’s “in 1689” is a little firmer than the book.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Bossuet, Histoire des variations des Églises protestantes
 description: "Bossuet’s Variations, book X, § 56 (“Les Catholiques et les Protestants d’accord sur la question de la punition des hérétiques”), quoted by Lecky in Chapter IV Part II, note 75, with Jurieu’s system as his witness."
 heading: Bossuet, <em>Histoire des variations des Églises protestantes</em>
-subtitle: "Book X, § 56: Catholics and Protestants agree on punishing heretics"
+subtitle: "What Lecky leaves out of Bossuet on punishing heretics"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn75\">Rationalism, ch. IV (continued), note 75</a> and <a href=\"../rationalism/vol1-ch4.html#fn17\">(vol. I) ch. IV, note 17</a> and <a href=\"../rationalism/vol1-ch4.html#fn28\">note 28</a>."]
   - ["Status", "p. 475 read on the image. Notes 17 and 28 (liv. II) are also covered; note 28 (liv. II, p. 70) is also on this page."]
 abstract: |
-  <p>Lecky’s French is Bossuet’s paragraph with two small changes: Lecky has “(Jurieu, Syst. ii. ch. 22–23, &amp;c.)” where Bossuet’s parenthesis lists “Jur. Syst. II. ch. 22. 23. Lett. Past. de la I. année I. II. III. Hist. du Papism. 2. Récrim. ch. II. et seq.”, and he writes “je ne connois parmi les Chrétiens” for “parmi les chrétiens”. Lecky’s quotation also stops before Bossuet’s last sentence, “En un mot, le droit est certain: mais la modération n’en est pas moins nécessaire.” The doctrine is Bossuet’s: that Protestants and Catholics agree that the sword may be used against heretics, the evidence being Luther’s and Calvin’s books on the magistrate, Calvin’s treatment of Servetus and Valentin Gentile, Melanchthon’s approval, the discipline of Geneva and Jurieu.</p>
+  <p>Bossuet claims that Catholics and Protestants agree that Christian princes may use “the power of the sword” against enemies of the Church, with only “the Socinians and the Anabaptists” opposed. Lecky quotes the passage with two small changes but stops before Bossuet’s last sentence, “En un mot, le droit est certain: mais la modération n’en est pas moins nécessaire.” He also shortens Bossuet’s parenthesis on Jurieu to “(Jurieu, Syst. ii. ch. 22–23, &c.)”.</p>
 ---
 <section id="variations-x-56" class="passage">
 <h2>§ 56 (book X, p. 475)</h2>
@@ -55,3 +55,7 @@ abstract: |
 </div>
 <p>Lecky (ch. IV, note 28): “This passage is given in full by Bossuet, <em>Variations Protestantes</em>, liv. ii. c. 19. The original confession was published by Bullinger, in 1536, with a very laudatory preface.” The page confirms: Bossuet gives the confession (published 1536, p. 27 of the <em>Christianae fidei clara expositio</em>) and cites Bullinger’s preface. The list of names in Lecky’s text (“Socrates, Aristides, and Antigonus, with Numa and Camillus, Hercules and Theseus, the Scipios and the Catos”) is Zwingli’s; “in full” is Lecky’s phrase for Bossuet’s extended quotation, which on this page is abridged (“…”).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s French is Bossuet’s paragraph with two small changes: Lecky has “(Jurieu, Syst. ii. ch. 22–23, &amp;c.)” where Bossuet’s parenthesis lists “Jur. Syst. II. ch. 22. 23. Lett. Past. de la I. année I. II. III. Hist. du Papism. 2. Récrim. ch. II. et seq.”, and he writes “je ne connois parmi les Chrétiens” for “parmi les chrétiens”. Lecky’s quotation also stops before Bossuet’s last sentence, “En un mot, le droit est certain: mais la modération n’en est pas moins nécessaire.” The doctrine is Bossuet’s: that Protestants and Catholics agree that the sword may be used against heretics, the evidence being Luther’s and Calvin’s books on the magistrate, Calvin’s treatment of Servetus and Valentin Gentile, Melanchthon’s approval, the discipline of Geneva and Jurieu.</p>
+</details>

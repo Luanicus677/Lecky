@@ -2,7 +2,7 @@
 title: Hume, Of the Populousness of Ancient Nations
 description: "David Hume’s essay on the populousness of ancient nations (Essay XI), p. 396 of an 1875 edition: the argument that the exposure of infants may have made antiquity more populous, which Lecky paraphrases in Chapter VI, note 13."
 heading: Hume, <em>Of the Populousness of Ancient Nations</em>
-subtitle: "The exposure of children and population (Essay XI)"
+subtitle: "How exposing children might have raised population"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn13\">Rationalism, ch. VI, note 13</a>."]
   - ["Status", "One page read on the image. Lecky’s Malthus reference is not checked."]
 abstract: |
-  <p>Lecky’s summary is accurate: Hume asks whether monastic vows and the exposure of children are equally unfavourable to population, doubts that antiquity loses, and suggests that “by removing the terrors of too numerous a family it would engage many people in marriage”, while natural affection would prevent most parents from carrying their intentions out. Hume’s phrases are close to Lecky’s “removing the fear of a numerous family” and “natural affection would struggle to the last”; Lecky’s “once the children were born” is his own gloss of “when it came to the push”.</p>
+  <p>Hume argues that exposing children in early infancy might have made ancient times more populous, because “by removing the terrors of too numerous a family it would engage many people in marriage” while “the force of natural affection” held most back from acting. Lecky’s paraphrase in Chapter VI, note 13 is close, but “the poor” and “recklessly” do not appear in Hume and are Lecky’s (or Malthus’s) gloss. The check rests on one page, p. 396 of an 1875 printing, and Lecky’s reference to Malthus is not checked.</p>
 ---
 <section id="exposing-children" class="passage">
 <h2>“The barbarous practice of the ancients might rather render those times more populous”</h2>
@@ -22,3 +22,7 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. VI, note 13): “… the ancient permission of infanticide had on the whole a tendency to multiply rather than to diminish population, for, by removing the fear of a numerous family, it induced the poor to marry recklessly; while, once the children were born, natural affection would struggle to the last to sustain them.” Hume says nothing of the poor or of recklessness; “recklessly” is Lecky’s (or Malthus’s) gloss.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s summary is accurate: Hume asks whether monastic vows and the exposure of children are equally unfavourable to population, doubts that antiquity loses, and suggests that “by removing the terrors of too numerous a family it would engage many people in marriage”, while natural affection would prevent most parents from carrying their intentions out. Hume’s phrases are close to Lecky’s “removing the fear of a numerous family” and “natural affection would struggle to the last”; Lecky’s “once the children were born” is his own gloss of “when it came to the push”.</p>
+</details>

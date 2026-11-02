@@ -2,7 +2,7 @@
 title: Codex Theodosianus, IX.16
 description: Laws of Constantine, Constantius II and Valentinian against haruspices, divination and magic that Lecky cites in Chapter I (Book IX, title 16, laws 1–4, 6 and 7), with English drafts and comparisons with Lecky’s text.
 heading: <em>Codex Theodosianus</em>, IX.16
-subtitle: "The Christian emperors’ laws against sorcerers, diviners and astrologers"
+subtitle: "Lecky’s Latin matches the 1738 text word for word"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn28\">Rationalism in Europe, ch. I, note 28</a> (these two laws); also notes <a href=\"../rationalism/vol1-ch1.html#fn26\">26</a> (laws 1 and 2), <a href=\"../rationalism/vol1-ch1.html#fn27\">27</a> (law 3) and <a href=\"../rationalism/vol1-ch1.html#fn32\">32</a> (law 7)"]
   - ["Status", "Laws 1, 2, 3, 4, 6 and 7 transcribed and translated (law 5 is not). Translation is this edition’s own draft."]
 abstract: |
-  <p>In 357 and 358 the emperor <a href="https://en.wikipedia.org/wiki/Constantius_II">Constantius II</a> issued a series of laws against divination. Lecky treats them as the point where the Christian empire began to turn the old Roman laws against magic against paganism itself, and quotes two of them in Latin: law 4, a general ban on consulting diviners on pain of death, and law 6, which allows torture of anyone caught practising divination in the imperial retinue.</p><p>Lecky’s Latin agrees with the 1738 text in every word. The only differences are in punctuation. See <a href="#lecky-quotation">the comparison below</a>.</p>
+  <p>Lecky’s Latin quotations match the 1738 text word for word, with only punctuation differing. The page checks laws 1–4, 6 and 7, including law 4’s death penalty for consulting diviners and law 6’s rack and claws for diviners in the imperial retinue. Lecky treats the laws of 357 and 358 as the turn of old Roman magic laws against paganism itself.</p>
 ---
 <section id="law-4" class="passage">
 <h2>Law 4: Divination Forbidden (357)</h2>
@@ -173,3 +173,7 @@ abstract: |
 
 <p>Law 5, which Lecky’s notes name only as part of a run (note 28 cites “l. 4, 5, 6”), is not transcribed here.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In 357 and 358 the emperor <a href="https://en.wikipedia.org/wiki/Constantius_II">Constantius II</a> issued a series of laws against divination. Lecky treats them as the point where the Christian empire began to turn the old Roman laws against magic against paganism itself, and quotes two of them in Latin: law 4, a general ban on consulting diviners on pain of death, and law 6, which allows torture of anyone caught practising divination in the imperial retinue.</p><p>Lecky’s Latin agrees with the 1738 text in every word. The only differences are in punctuation. See <a href="#lecky-quotation">the comparison below</a>.</p>
+</details>

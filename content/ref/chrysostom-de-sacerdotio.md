@@ -2,7 +2,7 @@
 title: Chrysostom, On the Priesthood
 description: "The passage in St. John Chrysostom’s dialogue On the Priesthood (Book I, ch. VIII) on the usefulness of deceit, which Lecky calls a “curious panegyric on the habit of telling lies” in Chapter IV, note 37. English from Cowper’s 1866 translation, checked against the page images, with a comparison to Lecky’s description."
 heading: Chrysostom, <em>On the Priesthood</em>
-subtitle: John Chrysostom, Book I, ch. VIII
+subtitle: "Not praise of lying, but defence of deceit for good ends"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn37\">Rationalism, ch. IV, note 37</a>, where Lecky sets it against <a href=\"augustine-contra-mendacium.html\">Augustine, <em>Contra mendacium</em></a> (which has a side-by-side comparison)."]
   - ["Status", "The two extracts below are transcribed from the page images (pp. 19 and 24–25 of Cowper). Lecky’s description is compared with them. Lecky gives no reference, so identifying this chapter as the passage he means is my inference from his phrase, not something he states."]
 abstract: |
-  <p>In note 37 Lecky refers to “the curious panegyric on the habit of telling lies in St. Chrysostom <em>On the Priesthood</em>”. The only passage in that work I can find that fits is Book I, chapter VIII. There Chrysostom, accused by Basil of having deceived him, argues that deceit is not wrong in itself but becomes good or bad according to the intention of the deceiver, and then lists generals’ stratagems, a physician’s trick on a feverish patient, and St. Paul’s circumcision of Timothy as examples of its use.</p><p>The passage is a defence of deceit with a good purpose. It is not, as Lecky’s phrase suggests, a praise of lying as a habit. His wording is a hostile summary, though not an invention: Chrysostom does say “Great is the power of deceit”.</p>
+  <p>Lecky calls it a “curious panegyric on the habit of telling lies”, but Chrysostom says deceit “becomes bad or good according to the motive of the doer”. He defends it with examples including generals’ stratagems, a physician who tricks a feverish patient into drinking water, and St. Paul’s circumcision of Timothy. Lecky gives no book or chapter, and the identification of Book I, chapter VIII is an inference.</p>
 ---
 <section id="deceit" class="passage">
 <h2>“Great Is the Power of Deceit” (Book I, ch. VIII)</h2>
@@ -51,3 +51,7 @@ abstract: |
 </table>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In note 37 Lecky refers to “the curious panegyric on the habit of telling lies in St. Chrysostom <em>On the Priesthood</em>”. The only passage in that work I can find that fits is Book I, chapter VIII. There Chrysostom, accused by Basil of having deceived him, argues that deceit is not wrong in itself but becomes good or bad according to the intention of the deceiver, and then lists generals’ stratagems, a physician’s trick on a feverish patient, and St. Paul’s circumcision of Timothy as examples of its use.</p><p>The passage is a defence of deceit with a good purpose. It is not, as Lecky’s phrase suggests, a praise of lying as a habit. His wording is a hostile summary, though not an invention: Chrysostom does say “Great is the power of deceit”.</p>
+</details>

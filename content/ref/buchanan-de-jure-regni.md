@@ -2,7 +2,7 @@
 title: Buchanan, De jure regni apud Scotos
 description: "The epigram “the king is the speaking law, the law a silent king”, which Lecky quotes in Chapter V, note 83, found in the 1581 printing of Buchanan’s dialogue and compared with Lecky’s Latin."
 heading: Buchanan, <em>De jure regni apud Scotos</em>
-subtitle: The king as “lex loquens”
+subtitle: "Buchanan’s borrowed maxim about king and law"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn83\">Rationalism, ch. V, note 83</a>."]
   - ["Status", "One passage, transcribed from the image, translated and compared with Lecky. Not checked: the rest of the dialogue as summarised in Lecky’s text."]
 abstract: |
-  <p>In note 83 Lecky says Buchanan “tersely puts it”: “Rex, lex loquens; lex, rex mutus.” The words are Buchanan’s, but the sentence is not his own invention and Lecky’s punctuation is not the print’s. Buchanan has his interlocutor say that, as “the greatest master of governing a commonwealth” put it, the king should be a speaking law and the law a silent king.</p>
+  <p>Buchanan did not invent the line Lecky quotes in note 83. In the 1581 printing, on p. 16, Buchanan’s speaker “M.” gives the words “ut rex esset lex loquens, lex Rex mutus” as what “the greatest master of administering a commonwealth” says. Lecky drops that introduction and attribution, and his semicolon is not in the print as read.</p>
 ---
 <section id="lex-loquens" class="passage">
 <h2>The king as speaking law (p. 16)</h2>
@@ -35,3 +35,7 @@ abstract: |
 </div>
 <p>Lecky drops the introductory “ut … esset” and the author’s attribution to “the greatest master of administering a commonwealth”; the 1581 print has no punctuation between “lex loquens” and “lex Rex mutus” that I could read. Lecky’s “tersely puts it” therefore slightly overstates Buchanan’s authorship: he is quoting a maxim, which he does not name in the words I read. I have not identified its source.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In note 83 Lecky says Buchanan “tersely puts it”: “Rex, lex loquens; lex, rex mutus.” The words are Buchanan’s, but the sentence is not his own invention and Lecky’s punctuation is not the print’s. Buchanan has his interlocutor say that, as “the greatest master of governing a commonwealth” put it, the king should be a speaking law and the law a silent king.</p>
+</details>

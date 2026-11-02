@@ -2,7 +2,7 @@
 title: Raoul-Rochette, Tableau des catacombes de Rome
 description: "Désiré Raoul-Rochette’s Tableau des catacombes de Rome, p. 138: Orpheus in the catacomb paintings, a pagan type taken into Christian art, cited by Lecky in Chapter III, note 10."
 heading: Raoul-Rochette, <em>Tableau des catacombes de Rome</em>
-subtitle: "Orpheus in the catacombs (p. 138)"
+subtitle: "Orpheus as pagan type with new Christian sense"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn10\">Rationalism, ch. III, note 10</a>."]
   - ["Status", "p. 138 read on the image. Maitland’s p. 110 (<a href=\"https://archive.org/details/churchincatacomb00mait_0\">churchincatacomb00mait_0</a>, whose p. 95 is image n108; the Orpheus sentence is at about n123) was not read. Raoul-Rochette’s other pages cited by Lecky (notes 13, 28) are not checked."]
 abstract: |
-  <p>Page 138 describes the Orpheus of the Christian paintings of the cemetery of St Callixtus as the same figure as the Orpheus of the profane paintings described by Philostratus the younger and by Lucian, and draws the lesson that pagan motifs entered Christian art through ancient models while receiving a new Christian meaning. It supports Lecky’s note that Orpheus appears as a Christian symbol; the claim that Eusebius made him a type of Christ is not on this page (see the <a href="marangoni-cose-gentilesche.html">Marangoni page</a>).</p>
+  <p>Raoul-Rochette describes the Orpheus in the Christian paintings of the cemetery of St Callixtus as the same seated youth in a gold-enriched tiara and embroidered trousers, lyre against his left side, as the Orpheus of the profane paintings described by Philostratus the younger and by Lucian. He takes this as a decisive example of how pagan motifs entered Christian art through ancient models while receiving a new Christian sense. The page supports Lecky’s note in Chapter III, note 10 that Orpheus appears as a Christian symbol, but the claim that Eusebius made him a type of Christ is not on this page.</p>
 ---
 <section id="orphee-138" class="passage">
 <h2>Orpheus as pagan type and Christian symbol (p. 138)</h2>
@@ -26,3 +26,7 @@ abstract: |
 </div>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Page 138 describes the Orpheus of the Christian paintings of the cemetery of St Callixtus as the same figure as the Orpheus of the profane paintings described by Philostratus the younger and by Lucian, and draws the lesson that pagan motifs entered Christian art through ancient models while receiving a new Christian meaning. It supports Lecky’s note that Orpheus appears as a Christian symbol; the claim that Eusebius made him a type of Christ is not on this page (see the <a href="marangoni-cose-gentilesche.html">Marangoni page</a>).</p>
+</details>

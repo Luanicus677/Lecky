@@ -2,7 +2,7 @@
 title: Aquinas, Summa Supplement q. 94
 description: "The article of the Supplement to Aquinas’s Summa (q. 94, art. 1) on whether the blessed see the punishments of the damned, which Lecky quotes in Chapter III, note 150, in Latin and English from an 18th-century edition, with Lecky’s quotation compared; it is not word for word."
 heading: Aquinas, <em>Summa theologiae</em>, Supplement, q. 94
-subtitle: "Will the blessed in heaven see the sufferings of the damned?"
+subtitle: "Lecky’s quotation that is really a paraphrase"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn150\">Rationalism, ch. III, note 150</a>; its companion Tertullian quotation (note 152) is on the <a href=\"tertullian-de-spectaculis.html\">Tertullian page</a>."]
   - ["Status", "The question title, the <em>sed contra</em> and the main answer of art. 1, transcribed from the page image, translated, and compared with Lecky. The objections and replies are not transcribed."]
 abstract: |
-  <p>In Chapter III Lecky argues that the medieval Church taught that the pleasure of the saints in heaven would be heightened by the sight of the damned. In note 150 he supports this with Aquinas, in Latin: “Beati in regno cœlesti videbunt pœnas damnatorum, <em>ut beatitudo illis magis complaceat</em>”, the last words in small capitals.</p><p>Aquinas does teach this, and the last words are close to his text. But the Latin as Lecky prints it is not a quotation of any one sentence of the article. The first half is the article’s question turned into a statement (“Utrum beati qui erunt in patria videbunt poenas damnatorum”), and the second half is a clause of the answer, with a word changed. The sentence Aquinas actually writes is longer and includes a second purpose, that the saints may “give richer thanks to God”. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky prints Aquinas’s teaching as a single Latin sentence, but it is not a quotation of any one sentence of the article. The first half turns the article’s question into a statement, and the second half alters a clause of the answer. Aquinas’s own sentence is longer, adding that the saints may “give richer thanks to God”.</p>
 ---
 <section id="q94a1" class="passage">
 <h2>Question 94, Article 1</h2>
@@ -62,3 +62,7 @@ abstract: |
 
 <p>Since Lecky prints his Latin as a quotation, a reader will assume it is Aquinas’s own sentence. It is better described as a paraphrase in Aquinas’s words.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In Chapter III Lecky argues that the medieval Church taught that the pleasure of the saints in heaven would be heightened by the sight of the damned. In note 150 he supports this with Aquinas, in Latin: “Beati in regno cœlesti videbunt pœnas damnatorum, <em>ut beatitudo illis magis complaceat</em>”, the last words in small capitals.</p><p>Aquinas does teach this, and the last words are close to his text. But the Latin as Lecky prints it is not a quotation of any one sentence of the article. The first half is the article’s question turned into a statement (“Utrum beati qui erunt in patria videbunt poenas damnatorum”), and the second half is a clause of the answer, with a word changed. The sentence Aquinas actually writes is longer and includes a second purpose, that the saints may “give richer thanks to God”. See <a href="#comparison">the comparison</a>.</p>
+</details>

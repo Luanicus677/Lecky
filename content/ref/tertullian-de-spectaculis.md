@@ -2,7 +2,7 @@
 title: Tertullian, De Spectaculis
 description: "Tertullian’s picture of the Christians watching the damned in the fire (De spectaculis, ch. 30), which Lecky quotes in Latin in Chapter III, note 152, in Latin and English from Migne’s edition, with Lecky’s quotation collated word by word."
 heading: Tertullian, <em>De spectaculis</em>
-subtitle: Tertullian, ch. 30
+subtitle: "Lecky’s Latin quotation is accurate but not exact"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn152\">Rationalism, ch. III, note 152</a>. The same note’s companion, <a href=\"../rationalism/vol1-ch3.html#fn150\">note 150</a>, is on the <a href=\"aquinas-summa-supplement.html\">Aquinas page</a>."]
   - ["Status", "The passage Lecky quotes, transcribed from the page images, translated, and collated against his text. The chapter’s opening sentences (cols. 660–661) are included for context."]
 abstract: |
-  <p>In Chapter III Lecky argues that the early Church found a positive pleasure in the thought of the damned. His note 152 gives, in Latin, Tertullian’s picture in <em>De spectaculis</em> 30 of the Christian watching his persecutors, philosophers, poets and actors “in the fire”, and the Christ they mocked, instead of the games of the circus.</p><p>The quotation is substantially accurate and runs from “Quae tunc spectaculi latitudo” to the end of the paragraph on the pleasures “already represented by faith”. But it is not word for word: Lecky has one clause in a different order, an extra word, a few changed words, and different punctuation. All are listed in <a href="#collation">the table below</a>. He also omits the last sentence of the chapter, which sets these pleasures against the circus.</p>
+  <p>Tertullian pictures Christians watching kings groaning in darkness, governors melting in fiercer flames, and philosophers blushing as they burn with their disciples. Lecky quotes the passage in Latin to show the early Church found pleasure in the sight of the damned, and the words support him. His quotation is substantially accurate but not word for word, with one clause in a different order, an extra word, changed words and different punctuation, and he leaves out the last sentence about joys “more pleasing than the circus”.</p>
 ---
 <section id="ch30" class="passage">
 <h2>Chapter 30: “What a Breadth of Spectacle”</h2>
@@ -62,3 +62,7 @@ abstract: |
 
 <p>The substantive differences are in the governors’ clause, where Lecky’s words are in another order, and “quos” and “conflagrationibus”. The order in his text is not a reading I could find in the apparatus of Migne’s page, so it may come from another edition (or from his copy); I have not been able to say which. The change of “<em>tot ac tantos</em>” to “<em>tot et tantos</em>” is likewise unexplained. None changes the sense. His statement of what the passage shows, that the early Church found pleasure in the sight of the damned, rests on the highlighted text, which supports it; but Tertullian’s own final sentence, which Lecky leaves out, adds that the joys “which neither eye has seen nor ear heard” are, he believes, more pleasing still than the circus and the theatres.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In Chapter III Lecky argues that the early Church found a positive pleasure in the thought of the damned. His note 152 gives, in Latin, Tertullian’s picture in <em>De spectaculis</em> 30 of the Christian watching his persecutors, philosophers, poets and actors “in the fire”, and the Christ they mocked, instead of the games of the circus.</p><p>The quotation is substantially accurate and runs from “Quae tunc spectaculi latitudo” to the end of the paragraph on the pleasures “already represented by faith”. But it is not word for word: Lecky has one clause in a different order, an extra word, a few changed words, and different punctuation. All are listed in <a href="#collation">the table below</a>. He also omits the last sentence of the chapter, which sets these pleasures against the circus.</p>
+</details>

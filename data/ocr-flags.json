@@ -1,0 +1,621 @@
+[
+ {
+  "error": "numbers of the description",
+  "fix": "numbers of the descriptions",
+  "context": "In numbers of the description of the witches' sabbath, Diana and Herodias are mentioned",
+  "confidence": "medium",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 10
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 11
+ },
+ {
+  "error": "corruscations",
+  "fix": "coruscations",
+  "context": "and the corruscations of Aurora are said to have been attributed to",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 12
+ },
+ {
+  "error": "Demons;'",
+  "fix": "Demons,'",
+  "context": "wrote his dialogue on 'The Operation of Demons;' which is, in a",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 13
+ },
+ {
+  "error": "payed",
+  "fix": "paid",
+  "context": "through the air to the Sabbath, where she payed her homage to",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 13
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 17
+ },
+ {
+  "error": "wept",
+  "fix": "went",
+  "context": "that it was only the Devil, and accordingly wept to sleep again.",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 19
+ },
+ {
+  "error": "fourteenth",
+  "fix": "thirteenth",
+  "context": "Thomas Aquinas was probably the ablest writer of the fourteenth century, and he assures",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 21
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 25
+ },
+ {
+  "error": "grevious",
+  "fix": "grievous",
+  "context": "and it is to this grevious sin that the early death",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 29
+ },
+ {
+  "error": "Wagstaafe",
+  "fix": "Wagstaffe",
+  "context": "Supported by Henry More, Cudworth, Casaubon, &amp;c. &mdash; Opposed by Webster and Wagstaafe.",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 35
+ },
+ {
+  "error": "Wagstaafe",
+  "fix": "Wagstaffe",
+  "context": "An unknown scholar, named Wagstaafe, at Oxford, also wrote two",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 37
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 38
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 41
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 43
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 46
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 51
+ },
+ {
+  "error": "p. 113. The",
+  "fix": "p. 113.) The",
+  "context": "Sweden (Magnin, Origines du Théâtre, tom. i. p. 113. The Apologie was",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 52
+ },
+ {
+  "error": "on Witchcraft, reprinted",
+  "fix": "on Witchcraft,' reprinted",
+  "context": "from the Foreign Review in 'A Collection of Curious Tracts on Witchcraft, reprinted in 1838.",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 52
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 53
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 54
+ },
+ {
+  "error": "Wagstaafe",
+  "fix": "Wagstaffe",
+  "context": "Wagstaafe was a deformed, dwarfish scholar at Oxford, and was",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 55
+ },
+ {
+  "error": "Wagstaafe",
+  "fix": "Wagstaffe",
+  "context": "Poor Wagstaafe consoled himself by drinking whisky-punch; and having drunk",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 55
+ },
+ {
+  "chapter": "vol1-ch2",
+  "chunk_error": true,
+  "chunk": 58
+ },
+ {
+  "error": "it all difficult",
+  "fix": "it at all difficult",
+  "context": "Nor is it all difficult to discover the reason of this distinction.",
+  "confidence": "high",
+  "chapter": "vol1-ch2",
+  "context_found": true,
+  "chunk": 59
+ },
+ {
+  "chapter": "vol1-ch2",
+  "chunk_error": true,
+  "chunk": 66
+ },
+ {
+  "error": "Protestanism",
+  "fix": "Protestantism",
+  "context": "individuals in Roman Catholic countries to Protestanism; but we look in",
+  "confidence": "high",
+  "chapter": "vol1-ch2",
+  "context_found": true,
+  "chunk": 68
+ },
+ {
+  "chapter": "vol1-ch2",
+  "chunk_error": true,
+  "chunk": 69
+ },
+ {
+  "chapter": "vol1-ch2",
+  "chunk_error": true,
+  "chunk": 72
+ },
+ {
+  "error": "After, all,",
+  "fix": "After all,",
+  "context": "nucleus of a sect. After, all, however, this was quite",
+  "confidence": "high",
+  "chapter": "vol1-ch2",
+  "context_found": true,
+  "chunk": 75
+ },
+ {
+  "error": "interpretetion",
+  "fix": "interpretation",
+  "context": "Sometimes it appears only in a change of interpretetion or of realisation; that",
+  "confidence": "high",
+  "chapter": "vol1-ch3",
+  "context_found": true,
+  "chunk": 76
+ },
+ {
+  "error": "one the most common",
+  "fix": "one of the most common",
+  "context": "Thus, one the most common is the peacock, which in",
+  "confidence": "high",
+  "chapter": "vol1-ch3",
+  "context_found": true,
+  "chunk": 80
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 83
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 85
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 86
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 89
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 100
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 101
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 102
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 121
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 123
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 140
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 145
+ },
+ {
+  "chapter": "vol1-ch4",
+  "chunk_error": true,
+  "chunk": 154
+ },
+ {
+  "chapter": "vol1-ch4",
+  "chunk_error": true,
+  "chunk": 162
+ },
+ {
+  "chapter": "vol1-ch4",
+  "chunk_error": true,
+  "chunk": 164
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 175
+ },
+ {
+  "error": "priest",
+  "fix": "prince",
+  "context": "this was simply because in their time no priest had embraced Christianity.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 179
+ },
+ {
+  "error": "measure, of",
+  "fix": "measure of",
+  "context": "judging by the ordinary measure, of human courage, for",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 183
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 184
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 186
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 189
+ },
+ {
+  "error": "Galas",
+  "fix": "Calas",
+  "context": "of sarcasm and invective that avenged the murder of Galas, the magnificent dream",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 190
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 192
+ },
+ {
+  "error": "Milton, advocated",
+  "fix": "Milton advocated",
+  "context": "movement of liberty. Milton, advocated tolerance on several distinct grounds.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 194
+ },
+ {
+  "error": "bann",
+  "fix": "ban",
+  "context": "to stifle the voice of argument, to bann and proscribe the press,",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 194
+ },
+ {
+  "error": "favour able",
+  "fix": "favourable",
+  "context": "difficulty of avoiding error is under the most favour able circumstances very great,",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 194
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 198
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 199
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 201
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 202
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 203
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 206
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 207
+ },
+ {
+  "error": "sensibly",
+  "fix": "sensible",
+  "context": "singularly loved by those about him, intensely amiable, keenly sensibly of the attacks",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 208
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 209
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 211
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 212
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 216
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 217
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 218
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 219
+ },
+ {
+  "error": "ever -increasing",
+  "fix": "ever-increasing",
+  "context": "against the ever -increasing spirit of the age, and whose",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 222
+ },
+ {
+  "error": "the < support",
+  "fix": "the support",
+  "context": "since been unable to exist, except by the < support of a foreign army.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 223
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 224
+ },
+ {
+  "error": "different, For",
+  "fix": "different. For",
+  "context": "leaders will appear very different, For the first condition of",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 227
+ },
+ {
+  "error": "dignity, Alone",
+  "fix": "dignity. Alone",
+  "context": "force had become the one measure of dignity, Alone amid these discordant interests",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 227
+ },
+ {
+  "error": "other",
+  "fix": "others",
+  "context": "boast of Tertullian and other of the Fathers, that at",
+  "confidence": "medium",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 227
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 229
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 231
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 232
+ },
+ {
+  "error": "policy. of",
+  "fix": "policy of",
+  "context": "would usually be men pre-eminently unfit to adjudicate upon the policy. of nations.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 233
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 235
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 239
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 240
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 241
+ },
+ {
+  "error": "law; During",
+  "fix": "law. During",
+  "context": "the supreme arbiter of the moral law; During the reaction under Queen",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 243
+ },
+ {
+  "error": "Bolingbroke.,",
+  "fix": "Bolingbroke,",
+  "context": "chief strength to the genius of Bolingbroke., who consolidated its broken forces, and elaborated",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 243
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 244
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 245
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 246
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 247
+ },
+ {
+  "error": "dust Think",
+  "fix": "dust. Think",
+  "context": "will crumble in the dust Think of the battles of Miltiades, of",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 248
+ },
+ {
+  "error": "liberty All",
+  "fix": "liberty. All",
+  "context": "triumphs not so much of Greece as of liberty All other goods",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 248
+ },
+ {
+  "error": "charm Yet",
+  "fix": "charm. Yet",
+  "context": "every blessing loses its charm Yet we were all moulded in",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 248
+ }
+]

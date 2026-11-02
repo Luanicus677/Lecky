@@ -2,7 +2,7 @@
 title: Fulgentius, De fide ad Petrum
 description: "Fulgentius of Ruspe’s De fide ad Petrum (the “Rule of Faith”), chapters 27 and 39 of a sixteenth-century printing: unbaptised infants in eternal fire, and no salvation, even by martyrdom, outside the Catholic Church. Lecky quotes both in Chapter IV, notes 8 and 20."
 heading: Fulgentius, <em>De fide ad Petrum</em>
-subtitle: "Unbaptised infants (c. 27) and no salvation outside the Church (c. 39)"
+subtitle: "Unbaptised infants in fire, no salvation outside the Church"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn8\">Rationalism, ch. IV, note 8</a> and <a href=\"../rationalism/vol1-ch4.html#fn20\">note 20</a>."]
   - ["Status", "Two passages read on the page images and collated. Lecky’s “§ 81” (a third passage in note 20) was not matched with certainty: c. 38 of this printing says that all pagans, Jews, heretics and schismatics who die outside the Catholic Church go to eternal fire, which may be what he means. His “§ 22” for the “Omni enim homini” sentence does not correspond to c. 39 of this edition."]
 abstract: |
-  <p>Both Latin quotations are in the work. In note 8, Lecky’s Latin is the full text of the chapter “Firmissime tene…” on children dying unbaptised, with two small differences from the 1574 printing: “sive jam de matribus nati” for “sive cum de matribus nati”, and the clause “peccatum propriae actionis nullum habuerunt” for “propriae actionis peccatum nullum habuerunt”. In note 20, “Omni enim homini …” agrees except for “quamdiu eo vel haeretica vel schismatica pravitas perseverat”, where the printing has “quamdiu in eo haeretica vel schismatica pravitas perseverat”: Lecky’s “vel … vel” is not there.</p>
+  <p>The source says little children who die without baptism “are to be punished with the everlasting punishment of eternal fire”, and that even blood shed for the name of Christ cannot save those outside the Catholic Church. Lecky quotes both passages in Chapter IV, notes 8 and 20, and both are in the work with only small differences in Latin wording. His section numbers do not match the chapter numbers 27 and 39 in the printing used here.</p>
 ---
 <section id="parvuli-27" class="passage">
 <h2>Unbaptised children (c. 27, p. 479)</h2>
@@ -42,3 +42,7 @@ abstract: |
 </div>
 <p>Lecky (note 20): “<em>De Fide</em>, § 81; and again, still more explicitly: ‘Omni enim homini qui Ecclesiæ Catholicæ non tenet unitatem, neque baptismus neque eleemosyna quamlibet copiosa, neque mors pro nomine Christi suscepta proficere poterit ad salutem, quamdiu eo vel hæretica vel schismatica pravitas perseverat quæ ducit ad mortem.’ (§ 22.)” See the status line above for the unmatched section numbers.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Both Latin quotations are in the work. In note 8, Lecky’s Latin is the full text of the chapter “Firmissime tene…” on children dying unbaptised, with two small differences from the 1574 printing: “sive jam de matribus nati” for “sive cum de matribus nati”, and the clause “peccatum propriae actionis nullum habuerunt” for “propriae actionis peccatum nullum habuerunt”. In note 20, “Omni enim homini …” agrees except for “quamdiu eo vel haeretica vel schismatica pravitas perseverat”, where the printing has “quamdiu in eo haeretica vel schismatica pravitas perseverat”: Lecky’s “vel … vel” is not there.</p>
+</details>

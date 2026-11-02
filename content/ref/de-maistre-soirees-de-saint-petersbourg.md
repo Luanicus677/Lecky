@@ -2,7 +2,7 @@
 title: De Maistre, Soirées de Saint-Pétersbourg
 description: "Joseph de Maistre’s Soirées de Saint-Pétersbourg, sixth conversation: the sentences on Locke (“le mépris de Locke est le commencement de la sagesse”; the Essay “tout ce que le défaut absolu de génie et de style peut enfanter de plus assommant”), quoted by Lecky in Chapter IV, note 45."
 heading: De Maistre, <em>Les soirées de Saint-Pétersbourg</em>
-subtitle: "A Catholic counter-revolutionary against Locke and Bacon"
+subtitle: "De Maistre’s Locke quotes verified; Bacon ‘charlatan’ missing"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn45\">Rationalism, ch. IV, note 45</a>."]
   - ["Status", "Both pages read on the images. The Bacon quotations in the same note are from De Maistre’s separate <em>Examen de la philosophie de Bacon</em>, which Lecky names; “parfaitement nul et méprisable” and the Novum Organum sentence are on p. 100 of vol. 2 and are transcribed below; “un charlatan” was not found."]
 abstract: |
-  <p>Both Locke quotations are accurate. On p. 452: “Cependant, comme dans l’étude de la philosophie le mépris de Locke est le <em>commencement de la sagesse</em>” (the last words in italics in the book, echoing the Psalmist’s “fear of the Lord is the beginning of wisdom”), said ironically of the English, who would do the world a service by breaking Locke’s reputation themselves. On p. 437: “l’<em>Essai sur l’entendement humain</em> est très-certainement, et soit qu’on le nie ou qu’on en convienne, tout ce que le défaut absolu de génie et de style peut enfanter de plus assommant.” De Maistre adds: “Si Locke, qui était un très-honnête homme, revenait au monde, il pleurerait amèrement en voyant ses erreurs, aiguisées par la méthode française, devenir la honte et le malheur d’une génération entière.”</p>
+  <p>Lecky quotes De Maistre exactly when De Maistre says that ‘contempt for Locke is the beginning of wisdom’ and calls the Essay on the Human Understanding the most crushingly dull thing an ‘absolute lack of genius and style’ can produce. The two passages sit 15 pages apart, as Lecky’s ‘and that’ suggests. His further claim that De Maistre called Bacon ‘un charlatan’ was not found on either page.</p>
 ---
 <section id="locke-452" class="passage">
 <h2>“Le mépris de Locke est le commencement de la sagesse” (p. 452)</h2>
@@ -54,3 +54,7 @@ abstract: |
 </div>
 <p>Lecky (ch. IV, note 45): “‘Le livre <em>De la Dignité et de l’Accroissement des Sciences</em> est donc un ouvrage parfaitement nul et méprisable. . . . Quant au <em>Novum Organon</em>, il est bien plus condamnable encore, puisque, indépendamment des erreurs particulières dont il fourmille, le but général de l’ouvrage le rend digne d’un Bedlam.’ (<em>Examen de la Philosophie de Bacon.</em>)” Exact apart from his “Organon” for “Organum” and the omission of the three reasons (his ellipsis). The word “charlatan” is not on this page (Lecky’s “un charlatan” was searched for in the volume only by the OCR and not found; De Maistre’s “charlatanisme” occurs on another page, n103, in a different sense).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Both Locke quotations are accurate. On p. 452: “Cependant, comme dans l’étude de la philosophie le mépris de Locke est le <em>commencement de la sagesse</em>” (the last words in italics in the book, echoing the Psalmist’s “fear of the Lord is the beginning of wisdom”), said ironically of the English, who would do the world a service by breaking Locke’s reputation themselves. On p. 437: “l’<em>Essai sur l’entendement humain</em> est très-certainement, et soit qu’on le nie ou qu’on en convienne, tout ce que le défaut absolu de génie et de style peut enfanter de plus assommant.” De Maistre adds: “Si Locke, qui était un très-honnête homme, revenait au monde, il pleurerait amèrement en voyant ses erreurs, aiguisées par la méthode française, devenir la honte et le malheur d’une génération entière.”</p>
+</details>

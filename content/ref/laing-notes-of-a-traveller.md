@@ -2,7 +2,7 @@
 title: Laing, Notes of a Traveller
 description: "Samuel Laing’s Notes of a Traveller (1842), “Swiss character” (pp. 323–324 of the 1854 reprint): the Swiss as “eminently moral in conduct, yet eminently irreligious”, quoted at length by Lecky in Chapter IV, note 35."
 heading: Laing, <em>Notes of a Traveller on the Social and Political State of France, Prussia, Switzerland, Italy</em>
-subtitle: "The Swiss people, moral and irreligious (pp. 323–324)"
+subtitle: "The Swiss, moral in conduct yet irreligious"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn35\">Rationalism, ch. IV, note 35</a>."]
   - ["Status", "pp. 323–324 read on the images. Lecky’s “Laing’s <em>Sweden</em>, pp. 108–141” (the figures on illegitimate births) is a different book and not checked."]
 abstract: |
-  <p>Lecky quotes: “The Swiss people present to the political philosopher the unexpected and most remarkable social phenomenon of a people eminently moral in conduct yet eminently irreligious: at the head of the moral state in Europe, not merely for absence of numerous or great crimes, or of disregard of right, but for ready obedience to law, for honesty, fidelity to their engagements, for fair-dealing, sobriety, industry, orderly conduct, for good government, useful public institutions, general wellbeing, and comfort; yet at the bottom of the scale for religious feeling, observances, or knowledge, especially in the Protestant cantons, in which prosperity, wellbeing, and morality seem to be, as compared to the Catholic cantons, in an inverse ratio to the influence of religion on the people.” This is Laing’s text, with a semicolon after “irreligious” in Laing where Lecky has a colon, and “yet at the bottom of the scale for” in both. Lecky’s own judgement that the passage is “somewhat overstated” is his. The second half of Lecky’s quotation (“It is a very remarkable social state, similar, perhaps, to that of the ancient Romans …”) is on the following pages, which I did not read.</p>
+  <p>Laing describes the Swiss as “eminently moral in conduct, yet eminently irreligious”, at the head of Europe for obedience to law, honesty and orderly conduct but at the bottom for religious feelings and observances. Lecky quotes the passage at length in Chapter IV, note 35, without giving title or page, and his copy is close: he changes Laing’s semicolon after “irreligious” to a colon and alters plurals and hyphens. Laing adds that in the Protestant cantons prosperity and morality seem in inverse ratio to religion’s influence.</p>
 ---
 <section id="swiss-character" class="passage">
 <h2>“A people eminently moral in conduct, yet eminently irreligious” (pp. 323–324)</h2>
@@ -22,3 +22,7 @@ abstract: |
 </blockquote>
 <p>Collation: Lecky has “religious feeling” for Laing’s “religious feelings”, “fair-dealing” for “fair dealing”, “wellbeing” for “well-being”, a colon after “irreligious” where Laing has a semicolon, and a semicolon for Laing’s dash before “yet at the bottom”. Laing’s preceding paragraph (p. 323) is about Swiss mercenaries serving the Pope and Naples; his explanation of the “discordance” follows on p. 324.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes: “The Swiss people present to the political philosopher the unexpected and most remarkable social phenomenon of a people eminently moral in conduct yet eminently irreligious: at the head of the moral state in Europe, not merely for absence of numerous or great crimes, or of disregard of right, but for ready obedience to law, for honesty, fidelity to their engagements, for fair-dealing, sobriety, industry, orderly conduct, for good government, useful public institutions, general wellbeing, and comfort; yet at the bottom of the scale for religious feeling, observances, or knowledge, especially in the Protestant cantons, in which prosperity, wellbeing, and morality seem to be, as compared to the Catholic cantons, in an inverse ratio to the influence of religion on the people.” This is Laing’s text, with a semicolon after “irreligious” in Laing where Lecky has a colon, and “yet at the bottom of the scale for” in both. Lecky’s own judgement that the passage is “somewhat overstated” is his. The second half of Lecky’s quotation (“It is a very remarkable social state, similar, perhaps, to that of the ancient Romans …”) is on the following pages, which I did not read.</p>
+</details>

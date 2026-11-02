@@ -2,7 +2,7 @@
 title: Hallam, View of the State of Europe during the Middle Ages, vol. 1
 description: "Henry Hallam’s sentence on the Church and manumission, which Lecky quotes in quotation marks in Chapter VI, note 19, compared with the 1822 edition (vol. 1, p. 221). Lecky’s version is a lightly altered quotation."
 heading: Hallam, <em>View of the State of Europe during the Middle Ages</em>, vol. 1
-subtitle: "The Church and manumission (p. 221)"
+subtitle: "Hallam quoted, with three small changes"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn19\">Rationalism, ch. VI, note 19</a>. Notes 18 and 20 are on this page as well (pp. 217–218 and 222)."]
   - ["Status", "The sentence Lecky quotes (p. 221) and the passages behind notes 18 (pp. 217–218) and 20 (p. 222 read; p. 223 not read), transcribed from page images and compared."]
 abstract: |
-  <p>In note 19 Lecky puts a sentence of Hallam’s in quotation marks. It is Hallam’s, with three small changes: “enforced it” becomes “enforced manumission”, “equally ready” becomes “as ready”, and “church lands” becomes “the Church lands”. Hallam’s “it is said” marks the claim as hearsay, and Lecky keeps it.</p>
+  <p>Lecky quotes Hallam as saying the clergy ‘enforced manumission as a duty’, but Hallam actually wrote ‘enforced it as a duty’, with ‘it’ meaning manumission from the sentence before. Lecky also swaps ‘equally ready’ for ‘as ready’ and adds ‘the’ before ‘Church lands’, without changing the sense. Hallam qualifies the claim that the villeins upon church lands ‘were among the last who were emancipated’ with ‘it is said’, which Lecky keeps, though his own text goes a step beyond Hallam.</p>
 ---
 <section id="manumission" class="passage">
 <h2>“The clergy, and especially several popes” (p. 221)</h2>
@@ -50,3 +50,7 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. VI, note 20): “The decline of serfdom has been treated by Hallam, <em>Hist. of Middle Ages</em>, vol. i. pp. 222, 223.” Page 222 begins the account of the decline of slavery and serfdom (Italy, the eleventh to fifteenth centuries); I did not read p. 223. The rest of note 20 (Scottish colliers, M’Culloch) is not Hallam’s.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In note 19 Lecky puts a sentence of Hallam’s in quotation marks. It is Hallam’s, with three small changes: “enforced it” becomes “enforced manumission”, “equally ready” becomes “as ready”, and “church lands” becomes “the Church lands”. Hallam’s “it is said” marks the claim as hearsay, and Lecky keeps it.</p>
+</details>

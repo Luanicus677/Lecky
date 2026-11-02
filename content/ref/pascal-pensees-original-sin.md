@@ -2,7 +2,7 @@
 title: Pascal, Pensées (original sin)
 description: "Pascal’s fragment on the injustice of damning an infant for a sin committed six thousand years before (Pensées, Brunschvicg 434, in Section VII), quoted by Lecky in Chapter IV, note 12. Read in the Brunschvicg text on French Wikisource, not in a scan."
 heading: Pascal, <em>Pensées</em>
-subtitle: "Pascal on the doctrine that most offends reason"
+subtitle: "Lecky stops where Pascal explains man to himself"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn12\">Rationalism, ch. IV, note 12</a>."]
   - ["Status", "Text compared; no page image seen. Lecky’s other statements in the note (Sarpi on the Council of Trent; St Bernard’s “Nihil ardet in inferno nisi propria voluntas”) are not checked."]
 abstract: |
-  <p>Lecky’s quotation agrees with the Brunschvicg text apart from older spelling (“paroît”), lighter punctuation and a different reading of the clause “sans ce mystère le plus incompréhensible de tous nous sommes incompréhensibles à nous-mêmes” (Brunschvicg sets the middle phrase off by commas). Lecky’s version ends there; Pascal continues that the knot of our condition takes its folds in this abyss, and that man is more inconceivable without the mystery than the mystery to man.</p>
+  <p>Lecky’s quotation agrees with the Brunschvicg text apart from older spelling and lighter punctuation, but it ends early. Pascal calls it “very unjust” to “damn eternally a child incapable of will” for a sin committed “six thousand years before it was in being”, which Lecky presents as “stating the doctrine in a very repulsive form”. Pascal continues that without this “most incomprehensible” mystery “we are incomprehensible to ourselves”, and that man is more inconceivable without it.</p>
 ---
 <section id="enfant-damne" class="passage">
 <h2>The infant damned for a sin of six thousand years ago</h2>
@@ -27,3 +27,7 @@ abstract: |
 </div>
 <p>Lecky introduces it as Pascal “stating the doctrine in a very repulsive form”, which is how the passage reads; Pascal’s purpose is to show that the doctrine, hard as it is, explains man to himself.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s quotation agrees with the Brunschvicg text apart from older spelling (“paroît”), lighter punctuation and a different reading of the clause “sans ce mystère le plus incompréhensible de tous nous sommes incompréhensibles à nous-mêmes” (Brunschvicg sets the middle phrase off by commas). Lecky’s version ends there; Pascal continues that the knot of our condition takes its folds in this abyss, and that man is more inconceivable without the mystery than the mystery to man.</p>
+</details>

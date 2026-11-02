@@ -2,7 +2,7 @@
 title: Marangoni, Delle cose gentilesche e profane
 description: "Giovanni Marangoni’s Delle cose gentilesche e profane trasportate ad uso e adornamento delle chiese (1744), p. 45, on the image of Orpheus in the catacombs and Eusebius’s comparison of Orpheus with the divine Word, the likely basis of Lecky’s Chapter III, note 10. His p. 45 citations in notes 11 and 13 are not found on that page."
 heading: Marangoni, <em>Delle cose gentilesche e profane</em>
-subtitle: "Orpheus and the Verbo divino (ch. XI, p. 45)"
+subtitle: "Orpheus as Christ on p. 45; two other notes not there"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn10\">Rationalism, ch. III, note 10</a> (by content), <a href=\"../rationalism/vol1-ch3.html#fn11\">11</a> and <a href=\"../rationalism/vol1-ch3.html#fn13\">13</a> (by page; unmatched)."]
   - ["Status", "p. 45 read on the image. Only the Orpheus matter is on it; I did not read the neighbouring chapters, where the genii of the seasons and the veiled aquatic deity may be."]
 abstract: |
-  <p>Lecky’s text says “Orpheus drawing all men to him by his music, symbolised the attractive power of Christianity” and, in note 10, that Eusebius speaks of Orpheus as symbolising Christ. Marangoni’s p. 45, in his chapter on churches and the Orpheus symbol, says exactly this: the fable of Orpheus drawing trees and beasts by his eloquence is the pagan echo of the Word of God, and he quotes Eusebius’s oration on Constantine in Latin. But Lecky’s notes 11 (the genii of the seasons) and 13 (the pagan aquatic deity) cite the same p. 45, which has nothing on either; the citations seem to be copied forward, or from another edition.</p>
+  <p>Marangoni’s p. 45 does say the Greek fable of Orpheus drawing trees, plants and wild beasts by his speech stood for the “property and efficacy of the Divine Word”, with a Latin passage from Eusebius’s oration in praise of Constantine. That matches Lecky’s claim that Orpheus “drawing all men to him by his music, symbolised the attractive power of Christianity” and that Eusebius speaks of Orpheus as symbolising Christ. Yet the same p. 45, which Lecky also cites for the genii of the seasons and a pagan aquatic deity, has nothing on either.</p>
 ---
 <section id="orfeo-45" class="passage">
 <h2>Orpheus as the Verbo divino (p. 45)</h2>
@@ -27,3 +27,7 @@ abstract: |
 </div>
 <p>The Eusebius passage is the one Lecky’s note 10 cites (“Orpheus is spoken of by Eusebius as in this respect symbolising Christ”). I have not checked Eusebius’s oration itself.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s text says “Orpheus drawing all men to him by his music, symbolised the attractive power of Christianity” and, in note 10, that Eusebius speaks of Orpheus as symbolising Christ. Marangoni’s p. 45, in his chapter on churches and the Orpheus symbol, says exactly this: the fable of Orpheus drawing trees and beasts by his eloquence is the pagan echo of the Word of God, and he quotes Eusebius’s oration on Constantine in Latin. But Lecky’s notes 11 (the genii of the seasons) and 13 (the pagan aquatic deity) cite the same p. 45, which has nothing on either; the citations seem to be copied forward, or from another edition.</p>
+</details>

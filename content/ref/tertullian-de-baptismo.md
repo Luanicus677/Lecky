@@ -2,7 +2,7 @@
 title: Tertullian, De Baptismo
 description: "Two passages of Tertullian’s De baptismo that Lecky quotes in Latin in Chapter III, notes 3 and 15 (the little fishes born in water, and the creation of man completed by water), from Migne’s edition, with English drafts and a comparison with Lecky’s quotations."
 heading: Tertullian, <em>De baptismo</em>
-subtitle: Tertullian, <em>De baptismo adversus Quintillam</em>
+subtitle: "Lecky’s two water passages checked against Migne"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn15\">Rationalism, ch. III, note 15</a> and <a href=\"../rationalism/vol1-ch3.html#fn3\">note 3</a>. See also the <a href=\"tertullian-de-spectaculis.html\">Tertullian page</a> for <em>De spectaculis</em>."]
   - ["Status", "The two sentences Lecky quotes, read from the page images. In the second, the last word, “temperarant”, is on the next line of the column, which my crop cut off; I took it from the scan’s text layer and did not see it on the image."]
 abstract: |
-  <p>Lecky quotes <em>De baptismo</em> twice in Chapter III as evidence of how the early Church read the sanctity of water: the famous line that “we little fishes, after our <em>Ichthys</em> Jesus Christ, are born in water”, and Tertullian’s argument that even the making of man was “completed” by water. In Migne’s edition both are in Chapters I and II. Lecky gives chapter I for the first, which is right, and chapter III for the second, where Migne has chapter II.</p><p>The words differ slightly from Migne’s: in the second quotation Lecky begins “Non enim” where Migne has “Nam”, and has the present “temperant” where Migne has “temperarant”. See the table below.</p>
+  <p>Tertullian’s ‘we little fishes’ line is quoted by Lecky without ‘Sed’ and with ‘aquâ’ where Migne’s page has ‘qua’. In the second passage, on the work of fashioning man being ‘completed with the help of the waters’, Lecky cites chapter III where Migne has chapter II, gives ‘Non enim’ for ‘Nam’, and gives present ‘temperant’ for ‘temperarant’. None of the differences changes the argument.</p>
 ---
 <section id="pisciculi" class="passage">
 <h2>Chapter I: “We Little Fishes”</h2>
@@ -64,3 +64,7 @@ abstract: |
 
 <p>Note 15: Lecky drops “Sed” and prints “aquâ” (the usual reading of the Latin; Migne’s page has “qua”, which looks like a misprint or an abbreviation). Note 3: “Non enim” for “Nam” changes only the connective; “temperant” for “temperarant” changes the tense, from “had tempered” (before the fourth day) to “temper”. The chapter is II in Migne, not III; Lecky’s chapter division may follow another edition (I have not checked). “Sociantibus” is as printed. None of the differences changes the argument.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes <em>De baptismo</em> twice in Chapter III as evidence of how the early Church read the sanctity of water: the famous line that “we little fishes, after our <em>Ichthys</em> Jesus Christ, are born in water”, and Tertullian’s argument that even the making of man was “completed” by water. In Migne’s edition both are in Chapters I and II. Lecky gives chapter I for the first, which is right, and chapter III for the second, where Migne has chapter II.</p><p>The words differ slightly from Migne’s: in the second quotation Lecky begins “Non enim” where Migne has “Nam”, and has the present “temperant” where Migne has “temperarant”. See the table below.</p>
+</details>

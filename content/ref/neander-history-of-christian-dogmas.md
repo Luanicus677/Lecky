@@ -2,7 +2,7 @@
 title: Neander, History of Christian Dogmas
 description: "August Neander’s Lectures on the History of Christian Dogmas (Ryland’s translation, Bohn, 1858), p. 658: Socinus’s denial of original sin and Zwingli’s view that original sin is a moral weakness, not a crime, behind Lecky’s Chapter IV, notes 16 and 17."
 heading: Neander, <em>Lectures on the History of Christian Dogmas</em>
-subtitle: "Socinus and Zwingli on original sin (p. 658)"
+subtitle: "Neander’s Socinus and Zwingli on original sin"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn16\">Rationalism, ch. IV, note 16</a> and <a href=\"../rationalism/vol1-ch4.html#fn17\">note 17</a>."]
   - ["Status", "p. 658 read on the image. pp. 657 and 659 were not read."]
 abstract: |
-  <p>Lecky says that Socinus “discarded with unqualified severity the orthodox doctrines of the sinfulness of error and of the transmission of guilt” (note 16) and that Zwingli held original sin to be “nothing more than a malady or evil tendency, and that it did not in any degree involve guilt” (note 17). Neander’s p. 658 supports both: Socinus “totally denied the doctrine of Original Sin”, asking how a single sin could produce such great effects; Zwingli, “led on by his freedom of inquiry, diverged from the common view”, holding that original sin is “not, in a proper, but only in a metaphorical sense a crime; it is only a moral weakness”, whose source is selfishness. Neander gives the Latin of Socinus (<em>Praelectiones</em>, c. 4) and Zwingli’s <em>De peccato originali declaratio</em> (1526) in the footnotes.</p>
+  <p>Neander supports Lecky on p. 658, but Lecky goes slightly beyond him on Zwingli. Where Neander calls original sin ‘only a moral weakness’ and ‘not … in a proper … sense a crime’, Lecky renders it as ‘nothing more than a malady or evil tendency’ that ‘did not in any degree involve guilt’. Neander also records Socinus asking ‘How could a single sin produce such great effects?’ and tracing evil to ‘the power of evil custom’, while Lecky’s mention of Zwingli’s tolerance of error is not on this page.</p>
 ---
 <section id="original-sin-658" class="passage">
 <h2>Socinus and Zwingli on original sin</h2>
@@ -24,3 +24,7 @@ abstract: |
 </blockquote>
 <p>Lecky’s “nothing more than a malady or evil tendency” goes slightly beyond Neander’s “moral weakness”, and “did not in any degree involve guilt” is his reading of “not … in a proper … sense a crime”. His mention of Zwingli’s tolerance of error is not on this page.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says that Socinus “discarded with unqualified severity the orthodox doctrines of the sinfulness of error and of the transmission of guilt” (note 16) and that Zwingli held original sin to be “nothing more than a malady or evil tendency, and that it did not in any degree involve guilt” (note 17). Neander’s p. 658 supports both: Socinus “totally denied the doctrine of Original Sin”, asking how a single sin could produce such great effects; Zwingli, “led on by his freedom of inquiry, diverged from the common view”, holding that original sin is “not, in a proper, but only in a metaphorical sense a crime; it is only a moral weakness”, whose source is selfishness. Neander gives the Latin of Socinus (<em>Praelectiones</em>, c. 4) and Zwingli’s <em>De peccato originali declaratio</em> (1526) in the footnotes.</p>
+</details>

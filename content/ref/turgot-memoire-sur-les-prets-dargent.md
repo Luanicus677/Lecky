@@ -2,7 +2,7 @@
 title: Turgot, Mémoire sur les prêts d’argent
 description: "Turgot’s 1769 Memoir on loans of money, the sentence on the “subtlety of the alienation of capital” that Lecky quotes in Chapter VI, note 30, compared with Schelle’s edition of Turgot’s Œuvres (vol. 3, p. 168). Lecky’s French differs in several small ways."
 heading: Turgot, <em>Mémoire sur les prêts d’argent</em>
-subtitle: "How canon law shaped the lawyers’ view of interest"
+subtitle: "Lecky’s Turgot quotation with two small differences"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn30\">Rationalism, ch. VI, note 30</a>."]
   - ["Status", "The sentence transcribed from the page image, translated and compared. The Alexander VII proposition in the same note (<em>Conférences sur l’usure</em>) is not transcribed."]
 abstract: |
-  <p>Lecky quotes Turgot for the view that the theologians’ “subtlety” of alienating the capital (so that a loan became a sale of an income) was adopted by lawyers under the influence of canon law. The sentence is Turgot’s. Lecky’s version has two wording differences (“des peuples” for “du peuple”, and “a été adopté aussi par les jurisconsultes, à raison de” for “est devenu aussi celui des jurisconsultes, par”), plus punctuation and accents. They may come from an older edition of the text.</p>
+  <p>The sentence is Turgot’s, but Lecky’s French has “des peuples” where Schelle’s edition prints “du peuple”, and a different wording about the jurists. The page notes the two differences do not change the sense and may come from an older edition Lecky used. The § 29 reference Lecky gives is unconfirmed on page 168.</p>
 ---
 <section id="alienation" class="passage">
 <h2>The “subtilité de l’aliénation du capital” (p. 168)</h2>
@@ -37,3 +37,7 @@ abstract: |
 </div>
 <p>The two real differences are in wording, not in sense. Because I have not seen the edition Lecky used, they may be genuine variants of that text; I cannot tell. The translation and the page are what a reader can check.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Turgot for the view that the theologians’ “subtlety” of alienating the capital (so that a loan became a sale of an income) was adopted by lawyers under the influence of canon law. The sentence is Turgot’s. Lecky’s version has two wording differences (“des peuples” for “du peuple”, and “a été adopté aussi par les jurisconsultes, à raison de” for “est devenu aussi celui des jurisconsultes, par”), plus punctuation and accents. They may come from an older edition of the text.</p>
+</details>

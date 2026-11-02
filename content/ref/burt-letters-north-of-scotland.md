@@ -2,7 +2,7 @@
 title: Burt, Letters from the North of Scotland
 description: "Captain Edward Burt’s account of the last Scottish witch-burning, at Dornoch in June 1727 (Letter XII, p. 281 of the 1754 London edition), which Lecky cites in Chapter I, note 166, while suspecting that Burt misdated the 1722 execution; the passage is transcribed and compared."
 heading: Burt, <em>Letters from a Gentleman in the North of Scotland</em>
-subtitle: Edward Burt, 1754
+subtitle: "Burt’s 1727 pitch-barrel burning at Dornoch"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn166\">Rationalism, ch. I, note 166</a>."]
   - ["Status", "The one passage, transcribed from the page image."]
 abstract: |
-  <p>Lecky says the last Scottish execution for witchcraft is “generally said” to be of 1722, but that Captain Burt, “who visited the country in 1730, speaks of a woman who was burnt as late as 1727”, adding that he suspects Burt has misdated the 1722 case. Burt’s text bears out the first part: he says that in the beginning of 1727 a mother and daughter in Sutherland were condemned, and that the old woman was burnt in a pitch-barrel at Dornoch in the following June.</p><p>Burt gives the year plainly, and gives details (the daughter’s escape, the deputy sheriff’s court). Lecky’s suspicion that Burt confused 1722 with 1727 is Lecky’s own and cannot be checked here. The case is the one now usually called the last Scottish execution for witchcraft, but I did not check that claim against a modern source.</p>
+  <p>Burt says two women in Sutherland were condemned early in 1727, and the old woman was burnt in a pitch-barrel at Dornoch that June. Lecky repeats the 1727 date but suspects Burt misdated a 1722 execution. The page gives 1727 twice and is internally consistent, so the suspicion cannot be settled here.</p>
 ---
 <section id="dornoch" class="passage">
 <h2>Letter XII, p. 281: The Burning at Dornoch</h2>
@@ -41,3 +41,7 @@ abstract: |
 </table>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says the last Scottish execution for witchcraft is “generally said” to be of 1722, but that Captain Burt, “who visited the country in 1730, speaks of a woman who was burnt as late as 1727”, adding that he suspects Burt has misdated the 1722 case. Burt’s text bears out the first part: he says that in the beginning of 1727 a mother and daughter in Sutherland were condemned, and that the old woman was burnt in a pitch-barrel at Dornoch in the following June.</p><p>Burt gives the year plainly, and gives details (the daughter’s escape, the deputy sheriff’s court). Lecky’s suspicion that Burt confused 1722 with 1727 is Lecky’s own and cannot be checked here. The case is the one now usually called the last Scottish execution for witchcraft, but I did not check that claim against a modern source.</p>
+</details>

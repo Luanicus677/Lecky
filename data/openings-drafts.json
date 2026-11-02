@@ -1,0 +1,409 @@
+{
+ "agobard-de-imaginibus": {
+  "subtitle": "Lecky’s five Agobard quotes checked against Baluze",
+  "opening": "Lecky says Agobard described some Alexandrian Christians who let only the cross into their churches, but Agobard’s words say each one painted the cross on “door-posts, entrances, windows, walls and pillars”. The “only” is Lecky’s own inference. All five Latin passages Lecky quotes are otherwise in Baluze’s 1666 edition with the same words, apart from one letter, a capital and punctuation, though Lecky drops some clauses and his page numbers are ten to thirteen lower.",
+  "bad": [],
+  "ok": true
+ },
+ "aquinas-summa-supplement": {
+  "subtitle": "Lecky’s quotation that is really a paraphrase",
+  "opening": "Lecky prints Aquinas’s teaching as a single Latin sentence, but it is not a quotation of any one sentence of the article. The first half turns the article’s question into a statement, and the second half alters a clause of the answer. Aquinas’s own sentence is longer, adding that the saints may “give richer thanks to God”.",
+  "bad": [],
+  "ok": true
+ },
+ "augustine-contra-mendacium": {
+  "subtitle": "Augustine rejects lying even to catch heretics",
+  "opening": "Lecky understates Augustine: he does not just call lying “very common” among the Priscillianists, but says they “alone, or at least above all” teach it as doctrine. Augustine rejects Consentius’s proposal to catch heretics by lying, asking how lies can rightly pursue lies. This is the direct opposite of Chrysostom’s defence of deceit in On the Priesthood.",
+  "bad": [],
+  "ok": true
+ },
+ "augustine-de-civitate-dei": {
+  "subtitle": "Seventy reports, not miracles, and a town, not a province",
+  "opening": "Lecky says Augustine reports seventy miracles in two years at the shrine of St Stephen at Hippo, but Augustine says nearly seventy written reports had been handed in in less than two years, with many more miracles left unreported. Lecky’s “province of Calama” is in Augustine a colonia, a town. Lecky’s five cases of the dead restored to life and his judge who tortures the innocent are accurate in substance.",
+  "bad": [],
+  "ok": true
+ },
+ "augustine-de-natura-et-gratia": {
+  "subtitle": "Lecky’s three tiny changes to Augustine’s exception",
+  "opening": "Lecky’s Latin matches Augustine’s sentence almost word for word, with only three small differences. He prints “habere” where Migne prints “haberi”, a reading the editors ascribe to the older printed editions, inserts “eum” before “quem”, and ends with a full stop for Augustine’s question mark. The sentence follows Augustine’s report that Pelagius said piety requires the Mother of the Lord to be confessed without sin, which Augustine sets aside “out of honour to the Lord”.",
+  "bad": [],
+  "ok": true
+ },
+ "augustine-enarratio-psalm-36": {
+  "subtitle": "More than given, even in wheat or wine, is usury",
+  "opening": "Augustine says anyone who expects back “something more than you gave” — whether wheat, wine, oil or anything else — “is a usurer, and in this to be blamed, not praised”. Lecky’s quotation matches Migne’s Patrologia Latina, vol. 36, except for four small differences in Latin spelling and grammar. The meaning is the same, and Lecky’s label for the passage as a description of the sin is fair.",
+  "bad": [],
+  "ok": true
+ },
+ "ayala-de-jure-et-officiis-bellicis": {
+  "subtitle": "Anyone may kill a usurper, not a lawful prince",
+  "opening": "Lecky’s Latin from Ayala is exact. The quoted line says it is lawful for anyone to kill a tyrant who has seized power by force and without right, if the tyranny cannot otherwise be removed. The next clause, which Lecky does not quote, says a private man may not kill a prince by succession or election, however unjustly and cruelly he acts.",
+  "bad": [],
+  "ok": true
+ },
+ "bayle-commentaire-philosophique": {
+  "subtitle": "Bayle answers the Mosaic law objection to toleration",
+  "opening": "Bayle presents the Mosaic laws in Part II chapter IV as a “Fourth objection” to be answered, not as the cause of persecution. Lecky cites that chapter in note 7 for the influence of the Levitical penalty for idolatry on Christian persecution, though only its heading and opening were read. The 1686 title page gives the fictitious “À Cantorbery, chez Thomas Litwel” imprint and spells “Jésus-Chrit” and “Contrain-les d’entrer”.",
+  "bad": [],
+  "ok": true
+ },
+ "bayle-dictionnaire": {
+  "subtitle": "What Bayle really said about Augustine and Socinus",
+  "opening": "Bayle says the Amsterdam synod of August 1690 was of the Walloon churches, not the mixed gathering of Dutch, French and English ministers described by Lecky. Bayle’s wording still supports Lecky’s ‘false, scandalous, and pernicious’, and his note on Socinus supports Lecky’s claim that Socinus condemned by name the Dutch wars against Spain. Lecky’s claim about the ‘dissolution of society’ is not on those pages.",
+  "bad": [],
+  "ok": true
+ },
+ "benedict-xiv-vix-pervenit": {
+  "subtitle": "Any gain beyond the loan is unlawful usury",
+  "opening": "Lecky quotes Benedict correctly: any gain beyond what was lent is unlawful usury, even if the gain is small or the borrower is rich. His two Latin extracts are the opening sentences of paragraphs I and II of § 3, where Benedict reports the unanimous judgement of the theologians he consulted in 1745. The first agrees word for word as far as it goes; the second differs by only two words from the Wikisource text.",
+  "bad": [],
+  "ok": true
+ },
+ "beza-de-haereticis": {
+  "subtitle": "Beza’s “gates of hell” answer to Bellius",
+  "opening": "Beza really did ask what more impious thing the “gates of hell” had ever breathed out, on p. 58, in answer to Bellius. Lecky quotes the outburst almost word for word, but writes “inferiorum” where Beza’s print has “inferorum” and swaps the exclamation mark for a full stop. The passage follows Bellius’s claim that dispute about the Gospel should be left alone, as Lecky says.",
+  "bad": [],
+  "ok": true
+ },
+ "bossuet-defensio-declarationis": {
+  "error": "<HTTPError 502: 'Bad Gateway'>"
+ },
+ "bossuet-variations": {
+  "subtitle": "What Lecky leaves out of Bossuet on punishing heretics",
+  "opening": "Bossuet claims that Catholics and Protestants agree that Christian princes may use “the power of the sword” against enemies of the Church, with only “the Socinians and the Anabaptists” opposed. Lecky quotes the passage with two small changes but stops before Bossuet’s last sentence, “En un mot, le droit est certain: mais la modération n’en est pas moins nécessaire.” He also shortens Bossuet’s parenthesis on Jurieu to “(Jurieu, Syst. ii. ch. 22–23, &c.)”.",
+  "bad": [],
+  "ok": true
+ },
+ "brewster-life-of-newton": {
+  "error": "<HTTPError 502: 'Bad Gateway'>"
+ },
+ "buchanan-de-jure-regni": {
+  "subtitle": "Buchanan’s borrowed maxim about king and law",
+  "opening": "Buchanan did not invent the line Lecky quotes in note 83. In the 1581 printing, on p. 16, Buchanan’s speaker “M.” gives the words “ut rex esset lex loquens, lex Rex mutus” as what “the greatest master of administering a commonwealth” says. Lecky drops that introduction and attribution, and his semicolon is not in the print as read.",
+  "bad": [],
+  "ok": true
+ },
+ "burt-letters-north-of-scotland": {
+  "subtitle": "Burt’s 1727 pitch-barrel burning at Dornoch",
+  "opening": "Burt says two women in Sutherland were condemned early in 1727, and the old woman was burnt in a pitch-barrel at Dornoch that June. Lecky repeats the 1727 date but suspects Burt misdated a 1722 execution. The page gives 1727 twice and is internally consistent, so the suspicion cannot be settled here.",
+  "bad": [],
+  "ok": true
+ },
+ "castellio-traite-des-heretiques": {
+  "subtitle": "Lecky quotes only the first third of the passage",
+  "opening": "Lecky’s Latin quotation asking ‘who would not think Christ some Moloch’ matches the French sentence by sentence, though the Latin itself was not found. He quotes only the first third of a longer passage that goes on to ask who would not take Christ for ‘a Satan’ for burning those who invoke his name. The French describes Christians murdering those who confess Christ ‘with fire, water and sword’ and burning them alive ‘more cruelly than in the bull of Phalaris’.",
+  "bad": [],
+  "ok": true
+ },
+ "chrysostom-de-sacerdotio": {
+  "subtitle": "Not praise of lying, but defence of deceit for good ends",
+  "opening": "Lecky calls it a “curious panegyric on the habit of telling lies”, but Chrysostom says deceit “becomes bad or good according to the motive of the doer”. He defends it with examples including generals’ stratagems, a physician who tricks a feverish patient into drinking water, and St. Paul’s circumcision of Timothy. Lecky gives no book or chapter, and the identification of Book I, chapter VIII is an inference.",
+  "bad": [],
+  "ok": true
+ },
+ "clementinae-ex-gravi": {
+  "subtitle": "Where Lecky stops short of the inquisitors’ order",
+  "opening": "Lecky quotes the decree almost word for word but stops at ‘puniendum’, leaving out the order to bishops and inquisitors to proceed against anyone defamed or suspected of the error. The passage quoted says anyone who obstinately affirms that to practise usury is not a sin is to be punished as a heretic. The paragraph Lecky does not quote is the decree against the statutes of Italian communes that allow or enforce the payment of usury, excommunicating officials who make or enforce them.",
+  "bad": [],
+  "ok": true
+ },
+ "codex-theodosianus-ix-16": {
+  "subtitle": "Lecky’s Latin matches the 1738 text word for word",
+  "opening": "Lecky’s Latin quotations match the 1738 text word for word, with only punctuation differing. The page checks laws 1–4, 6 and 7, including law 4’s death penalty for consulting diviners and law 6’s rack and claws for diviners in the imperial retinue. Lecky treats the laws of 357 and 358 as the turn of old Roman magic laws against paganism itself.",
+  "bad": [],
+  "ok": true
+ },
+ "cudworth-mosheim-note-on-the-soul": {
+  "subtitle": "All early Fathers thought the soul corporeal",
+  "opening": "According to Mosheim, not one early Father believed as the majority of Christians do at the present day, that the soul is “perfectly simple, and entirely destitute of all body, figure, form, and extension”. Lecky’s long quotation of the passage in Chapter III, note 164 is accurate in substance, with ellipses. He inserts “(the early Fathers)” and “the soul” for Mosheim’s “it”, and turns Mosheim’s “for example Clement, Origen, and their disciples” into a parenthesis.",
+  "bad": [],
+  "ok": true,
+  "note": "false positive: sentence-initial word"
+ },
+ "de-maistre-soirees-de-saint-petersbourg": {
+  "subtitle": "De Maistre’s Locke quotes verified; Bacon ‘charlatan’ missing",
+  "opening": "Lecky quotes De Maistre exactly when De Maistre says that ‘contempt for Locke is the beginning of wisdom’ and calls the Essay on the Human Understanding the most crushingly dull thing an ‘absolute lack of genius and style’ can produce. The two passages sit 15 pages apart, as Lecky’s ‘and that’ suggests. His further claim that De Maistre called Bacon ‘un charlatan’ was not found on either page.",
+  "bad": [],
+  "ok": true
+ },
+ "desprez-de-boissy-lettres-sur-les-spectacles": {
+  "subtitle": "Lecky’s 1761 date agrees with the decree",
+  "opening": "The decree ordered the book to be “torn up and burned by the Executioner of the High Justice at the foot of the great staircase of the Palace”, and that François-Charles Huerne de la Mothe “shall be and remain struck from the Roll of Advocates”. Lecky says Huerne de la Motte defended actors and denounced the refusal of burial to actors in 1761, and that his work was burnt and his name erased. The decree dated 22 April 1761 confirms this, with the burning recorded on 23 April 1761.",
+  "bad": [
+   "23"
+  ],
+  "ok": false
+ },
+ "eden-state-of-the-poor": {
+  "subtitle": "Becket’s harvest labour, the 1102 law and Irish slaves",
+  "opening": "Eden gives the Becket story in one sentence, “when he visited a monastery in harvest, did not disdain to labour in the fields”, while Lecky turns it into a habit, adding “with the monks” and plural “monasteries which he visited”. The 1102 Westminster law against selling “men in market, like brute beasts” is quoted accurately on p. 10. The sale of English slaves to Ireland that glutted the market is on p. 7, not p. 10, and Lecky’s claim about Irish bishops is not on these pages.",
+  "bad": [],
+  "ok": true
+ },
+ "eymericus-directorium-inquisitorum": {
+  "subtitle": "Lecky cuts the sequel to the Barcelona burning",
+  "opening": "The priest taken out of the fire at Barcelona, after being ‘already somewhat scorched on one side’, was accused fourteen years later, found to have ‘remained continually in heresy’ and to have ‘infected many’, and was burned as a relapsed heretic. Lecky ends his quotation at ‘whether well or ill, I do not know’ and omits this sequel. Eymeric keeps it to show that sudden repentance under the flames can be insincere, while his other passages on continuing torture and on the relapsed heretic match Lecky’s Latin closely.",
+  "bad": [],
+  "ok": true
+ },
+ "fulgentius-de-fide-ad-petrum": {
+  "subtitle": "Unbaptised infants in fire, no salvation outside the Church",
+  "opening": "The source says little children who die without baptism “are to be punished with the everlasting punishment of eternal fire”, and that even blood shed for the name of Christ cannot save those outside the Catholic Church. Lecky quotes both passages in Chapter IV, notes 8 and 20, and both are in the work with only small differences in Latin wording. His section numbers do not match the chapter numbers 27 and 39 in the printing used here.",
+  "bad": [],
+  "ok": true
+ },
+ "gerson-de-probatione-spirituum": {
+  "subtitle": "A devil as Christ, and scorn for mockers of theologians",
+  "opening": "When a devil disguised as Christ claimed “I am Christ, visiting you in person, because you are worthy”, Gerson says a holy man shut his eyes with both hands and cried “I do not wish to see Christ here; it is enough if I see him in glory”. Lecky cites the passage only for the devil appearing “in the form of Christ”, and the check finds his reference to vol. ii. p. 77 exact. In the second passage Gerson says those who laugh at theologians for speaking of demons should themselves be laughed at and “severely corrected”, which Lecky renders as “treated with scorn”.",
+  "bad": [],
+  "ok": true
+ },
+ "gibbon-decline-and-fall": {
+  "subtitle": "An Augustine quotation and a stronger claim about Aliturus",
+  "opening": "Gibbon says Poppaea and a player “had already employed their intercession in behalf of the obnoxious people”, with a note naming the player as Aliturus and saying Josephus had through the same channel obtained the release of some Jewish priests. Lecky turns this into “great honour” and “repeated and successful efforts” to obtain “a relaxation of the persecutions of the Jews”, which goes beyond Gibbon. His Augustine quotation is the same sentence Gibbon gives in a footnote to chapter 28, though Lecky adds “enim” and has “contra” for Gibbon’s “adversus”.",
+  "bad": [],
+  "ok": true
+ },
+ "glanvill-saducismus-triumphatus": {
+  "subtitle": "Denying witches is the first step to atheism",
+  "opening": "Glanvill warns that those who “dare not bluntly say, There is NO GOD” begin with denying “SPIRITS or WITCHES”, a view he finds among “the looser Gentry, and the small pretenders to Philosophy and Wit”. Lecky quotes the passage accurately in modernised spelling. Glanvill adds that the error has “a Core in it that is worse than Heresie” and counts witchcraft with sacrilege and rebellion among impieties dismissed as “but Bugs”.",
+  "bad": [],
+  "ok": true,
+  "note": "false positive: sentence-initial word"
+ },
+ "grillandi-de-sortilegiis": {
+  "subtitle": "A judge on why sorcerers stay poor",
+  "opening": "Lecky quotes Grillandi as saying sorcerers are ‘poorer, more squalid, and viler’ than the rest of Christ’s faithful, but the Latin he prints is not found in either edition checked here. He adds ‘and more contemptible’, and where the 1592 text has the sorcerers ‘perish at last’, Lecky has them ‘lose the true God’. Grillandi, a papal judge in sorcery trials from 1517, was arguing that demons cannot give real treasure, since treasure-hunters find ‘nothing but earth’.",
+  "bad": [],
+  "ok": true
+ },
+ "hallam-literature-and-constitutional-history": {
+  "subtitle": "How Lecky quotes Hallam on persecution",
+  "opening": "Hallam wrote that men holding heterodox opinions ‘ought not to be burned alive, or otherwise put to death’; Lecky quotes him as ‘should not be burned alive or otherwise put to death’ and drops the opening ‘Thus’. Hallam was writing about the end of the sixteenth century, just after his notice of Koornhert, who wrote against the death penalty for heresy. His other saying, that ‘Persecution is the deadly original sin of the reformed churches’, is quoted by Lecky with only punctuation and capitalisation changed.",
+  "bad": [],
+  "ok": true
+ },
+ "hallam-middle-ages": {
+  "subtitle": "Hallam quoted, with three small changes",
+  "opening": "Lecky quotes Hallam as saying the clergy ‘enforced manumission as a duty’, but Hallam actually wrote ‘enforced it as a duty’, with ‘it’ meaning manumission from the sentence before. Lecky also swaps ‘equally ready’ for ‘as ready’ and adds ‘the’ before ‘Church lands’, without changing the sense. Hallam qualifies the claim that the villeins upon church lands ‘were among the last who were emancipated’ with ‘it is said’, which Lecky keeps, though his own text goes a step beyond Hallam.",
+  "bad": [],
+  "ok": true
+ },
+ "hecker-epidemics": {
+  "subtitle": "The dancers’ dislike of pointed shoes, misplaced",
+  "opening": "Lecky puts the fashion for pointed shoes among the explanations of the plague itself, but in Hecker they belong to the dancing mania that followed it. Hecker says the dancers showed “a morbid dislike to the pointed shoes”, which brought an ordinance for square-toed shoes, and suggests in a note that priests’ sermons against fashion may have caused it. He also says only “some” dancers felt “immersed in a stream of blood”, where Lecky writes “often”, and his 25 millions is a quarter of his own base of 105 millions, not a separate “very moderate computation”.",
+  "bad": [],
+  "ok": true
+ },
+ "hobbes-leviathan-latin": {
+  "subtitle": "Hobbes says classics teach rebellion in monarchies",
+  "opening": "Hobbes compares the effect of teaching Greek and Roman books to “hydrophobia” caught from “the bite of a rabid dog”. Lecky quotes the Latin accurately apart from changing “comparare libet” to “comparari libet” and cutting, with dots, Hobbes’s middle argument about young men not armed with a solid antidote admiring ancient wars, tyrannicides and “democratic” freedom. Lecky calls the passage “a burst of extreme indignation”, though the Latin reads as a measured argument to restrict such teaching in monarchies unless corrected by wise teachers.",
+  "bad": [],
+  "ok": true
+ },
+ "hogarth-memoirs-of-the-opera": {
+  "subtitle": "Lulli’s absolution and Politian’s Orfeo checked against Hogarth",
+  "opening": "Hogarth reports that after Lulli burnt the manuscript of Achille et Polixène for absolution, he whispered to a young prince, ‘Hush, my lord,’ ‘I have got a copy of it,’ a sequel Lecky omits. Lecky’s account of the burning is otherwise accurate, though his phrase ‘first great musical composer of France’ is his own. On Politian’s Orfeo, Hogarth only suggests it ‘may be regarded as the lineal progenitor of the Italian opera’, and does not mention the Cardinal Gonzaga of Mantua.",
+  "bad": [],
+  "ok": true
+ },
+ "hume-populousness-of-ancient-nations": {
+  "subtitle": "How exposing children might have raised population",
+  "opening": "Hume argues that exposing children in early infancy might have made ancient times more populous, because “by removing the terrors of too numerous a family it would engage many people in marriage” while “the force of natural affection” held most back from acting. Lecky’s paraphrase in Chapter VI, note 13 is close, but “the poor” and “recklessly” do not appear in Hume and are Lecky’s (or Malthus’s) gloss. The check rests on one page, p. 396 of an 1875 printing, and Lecky’s reference to Malthus is not checked.",
+  "bad": [],
+  "ok": true
+ },
+ "jerome-contra-vigilantium": {
+  "subtitle": "Lecky gives Jerome words he was mocking",
+  "opening": "Lecky quotes the line ‘Ergo cineres suos amant animae martyrum’ as Jerome’s own view, but in c. 8 Jerome is quoting Vigilantius only to mock him with ‘O portentum in terras ultimas deportandum!’ Jerome then ridicules the claim that souls hover round their ashes and goes on to defend the cult. Lecky’s wording is identical to Migne apart from ligatures, punctuation and the loss of the question mark and of ‘Al. peccator’, so the report of the belief stands but the attribution does not.",
+  "bad": [],
+  "ok": true
+ },
+ "laing-notes-of-a-traveller": {
+  "subtitle": "The Swiss, moral in conduct yet irreligious",
+  "opening": "Laing describes the Swiss as “eminently moral in conduct, yet eminently irreligious”, at the head of Europe for obedience to law, honesty and orderly conduct but at the bottom for religious feelings and observances. Lecky quotes the passage at length in Chapter IV, note 35, without giving title or page, and his copy is close: he changes Laing’s semicolon after “irreligious” to a colon and alters plurals and hyphens. Laing adds that in the Protestant cantons prosperity and morality seem in inverse ratio to religion’s influence.",
+  "bad": [],
+  "ok": true
+ },
+ "locke-third-letter-for-toleration": {
+  "subtitle": "Lecky quotes Locke correctly on miracles after Constantine",
+  "opening": "Lecky gets Locke word for word, apart from modern spelling and capitals. The p. 269 passage warns that anyone who trusts ‘miracles delivered by Church historians’ must either stop with the Apostles’ time or carry on past Constantine’s, since later writers report miracles ‘with no less assurance’. In context Locke is answering Proast, who said miracles supplied ‘the want of the magistrate’s assistance’.",
+  "bad": [],
+  "ok": true
+ },
+ "luther-de-servo-arbitrio": {
+  "subtitle": "Lecky’s Luther quotes checked against a 1664 edition",
+  "opening": "Luther pictures the human will as “like a beast of burden”: if God has taken his seat on it, it goes where God wills, and if Satan has taken his seat, where Satan wills. Lecky quotes the Latin almost as it stands in the 1664 text, but expands ‘Psal.’ to ‘Psalmus’ and drops the word ‘sit’ from the passage on faith, which leaves his sentence ungrammatical as printed. Neither change alters the sense.",
+  "bad": [],
+  "ok": true
+ },
+ "macpherson-annals-of-commerce": {
+  "subtitle": "Macpherson’s 1346 consul footnote is not about English consuls",
+  "opening": "Lecky’s ‘earliest notice … of an English consul’ in 1346 is not what Macpherson wrote. Macpherson’s footnote describes the consul of the Venetian merchants at Bruges, noticed in an English record, not a consul of English merchants abroad. The other pages are closer, but Macpherson heads the ransom of Moors for ten negro slaves 1443, not Lecky’s 1440, and puts the first convention only at ‘about this time’ on a page headed 1689.",
+  "bad": [],
+  "ok": true
+ },
+ "marangoni-cose-gentilesche": {
+  "subtitle": "Orpheus as Christ on p. 45; two other notes not there",
+  "opening": "Marangoni’s p. 45 does say the Greek fable of Orpheus drawing trees, plants and wild beasts by his speech stood for the “property and efficacy of the Divine Word”, with a Latin passage from Eusebius’s oration in praise of Constantine. That matches Lecky’s claim that Orpheus “drawing all men to him by his music, symbolised the attractive power of Christianity” and that Eusebius speaks of Orpheus as symbolising Christ. Yet the same p. 45, which Lecky also cites for the genii of the seasons and a pagan aquatic deity, has nothing on either.",
+  "bad": [],
+  "ok": true
+ },
+ "middleton-free-inquiry": {
+  "subtitle": "Middleton’s exorcists and what Lecky altered in quoting him",
+  "opening": "Lecky’s two quotations from Middleton are close in sense but not word for word: he modernises the spelling, turns “these powers” into “those powers” and “this fourth age” into “this fourth century”. The Preface supplies the claim about the unanimous testimony of Church historians to a continual succession of powers, while the Introductory Discourse supplies the charge about the “surprizing confidence” of the Fathers. His note on exorcists follows Middleton’s note on pp. 85–87 that Jews, Heathens and Christians all had a set of men called Exorcists, reckoned among the inferior orders by the middle of the third century.",
+  "bad": [],
+  "ok": true
+ },
+ "minucius-felix-octavius": {
+  "subtitle": "The subtle fire that burns and restores",
+  "opening": "Lecky’s Latin is almost exact: against the 1853 Cambridge text he drops only ‘montis’ after Etna and Vesuvius and alters punctuation, without changing the sense. The passage he calls ‘a somewhat ferocious passage’ makes Jupiter swear by the burning banks of the Styx because he foresees his own punishment with his worshippers. There the ‘subtle’ fire burns and restores the limbs it tears, like lightning and the fires of Etna and Vesuvius that touch without consuming.",
+  "bad": [],
+  "ok": true
+ },
+ "molina-de-iustitia-et-iure": {
+  "subtitle": "What Lecky left out of Molina on killing tyrants",
+  "opening": "Lecky’s Latin is not a quotation but a condensation that joins phrases from two places on p. 539 and adds “eum”. Molina says any member of the commonwealth may lawfully kill a usurper, unless greater evils would follow or a higher authority could be asked. Lecky leaves out those limits, the right of self-defence and the condition for deposition, so his version reads stronger than Molina’s.",
+  "bad": [],
+  "ok": true
+ },
+ "montaigne-essais-ii-12": {
+  "subtitle": "Lecky cuts Montaigne short and changes a word",
+  "opening": "Lecky leaves out Montaigne’s following sentence about burning people who say truth must bear “the yoke of our need”. In what he does quote, from the Apologie de Raimond Sebond on rebellion for religion, he reads “imprudence” where this text has “impudence”. Lecky cites the passage in Chapter V as the ‘keen eye of the great sceptic’ on doctrines changing with each party’s fortunes.",
+  "bad": [],
+  "ok": true
+ },
+ "montesquieu-esprit-des-lois-xxi-20": {
+  "subtitle": "Lecky’s half sentence on scholastics and princes",
+  "opening": "Lecky quotes Montesquieu’s sentence that “we owe to the speculations of the scholastics all the misfortunes that accompanied the destruction of commerce”, but leaves out the second half about “the avarice of princes”. In Montesquieu the sentence ends a chapter on how commerce emerged from violence against the Jews, who “invented bills of exchange” so commerce could “elude violence”. Lecky himself calls the remark “with a little exaggeration”.",
+  "bad": [],
+  "ok": true
+ },
+ "neander-history-of-christian-dogmas": {
+  "subtitle": "Neander’s Socinus and Zwingli on original sin",
+  "opening": "Neander supports Lecky on p. 658, but Lecky goes slightly beyond him on Zwingli. Where Neander calls original sin ‘only a moral weakness’ and ‘not … in a proper … sense a crime’, Lecky renders it as ‘nothing more than a malady or evil tendency’ that ‘did not in any degree involve guilt’. Neander also records Socinus asking ‘How could a single sin produce such great effects?’ and tracing evil to ‘the power of evil custom’, while Lecky’s mention of Zwingli’s tolerance of error is not on this page.",
+  "bad": [],
+  "ok": true
+ },
+ "pascal-pensees-original-sin": {
+  "subtitle": "Lecky stops where Pascal explains man to himself",
+  "opening": "Lecky’s quotation agrees with the Brunschvicg text apart from older spelling and lighter punctuation, but it ends early. Pascal calls it “very unjust” to “damn eternally a child incapable of will” for a sin committed “six thousand years before it was in being”, which Lecky presents as “stating the doctrine in a very repulsive form”. Pascal continues that without this “most incomprehensible” mystery “we are incomprehensible to ourselves”, and that man is more inconceivable without it.",
+  "bad": [],
+  "ok": true
+ },
+ "pecchio-storia-della-economia-pubblica": {
+  "subtitle": "No manuscript of Roman laws on this page",
+  "opening": "Pecchio never mentions an accidental find of Roman laws on the page Lecky cites. Lecky writes that “The accidental discovery at Amalphi of a manuscript of Roman laws is said to have produced the navigation laws” and gives Pecchio, p. 11. What Pecchio actually says there is that Pisa, Barcelona or, more probably from the name, Amalfi first introduced the maritime code called the Tavola Amalfitana, which became the code of seafarers, while some credit Amalfi with the compass.",
+  "bad": [],
+  "ok": true
+ },
+ "raoul-rochette-tableau-des-catacombes": {
+  "subtitle": "Orpheus as pagan type with new Christian sense",
+  "opening": "Raoul-Rochette describes the Orpheus in the Christian paintings of the cemetery of St Callixtus as the same seated youth in a gold-enriched tiara and embroidered trousers, lyre against his left side, as the Orpheus of the profane paintings described by Philostratus the younger and by Lucian. He takes this as a decisive example of how pagan motifs entered Christian art through ancient models while receiving a new Christian sense. The page supports Lecky’s note in Chapter III, note 10 that Orpheus appears as a Christian symbol, but the claim that Eusebius made him a type of Christ is not on this page.",
+  "bad": [],
+  "ok": true
+ },
+ "rousseau-contrat-social-iv-8": {
+  "subtitle": "Why civil and theological intolerance cannot be split",
+  "opening": "Rousseau says whoever dares say “outside the Church, no salvation” must be “driven from the State” unless “the State is the Church”. Lecky quotes the passage true to the sense, but he cuts the middle where “the priests are the true masters” and kings are only “their officers”. The cut also drops Rousseau’s point that there can no longer be “an exclusive national religion”, which blurs his modern rule for toleration.",
+  "bad": [],
+  "ok": true
+ },
+ "sa-aphorismi-confessariorum": {
+  "subtitle": "Lecky quotes Sá word for word on tyrants",
+  "opening": "“Anyone of the people may kill” one who seizes power tyrannically if there is no other remedy. That blunt line is word for word what Lecky quotes from Sá’s short entry “Tyrannus” in the 1599 printing, and Sá also allows a people to depose a lawful tyrant they swore perpetual obedience to if warned he will not amend. Lecky groups Sá with Molina as speaking with “still greater emphasis” than Toletus, but on these pages Molina is hedged with exceptions.",
+  "bad": [],
+  "ok": true
+ },
+ "scot-discovery-of-witchcraft": {
+  "subtitle": "Not torture, but tricks for examining witches",
+  "opening": "Lecky calls pp. 11–12 a ‘frightful catalogue of the tortures’, but Scot mostly lists tricks and legal rules for examining witches, not physical torment. Scot says infamous witnesses and children may testify, the accused should be taken by surprise, promised impunity, frightened with feigned screams, watched by a planted spy, and told falsely that others have confessed. Only a few ‘Items’ are bodily, such as shaving all hair and thrusting a sharp instrument under the nails, and Scot is reporting what Bodin and the Malleus advise rather than what was done.",
+  "bad": [],
+  "ok": true
+ },
+ "spina-quaestio-de-strigibus": {
+  "subtitle": "A thousand examined at Como, a hundred burned",
+  "opening": "Spina does not say a thousand persons were executed at Como in a year. He says more than a thousand were “inquired into and examined”, while “more than a hundred” were burned in almost every year; only the marginal note claims a thousand burned. Lecky follows the margin and reports a thousand executed, and no “rebellion” against the inquisitors was found in the pages he cites.",
+  "bad": [],
+  "ok": true
+ },
+ "sprat-history-of-the-royal-society": {
+  "subtitle": "Lecky adds ‘a’ to Sprat on miracles",
+  "opening": "Sprat wrote ‘without witness’, while Lecky quoted ‘without a witness’. Apart from that inserted ‘a’, a change of ‘on’ to ‘to’, and modern spelling and punctuation, the quotation matches word for word. In Sprat’s page the lines belong to a defence of natural philosophy against devout men who would reject it, where he says God commonly chose ‘the dark and ignorant Ages, wherein to work Miracles’.",
+  "bad": [],
+  "ok": true,
+  "note": "false positive: sentence-initial word"
+ },
+ "taylor-liberty-of-prophesying": {
+  "subtitle": "Lecky quotes Taylor accurately on water and Spirit",
+  "opening": "Lecky’s quotation is accurate apart from spelling: “baptising” for Taylor’s “baptizing” and lower-case “spirit”. Taylor’s sentence runs across the page break in the 1836 printing on pp. 328–329. Taylor uses it in defence of the Anabaptists’ objection to infant baptism, adding that infants must also pass through fire as through water.",
+  "bad": [],
+  "ok": true
+ },
+ "tertullian-apologeticum": {
+  "subtitle": "What Lecky leaves out of Tertullian on fear",
+  "opening": "Lecky leaves out Tertullian’s clause about “the difficulty of hiding-places” without a mark, while adding three dots where Migne has no gap. Tertullian contrasts Epicurus, who calls pain either contemptible or not lasting, with Christians who live under a God who sees everything and foresee an eternal penalty. Lecky ends at “everlasting” and omits the close that they fear God, “not the proconsul”.",
+  "bad": [],
+  "ok": true
+ },
+ "tertullian-de-anima": {
+  "subtitle": "Lecky’s almost exact quote on the bodily soul",
+  "opening": "Lecky’s quotation is almost exact: set against Migne’s text it drops “quibus” and adds “et” before “punitur”, leaving the sense unchanged. Tertullian is arguing that the soul is corporeal, and takes his proof from the Gospel story of the rich man and Lazarus. The soul of a certain man “grieves in the underworld, is punished in the flame, and is tormented in the tongue, and begs for the solace of a drop of dew from the finger of a happier soul.”",
+  "bad": [],
+  "ok": true
+ },
+ "tertullian-de-baptismo": {
+  "subtitle": "Lecky’s two water passages checked against Migne",
+  "opening": "Tertullian’s ‘we little fishes’ line is quoted by Lecky without ‘Sed’ and with ‘aquâ’ where Migne’s page has ‘qua’. In the second passage, on the work of fashioning man being ‘completed with the help of the waters’, Lecky cites chapter III where Migne has chapter II, gives ‘Non enim’ for ‘Nam’, and gives present ‘temperant’ for ‘temperarant’. None of the differences changes the argument.",
+  "bad": [],
+  "ok": true
+ },
+ "tertullian-de-spectaculis": {
+  "subtitle": "Lecky’s Latin quotation is accurate but not exact",
+  "opening": "Tertullian pictures Christians watching kings groaning in darkness, governors melting in fiercer flames, and philosophers blushing as they burn with their disciples. Lecky quotes the passage in Latin to show the early Church found pleasure in the sight of the damned, and the words support him. His quotation is substantially accurate but not word for word, with one clause in a different order, an extra word, changed words and different punctuation, and he leaves out the last sentence about joys “more pleasing than the circus”.",
+  "bad": [],
+  "ok": true
+ },
+ "thiers-traite-des-superstitions": {
+  "subtitle": "Three papal bulls but no rebellion",
+  "opening": "Thiers never mentions the “absolute rebellion” against the inquisitors that Lecky mentions in the same note; his pages list bulls and councils ordering sorcerers to be punished. He names three bulls: Innocent VIII’s of 1484 against the magicians of Upper Germany, Leo X’s of 1521 against the sorcerers of Brescia and Bergamo, and Adrian VI’s of 20 July 1522 for the Inquisitor of Cremona against the sorcerers in certain districts of Lombardy. Lecky cites Thiers for the north-Italian trials, but the rebellion comes from Madden.",
+  "bad": [],
+  "ok": true
+ },
+ "toletus-instructio-sacerdotum": {
+  "subtitle": "A usurper may be killed, a lawful tyrant may not",
+  "opening": "Toledo says a tyrant by administration with a true title may not be killed “without public authority”, contrary to Lecky’s gloss that Toledo “intimated also” that a nation might depose a lawful sovereign and condemn him to death. Toledo does allow any private man to kill a tyrant by power and lordship with no true title, if the state cannot otherwise be freed and there is probable hope of liberation. Lecky’s Latin is Toledo’s with small changes in wording and word order, and Lecky omits the closing point that the Council of Constance condemnation does not cover the former tyrant.",
+  "bad": [],
+  "ok": true
+ },
+ "turgot-memoire-sur-les-prets-dargent": {
+  "subtitle": "Lecky’s Turgot quotation with two small differences",
+  "opening": "The sentence is Turgot’s, but Lecky’s French has “des peuples” where Schelle’s edition prints “du peuple”, and a different wording about the jurists. The page notes the two differences do not change the sense and may come from an older edition Lecky used. The § 29 reference Lecky gives is unconfirmed on page 168.",
+  "bad": [],
+  "ok": true
+ },
+ "ventura-le-pouvoir-politique-chretien": {
+  "subtitle": "One religious journal in Catholic Austria",
+  "opening": "Ventura complains that in Catholic Austria only one of a hundred and thirty-five journals is devoted to Christianity, and even that one leaves much to be desired in the matter of orthodoxy. Lecky quotes the footnote but cuts the middle sentences asking whether political, literary, artistic and commercial journals are beyond reproach. Lecky also writes “l’intérêt publique” where Ventura has “l’intérêt public”, and ends the passage at “Europe” though Ventura continues.",
+  "bad": [],
+  "ok": true
+ },
+ "voltaire-dictionnaire-philosophique-patrie": {
+  "subtitle": "Lecky reverses Voltaire and drops a word",
+  "opening": "Lecky quotes Voltaire in reverse order, joined by an ellipsis. Voltaire writes first that “a country cannot gain without another losing”, then that “to wish for the greatness of one’s country is to wish harm to one’s neighbours”; Lecky gives the conclusion first, dropping “donc”. He also ends the premise at “un autre perd”, where Voltaire has the subjunctive “perde”.",
+  "bad": [],
+  "ok": true
+ },
+ "wall-history-of-infant-baptism": {
+  "subtitle": "Wall’s two firsts, and the hedge Lecky dropped",
+  "opening": "Wall hedges his claim with “I believe Calvin was the first that ever denied” that John iii. 5 means baptism, a caution Lecky drops when he calls Calvin “the very first theologian”. Both of Lecky’s citations check out against Wall’s pages 180 and 211. Wall’s other first, Hincmar of Rheims, offered hope for unbaptised infants only after a bishop had excommunicated all his clergy, leaving nobody to baptise.",
+  "bad": [],
+  "ok": true
+ },
+ "wright-narratives-of-sorcery-and-magic": {
+  "subtitle": "Wright’s six hundred at Bamberg is on p. 326",
+  "opening": "Lecky cites “Wright’s Sorcery, vol. i. p. 186” for six hundred burnt by a single bishop of Bamberg, but p. 186 describes French werewolf trials of 1573–88. Wright gives the six hundred figure on p. 326, where a pamphlet published at Bamberg in 1659 states the number Bishop John George had caused to be burnt for sorcery. Wright adds that between 1625 and 1639 not less than nine hundred trials took place in the two courts of Bamberg and Zeil.",
+  "bad": [],
+  "ok": true
+ }
+}

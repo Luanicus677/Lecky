@@ -2,7 +2,7 @@
 title: Glanvill, Saducismus Triumphatus
 description: "Joseph Glanvill’s Saducismus Triumphatus, the Preface: “Atheism is begun in Sadducism”, the passage Lecky quotes in Chapter I, note 122, from the 1700 edition (the third, with Henry More’s additions)."
 heading: Glanvill, <em>Saducismus Triumphatus</em>
-subtitle: "“Atheism is begun in Sadducism” (Preface)"
+subtitle: "Denying witches is the first step to atheism"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn122\">Rationalism, ch. I, note 122</a>."]
   - ["Status", "n50 read on the image; the first words (“Atheism is begun in Sadducism”) are from the OCR of n49. Not checked: the other Glanvill notes (ch. I notes 113, 118–121)."]
 abstract: |
-  <p>Lecky’s quotation is accurate, with modern spelling: “Atheism is begun in Sadducism, and those that dare not bluntly say there is no God, content themselves (for a fair step and introduction) to deny there are spirits or witches, which sort of infidels, though they are not ordinary among the mere vulgar, yet are they numerous in a little higher rank of understandings. And those that know anything of the world, know that most of the looser gentry and the small pretenders to philosophy and wit, are generally deriders of the belief of witches and apparitions.” Glanvill goes on to say that he fears this error “hath a core in it that is worse than heresy”, and lists witchcraft with sacrilege and rebellion as the “sad and greatest instances” of impieties accounted “but bugs”.</p>
+  <p>Glanvill warns that those who “dare not bluntly say, There is NO GOD” begin with denying “SPIRITS or WITCHES”, a view he finds among “the looser Gentry, and the small pretenders to Philosophy and Wit”. Lecky quotes the passage accurately in modernised spelling. Glanvill adds that the error has “a Core in it that is worse than Heresie” and counts witchcraft with sacrilege and rebellion among impieties dismissed as “but Bugs”.</p>
 ---
 <section id="atheism-sadducism" class="passage">
 <h2>“Atheism is begun in Sadducism” (Preface)</h2>
@@ -37,3 +37,6 @@ abstract: |
 <p>Glanvill’s argument turns the charge of credulity round: it is the sceptic who must believe that all the judges were murderers. In passing he says that “Thousands in our own Nation have suffer’d Death” for witchcraft, which Lecky does not quote. Lecky’s wording differs in small ways: “all the wise could have agreed to juggle” for “all the wiser World have agreed together to juggle”, and “absurd or impossible” for “absurd and impossible”.</p>
 </section>
 
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s quotation is accurate, with modern spelling: “Atheism is begun in Sadducism, and those that dare not bluntly say there is no God, content themselves (for a fair step and introduction) to deny there are spirits or witches, which sort of infidels, though they are not ordinary among the mere vulgar, yet are they numerous in a little higher rank of understandings. And those that know anything of the world, know that most of the looser gentry and the small pretenders to philosophy and wit, are generally deriders of the belief of witches and apparitions.” Glanvill goes on to say that he fears this error “hath a core in it that is worse than heresy”, and lists witchcraft with sacrilege and rebellion as the “sad and greatest instances” of impieties accounted “but bugs”.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Bayle, Dictionnaire historique et critique
 description: "Two articles of Bayle’s Dictionary that Lecky cites: Remark (H) of “Augustin”, on the Walloon synod of Amsterdam in 1690 (Chapter IV Part II, note 55), and Remark (C) of “Socin (Fauste)”, on Socinus’s condemnation of armed resistance, including the Dutch revolt (Chapter V, note 133)."
 heading: Bayle, <em>Dictionnaire historique et critique</em>
-subtitle: "Pierre Bayle’s dictionary on St. Augustine and on Socinus"
+subtitle: "What Bayle really said about Augustine and Socinus"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn55\">Rationalism, ch. IV (continued), note 55</a> and <a href=\"../rationalism/vol2-ch5.html#fn133\">ch. V, note 133</a> and <a href=\"../rationalism/vol2-ch6.html#fn187\">ch. VI, note 187</a>."]
   - ["Status", "Two remarks of the <em>Dictionnaire</em> and one section of the <em>Pensées diverses</em> (a different work), read on page images."]
 abstract: |
-  <p>Both citations check out. In remark (H) of “Augustin”, Bayle says that the acts of the synod of the Walloon churches of the United Provinces, held at Amsterdam in August 1690, declared the proposition “le magistrat n’est point en droit d’employer son autorité pour abattre l’idolâtrie et empêcher les progrès de l’hérésie” to be “solennellement et unanimement fausses, scandaleuses, pernicieuses”: Lecky’s “false, scandalous, and pernicious”. Two details differ. Bayle’s synod is of the Walloon (French-speaking) churches, with refugee ministers from France in it in great numbers, not a mixed gathering “of Dutch, and partly of French and English ministers”; and Bayle’s point is that this contradicted what the Reformed minister Claude had said against Augustine.</p>
-  <p>In remark (C) of “Socin”, Bayle says Socinus condemned the taking of arms against princes “si fortement” that the most extreme defenders of arbitrary power have hardly spoken more plainly, and that Socinus condemned “nommément les guerres des Hollandais contre l’Espagne”. This supports Lecky’s sentence that Faustus Socinus “especially singled out for condemnation the noble struggle of the Dutch against Spain”; Lecky’s statement that Socinus predicted that the seditious doctrines would “lead to the dissolution of society” is not in these two pages.</p>
+  <p>Bayle says the Amsterdam synod of August 1690 was of the Walloon churches, not the mixed gathering of Dutch, French and English ministers described by Lecky. Bayle’s wording still supports Lecky’s ‘false, scandalous, and pernicious’, and his note on Socinus supports Lecky’s claim that Socinus condemned by name the Dutch wars against Spain. Lecky’s claim about the ‘dissolution of society’ is not on those pages.</p>
 ---
 <section id="augustin-h" class="passage">
 <h2>“Augustin”, remark H: the synod of Amsterdam, 1690</h2>
@@ -58,3 +57,8 @@ abstract: |
 </div>
 <p>Lecky (ch. VI, text above note 187): “The conduct of that Turkish atheist, who, believing that death was an eternal sleep, refused at the stake to utter the recantation which would save his life, replying to every remonstrance, ‘Although there is no recompense to be looked for, yet the love of truth constraineth me to die in its defence,’ in the eye of reason is an inexplicable folly …”, with the note “Mahomet Effendi. See Bayle, <em>Pensées Diverses</em>, § 182.” The name, the offer of a pardon for recantation and the saying are in Bayle, and Lecky’s English is a translation of the saying (“die in its defence” for “souffrir le martyre pour la soutenir”). Two additions are Lecky’s: the belief that “death was an eternal sleep” and “at the stake”; Bayle says only that he was executed and mentions no manner of death, and Bayle’s own point (that such obstinacy shows a martyr’s temperament, not atheism as such) is not used by Lecky. Bayle’s own source is Rycaut, whom I have not read.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Both citations check out. In remark (H) of “Augustin”, Bayle says that the acts of the synod of the Walloon churches of the United Provinces, held at Amsterdam in August 1690, declared the proposition “le magistrat n’est point en droit d’employer son autorité pour abattre l’idolâtrie et empêcher les progrès de l’hérésie” to be “solennellement et unanimement fausses, scandaleuses, pernicieuses”: Lecky’s “false, scandalous, and pernicious”. Two details differ. Bayle’s synod is of the Walloon (French-speaking) churches, with refugee ministers from France in it in great numbers, not a mixed gathering “of Dutch, and partly of French and English ministers”; and Bayle’s point is that this contradicted what the Reformed minister Claude had said against Augustine.</p>
+<p>In remark (C) of “Socin”, Bayle says Socinus condemned the taking of arms against princes “si fortement” that the most extreme defenders of arbitrary power have hardly spoken more plainly, and that Socinus condemned “nommément les guerres des Hollandais contre l’Espagne”. This supports Lecky’s sentence that Faustus Socinus “especially singled out for condemnation the noble struggle of the Dutch against Spain”; Lecky’s statement that Socinus predicted that the seditious doctrines would “lead to the dissolution of society” is not in these two pages.</p>
+</details>

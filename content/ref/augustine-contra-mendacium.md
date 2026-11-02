@@ -2,7 +2,7 @@
 title: Augustine, Contra Mendacium
 description: "Augustine’s Contra mendacium ad Consentium, chapters 1–2 (Migne, cols. 519–520), the passage on the Priscillianists that Lecky sets against Chrysostom in Chapter IV, note 37: in Latin and English, with Lecky’s summary compared and a side-by-side with Chrysostom’s defence of deceit."
 heading: Augustine, <em>Contra mendacium</em>
-subtitle: Augustine of Hippo to Consentius
+subtitle: "Augustine rejects lying even to catch heretics"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn37\">Rationalism, ch. IV, note 37</a>. Paired with <a href=\"chrysostom-de-sacerdotio.html\">Chrysostom, <em>On the Priesthood</em></a>."]
   - ["Status", "Three extracts (c. 1 § 1, c. 2 §§ 2–3) transcribed from the page image, translated, and compared with Lecky. The rest of the treatise (24 chapters in Migne) is not transcribed. Lecky’s remark about “certain Catholics” who pretended to be Priscillianists rests on Augustine’s own later summary of the book (<em>Retractationes</em> II.60), which I have only in an English translation (see below)."]
 abstract: |
-  <p>In note 37 Lecky says Augustine “in his treatise <em>Contra Mendacium</em> … strongly denounced the tendency [to lie for religion], and especially condemns the Priscillianists, among whom it appears to have been very common, and also certain Catholics who thought it justifiable to pretend to be Priscillianists for the purpose of discovering the secrets of that sect.”</p><p>The opening chapters bear that out, with one correction of emphasis. Augustine does not merely say lying was “very common” among Priscillianists: he says they, “alone, or at least above all”, <em>teach</em> it as a doctrine, and he refuses Consentius’s proposal to flush heretics out by lying, on the ground that it is doing evil that good may come. This is the direct opposite of the position Chrysostom defends in <a href="chrysostom-de-sacerdotio.html">On the Priesthood</a>, though there is no sign that either had the other in mind: Chrysostom died in 407, and Augustine’s book is dated to about 420 (the date in the Browne translation’s note, which I have not checked against the <em>Retractationes</em>).</p>
+  <p>Lecky understates Augustine: he does not just call lying “very common” among the Priscillianists, but says they “alone, or at least above all” teach it as doctrine. Augustine rejects Consentius’s proposal to catch heretics by lying, asking how lies can rightly pursue lies. This is the direct opposite of Chrysostom’s defence of deceit in On the Priesthood.</p>
 ---
 <section id="no-lying-to-catch" class="passage">
 <h2>Not to Catch Heretics by Lying (c. 1 § 1, col. 519)</h2>
@@ -109,3 +109,7 @@ abstract: |
 
 <p>The last row is the main caution. Chrysostom is defending a particular benevolent deception against a friend’s reproach; the Priscillianists, in Augustine’s account, teach concealment of belief from outsiders. Augustine does not engage the benevolent-deception case in the extracts here, so the opposition between the two on the <em>principle</em> (the end does or does not justify the lie) is real, but the cases themselves are not the same.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In note 37 Lecky says Augustine “in his treatise <em>Contra Mendacium</em> … strongly denounced the tendency [to lie for religion], and especially condemns the Priscillianists, among whom it appears to have been very common, and also certain Catholics who thought it justifiable to pretend to be Priscillianists for the purpose of discovering the secrets of that sect.”</p><p>The opening chapters bear that out, with one correction of emphasis. Augustine does not merely say lying was “very common” among Priscillianists: he says they, “alone, or at least above all”, <em>teach</em> it as a doctrine, and he refuses Consentius’s proposal to flush heretics out by lying, on the ground that it is doing evil that good may come. This is the direct opposite of the position Chrysostom defends in <a href="chrysostom-de-sacerdotio.html">On the Priesthood</a>, though there is no sign that either had the other in mind: Chrysostom died in 407, and Augustine’s book is dated to about 420 (the date in the Browne translation’s note, which I have not checked against the <em>Retractationes</em>).</p>
+</details>

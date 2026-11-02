@@ -2,7 +2,7 @@
 title: Hecker, The Epidemics of the Middle Ages
 description: "Three points from J. F. C. Hecker’s Epidemics of the Middle Ages (Babington’s English translation, 1844) that Lecky relies on in Chapter I, notes 57, 58 and 60: the loss of a quarter of Europe’s people to the Black Death, the dancers who felt immersed in a stream of blood, and the pointed shoes, with Lecky’s statements compared."
 heading: Hecker, <em>The Epidemics of the Middle Ages</em>
-subtitle: Justus Friedrich Karl Hecker, tr. B. G. Babington
+subtitle: "The dancers’ dislike of pointed shoes, misplaced"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn57\">Rationalism, ch. I, note 57</a>, <a href=\"../rationalism/vol1-ch1.html#fn58\">58</a> and <a href=\"../rationalism/vol1-ch1.html#fn60\">60</a>."]
   - ["Status", "Three passages of English, transcribed from the page images (the dancers’ passage and the shoes passage as printed in the translation; the original German not consulted). Lecky’s statements compared."]
 abstract: |
-  <p>Lecky’s account of the fourteenth-century background of witch-persecution leans on Hecker for the Black Death (“twenty-five millions, or a fourth part of the inhabitants of Europe”) and for the dancing manias that followed it. All three notes can be checked in the English translation.</p><p>The total is Hecker’s own, but Lecky changes its basis: Hecker takes a fourth part of the population (which he reckons at about 105 millions, on a modern figure of 210 millions) and gets 25 millions; he does not say the number is “very moderate”. Lecky’s note 60 puts the pointed shoes in the account of the plague: in Hecker they are the aversion of the dancers, which Hecker himself puts down to priests’ sermons against fashion. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky puts the fashion for pointed shoes among the explanations of the plague itself, but in Hecker they belong to the dancing mania that followed it. Hecker says the dancers showed “a morbid dislike to the pointed shoes”, which brought an ordinance for square-toed shoes, and suggests in a note that priests’ sermons against fashion may have caused it. He also says only “some” dancers felt “immersed in a stream of blood”, where Lecky writes “often”, and his 25 millions is a quarter of his own base of 105 millions, not a separate “very moderate computation”.</p>
 ---
 <section id="death-toll" class="passage">
 <h2>The Black Death’s Toll (p. 30)</h2>
@@ -64,3 +64,7 @@ abstract: |
 </table>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s account of the fourteenth-century background of witch-persecution leans on Hecker for the Black Death (“twenty-five millions, or a fourth part of the inhabitants of Europe”) and for the dancing manias that followed it. All three notes can be checked in the English translation.</p><p>The total is Hecker’s own, but Lecky changes its basis: Hecker takes a fourth part of the population (which he reckons at about 105 millions, on a modern figure of 210 millions) and gets 25 millions; he does not say the number is “very moderate”. Lecky’s note 60 puts the pointed shoes in the account of the plague: in Hecker they are the aversion of the dancers, which Hecker himself puts down to priests’ sermons against fashion. See <a href="#comparison">the comparison</a>.</p>
+</details>

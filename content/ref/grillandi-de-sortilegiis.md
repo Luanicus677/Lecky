@@ -2,7 +2,7 @@
 title: Grillandus, De Sortilegiis
 description: Paolo Grillandi’s treatise on sorcery (1530s), the passage Lecky quotes on the poverty of sorcerers, with Latin text, translation, and a comparison of editions.
 heading: Grillandus, <em>De Sortilegiis</em>
-subtitle: "An Italian judge’s casebook of sorcery trials"
+subtitle: "A judge on why sorcerers stay poor"
 back_link:
   url: index.html
   text: Sources
@@ -13,7 +13,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn1\">Rationalism in Europe, ch. I, note 1</a> (Quaestio III) and <a href=\"../rationalism/vol1-ch1.html#fn71\">note 71</a> (the passage on physicians, from the <em>Malleus</em> collection)"]
   - ["Status", "Two passages transcribed and translated: Quaestio III, §12, and the passage on sorcerers and physicians from the Lyon 1620 reprint (pp. 393–394). Translations are this edition’s own drafts."]
 abstract: |
-  <p>A handbook on sorcery by a papal judge who tried sorcery cases in and around Rome from 1517. Lecky’s “cap. iii.” is the third <em>quaestio</em>, on the “profession” sorcerers make to the Devil. In §12, Grillandi argues that demons cannot really give treasure to their followers: if they could, sorcerers would be richer than Christians, and in fact they are poorer, filthier, and viler than everyone else. Lecky quotes the end of that argument as evidence that witches were overwhelmingly poor.</p><p>Lecky’s Latin does not match either edition checked here. He adds a word, and has the sorcerers “lose the true God” where the 1592 text has them simply “perish at last”. See <a href="#lecky-quotation">the comparison below</a>.</p>
+  <p>Lecky quotes Grillandi as saying sorcerers are ‘poorer, more squalid, and viler’ than the rest of Christ’s faithful, but the Latin he prints is not found in either edition checked here. He adds ‘and more contemptible’, and where the 1592 text has the sorcerers ‘perish at last’, Lecky has them ‘lose the true God’. Grillandi, a papal judge in sorcery trials from 1517, was arguing that demons cannot give real treasure, since treasure-hunters find ‘nothing but earth’.</p>
 ---
 <section id="q3-12" class="passage">
 <h2>Quaestio III, §12: Treasure-Hunting by Demonic Arts</h2>
@@ -129,3 +129,7 @@ abstract: |
 
 <p>Two cautions. First, the 1620 vol. II is in two parts with separate pagination, so “vol. ii. p. 77” is ambiguous on its face: Gerson’s tract begins at p. 77 of part 1, while part 2 also has a p. 77 (in Laurentius Ananias, <em>De natura daemonum</em>). The Grillandus pages are in part 2; the Gerson and Spina pages are in part 1. Second, the copies online are Google Books scans, with poor OCR and some duplicated pages; the references above were located by reading the page images, not the text layer.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>A handbook on sorcery by a papal judge who tried sorcery cases in and around Rome from 1517. Lecky’s “cap. iii.” is the third <em>quaestio</em>, on the “profession” sorcerers make to the Devil. In §12, Grillandi argues that demons cannot really give treasure to their followers: if they could, sorcerers would be richer than Christians, and in fact they are poorer, filthier, and viler than everyone else. Lecky quotes the end of that argument as evidence that witches were overwhelmingly poor.</p><p>Lecky’s Latin does not match either edition checked here. He adds a word, and has the sorcerers “lose the true God” where the 1592 text has them simply “perish at last”. See <a href="#lecky-quotation">the comparison below</a>.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Sá, Aphorismi confessariorum
 description: "Manuel Sá’s entry “Tyrannus” in his Aphorisms for Confessors (1599 printing), quoted by Lecky in Chapter V, note 66. The Latin is verbatim."
 heading: Sá, <em>Aphorismi confessariorum</em>
-subtitle: "The entry “Tyrannus”"
+subtitle: "Lecky quotes Sá word for word on tyrants"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn66\">Rationalism, ch. V, note 66</a>."]
   - ["Status", "The entire entry (two aphorisms) transcribed from the image, translated and collated."]
 abstract: |
-  <p>Lecky quotes Sá for the view that a nation may depose a lawful tyrant, even one to whom it swore perpetual obedience, and that anyone of the people may kill a usurping tyrant if there is no other remedy. The quotation is word for word what the 1599 printing has. In this printing Sá’s entry is short and unqualified, unlike Molina’s <a href="molina-de-iustitia-et-iure.html">longer discussion</a>.</p>
+  <p>“Anyone of the people may kill” one who seizes power tyrannically if there is no other remedy. That blunt line is word for word what Lecky quotes from Sá’s short entry “Tyrannus” in the 1599 printing, and Sá also allows a people to depose a lawful tyrant they swore perpetual obedience to if warned he will not amend. Lecky groups Sá with Molina as speaking with “still greater emphasis” than Toletus, but on these pages Molina is hedged with exceptions.</p>
 ---
 <section id="tyrannus" class="passage">
 <h2>“Tyrannus” (p. 308)</h2>
@@ -37,3 +37,7 @@ abstract: |
 </div>
 <p>Lecky’s remark that Sá and Molina “expressed the same opinion with still greater emphasis” than Toletus (see the <a href="toletus-instructio-sacerdotum.html">Toletus page</a>) is not borne out on these pages for Molina, whose treatment is hedged with exceptions. Sá’s own entry, taken alone, is blunt: “quisque de populo potest occidere”.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Sá for the view that a nation may depose a lawful tyrant, even one to whom it swore perpetual obedience, and that anyone of the people may kill a usurping tyrant if there is no other remedy. The quotation is word for word what the 1599 printing has. In this printing Sá’s entry is short and unqualified, unlike Molina’s <a href="molina-de-iustitia-et-iure.html">longer discussion</a>.</p>
+</details>

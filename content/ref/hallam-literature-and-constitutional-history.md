@@ -2,7 +2,7 @@
 title: Hallam, Literature of Europe and Constitutional History
 description: "Four passages of Henry Hallam that Lecky quotes or cites: the “simple proposition” that heretics should not be burned and “Persecution is the deadly original sin of the reformed churches” (Chapter IV Part II, note 74), the Fathers’ belief in the corporeity of the soul (Chapter III, note 164), and Mariana’s “eternal glory of France” (Chapter V, note 50)."
 heading: Hallam, <em>Literature of Europe</em> and <em>Constitutional History</em>
-subtitle: "Persecution and toleration in the sixteenth century"
+subtitle: "How Lecky quotes Hallam on persecution"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn74\">Rationalism, ch. IV (continued), note 74</a> and <a href=\"../rationalism/vol1-ch3.html#fn164\">ch. III, note 164</a> and <a href=\"../rationalism/vol2-ch5.html#fn50\">ch. V, note 50</a>."]
   - ["Status", "The first sentence read on a page image, the second in the Gutenberg text. Lecky’s other Hallam citations (notes 45, 46, 61, 64) are not checked."]
 abstract: |
-  <p>Lecky’s two quotations are accurate, with small changes. In the first, Hallam writes “ought not to be burned alive, or otherwise put to death”, and “Thus, at the end of the sixteenth century”; Lecky has “should not be burned alive or otherwise put to death” and drops “Thus”. In the second, the changes are punctuation only. The context matters: Hallam is speaking of the 1590s (the first sentence follows his notice of Koornhert, who wrote against the death penalty for heresy) and of the Reformation period generally (the second).</p>
+  <p>Hallam wrote that men holding heterodox opinions ‘ought not to be burned alive, or otherwise put to death’; Lecky quotes him as ‘should not be burned alive or otherwise put to death’ and drops the opening ‘Thus’. Hallam was writing about the end of the sixteenth century, just after his notice of Koornhert, who wrote against the death penalty for heresy. His other saying, that ‘Persecution is the deadly original sin of the reformed churches’, is quoted by Lecky with only punctuation and capitalisation changed.</p>
 ---
 <section id="glanvil-scepsis" class="passage">
 <h2>Glanvill’s <em>Vanity of Dogmatizing</em> (Literature of Europe, ch. III § 97)</h2>
@@ -61,3 +61,7 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. V, note 50): “P. 69. Mr. Hallam observes that the words ‘æternum Galliæ decus’ were omitted in the later editions, which, however, in other respects scarcely differed from the first. (<em>Hist. of Lit.</em>)” Accurate; Lecky’s “P. 69” is the page of Mariana’s <em>De rege</em> (see the <a href="mariana-de-rege.html">Mariana page</a>). Hallam’s volume and page are not given by Lecky.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s two quotations are accurate, with small changes. In the first, Hallam writes “ought not to be burned alive, or otherwise put to death”, and “Thus, at the end of the sixteenth century”; Lecky has “should not be burned alive or otherwise put to death” and drops “Thus”. In the second, the changes are punctuation only. The context matters: Hallam is speaking of the 1590s (the first sentence follows his notice of Koornhert, who wrote against the death penalty for heresy) and of the Reformation period generally (the second).</p>
+</details>

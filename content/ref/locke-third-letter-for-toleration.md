@@ -2,7 +2,7 @@
 title: Locke, A Third Letter for Toleration
 description: "John Locke’s Third Letter for Toleration (1692), p. 269: the passage on miracles delivered by Church historians, “no farther than the Apostles time, or else not to stop at Constantine’s”, which Lecky quotes in Chapter II, note 9 (and the main text above it)."
 heading: Locke, <em>A Third Letter for Toleration</em>
-subtitle: "Miracles and the Church historians (p. 269)"
+subtitle: "Lecky quotes Locke correctly on miracles after Constantine"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn9\">Rationalism, ch. II, note 9</a>."]
   - ["Status", "One page read on the image; the quotation collated."]
 abstract: |
-  <p>Lecky’s quotation is accurate: “This, I think, is evident, that he who will build his faith or reasonings upon miracles delivered by Church historians, will find cause to go no further than the Apostles’ time, or else not to stop at Constantine’s, since the writers after that period, whose word we readily take as unquestionable in other things, speak of miracles in their time with no less assurance than the Fathers before the fourth century; and a great part of the miracles of the second and third centuries stand upon the credit of the writers of the fourth.” The page shows the argument in context: Locke is replying to Proast’s claim (the “Oxford argument” of Lecky’s text) that miracles continued only to supply the want of the magistrate’s assistance, and says that the same Fathers, Athanasius, Chrysostom, Palladius, Rufinus, Jerome and Augustine, report miracles after Constantine.</p>
+  <p>Lecky gets Locke word for word, apart from modern spelling and capitals. The p. 269 passage warns that anyone who trusts ‘miracles delivered by Church historians’ must either stop with the Apostles’ time or carry on past Constantine’s, since later writers report miracles ‘with no less assurance’. In context Locke is answering Proast, who said miracles supplied ‘the want of the magistrate’s assistance’.</p>
 ---
 <section id="church-historians" class="passage">
 <h2>“Miracles delivered by Church-Historians” (p. 269)</h2>
@@ -22,3 +22,7 @@ abstract: |
 </blockquote>
 <p>Collation with Lecky (ch. II, note 9): “Apostles’ time” for “Apostles time”, “Constantine’s” followed by a comma for a colon, “fourth century” for “4th Century”, and modern spelling and capitals; otherwise identical. Lecky’s “in reply to the Oxford argument” is a fair reading of the context (Locke is answering Proast, of Oxford).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s quotation is accurate: “This, I think, is evident, that he who will build his faith or reasonings upon miracles delivered by Church historians, will find cause to go no further than the Apostles’ time, or else not to stop at Constantine’s, since the writers after that period, whose word we readily take as unquestionable in other things, speak of miracles in their time with no less assurance than the Fathers before the fourth century; and a great part of the miracles of the second and third centuries stand upon the credit of the writers of the fourth.” The page shows the argument in context: Locke is replying to Proast’s claim (the “Oxford argument” of Lecky’s text) that miracles continued only to supply the want of the magistrate’s assistance, and says that the same Fathers, Athanasius, Chrysostom, Palladius, Rufinus, Jerome and Augustine, report miracles after Constantine.</p>
+</details>

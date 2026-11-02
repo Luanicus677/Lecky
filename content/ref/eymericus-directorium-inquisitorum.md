@@ -2,7 +2,7 @@
 title: Eymericus, Directorium inquisitorum
 description: "Nicolau Eymeric’s Directorium inquisitorum (with Francisco Peña’s commentary): the Barcelona burning anecdote (note 40), the rule on continuing torture (note 41) and the sentence on the relapsed heretic (note 42), from a sixteenth-century printing. Lecky’s Latin is accurate but cuts the end of the anecdote."
 heading: Eymericus, <em>Directorium inquisitorum</em>
-subtitle: Three passages from Part III
+subtitle: "Lecky cuts the sequel to the Barcelona burning"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn40\">Rationalism, ch. IV (continued), notes 40</a>, <a href=\"../rationalism/vol2-ch4.html#fn41\">41</a> and <a href=\"../rationalism/vol2-ch4.html#fn42\">42</a>."]
   - ["Status", "Three passages transcribed from the page images, translated and collated. The torture clause Lecky quotes in note 41 is transcribed from the appendix (p. 50); his attribution of it to Innocent IV is not checked."]
 abstract: |
-  <p>The three quotations are Eymericus’s own words (with the commentary by Peña around them), and Lecky’s Latin matches closely. One omission is important: the Barcelona anecdote in note 40, which Lecky ends with “verum si bene vel male, nescio”, goes on to say that the priest who was pulled from the fire and abjured was accused fourteen years later, found to have stayed in heresy and to have infected many, and was burned after all as a relapsed heretic. Lecky’s “edifying anecdote” is therefore less pointless than it seems: Eymericus is arguing that a sudden repentance under the flames can be insincere.</p>
+  <p>The priest taken out of the fire at Barcelona, after being ‘already somewhat scorched on one side’, was accused fourteen years later, found to have ‘remained continually in heresy’ and to have ‘infected many’, and was burned as a relapsed heretic. Lecky ends his quotation at ‘whether well or ill, I do not know’ and omits this sequel. Eymeric keeps it to show that sudden repentance under the flames can be insincere, while his other passages on continuing torture and on the relapsed heretic match Lecky’s Latin closely.</p>
 ---
 <section id="barchinon" class="passage">
 <h2>The priest in the flames (Part III, p. 516)</h2>
@@ -74,3 +74,7 @@ abstract: |
 </div>
 <p>Lecky’s note 42 gives this accurately (“Tu in reprobum sensum datus … resilire”, from “sed tu”), with a reference to p. 337 of his edition. Lecky calls it “part of the sentence pronounced upon the relapsed heretic”; the page shows it is in Eymericus’s form for a relapsed heretic, and I did not check this reading against the whole form.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>The three quotations are Eymericus’s own words (with the commentary by Peña around them), and Lecky’s Latin matches closely. One omission is important: the Barcelona anecdote in note 40, which Lecky ends with “verum si bene vel male, nescio”, goes on to say that the priest who was pulled from the fire and abjured was accused fourteen years later, found to have stayed in heresy and to have infected many, and was burned after all as a relapsed heretic. Lecky’s “edifying anecdote” is therefore less pointless than it seems: Eymericus is arguing that a sudden repentance under the flames can be insincere.</p>
+</details>

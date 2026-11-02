@@ -2,7 +2,7 @@
 title: Augustine, De Civitate Dei
 description: "Three passages of Augustine’s City of God that Lecky cites (the incubi, XV.23, Chapter I note 21; the miracles at the shrine of St. Stephen at Hippo and Calama, XXII.8, Chapter II note 15; and the judge who tortures the innocent, XIX.6, Chapter III note 161), in Latin and English from Migne, with Lecky’s statements compared."
 heading: Augustine, <em>De civitate Dei</em>
-subtitle: Augustine of Hippo, <em>The City of God</em>
+subtitle: "Seventy reports, not miracles, and a town, not a province"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn15\">Rationalism, ch. II, note 15</a> (the miracles) and <a href=\"../rationalism/vol1-ch3.html#fn161\">ch. III, note 161</a> (torture). <a href=\"../rationalism/vol1-ch1.html#fn21\">Ch. I, note 21</a> (XV.23). <a href=\"../rationalism/vol1-ch3.html#fn8\">Ch. III, note 8</a> (XXI.4) and <a href=\"../rationalism/vol1-ch3.html#fn14\">note 14</a> (XVIII.23). Lecky also cites the same work in ch. III note 139 (not covered here)."]
   - ["Status", "Five passages transcribed from the page images, translated, and compared with Lecky. In the miracles passage I read only the page that carries the figures Lecky cites (cols. 767–768), not the whole chapter."]
 abstract: |
-  <p>Lecky uses the <em>City of God</em> twice here. In Chapter II he says Augustine reports that “in the space of two years” seventy miracles were wrought at the shrine of St. Stephen in Hippo, a far larger number in the neighbouring Calama, and that among the miracles he lists are “five cases of restoration of life to the dead” (XXII.8). In Chapter III he quotes Augustine’s account of the judge who tortures an innocent man in his ignorance (XIX.6), saying Augustine saw the evil of torture but “concluded that it was necessary”.</p><p>Both statements are accurate in substance. The five restorations are all on one page (cols. 767–768, §§ 15–19). But Augustine says that about seventy written <em>reports</em> (<em>libelli</em>) had been handed in at Hippo in less than two years, not “seventy miracles”, and that many more miracles had been wrought without any report being handed in; and Lecky’s “province of Calama” is a town (a <em>colonia</em>). See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky says Augustine reports seventy miracles in two years at the shrine of St Stephen at Hippo, but Augustine says nearly seventy written reports had been handed in in less than two years, with many more miracles left unreported. Lecky’s “province of Calama” is in Augustine a colonia, a town. Lecky’s five cases of the dead restored to life and his judge who tortures the innocent are accurate in substance.</p>
 ---
 <section id="stephen-767" class="passage">
 <h2>XXII.8: The Miracles of St. Stephen (cols. 767–768)</h2>
@@ -128,3 +128,7 @@ abstract: |
 </div>
 <p>Augustine introduces the acrostic with the story that the proconsul Flaccianus produced a Greek codex of verses of the Erythraean Sibyl in which the initial letters of the verses spell the five words; he then gives the twenty-seven Latin verses (“Judicii signum, tellus sudore madescet …”), of which the first letters, with Υ in the places where no Latin letter would do, were meant to reproduce the Greek. Lecky’s note (ch. III, note 14): “Ἰχθύς. Ἰησοῦς Χριστὸς Θεοῦ υἱὸς Σωτήρ. The initial letters of the prophetic verses of the Sibyl of Erythra (St. Aug. <em>De Civ. Dei</em>, lib. xviii. cap. 20).” The acrostic is correct, but in Migne the passage is chapter <strong>23</strong> of book XVIII (cap. 20 is not the Sibyl); I did not check whether another edition numbers it 20. Lecky’s sentence that “the dolphin was especially selected because of its tenderness to its young” is not Augustine’s.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky uses the <em>City of God</em> twice here. In Chapter II he says Augustine reports that “in the space of two years” seventy miracles were wrought at the shrine of St. Stephen in Hippo, a far larger number in the neighbouring Calama, and that among the miracles he lists are “five cases of restoration of life to the dead” (XXII.8). In Chapter III he quotes Augustine’s account of the judge who tortures an innocent man in his ignorance (XIX.6), saying Augustine saw the evil of torture but “concluded that it was necessary”.</p><p>Both statements are accurate in substance. The five restorations are all on one page (cols. 767–768, §§ 15–19). But Augustine says that about seventy written <em>reports</em> (<em>libelli</em>) had been handed in at Hippo in less than two years, not “seventy miracles”, and that many more miracles had been wrought without any report being handed in; and Lecky’s “province of Calama” is a town (a <em>colonia</em>). See <a href="#comparison">the comparison</a>.</p>
+</details>

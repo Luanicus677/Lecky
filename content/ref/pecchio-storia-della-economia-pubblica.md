@@ -2,7 +2,7 @@
 title: Pecchio, Storia della economia pubblica in Italia
 description: "Giuseppe Pecchio’s history of Italian economic writers (Lugano, 1849 printing), p. 11 of the Introduction: Amalfi and the maritime code called the Tavola Amalfitana, cited in Chapter VI, note 90. The page does not say what Lecky’s sentence says."
 heading: Pecchio, <em>Storia della economia pubblica in Italia</em>
-subtitle: "Amalfi and the maritime code (Introduction, p. 11)"
+subtitle: "No manuscript of Roman laws on this page"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn90\">Rationalism, ch. VI, note 90</a>."]
   - ["Status", "One page transcribed from the image and compared with Lecky’s sentence. A keyword search of the scan’s OCR for “Amalfi” and “Pandette” found Amalfi on pp. 10–11 (commerce, the Tavola, the compass) and on a later page (Gioia, the compass); the only “Pandette” hit is a note on Roman law and the value of money (Carli), unrelated. Only p. 11 was read on the image"]
 abstract: |
-  <p>Lecky writes: “The accidental discovery at Amalphi of a manuscript of Roman laws is said to have produced the navigation laws”, and cites Pecchio, p. 11. What Pecchio says on that page is different: that Pisa, Barcelona or (more probably, from the name) Amalfi was the first to introduce the maritime code known as the Tavola Amalfitana, which became the code of seafarers, and that some ascribe the invention of the compass to Amalfi. The page says nothing about a manuscript of Roman laws or about an accidental discovery. The story of the Pandects found at Amalfi is a different, older tradition; I have not found it in a keyword search of the OCR, and so Lecky’s note does not support the sentence it is attached to, at least in this printing.</p>
+  <p>Pecchio never mentions an accidental find of Roman laws on the page Lecky cites. Lecky writes that “The accidental discovery at Amalphi of a manuscript of Roman laws is said to have produced the navigation laws” and gives Pecchio, p. 11. What Pecchio actually says there is that Pisa, Barcelona or, more probably from the name, Amalfi first introduced the maritime code called the Tavola Amalfitana, which became the code of seafarers, while some credit Amalfi with the compass.</p>
 ---
 <section id="tavola-amalfitana" class="passage">
 <h2>The Tavola Amalfitana (Introduction, p. 11)</h2>
@@ -27,3 +27,7 @@ abstract: |
 </div>
 <p>Lecky’s sentence has no “accidental discovery” and no “manuscript of Roman laws” in this passage. It is possible that Lecky draws on another page of Pecchio or on another work and has cited the wrong page; I did not find it in a search of Pecchio’s text for “Pandette”. The footnote is left as printed.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky writes: “The accidental discovery at Amalphi of a manuscript of Roman laws is said to have produced the navigation laws”, and cites Pecchio, p. 11. What Pecchio says on that page is different: that Pisa, Barcelona or (more probably, from the name) Amalfi was the first to introduce the maritime code known as the Tavola Amalfitana, which became the code of seafarers, and that some ascribe the invention of the compass to Amalfi. The page says nothing about a manuscript of Roman laws or about an accidental discovery. The story of the Pandects found at Amalfi is a different, older tradition; I have not found it in a keyword search of the OCR, and so Lecky’s note does not support the sentence it is attached to, at least in this printing.</p>
+</details>

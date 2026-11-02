@@ -2,7 +2,7 @@
 title: Bayle, Commentaire philosophique
 description: "Pierre Bayle’s Commentaire philosophique sur ces paroles de Jésus-Christ, Contrain-les d’entrer (1686): the false title page Lecky describes in Chapter IV, note 76, and the opening of Part II, chapter IV (p. 295), the chapter Lecky cites in note 7 on the Mosaic law of idolatry."
 heading: Bayle, <em>Commentaire philosophique</em>
-subtitle: "Bayle’s case for toleration: no reading of Scripture can command cruelty"
+subtitle: "Bayle answers the Mosaic law objection to toleration"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn7\">Rationalism, ch. IV (continued), note 7</a> and <a href=\"../rationalism/vol2-ch4.html#fn76\">note 76</a>."]
   - ["Status", "The title page, two pages of Part I chapter I (Lecky’s note 78) and the first page of Part II chapter IV read on images. I did not read the rest of the chapter, so I cannot say what it says about the effect of the Mosaic law on Christian persecution beyond what its heading announces."]
 abstract: |
-  <p>Lecky’s note 76 gives the false imprint accurately in substance: “Traduit de l’Anglois du Sieur Jean Fox de Bruggs, par M. J. F.”, “À Cantorbery, chez Thomas Litwel”. On the title page of the first edition it reads “Traduit de l’Anglois du Sieur Jean Fox de Bruggs par M. J. F.” and “A Cantorbery. Chez Thomas Litwel. 1686”, with the full title “Commentaire philosophique sur ces paroles de Jésus-Christ <em>Contrain-les d’entrer</em>”. Lecky’s “k Cantorberry” has a misprinted “à” and an extra “r” in “Cantorbery”.</p>
-  <p>Note 7 refers to “pt. ii. ch. iv.”; in this edition, Part II chapter IV (p. 295) is headed “Quatrième objection; on ne peut condamner le sens littéral de ces paroles <em>Contrain-les d’entrer</em>, sans condamner en même temps les loix que Dieu a établies parmi les Juifs, et la conduite que les Prophètes ont quelquefois tenue. Disparité et raisons particulières pour l’ancienne loi qui n’ont point lieu sous l’Évangile”, which is Bayle’s answer to the argument from the law of Moses.</p>
+  <p>Bayle presents the Mosaic laws in Part II chapter IV as a “Fourth objection” to be answered, not as the cause of persecution. Lecky cites that chapter in note 7 for the influence of the Levitical penalty for idolatry on Christian persecution, though only its heading and opening were read. The 1686 title page gives the fictitious “À Cantorbery, chez Thomas Litwel” imprint and spells “Jésus-Chrit” and “Contrain-les d’entrer”.</p>
 ---
 <section id="title-page" class="passage">
 <h2>The false title page (1686)</h2>
@@ -61,3 +60,8 @@ abstract: |
 </div>
 <p>This is the chapter Lecky cites in note 7 for “the influence of this command [the Levitical penalty for idolatry] on Christian persecution”. The heading shows that Bayle treats the Mosaic laws as an objection to be answered, not as the cause of persecution; whether the chapter also says that Christians were led by them to persecute I have not read.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s note 76 gives the false imprint accurately in substance: “Traduit de l’Anglois du Sieur Jean Fox de Bruggs, par M. J. F.”, “À Cantorbery, chez Thomas Litwel”. On the title page of the first edition it reads “Traduit de l’Anglois du Sieur Jean Fox de Bruggs par M. J. F.” and “A Cantorbery. Chez Thomas Litwel. 1686”, with the full title “Commentaire philosophique sur ces paroles de Jésus-Christ <em>Contrain-les d’entrer</em>”. Lecky’s “k Cantorberry” has a misprinted “à” and an extra “r” in “Cantorbery”.</p>
+<p>Note 7 refers to “pt. ii. ch. iv.”; in this edition, Part II chapter IV (p. 295) is headed “Quatrième objection; on ne peut condamner le sens littéral de ces paroles <em>Contrain-les d’entrer</em>, sans condamner en même temps les loix que Dieu a établies parmi les Juifs, et la conduite que les Prophètes ont quelquefois tenue. Disparité et raisons particulières pour l’ancienne loi qui n’ont point lieu sous l’Évangile”, which is Bayle’s answer to the argument from the law of Moses.</p>
+</details>

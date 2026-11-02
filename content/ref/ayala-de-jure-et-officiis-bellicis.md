@@ -2,7 +2,7 @@
 title: Ayala, De jure et officiis bellicis
 description: "Balthazar Ayala’s 1582 treatise on the law of war: the sentence on killing a usurper that Lecky quotes in Chapter V, note 68, found in the Carnegie Classics reprint of the 1582 text. Lecky’s Latin matches, and Ayala restricts the rule to usurpers, as Lecky says."
 heading: Ayala, <em>De jure et officiis bellicis</em>
-subtitle: "Book I: killing a usurping tyrant"
+subtitle: "Anyone may kill a usurper, not a lawful prince"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn68\">Rationalism, ch. V, note 68</a>."]
   - ["Status", "One passage transcribed from the image, translated and collated. Lecky’s date for the work (“published in 1582”) agrees with the edition."]
 abstract: |
-  <p>Lecky says Ayala “utterly repudiated” the Jesuits’ doctrine of tyrannicide for lawful rulers but “cordially embraced it in the case of usurpers”. The Latin he quotes in note 68 is exact. The sentence immediately after it, which Lecky does not quote, confirms his gloss: for a prince who rules by right of succession or election, even if he acts unjustly and cruelly, killing him is not lawful for a private man.</p>
+  <p>Lecky’s Latin from Ayala is exact. The quoted line says it is lawful for anyone to kill a tyrant who has seized power by force and without right, if the tyranny cannot otherwise be removed. The next clause, which Lecky does not quote, says a private man may not kill a prince by succession or election, however unjustly and cruelly he acts.</p>
 ---
 <section id="usurper" class="passage">
 <h2>A usurper may be killed by anyone (Book I, § 24)</h2>
@@ -35,3 +35,7 @@ abstract: |
 </div>
 <p>Lecky’s sentence is verbatim, with the capital letter and full stop that he adds. In Ayala it is the subordinate clause after “quamvis”; the main clause (“illum tamen … privato non licere”) goes the other way for lawful princes, and the page ends in mid-sentence on “licere”. Lecky’s phrase “though utterly repudiating their doctrine concerning tyrants with a lawful title” is a fair summary of it. His wording “cordially embraced” is his own, since Ayala states the rule in one concessive clause.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says Ayala “utterly repudiated” the Jesuits’ doctrine of tyrannicide for lawful rulers but “cordially embraced it in the case of usurpers”. The Latin he quotes in note 68 is exact. The sentence immediately after it, which Lecky does not quote, confirms his gloss: for a prince who rules by right of succession or election, even if he acts unjustly and cruelly, killing him is not lawful for a private man.</p>
+</details>

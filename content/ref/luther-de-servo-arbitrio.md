@@ -2,7 +2,7 @@
 title: Luther, De Servo Arbitrio
 description: "Two passages of Luther’s De servo arbitrio (1525) that Lecky quotes in Latin in Chapter IV, notes 30 and 31 (the will as a beast ridden by God or Satan, and the ‘highest degree of faith’), from an annotated Latin edition of 1664, with English drafts and a comparison with Lecky’s quotations."
 heading: Luther, <em>De servo arbitrio</em>
-subtitle: Martin Luther, <em>On the Bondage of the Will</em>
+subtitle: "Lecky’s Luther quotes checked against a 1664 edition"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn30\">Rationalism, ch. IV, note 30</a>, <a href=\"../rationalism/vol1-ch4.html#fn31\">31</a> and <a href=\"../rationalism/vol1-ch4.html#fn32\">32</a>."]
   - ["Status", "Two of the three passages Lecky quotes (notes 30 and 31). The third (note 32, “Est itaque … Hoc fulmine sternitur …”) is now transcribed from pp. 32 and 34. Page numbers: n94 = p. 69, n95 = p. 70, n96 = p. 71; n87 = p. 62 (inferred from the constant offset of 25, not read from the page number)."]
 abstract: |
-  <p>In Chapter IV Lecky illustrates the severity of Luther’s predestinarianism with two Latin quotations from <em>De servo arbitrio</em>: the will placed “like a beast” between God and Satan, and the “highest degree of faith”, to believe that God is merciful who saves so few and damns so many.</p><p>Both are in the 1664 text. The first agrees except for an abbreviation Lecky expands; in the second Lecky drops the word “sit”. See <a href="#comparison">the comparison</a>.</p>
+  <p>Luther pictures the human will as “like a beast of burden”: if God has taken his seat on it, it goes where God wills, and if Satan has taken his seat, where Satan wills. Lecky quotes the Latin almost as it stands in the 1664 text, but expands ‘Psal.’ to ‘Psalmus’ and drops the word ‘sit’ from the passage on faith, which leaves his sentence ungrammatical as printed. Neither change alters the sense.</p>
 ---
 <section id="jumentum" class="passage">
 <h2>The Will as a Beast (pp. 69–71)</h2>
@@ -78,3 +78,7 @@ abstract: |
 </div>
 <p>Lecky (note 32): “‘Est itaque et hoc imprimis necessarium et salutare Christiano nosse, quod Deus nihil præscit contingiter, sed quod omnia incommutabilia et æterna, infallibilique voluntate et prævidet et præponit et facit. Hoc fulmine sternitur et conteritur penitus liberum arbitrium.’ (Sec. 10.)” Differences: Lecky’s “contingiter” is not Latin; the 1664 text has “contingenter” (a printer’s slip or a misreading in Lecky’s book); “incommutabilia” for “incommutabili”; “præponit” for “proponit”; “imprimis” for “in primis”; and “liberum arbitrium” expands the edition’s abbreviation “lib. arbit.”. Lecky’s two sentences stand on different parts of the page here (the second after the editor’s note, p. 34), so he is quoting them as one passage from an original in which they are close together. His section number (10) is Vaughan’s, which I have not seen.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In Chapter IV Lecky illustrates the severity of Luther’s predestinarianism with two Latin quotations from <em>De servo arbitrio</em>: the will placed “like a beast” between God and Satan, and the “highest degree of faith”, to believe that God is merciful who saves so few and damns so many.</p><p>Both are in the 1664 text. The first agrees except for an abbreviation Lecky expands; in the second Lecky drops the word “sit”. See <a href="#comparison">the comparison</a>.</p>
+</details>

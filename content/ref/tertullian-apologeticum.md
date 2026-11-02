@@ -2,7 +2,7 @@
 title: Tertullian, Apologeticum
 description: "The passage of Tertullian’s Apology (ch. 45) on Epicurus’s view of pain and the Christians’ fear of an everlasting punishment, which Lecky quotes in Latin in Chapter III, note 136, from Migne’s edition, with an English draft and a word-by-word comparison with Lecky’s quotation."
 heading: Tertullian, <em>Apologeticum</em>
-subtitle: Tertullian, <em>Apology</em>, ch. 45
+subtitle: "What Lecky leaves out of Tertullian on fear"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn136\">Rationalism, ch. III, note 136</a>."]
   - ["Status", "The sentences around Lecky’s quotation, read from the page image and compared with his text."]
 abstract: |
-  <p>In Chapter III Lecky uses Tertullian to show that the early Church taught that the fear of hell was a moral motive of an altogether higher order than any earthly punishment. Note 136 gives, in Latin, a passage of the <em>Apology</em> (c. 45) in which Tertullian says that Epicurus makes light of pain by calling it either small and therefore contemptible, or great and therefore not lasting, while Christians, who live under a God who sees everything and foresee an eternal penalty, rightly fear it.</p><p>Lecky’s Latin is accurate, but he leaves out one clause without a mark, and adds an ellipsis where the original has none. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky leaves out Tertullian’s clause about “the difficulty of hiding-places” without a mark, while adding three dots where Migne has no gap. Tertullian contrasts Epicurus, who calls pain either contemptible or not lasting, with Christians who live under a God who sees everything and foresee an eternal penalty. Lecky ends at “everlasting” and omits the close that they fear God, “not the proconsul”.</p>
 ---
 <section id="apol-45" class="passage">
 <h2>Apology, Chapter 45</h2>
@@ -48,3 +48,7 @@ abstract: |
 
 <p>Differences: (1) the three dots after “diuturnum” mark a gap that is not there in Migne, whose next word is “Enimvero” (an edition with an intervening sentence is possible; I have not checked); (2) “et pro latebrarum difficultate” (“and for the difficulty of hiding-places”) is missing from Lecky’s text without a mark, which makes “plenitudine” and “magnitudine” sit directly together; (3) he ends at “sempiterni”, before the clause that says what the fear is directed at, the God “whom the judge too must fear”, not the proconsul. Spelling and punctuation are otherwise modernised. The sense Lecky wants (a fear of everlasting torment makes Christians the more careful) is plainly in the passage.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In Chapter III Lecky uses Tertullian to show that the early Church taught that the fear of hell was a moral motive of an altogether higher order than any earthly punishment. Note 136 gives, in Latin, a passage of the <em>Apology</em> (c. 45) in which Tertullian says that Epicurus makes light of pain by calling it either small and therefore contemptible, or great and therefore not lasting, while Christians, who live under a God who sees everything and foresee an eternal penalty, rightly fear it.</p><p>Lecky’s Latin is accurate, but he leaves out one clause without a mark, and adds an ellipsis where the original has none. See <a href="#comparison">the comparison</a>.</p>
+</details>

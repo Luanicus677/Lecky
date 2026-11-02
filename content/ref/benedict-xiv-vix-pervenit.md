@@ -2,7 +2,7 @@
 title: Benedict XIV, Vix pervenit
 description: "The encyclical Vix pervenit (1 November 1745) of Benedict XIV on usury, § 3, I–II: the definition of usury and the rule that moderate profit or a rich borrower does not excuse it, quoted by Lecky in Chapter VI, notes 56–57 (through Concina)."
 heading: Benedict XIV, <em>Vix pervenit</em>
-subtitle: "The definition of usury (§ 3, I and II)"
+subtitle: "Any gain beyond the loan is unlawful usury"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn56\">Rationalism, ch. VI, note 56</a> and <a href=\"../rationalism/vol2-ch6.html#fn57\">note 57</a>."]
   - ["Status", "Text compared; no page image seen."]
 abstract: |
-  <p>Lecky’s two Latin quotations are the opening sentences of paragraphs I and II of § 3 of the encyclical, where Benedict XIV reports the unanimous judgement of the theologians he consulted in 1745. Note 56 agrees with the text word for word as far as it goes (it stops at “plus sibi reddi velit quam est receptum”); the OCR of Lecky’s page read “mutui” as “nratui”, corrected in this edition’s transcript. Note 57 differs in one word from the Wikisource text, “poterit” for “potent” (apparently a typo there), and in “impensuras” for “impensurus”. Lecky’s text says the doctrine of the Church is that usury is a sin that “consists of any sum that is exacted beyond what had been lent”, and “that the fact of this interest being moderate, or being exacted only from a rich man, or in order to further a commercial undertaking, in no degree alters its character”: the encyclical says exactly that.</p>
+  <p>Lecky quotes Benedict correctly: any gain beyond what was lent is unlawful usury, even if the gain is small or the borrower is rich. His two Latin extracts are the opening sentences of paragraphs I and II of § 3, where Benedict reports the unanimous judgement of the theologians he consulted in 1745. The first agrees word for word as far as it goes; the second differs by only two words from the Wikisource text.</p>
 ---
 <section id="vix-pervenit-3" class="passage">
 <h2>§ 3, I and II</h2>
@@ -27,3 +27,7 @@ abstract: |
 </div>
 <p>Lecky’s abstract of the doctrine in the text is faithful. Concina’s page (p. 14) is not checked. Lecky’s “Epistola” is the encyclical letter; the date (1745) is not given by Lecky.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s two Latin quotations are the opening sentences of paragraphs I and II of § 3 of the encyclical, where Benedict XIV reports the unanimous judgement of the theologians he consulted in 1745. Note 56 agrees with the text word for word as far as it goes (it stops at “plus sibi reddi velit quam est receptum”); the OCR of Lecky’s page read “mutui” as “nratui”, corrected in this edition’s transcript. Note 57 differs in one word from the Wikisource text, “poterit” for “potent” (apparently a typo there), and in “impensuras” for “impensurus”. Lecky’s text says the doctrine of the Church is that usury is a sin that “consists of any sum that is exacted beyond what had been lent”, and “that the fact of this interest being moderate, or being exacted only from a rich man, or in order to further a commercial undertaking, in no degree alters its character”: the encyclical says exactly that.</p>
+</details>

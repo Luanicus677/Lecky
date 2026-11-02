@@ -2,7 +2,7 @@
 title: Agobard, De Imaginibus
 description: "The passages from the treatise on images ascribed to Agobard of Lyons that Lecky quotes in Latin in Chapter III, notes 42–46 (against calling images holy, against the excuse of honouring the saint, the Alexandrian crosses, King Hezekiah and the bronze serpent, the Devil’s trick, and God’s glory not given to another), from Baluze’s 1666 edition, with English drafts and a comparison with Lecky’s quotations."
 heading: Agobard, <em>Liber de imaginibus</em>
-subtitle: St. Agobard, archbishop of Lyons (d. 840)
+subtitle: "Lecky’s five Agobard quotes checked against Baluze"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn42\">Rationalism, ch. III, notes 42</a>, <a href=\"../rationalism/vol1-ch3.html#fn43\">43</a>, <a href=\"../rationalism/vol1-ch3.html#fn44\">44</a>, <a href=\"../rationalism/vol1-ch3.html#fn45\">45</a> and <a href=\"../rationalism/vol1-ch3.html#fn46\">46</a>."]
   - ["Status", "Six extracts transcribed from the page images and translated. Lecky’s “noble concluding passage on the exclusive worship of Christ” (note 46) and the opening collection of patristic texts are not transcribed. Image numbers and page numbers: p. 244 = n327, p. 247 = n330, p. 248 = n331, p. 254 = n337, p. 264 = n347, p. 267 = n350."]
 abstract: |
-  <p>In Chapter III Lecky devotes a long passage to the treatise against image-worship that he assigns to Agobard of Lyons in the ninth century, calling its author one of the most rationalistic minds of the Middle Ages. His notes 42–46 quote five passages of it in Latin.</p><p>All five are in Baluze’s 1666 edition, and the words agree with Lecky’s except for one letter (“istas” for “istae”), a change of capital letter, and punctuation. He also leaves out some clauses, and in one place stops before the sentence does. The page numbers he gives are for another edition and are ten to thirteen lower than Baluze’s. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky says Agobard described some Alexandrian Christians who let only the cross into their churches, but Agobard’s words say each one painted the cross on “door-posts, entrances, windows, walls and pillars”. The “only” is Lecky’s own inference. All five Latin passages Lecky quotes are otherwise in Baluze’s 1666 edition with the same words, apart from one letter, a capital and punctuation, though Lecky drops some clauses and his page numbers are ten to thirteen lower.</p>
 ---
 <section id="holy-images" class="passage">
 <h2>“Which They Call Holy Images” (p. 244)</h2>
@@ -126,3 +126,7 @@ abstract: |
 
 <p>Points of substance. In note 42, “istas” (accusative) in Lecky for “istae” in the print makes his sentence ungrammatical; it may be a misprint or a different reading in his edition. In note 43, his quotation stops at “est” in the middle of Agobard’s sentence, dropping the clause “quasi pro honore sanctorum” (“as though for the honour of the saints”), which belongs to the argument. In note 45 he says Agobard is “speaking of the conduct of some Alexandrian Christians, who only admitted the sign of the cross into their churches”. Agobard’s text says each Christian painted the cross “on door-posts, entrances, windows, walls and pillars”, not “in churches”; the “only” is Lecky’s inference from the contrast with images of saints. In note 44 the sentence runs on after “adoretur” (“ut aver-”), so Lecky’s full stop closes a sentence that the author does not close there. The words are those of the text in every case; the differences are small and none alters the argument.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In Chapter III Lecky devotes a long passage to the treatise against image-worship that he assigns to Agobard of Lyons in the ninth century, calling its author one of the most rationalistic minds of the Middle Ages. His notes 42–46 quote five passages of it in Latin.</p><p>All five are in Baluze’s 1666 edition, and the words agree with Lecky’s except for one letter (“istas” for “istae”), a change of capital letter, and punctuation. He also leaves out some clauses, and in one place stops before the sentence does. The page numbers he gives are for another edition and are ten to thirteen lower than Baluze’s. See <a href="#comparison">the comparison</a>.</p>
+</details>

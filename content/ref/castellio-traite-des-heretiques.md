@@ -2,7 +2,7 @@
 title: Castellio, Traité des hérétiques
 description: "The French version of the passage from the Bellius preface that Lecky quotes in Latin in Chapter IV Part II, note 69 (“Quis non putet Christum aliquem esse Molochum…”), read in the 1913 Geneva edition of Castellio’s Traité des hérétiques. The Latin original and Lecky’s other Castellio quotation (note 70) were not found."
 heading: Castellio, <em>Traité des hérétiques</em>
-subtitle: "“Qui est-ce qui ne penserait que Christ fût quelque Moloch”"
+subtitle: "Lecky quotes only the first third of the passage"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn69\">Rationalism, ch. IV (continued), note 69</a>."]
   - ["Status", "The French passage transcribed from the page image and translated; it is the passage Lecky gives in Latin, but it is a translation of that Latin and so cannot be a word-for-word collation. <strong>Not found:</strong> the Latin text itself (Gluten 1610, or the 1554 <em>De haereticis</em>), and the Calvin epithets of note 70 (from Castellio’s reply to Calvin)."]
 abstract: |
-  <p>In note 69 Lecky quotes, in Latin, a passage from the preface of “Martin Bellius” (Castellio): who would not think Christ a Moloch if he wants living men burned for him? The Latin I could not find online, but the French translation in Castellio’s own <em>Traité</em> says the same, sentence by sentence. It shows that Lecky’s Latin follows the Bellius text closely and that he has quoted the first third of a longer passage, which goes on with an address to Christ.</p>
+  <p>Lecky’s Latin quotation asking ‘who would not think Christ some Moloch’ matches the French sentence by sentence, though the Latin itself was not found. He quotes only the first third of a longer passage that goes on to ask who would not take Christ for ‘a Satan’ for burning those who invoke his name. The French describes Christians murdering those who confess Christ ‘with fire, water and sword’ and burning them alive ‘more cruelly than in the bull of Phalaris’.</p>
 ---
 <section id="moloch" class="passage">
 <h2>“Qui est-ce qui ne penserait que Christ fût quelque Moloch” (p. 31)</h2>
@@ -37,3 +37,7 @@ abstract: |
 </div>
 <p>The two versions correspond clause for clause: “inter tot controversias” and “qui habent in alios potestatem” are the French “entre tant de controverses” and “ceux qui ont puissance et domination sur les autres”. I take the Latin to be the original and the French Castellio’s own version, but I have not confirmed that from the book; if so, the match lets a reader see that Lecky’s Latin is a faithful quotation, though not checkable word for word. Lecky says the preface is “Martin Bellius’s” in Gluten’s <em>De Hæreticis persequendis</em>, “ed. 1610”; I have not seen that edition.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In note 69 Lecky quotes, in Latin, a passage from the preface of “Martin Bellius” (Castellio): who would not think Christ a Moloch if he wants living men burned for him? The Latin I could not find online, but the French translation in Castellio’s own <em>Traité</em> says the same, sentence by sentence. It shows that Lecky’s Latin follows the Bellius text closely and that he has quoted the first third of a longer passage, which goes on with an address to Christ.</p>
+</details>

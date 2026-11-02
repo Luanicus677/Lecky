@@ -2,7 +2,7 @@
 title: Thiers, Traité des Superstitions
 description: "Jean-Baptiste Thiers’s Traité des superstitions (1679): his roll-call of the popes and councils that condemned magic, including the bulls of Innocent VIII, Leo X and Adrian VI against the sorcerers of Germany and Lombardy, cited by Lecky in Chapter I, note 5."
 heading: Thiers, <em>Traité des Superstitions</em>
-subtitle: "A French priest’s roll-call of the Church’s laws against magic"
+subtitle: "Three papal bulls but no rebellion"
 back_link:
   url: index.html
   text: Sources
@@ -13,7 +13,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn5\">Rationalism, ch. I, note 5</a>; Thiers is also cited in notes <a href=\"../rationalism/vol1-ch1.html#fn3\">3</a>, <a href=\"../rationalism/vol1-ch1.html#fn9\">9</a>, <a href=\"../rationalism/vol1-ch1.html#fn80\">80</a> and others (not yet transcribed)."]
   - ["Status", "Pp. 139–140 read on the page images; the bulls paragraph transcribed in full and translated."]
 abstract: |
-  <p>Thiers wanted to prove that the Church had always condemned magic, so he lined up every pope and council he could find, from a Paris council of 826 (“magic and sorcery are certainly relics of paganism”) to the councils of Milan, Bordeaux, Mexico and Narbonne. In the middle of the list are the three papal bulls that launched the great witch-hunts of Germany and northern Italy. Lecky cites the page for the Italian persecutions; what it does not contain is the “absolute rebellion” against the inquisitors that Lecky mentions in the same note.</p>
+  <p>Thiers never mentions the “absolute rebellion” against the inquisitors that Lecky mentions in the same note; his pages list bulls and councils ordering sorcerers to be punished. He names three bulls: Innocent VIII’s of 1484 against the magicians of Upper Germany, Leo X’s of 1521 against the sorcerers of Brescia and Bergamo, and Adrian VI’s of 20 July 1522 for the Inquisitor of Cremona against the sorcerers in certain districts of Lombardy. Lecky cites Thiers for the north-Italian trials, but the rebellion comes from Madden.</p>
 ---
 <section id="bulls" class="passage">
 <h2>Three popes against the sorcerers (p. 139)</h2>
@@ -50,3 +50,7 @@ abstract: |
 </table>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Thiers wanted to prove that the Church had always condemned magic, so he lined up every pope and council he could find, from a Paris council of 826 (“magic and sorcery are certainly relics of paganism”) to the councils of Milan, Bordeaux, Mexico and Narbonne. In the middle of the list are the three papal bulls that launched the great witch-hunts of Germany and northern Italy. Lecky cites the page for the Italian persecutions; what it does not contain is the “absolute rebellion” against the inquisitors that Lecky mentions in the same note.</p>
+</details>

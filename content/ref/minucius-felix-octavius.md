@@ -2,7 +2,7 @@
 title: Minucius Felix, Octavius
 description: "The passage of Minucius Felix’s Octavius (ch. 35) on the pagan gods swearing by the Stygian flood and the ‘subtle fire’ of hell that feeds on the bodies it burns, which Lecky quotes in Latin in Chapter III, note 139, from an 1853 English edition of the Latin text, with an English draft and a comparison with Lecky’s quotation."
 heading: Minucius Felix, <em>Octavius</em>
-subtitle: Marcus Minucius Felix, <em>Octavius</em>, ch. 35
+subtitle: "The subtle fire that burns and restores"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn139\">Rationalism, ch. III, note 139</a>."]
   - ["Status", "The passage Lecky quotes, read from the page images (the first sentence from the text layer of p. 175, whose Latin I did not view as an image) and compared with his text."]
 abstract: |
-  <p>In Chapter III Lecky quotes, as “a somewhat ferocious passage”, Minucius Felix on the punishments of hell: that the pagan king of the gods himself swears by the burning banks of the Styx, that the fire of hell “subtle” and wise burns and restores the limbs it torments, as lightning and the fires of Etna and Vesuvius touch bodies without consuming them, so that the punishment is fed by the bodies’ unconsumed laceration.</p><p>The Latin is accurate except for the names of the two volcanoes: Lecky’s “Ætnæ et Vesuvii” has dropped the word “montis” after each, and a few words of punctuation differ. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky’s Latin is almost exact: against the 1853 Cambridge text he drops only ‘montis’ after Etna and Vesuvius and alters punctuation, without changing the sense. The passage he calls ‘a somewhat ferocious passage’ makes Jupiter swear by the burning banks of the Styx because he foresees his own punishment with his worshippers. There the ‘subtle’ fire burns and restores the limbs it tears, like lightning and the fires of Etna and Vesuvius that touch without consuming.</p>
 ---
 <section id="oct-35" class="passage">
 <h2>Chapter 35</h2>
@@ -48,3 +48,7 @@ abstract: |
 
 <p>Lecky starts at “ipse rex” (omitting “Et ideo apud eos etiam”), turns two full stops into colons or runs them together, and writes “Ætnæ et Vesuvii” where the edition has “Aetnae montis et Vesui montis” (“Mount Etna and Mount Vesuvius”). The change of “Vesui” to “Vesuvii” is a standard form of the name; “montis” is dropped. None of these changes the sense. His “cap. xxxv.” is right.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In Chapter III Lecky quotes, as “a somewhat ferocious passage”, Minucius Felix on the punishments of hell: that the pagan king of the gods himself swears by the burning banks of the Styx, that the fire of hell “subtle” and wise burns and restores the limbs it torments, as lightning and the fires of Etna and Vesuvius touch bodies without consuming them, so that the punishment is fed by the bodies’ unconsumed laceration.</p><p>The Latin is accurate except for the names of the two volcanoes: Lecky’s “Ætnæ et Vesuvii” has dropped the word “montis” after each, and a few words of punctuation differ. See <a href="#comparison">the comparison</a>.</p>
+</details>

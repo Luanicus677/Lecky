@@ -2,7 +2,7 @@
 title: Tertullian, De Anima
 description: "The sentence of Tertullian’s De anima (ch. 7) on the bodily nature of the soul, with the rich man in Hades, that Lecky quotes in Latin in Chapter III, note 166, from Migne’s edition, with an English draft and a comparison with Lecky’s quotation."
 heading: Tertullian, <em>De anima</em>
-subtitle: Tertullian, <em>On the Soul</em>, ch. 7
+subtitle: "Lecky’s almost exact quote on the bodily soul"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn166\">Rationalism, ch. III, note 166</a>."]
   - ["Status", "The opening sentences of ch. 7, read from the page image and compared with Lecky’s text."]
 abstract: |
-  <p>Lecky argues in Chapter III that the early Fathers thought of the soul as material, and cites Tertullian: “Corporalitas animæ in ipso evangelio relucebit. Dolet apud inferos anima cujusdam, et punitur in flammâ et cruciatur in linguâ et de digito animæ felicioris implorat solatium roris.” These are the first sentences of chapter 7 of <em>De anima</em>, where Tertullian turns from the philosophers to the Christians’ own proof, the story of the rich man and Lazarus (Luke 16).</p><p>Lecky’s Latin is the passage with one word dropped and one added: he omits “quibus” (“to whom”, joining the sentence to the previous one) and has an extra “et” before “punitur”. The sense is unchanged. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky’s quotation is almost exact: set against Migne’s text it drops “quibus” and adds “et” before “punitur”, leaving the sense unchanged. Tertullian is arguing that the soul is corporeal, and takes his proof from the Gospel story of the rich man and Lazarus. The soul of a certain man “grieves in the underworld, is punished in the flame, and is tormented in the tongue, and begs for the solace of a drop of dew from the finger of a happier soul.”</p>
 ---
 <section id="ch7" class="passage">
 <h2>Chapter 7: The Corporeality of the Soul in the Gospel</h2>
@@ -48,3 +48,7 @@ abstract: |
 
 <p>Lecky starts the sentence at “Corporalitas”, omitting the relative “quibus” (so his version reads as an independent statement), and has “et punitur” where Migne has an asyndeton, “punitur”. His “flammâ”, “linguâ” are the ablative circumflexes of older printings. Otherwise the words are identical.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky argues in Chapter III that the early Fathers thought of the soul as material, and cites Tertullian: “Corporalitas animæ in ipso evangelio relucebit. Dolet apud inferos anima cujusdam, et punitur in flammâ et cruciatur in linguâ et de digito animæ felicioris implorat solatium roris.” These are the first sentences of chapter 7 of <em>De anima</em>, where Tertullian turns from the philosophers to the Christians’ own proof, the story of the rich man and Lazarus (Luke 16).</p><p>Lecky’s Latin is the passage with one word dropped and one added: he omits “quibus” (“to whom”, joining the sentence to the previous one) and has an extra “et” before “punitur”. The sense is unchanged. See <a href="#comparison">the comparison</a>.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Hogarth, Memoirs of the Opera
 description: "George Hogarth’s Memoirs of the Opera (1851 printing): Lulli burns his opera to obtain absolution (p. 28) and Politian’s Orfeo as the first musical drama (pp. 7–8), cited in Chapter VI, notes 131 and 148."
 heading: Hogarth, <em>Memoirs of the Opera</em>
-subtitle: "Lulli’s absolution (p. 28) and Politian’s <em>Orfeo</em> (pp. 7–8)"
+subtitle: "Lulli’s absolution and Politian’s Orfeo checked against Hogarth"
 back_link:
   url: index.html
   text: Sources
@@ -12,8 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn131\">Rationalism, ch. VI, note 131</a> and <a href=\"../rationalism/vol2-ch6.html#fn148\">note 148</a>."]
   - ["Status", "Pages 7, 8 and 28 read on the images. Page 6 (cited in note 131 as pp. 6–8) was not read. Hogarth’s sources for the Lulli story are not checked here."]
 abstract: |
-  <p>Note 148 is accurate: on p. 28 Hogarth says Lulli’s confessor refused absolution unless he burned the manuscript of <em>Achille et Polixène</em>; Lulli agreed, and Hogarth adds the sequel (“I have got a copy of it”), which Lecky omits.</p>
-  <p>Note 131 cites Hogarth for the <em>Orfeo</em> of Politian, “the earliest instance of a secular musical drama … acted in the presence of the Cardinal Gonzaga of Mantua”. Hogarth, p. 7, says only that the <em>Orfeo</em> “may be regarded as the lineal progenitor of the Italian opera”, that the piece is in five acts, very short, and “seems intended to have been wholly sung”. The cardinal and Mantua are not on pp. 7–8; presumably the detail is from Roscoe, whom the note also cites.</p>
+  <p>Hogarth reports that after Lulli burnt the manuscript of Achille et Polixène for absolution, he whispered to a young prince, ‘Hush, my lord,’ ‘I have got a copy of it,’ a sequel Lecky omits. Lecky’s account of the burning is otherwise accurate, though his phrase ‘first great musical composer of France’ is his own. On Politian’s Orfeo, Hogarth only suggests it ‘may be regarded as the lineal progenitor of the Italian opera’, and does not mention the Cardinal Gonzaga of Mantua.</p>
 ---
 <section id="lulli-absolution" class="passage">
 <h2>Lulli burns his opera (p. 28)</h2>
@@ -32,3 +31,8 @@ abstract: |
 </blockquote>
 <p>Lecky’s “earliest instance of a secular musical drama” is a stronger statement than Hogarth’s “perhaps … may be regarded as the lineal progenitor”, and the Cardinal Gonzaga of Mantua is not mentioned on these pages.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Note 148 is accurate: on p. 28 Hogarth says Lulli’s confessor refused absolution unless he burned the manuscript of <em>Achille et Polixène</em>; Lulli agreed, and Hogarth adds the sequel (“I have got a copy of it”), which Lecky omits.</p>
+<p>Note 131 cites Hogarth for the <em>Orfeo</em> of Politian, “the earliest instance of a secular musical drama … acted in the presence of the Cardinal Gonzaga of Mantua”. Hogarth, p. 7, says only that the <em>Orfeo</em> “may be regarded as the lineal progenitor of the Italian opera”, that the piece is in five acts, very short, and “seems intended to have been wholly sung”. The cardinal and Mantua are not on pp. 7–8; presumably the detail is from Roscoe, whom the note also cites.</p>
+</details>

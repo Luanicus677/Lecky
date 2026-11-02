@@ -2,7 +2,7 @@
 title: Montaigne, Essais II.12
 description: "The passage in Montaigne’s Apology for Raymond Sebond on how religious opinion about rebellion changes with fortune, quoted by Lecky in Chapter V, note 117, compared with the Courbet–Royer text. Lecky’s French is lightly modernised and reads “imprudence” where this text has “impudence”."
 heading: Montaigne, <em>Essais</em>, II.12
-subtitle: "“Voyez l’horrible impudence…”"
+subtitle: "Lecky cuts Montaigne short and changes a word"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn117\">Rationalism, ch. V, note 117</a>."]
   - ["Status", "One passage transcribed, translated and collated. Lecky’s “imprudence” may reflect the edition he used; I have not seen it."]
 abstract: |
-  <p>Lecky quotes Montaigne’s outcry at how the question “may a subject rebel against his prince for religion?” was answered by each party according to its fortunes. The passage is Montaigne’s, in the long chapter known as the <em>Apologie de Raimond Sebond</em>. Lecky’s French is slightly modernised and differs in one word, <em>imprudence</em> for <em>impudence</em>, and one repeated <em>et</em>.</p>
+  <p>Lecky leaves out Montaigne’s following sentence about burning people who say truth must bear “the yoke of our need”. In what he does quote, from the Apologie de Raimond Sebond on rebellion for religion, he reads “imprudence” where this text has “impudence”. Lecky cites the passage in Chapter V as the ‘keen eye of the great sceptic’ on doctrines changing with each party’s fortunes.</p>
 ---
 <section id="impudence" class="passage">
 <h2>The reversals of religious argument (II.12, p. 179)</h2>
@@ -38,3 +38,7 @@ abstract: |
 </div>
 <p>I cannot say whether “imprudence” is Lecky’s slip or the reading of the edition he used: it is not the reading here. Lecky stops at “celle-là” and omits the next sentence about burning those who say that truth must bear the yoke of our need, which is the sharper part.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Montaigne’s outcry at how the question “may a subject rebel against his prince for religion?” was answered by each party according to its fortunes. The passage is Montaigne’s, in the long chapter known as the <em>Apologie de Raimond Sebond</em>. Lecky’s French is slightly modernised and differs in one word, <em>imprudence</em> for <em>impudence</em>, and one repeated <em>et</em>.</p>
+</details>

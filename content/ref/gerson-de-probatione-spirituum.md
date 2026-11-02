@@ -2,7 +2,7 @@
 title: Gerson, De probatione spirituum and De erroribus
 description: "Two tracts of Jean Gerson printed in the Malleus Maleficarum collection (Lyon 1620): the passage on a devil disguised as Christ (De probatione spirituum), and the passage on the ridicule of theologians who speak of demons (De erroribus circa artem magicam), each with Latin, English, and comparison with Lecky."
 heading: Gerson, <em>De probatione spirituum</em> and <em>De erroribus</em>
-subtitle: "How to tell a true vision from a demon’s, and the errors of the magicians"
+subtitle: "A devil as Christ, and scorn for mockers of theologians"
 back_link:
   url: index.html
   text: Sources
@@ -13,7 +13,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn37\">Rationalism in Europe, ch. I, note 37</a> and <a href=\"../rationalism/vol1-ch1.html#fn82\">note 82</a>"]
   - ["Status", "Two passages transcribed and translated. Translation is this edition’s own draft."]
 abstract: |
-  <p>Gerson’s tract tells how to tell a true vision from a diabolical one. Lecky says only that the devil sometimes appeared “in a still holier form” and cites Gerson for “the appearances of the devil in the form of Christ”. The passage is on p. 77: it gives three short anecdotes of holy men who met a devil disguised as Christ and refused to look.</p><p>Lecky gives only the reference, so this page checks that the reference lands on the right text.</p>
+  <p>When a devil disguised as Christ claimed “I am Christ, visiting you in person, because you are worthy”, Gerson says a holy man shut his eyes with both hands and cried “I do not wish to see Christ here; it is enough if I see him in glory”. Lecky cites the passage only for the devil appearing “in the form of Christ”, and the check finds his reference to vol. ii. p. 77 exact. In the second passage Gerson says those who laugh at theologians for speaking of demons should themselves be laughed at and “severely corrected”, which Lecky renders as “treated with scorn”.</p>
 ---
 <section id="p77" class="passage">
 <h2>P. 77: The Devil Transfigured into Christ</h2>
@@ -100,3 +100,7 @@ abstract: |
 </table>
 </div>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Gerson’s tract tells how to tell a true vision from a diabolical one. Lecky says only that the devil sometimes appeared “in a still holier form” and cites Gerson for “the appearances of the devil in the form of Christ”. The passage is on p. 77: it gives three short anecdotes of holy men who met a devil disguised as Christ and refused to look.</p><p>Lecky gives only the reference, so this page checks that the reference lands on the right text.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Middleton, Free Inquiry
 description: "Four passages from Conyers Middleton’s Free Inquiry into the Miraculous Powers (1749) that Lecky cites in Chapter II: the exorcists (pp. 85–87), the succession of Church-historians (Preface, p. xv), and the “surprizing confidence” of the Fathers (Introductory Discourse, p. lxxxiv), and the “about ninety Heresies” footnote (Introductory Discourse, p. lxxxvi, for Chapter IV), each compared with Lecky’s text."
 heading: Middleton, <em>A Free Inquiry into the Miraculous Powers</em>
-subtitle: Conyers Middleton, 1749
+subtitle: "Middleton’s exorcists and what Lecky altered in quoting him"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn3\">Rationalism, ch. II, note 3</a>, <a href=\"../rationalism/vol1-ch2.html#fn10\">note 10</a>, and <a href=\"../rationalism/vol1-ch2.html#fn11\">note 11</a>. Also <a href=\"../rationalism/vol1-ch4.html#fn25\">ch. IV, note 25</a> (the “ninety heresies”, below) and <a href=\"../rationalism/vol1-ch4.html#fn37\">note 37</a> (which mentions Middleton in general terms only; its Chrysostom clause has <a href=\"chrysostom-de-sacerdotio.html\">its own page</a>)."]
   - ["Status", "Four passages transcribed against the page images, with Lecky’s text compared. No translation is needed: the book is in English."]
 abstract: |
-  <p>Middleton’s 1749 book argued that the miracles the Fathers describe cannot be trusted. Lecky draws on it in Chapter II in three places. The Preface supplies the sentence he quotes about the unanimous testimony of Church historians; the Introductory Discourse supplies the sentence about the Fathers’ “surprizing confidence”; and the discussion of demoniacs supplies, in a note, the evidence that Jewish, pagan and Christian exorcists were all at work.</p><p>Lecky’s two quotations are accurate in substance but not word for word. He modernises the spelling, changes “these powers” to “those powers”, and changes “this fourth age” to “this fourth century”. See <a href="#comparison">the comparison below</a>.</p>
+  <p>Lecky’s two quotations from Middleton are close in sense but not word for word: he modernises the spelling, turns “these powers” into “those powers” and “this fourth age” into “this fourth century”. The Preface supplies the claim about the unanimous testimony of Church historians to a continual succession of powers, while the Introductory Discourse supplies the charge about the “surprizing confidence” of the Fathers. His note on exorcists follows Middleton’s note on pp. 85–87 that Jews, Heathens and Christians all had a set of men called Exorcists, reckoned among the inferior orders by the middle of the third century.</p>
 ---
 <section id="exorcists" class="passage">
 <h2>The Exorcists (pp. 85–87)</h2>
@@ -99,3 +99,7 @@ abstract: |
 
 <p>Lecky’s <a href="../rationalism/vol1-ch2.html#fn3">note 3</a> says there were exorcists among Christians, pagans and Jews, that “they were not regularly formed into an order till the middle of the third century”, and that they “seem to have practised from almost the beginning”, and refers to Middleton, pp. 85–87. The first two statements are Middleton’s own words in the note above. “From almost the beginning” is Lecky’s inference, and is consistent with the second-century testimony of Justin Martyr and Irenaeus that precedes it on pp. 84–85; Middleton does not put it in those terms in the pages I read. Lecky’s “Bingham, <em>Antiquities of the Christian Church</em>, book iii. c. 4” is the same reference Middleton gives (“Antiq. lib. 3. c. 4. § 5”), so Lecky has taken it from him.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Middleton’s 1749 book argued that the miracles the Fathers describe cannot be trusted. Lecky draws on it in Chapter II in three places. The Preface supplies the sentence he quotes about the unanimous testimony of Church historians; the Introductory Discourse supplies the sentence about the Fathers’ “surprizing confidence”; and the discussion of demoniacs supplies, in a note, the evidence that Jewish, pagan and Christian exorcists were all at work.</p><p>Lecky’s two quotations are accurate in substance but not word for word. He modernises the spelling, changes “these powers” to “those powers”, and changes “this fourth age” to “this fourth century”. See <a href="#comparison">the comparison below</a>.</p>
+</details>

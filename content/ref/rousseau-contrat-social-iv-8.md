@@ -2,7 +2,7 @@
 title: Rousseau, Du contrat social IV.8
 description: "Rousseau’s chapter on civil religion (Book IV, ch. 8), the passage on the inseparability of civil and theological intolerance that Lecky quotes in Chapter IV Part II, note 81, compared with a 1903 critical edition."
 heading: Rousseau, <em>Du contrat social</em>, IV.8
-subtitle: "“Les deux intolérances sont inséparables”"
+subtitle: "Why civil and theological intolerance cannot be split"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn81\">Rationalism, ch. IV (continued), note 81</a>."]
   - ["Status", "The passage transcribed from the page images, translated and collated. The edition’s footnotes (including a Geneva-manuscript variant of the “dogme affreux”) are not transcribed."]
 abstract: |
-  <p>Lecky quotes Rousseau’s argument that civil and theological intolerance cannot be separated, and his conclusion that those who say “outside the Church, no salvation” must be driven from the state unless the state is the Church. The quotation is accurate to the sense. Lecky leaves out the middle of the passage (on priests becoming the true masters), and his French has a few differences: older spelling and, in two places, a grammatical slip that may be his edition’s (“tous les religions … leur dogmes”).</p>
+  <p>Rousseau says whoever dares say “outside the Church, no salvation” must be “driven from the State” unless “the State is the Church”. Lecky quotes the passage true to the sense, but he cuts the middle where “the priests are the true masters” and kings are only “their officers”. The cut also drops Rousseau’s point that there can no longer be “an exclusive national religion”, which blurs his modern rule for toleration.</p>
 ---
 <section id="deux-intolerances" class="passage">
 <h2>The two intolerances (pp. 331–333)</h2>
@@ -41,3 +41,7 @@ abstract: |
 </div>
 <p>The differences are probably the edition he used, not slips of Lecky’s; I have not seen it. The omission matters a little: Rousseau’s “Maintenant qu’il n’y a plus … de religion nationale exclusive” is what makes his toleration a modern rule, which Lecky’s run-on version blurs. Lecky’s rendering of the whole as a defence of toleration with one exception is nonetheless fair.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Rousseau’s argument that civil and theological intolerance cannot be separated, and his conclusion that those who say “outside the Church, no salvation” must be driven from the state unless the state is the Church. The quotation is accurate to the sense. Lecky leaves out the middle of the passage (on priests becoming the true masters), and his French has a few differences: older spelling and, in two places, a grammatical slip that may be his edition’s (“tous les religions … leur dogmes”).</p>
+</details>

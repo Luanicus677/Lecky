@@ -2,7 +2,7 @@
 title: Eden, The State of the Poor
 description: "Sir Frederic Eden’s history of the labouring classes in England (1797): the law of the Council of Westminster of 1102 against the slave trade (vol. i, p. 10), English slaves exported to Ireland (p. 7) and Becket labouring in the harvest (p. 50), cited in Chapter VI, notes 11 and 17."
 heading: Eden, <em>The State of the Poor</em>
-subtitle: "Three passages (vol. i pp. 7, 10, 50)"
+subtitle: "Becket’s harvest labour, the 1102 law and Irish slaves"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn11\">Rationalism, ch. VI, note 11</a> and <a href=\"../rationalism/vol2-ch6.html#fn17\">note 17</a>."]
   - ["Status", "Three pages transcribed from the images (dark microfilm scan; the footnote numbers are partly illegible). Eden’s authorities (Eadmer, Giraldus, Hoveden) are not checked."]
 abstract: |
-  <p>The 1102 law, the export of English slaves to Ireland and Becket’s labour are all on the pages Lecky cites or near them. Two points of difference: Eden gives the Becket story in one sentence (“when he visited a monastery in harvest, did not disdain to labour in the fields”), while Lecky’s note says Becket “was in the habit of labouring during harvest time in the fields with the monks at the monasteries which he visited”; and the sale of English slaves to Ireland, which Lecky does not footnote separately, is on p. 7, not on p. 10, the page he cites for the 1102 law. Lecky’s statement about the Irish bishops’ emancipation of English slaves on Strongbow’s invasion is not on these pages.</p>
+  <p>Eden gives the Becket story in one sentence, “when he visited a monastery in harvest, did not disdain to labour in the fields”, while Lecky turns it into a habit, adding “with the monks” and plural “monasteries which he visited”. The 1102 Westminster law against selling “men in market, like brute beasts” is quoted accurately on p. 10. The sale of English slaves to Ireland that glutted the market is on p. 7, not p. 10, and Lecky’s claim about Irish bishops is not on these pages.</p>
 ---
 <section id="council-1102" class="passage">
 <h2>The Council of Westminster, 1102 (vol. i, p. 10)</h2>
@@ -40,3 +40,7 @@ abstract: |
 </blockquote>
 <p>Lecky (note 11): “it is related of no less a person than Becket that he was in the habit of labouring during harvest time in the fields with the monks at the monasteries which he visited.” Eden’s sentence is the basis, but “in the habit of”, “with the monks” and “monasteries” (plural) are Lecky’s additions; Eden gives no source on the page for the Becket story.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>The 1102 law, the export of English slaves to Ireland and Becket’s labour are all on the pages Lecky cites or near them. Two points of difference: Eden gives the Becket story in one sentence (“when he visited a monastery in harvest, did not disdain to labour in the fields”), while Lecky’s note says Becket “was in the habit of labouring during harvest time in the fields with the monks at the monasteries which he visited”; and the sale of English slaves to Ireland, which Lecky does not footnote separately, is on p. 7, not on p. 10, the page he cites for the 1102 law. Lecky’s statement about the Irish bishops’ emancipation of English slaves on Strongbow’s invasion is not on these pages.</p>
+</details>

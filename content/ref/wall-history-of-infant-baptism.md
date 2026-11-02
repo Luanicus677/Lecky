@@ -2,7 +2,7 @@
 title: Wall, History of Infant Baptism
 description: "William Wall’s History of Infant Baptism (Oxford ed., vol. 2, ch. VI): Calvin as the first to deny that John iii. 5 means baptism (p. 180) and Hincmar of Rheims as the first to express a hope for unbaptised infants (p. 211), cited by Lecky in Chapter IV, notes 2 and 13."
 heading: Wall, <em>The History of Infant Baptism</em>
-subtitle: "Calvin on John iii. 5 (vol. 2, p. 180) and Hincmar’s hope (p. 211)"
+subtitle: "Wall’s two firsts, and the hedge Lecky dropped"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn2\">Rationalism, ch. IV, note 2</a> and <a href=\"../rationalism/vol1-ch4.html#fn13\">note 13</a>."]
   - ["Status", "Two pages read on the images. Lecky’s other Wall citations (vol. i pp. 282–283; vol. ii pp. 192–206) are not checked; the “peevishness” anecdote (note 3) was not found."]
 abstract: |
-  <p>Both citations check out. On p. 180 Wall writes that “All the ancient Christians (without the exception of one man) do understand that rule of our Saviour, John iii. 5 … of baptism”, and “I believe Calvin was the first that ever denied this place to mean baptism” (with a reference to Calvin’s <em>Institutes</em> IV. xvi. 25): Lecky’s “according to Wall, Calvin was the very first theologian who denied …” is a fair paraphrase, with Wall’s “I believe” dropped. On p. 211 Wall says he “took some pains” to find who first ventured to express the charitable opinion that unbaptised infants may be saved, after Vincentius’s recantation, and finds “none elder than Hincmarus archbishop of Rheims, anno Dom. 860”, in a letter rebuking Hincmar of Laon (<em>Opusculum</em> 55, c. 48): Lecky’s statement (“he has been unable to discover a single instance … before Hinckmar … in the ninth century”) agrees; Wall’s case is one of a bishop who had excommunicated all his clergy, so that infants could not be baptised.</p>
+  <p>Wall hedges his claim with “I believe Calvin was the first that ever denied” that John iii. 5 means baptism, a caution Lecky drops when he calls Calvin “the very first theologian”. Both of Lecky’s citations check out against Wall’s pages 180 and 211. Wall’s other first, Hincmar of Rheims, offered hope for unbaptised infants only after a bishop had excommunicated all his clergy, leaving nobody to baptise.</p>
 ---
 <section id="calvin-180" class="passage">
 <h2>Calvin the first to deny that John iii. 5 means baptism (vol. 2, p. 180)</h2>
@@ -33,3 +33,7 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. IV, text above note 2): “The learned English historian of Infant Baptism states that, with the exception of a contemporary of St. Augustine named Vincentius, who speedily recanted his opinion as heretical, he has been unable to discover a single instance of an orthodox member of the Church expressing the opposite opinion before Hinckmar, who was Archbishop of Rheims in the ninth century.” Note 2 cites “vol. ii. p. 211”. This is Wall’s own account of his search. The Aquinas sentence in note 2 is not Wall’s.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Both citations check out. On p. 180 Wall writes that “All the ancient Christians (without the exception of one man) do understand that rule of our Saviour, John iii. 5 … of baptism”, and “I believe Calvin was the first that ever denied this place to mean baptism” (with a reference to Calvin’s <em>Institutes</em> IV. xvi. 25): Lecky’s “according to Wall, Calvin was the very first theologian who denied …” is a fair paraphrase, with Wall’s “I believe” dropped. On p. 211 Wall says he “took some pains” to find who first ventured to express the charitable opinion that unbaptised infants may be saved, after Vincentius’s recantation, and finds “none elder than Hincmarus archbishop of Rheims, anno Dom. 860”, in a letter rebuking Hincmar of Laon (<em>Opusculum</em> 55, c. 48): Lecky’s statement (“he has been unable to discover a single instance … before Hinckmar … in the ninth century”) agrees; Wall’s case is one of a bishop who had excommunicated all his clergy, so that infants could not be baptised.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Toletus, Instructio sacerdotum
 description: "Francisco Toledo’s Instruction of Priests (Summa casuum conscientiae), Book V: the passage on two kinds of tyrant that Lecky quotes in Chapter V, note 65, compared with a 1625 printing. Lecky’s Latin is a lightly edited version."
 heading: Toletus, <em>Instructio sacerdotum</em>
-subtitle: "Book V: the two kinds of tyrant"
+subtitle: "A usurper may be killed, a lawful tyrant may not"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn65\">Rationalism, ch. V, note 65</a>."]
   - ["Status", "The passage transcribed from the image, translated and collated. I did not check the chapter number (Lecky’s “c. vi”) on the page."]
 abstract: |
-  <p>Lecky quotes Toletus for a distinction between a tyrant by power and lordship, who has no true title and whom anyone may kill if there is no other way of freeing the state, and a tyrant by administration, who has a true title and whom no one may kill without public authority. The Latin is Toletus’s, with a few small changes in word order and wording (see the table). Lecky’s gloss that Toletus “intimated also” that a nation could depose a lawful sovereign and condemn him is a reading beyond this passage.</p>
+  <p>Toledo says a tyrant by administration with a true title may not be killed “without public authority”, contrary to Lecky’s gloss that Toledo “intimated also” that a nation might depose a lawful sovereign and condemn him to death. Toledo does allow any private man to kill a tyrant by power and lordship with no true title, if the state cannot otherwise be freed and there is probable hope of liberation. Lecky’s Latin is Toledo’s with small changes in wording and word order, and Lecky omits the closing point that the Council of Constance condemnation does not cover the former tyrant.</p>
 ---
 <section id="duplex" class="passage">
 <h2>“Adverte duplicem esse tyrannum” (Book V, § 10)</h2>
@@ -40,3 +40,7 @@ abstract: |
 </div>
 <p>The changes are minor, and several (“spes est libertatis probabilis”, “administrationi”) may come from the edition Lecky used; I have not seen it. What he omits at the end is the point of the passage in its Gallican/Constance context: the Council’s condemnation of tyrannicide does not cover the usurper. Lecky does not mention it, and his statement that Toletus “intimated also, that the nation might depose a lawful sovereign … and condemn him to death” is not in this passage, which says the opposite for the lawful tyrant (no killing without public authority).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Toletus for a distinction between a tyrant by power and lordship, who has no true title and whom anyone may kill if there is no other way of freeing the state, and a tyrant by administration, who has a true title and whom no one may kill without public authority. The Latin is Toletus’s, with a few small changes in word order and wording (see the table). Lecky’s gloss that Toletus “intimated also” that a nation could depose a lawful sovereign and condemn him is a reading beyond this passage.</p>
+</details>

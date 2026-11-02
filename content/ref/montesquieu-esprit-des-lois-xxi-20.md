@@ -2,7 +2,7 @@
 title: Montesquieu, De l’esprit des lois, XXI, 20
 description: "The last sentence of Montesquieu’s book XXI, chapter 20 (“Comment le commerce sortit de l’Europe de la barbarie”): “Ainsi nous devons aux spéculations des scholastiques tous les malheurs qui ont accompagné la destruction du commerce”, quoted by Lecky in Chapter VI, note 39."
 heading: Montesquieu, <em>De l’esprit des lois</em>, XXI, 20
-subtitle: "The scholastics, the Jews and the bill of exchange"
+subtitle: "Lecky’s half sentence on scholastics and princes"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn39\">Rationalism, ch. VI, note 39</a>."]
   - ["Status", "Text compared; no page image seen. Lecky’s Turgot quotation in the same note (Mémoire sur les prêts d’argent, § 14) is on the <a href=\"turgot-memoire-sur-les-prets-dargent.html\">Turgot page</a> only in part."]
 abstract: |
-  <p>Lecky says Montesquieu, speaking of the scholastic writings on usury, “says, with a little exaggeration”: “Ainsi nous devons aux spéculations des scholastiques tous les malheurs qui ont accompagné la destruction du commerce”. The sentence is the end of a chapter on how commerce emerged in the Middle Ages from the violence against the Jews; Montesquieu continues: “& à l’avarice des princes l’établissement d’une chose qui le met en quelque façon hors de leur pouvoir.” Lecky’s “t Ainsi” is a misread opening quotation mark; “speculations” and “accompagne” are the OCR of his note, which lacks the accents.</p>
+  <p>Lecky quotes Montesquieu’s sentence that “we owe to the speculations of the scholastics all the misfortunes that accompanied the destruction of commerce”, but leaves out the second half about “the avarice of princes”. In Montesquieu the sentence ends a chapter on how commerce emerged from violence against the Jews, who “invented bills of exchange” so commerce could “elude violence”. Lecky himself calls the remark “with a little exaggeration”.</p>
 ---
 <section id="xxi-20" class="passage">
 <h2>“Nous devons aux spéculations des scholastiques tous les malheurs …”</h2>
@@ -27,3 +27,7 @@ abstract: |
 </div>
 <p>Lecky’s “with a little exaggeration” is his own comment; Montesquieu’s sentence is part of a passage about the Jews and the bill of exchange, which also bears on Lecky’s <a href="../rationalism/vol2-ch6.html#fn81">note 81</a> (the invention of the letter of exchange).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says Montesquieu, speaking of the scholastic writings on usury, “says, with a little exaggeration”: “Ainsi nous devons aux spéculations des scholastiques tous les malheurs qui ont accompagné la destruction du commerce”. The sentence is the end of a chapter on how commerce emerged in the Middle Ages from the violence against the Jews; Montesquieu continues: “& à l’avarice des princes l’établissement d’une chose qui le met en quelque façon hors de leur pouvoir.” Lecky’s “t Ainsi” is a misread opening quotation mark; “speculations” and “accompagne” are the OCR of his note, which lacks the accents.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Beza, De haereticis a civili magistratu puniendis
 description: "Theodore Beza’s 1554 answer to Castellio and the Bellius pamphlet, quoted by Lecky in Chapter IV Part II, notes 68 and 73. The “gates of hell” sentence and Beza’s quotations from Clebergius are found and compared. The Bellius and Castellio passages themselves (notes 69–70) are not transcribed."
 heading: Beza, <em>De haereticis a civili magistratu puniendis</em>
-subtitle: "Against Martin Bellius (Castellio), 1554"
+subtitle: "Beza’s “gates of hell” answer to Bellius"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn68\">Rationalism, ch. IV (continued), note 68</a> and <a href=\"../rationalism/vol2-ch4.html#fn73\">73</a>."]
   - ["Status", "Three passages transcribed from the page images. <strong>Not done:</strong> the quotations from Bellius in note 69 (Gluten’s collection, 1610) and the epithets Castellio collected from Calvin in note 70 were not found in a scan."]
 abstract: |
-  <p>Lecky says that Beza answered Castellio’s plea for toleration with the cry that the very gates of hell had never breathed out anything more impious. The words are Beza’s, on p. 58. In note 73 Lecky says he has never seen the work of “Clebergius”, whom Beza quotes as saying that religious controversies are not yet settled and that God will love those who defend what they think true in good faith. Beza’s book is where these quotations are, and the two Latin sentences Lecky gives from it are accurate.</p>
+  <p>Beza really did ask what more impious thing the “gates of hell” had ever breathed out, on p. 58, in answer to Bellius. Lecky quotes the outburst almost word for word, but writes “inferiorum” where Beza’s print has “inferorum” and swaps the exclamation mark for a full stop. The passage follows Bellius’s claim that dispute about the Gospel should be left alone, as Lecky says.</p>
 ---
 <section id="portae" class="passage">
 <h2>“Hac impietate quid tandem magis impium” (p. 58)</h2>
@@ -58,3 +58,7 @@ abstract: |
 </div>
 <p>Lecky’s first quotation drops “religionis” and the attribution, and reads “defuisset” where the print has “desiisset” (“would have ceased”; “defuisset” would mean “would have been lacking”). In the second he adds “Deus” to the question and writes “putant” for “putat”. These are small; the sense is unchanged. Lecky says Beza “represents him as objecting absolutely to all forms of persecution” and basing this on “the impossibility of ascertaining certainly religious truths”. The two passages support that, and Beza’s “Minimè verò” shows he rejected the argument.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says that Beza answered Castellio’s plea for toleration with the cry that the very gates of hell had never breathed out anything more impious. The words are Beza’s, on p. 58. In note 73 Lecky says he has never seen the work of “Clebergius”, whom Beza quotes as saying that religious controversies are not yet settled and that God will love those who defend what they think true in good faith. Beza’s book is where these quotations are, and the two Latin sentences Lecky gives from it are accurate.</p>
+</details>

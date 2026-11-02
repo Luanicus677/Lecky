@@ -2,7 +2,7 @@
 title: Spina, Quaestio de Strigibus and Apologia
 description: "Bartolomeo Spina's work on witches (Lyon 1620 reprint): the passages Lecky cites in notes 5, 67 and 84 on the numbers burned at Como, the inquisitors' opponents, and Peter Martyr, with Latin, English, and comparison with Lecky."
 heading: Spina, <em>Quaestio de Strigibus</em> and <em>Apologia</em>
-subtitle: "An inquisitor insists that witches really fly, and answers a sceptic"
+subtitle: "A thousand examined at Como, a hundred burned"
 back_link:
   url: index.html
   text: Sources
@@ -13,7 +13,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn84\">Rationalism in Europe, ch. I, note 84</a>; <a href=\"../rationalism/vol1-ch1.html#fn5\">note 5</a> and <a href=\"../rationalism/vol1-ch1.html#fn67\">note 67</a> (the Como figures and Peter Martyr)"]
   - ["Status", "Four passages transcribed and translated (pp. 191, 193, 278, 299–300). Translation is this edition’s own draft."]
 abstract: |
-  <p>Lecky says that about thirty years after the Cologne doctors of 1487, Spina recorded “a spirit of most acrimonious opposition” to the trials, including “a positive rebellion” in north Italy, and he quotes a lament in English. Note 84 cites “Vol. ii. pp. 191, 299, 300”.</p><p>The lament is on p. 299 and the dangers to the doubters on p. 300; p. 191 supports a different point. Lecky’s figures for Como (notes 5 and 67) are on p. 193 and are overstated against Spina’s own text. No account of a revolt against the inquisitors was found anywhere in the pages Lecky cites; the nearest thing is Spina’s complaint on p. 278 that princes, swayed by sceptics, were denying the inquisitors their help.</p>
+  <p>Spina does not say a thousand persons were executed at Como in a year. He says more than a thousand were “inquired into and examined”, while “more than a hundred” were burned in almost every year; only the marginal note claims a thousand burned. Lecky follows the margin and reports a thousand executed, and no “rebellion” against the inquisitors was found in the pages he cites.</p>
 ---
 <section id="p299" class="passage">
 <h2>Apologia, pp. 299–300: The Doubters, and the Danger to Them</h2>
@@ -137,3 +137,7 @@ abstract: |
 
 <p>Of the two works Lecky cites for the “absolute rebellion” (<em>Quaestio</em> cap. xii and <em>Apologia</em> cap. ix), the first gives the Como figures and the second the Peter Martyr aside, and neither describes a revolt. The other authorities in the same note have now been checked: <a href="madden-phantasmata.html#p305">Madden vol. i. p. 305</a> is Lecky’s source for both the “thousand” and the “rebellion” (a rising of the people of Venice in 1518, which <a href="madden-phantasmata.html#venice-1518">archival sources do not support</a>: it was the Council of Ten that intervened), and <a href="thiers-traite-des-superstitions.html#bulls">Thiers</a> lists only papal bulls.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says that about thirty years after the Cologne doctors of 1487, Spina recorded “a spirit of most acrimonious opposition” to the trials, including “a positive rebellion” in north Italy, and he quotes a lament in English. Note 84 cites “Vol. ii. pp. 191, 299, 300”.</p><p>The lament is on p. 299 and the dangers to the doubters on p. 300; p. 191 supports a different point. Lecky’s figures for Como (notes 5 and 67) are on p. 193 and are overstated against Spina’s own text. No account of a revolt against the inquisitors was found anywhere in the pages Lecky cites; the nearest thing is Spina’s complaint on p. 278 that princes, swayed by sceptics, were denying the inquisitors their help.</p>
+</details>

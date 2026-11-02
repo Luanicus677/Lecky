@@ -2,7 +2,7 @@
 title: Ventura, Le pouvoir politique chrétien
 description: "Father Gioacchino Ventura’s 1857 discourses, the footnote on p. 139 about the religious press in Austria that Lecky quotes in Chapter V, note 28. Lecky’s French is accurate with an omission and one grammatical slip."
 heading: Ventura, <em>Le pouvoir politique chrétien</em>
-subtitle: "The religious press in Catholic Austria (p. 139)"
+subtitle: "One religious journal in Catholic Austria"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn28\">Rationalism, ch. V, note 28</a>."]
   - ["Status", "The footnote transcribed from the page image, translated and compared. The book’s date of delivery (“1857”) is not on the page I read."]
 abstract: |
-  <p>Lecky quotes a footnote in which Ventura complains that the “smallest interests” have many organs in the periodical press, while religion has an almost imperceptible number, only one of 135 journals in Catholic Austria. Lecky leaves out the middle (the objection that other journals are no better) and runs the first two sentences together with a continuation. His French has “l’intérêt publique” where Ventura has “l’intérêt public”, a grammatical slip, probably a misprint.</p>
+  <p>Ventura complains that in Catholic Austria only one of a hundred and thirty-five journals is devoted to Christianity, and even that one leaves much to be desired in the matter of orthodoxy. Lecky quotes the footnote but cuts the middle sentences asking whether political, literary, artistic and commercial journals are beyond reproach. Lecky also writes “l’intérêt publique” where Ventura has “l’intérêt public”, and ends the passage at “Europe” though Ventura continues.</p>
 ---
 <section id="presse" class="passage">
 <h2>The religious press in Austria (footnote, p. 139)</h2>
@@ -38,3 +38,7 @@ abstract: |
 </div>
 <p>Lecky’s sentence ends at “Europe” with a full stop and a capital “Chrétiens”; Ventura continues. In his text Lecky says the passage was written “in 1858, when Austria seemed the centre of religious despotism”; the book is dated 1858 on the archive record, but whether the footnote was written then I did not check.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes a footnote in which Ventura complains that the “smallest interests” have many organs in the periodical press, while religion has an almost imperceptible number, only one of 135 journals in Catholic Austria. Lecky leaves out the middle (the objection that other journals are no better) and runs the first two sentences together with a continuation. His French has “l’intérêt publique” where Ventura has “l’intérêt public”, a grammatical slip, probably a misprint.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Molina, De justitia et jure
 description: "Luis de Molina’s discussion of killing tyrants (De justitia et jure, vol. 4, tract. 3, disp. 6), cited in Chapter V, note 67. Lecky’s Latin is a compressed paraphrase that omits Molina’s qualifications, which are transcribed and translated here."
 heading: Molina, <em>De justitia et jure</em>
-subtitle: "Tract. 3, disputation 6: may a private man kill a tyrant?"
+subtitle: "What Lecky left out of Molina on killing tyrants"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn67\">Rationalism, ch. V, note 67</a>."]
   - ["Status", "The passage (pp. 539–540) transcribed from the image, translated and compared with Lecky. The doctrinal paraphrase in Lecky’s text is not checked against Molina’s other works."]
 abstract: |
-  <p>Lecky quotes Molina in note 67 as teaching that it is wrong for a private man to kill a tyrant of the first kind, but that anyone may lawfully kill a tyrant of the second kind. The Latin he prints is a condensation, not a quotation: it joins phrases from two places on p. 539, supplies “eum”, and leaves out three qualifications. Molina allows killing a usurper only if greater evils to the commonwealth would not follow, and only without a higher authority to appeal to; and his rule about a lawful tyrant lets the state, not an individual, act. Lecky’s sense is fair in the main, but the version he gives is stronger than Molina’s.</p>
+  <p>Lecky’s Latin is not a quotation but a condensation that joins phrases from two places on p. 539 and adds “eum”. Molina says any member of the commonwealth may lawfully kill a usurper, unless greater evils would follow or a higher authority could be asked. Lecky leaves out those limits, the right of self-defence and the condition for deposition, so his version reads stronger than Molina’s.</p>
 ---
 <section id="tyrannus" class="passage">
 <h2>The two kinds of tyrant (p. 539–540)</h2>
@@ -40,3 +40,7 @@ abstract: |
 </div>
 <p>What Lecky leaves out: (1) the right of self-defence against the first kind of tyrant; (2) the condition “si id ita excessus illius, communeque bonum, efflagitarent” for deposition; (3) both exceptions to killing a usurper; and (4) Molina’s later citation of Aquinas and of Caesar’s killing as approved, which is not Lecky’s point. He also writes “licite eum interficere”, where the print has “licitè interficere” without “eum”. In his text Lecky says only that Molina “expressed the same opinion with still greater emphasis” as Sa. On the evidence of this page the emphasis is not greater than Sa’s; I have not read Sa.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Molina in note 67 as teaching that it is wrong for a private man to kill a tyrant of the first kind, but that anyone may lawfully kill a tyrant of the second kind. The Latin he prints is a condensation, not a quotation: it joins phrases from two places on p. 539, supplies “eum”, and leaves out three qualifications. Molina allows killing a usurper only if greater evils to the commonwealth would not follow, and only without a higher authority to appeal to; and his rule about a lawful tyrant lets the state, not an individual, act. Lecky’s sense is fair in the main, but the version he gives is stronger than Molina’s.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Scot, Discovery of Witchcraft
 description: "Pages 11 and 12 of Reginald Scot’s Discovery of Witchcraft (London, 1665 printing), Book II, chapters 1–2, the ‘order of examination’ of witches that Lecky cites in Chapter I, note 66 as a ‘frightful catalogue’ of tortures; Scot is summarising the Malleus and Bodin. It also gives the source of the ‘box in the church’ that Dalyell reports as a Scottish custom."
 heading: Scot, <em>The Discovery of Witchcraft</em>
-subtitle: Reginald Scot, 1584 (1665 printing)
+subtitle: "Not torture, but tricks for examining witches"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn66\">Rationalism, ch. I, note 66</a>. Compare <a href=\"dalyell-darker-superstitions.html#boxes-623\">Dalyell on the box in the church</a>."]
   - ["Status", "The two pages Lecky cites, transcribed from the page images (the prose in full; the marginal notes are given where they bear on the text). Scot’s English summary was not compared with the Malleus or Bodin here, apart from the Bodin passages in the margin."]
 abstract: |
-  <p>In note 66 Lecky cites “Scott’s <em>Discovery of Witchcraft</em> (London, 1665), pp. 11, 12” for “a frightful catalogue of the tortures that were employed” against suspected witches. The two pages are not a catalogue of torture so much as a list of the <em>procedures</em> by which, Scot says, the inquisitors and Bodin recommended that accused witches be examined: infamous persons and children are admitted as witnesses, the accused is surprised and not left alone, her body is shaved, spikes are driven under her nails, and she is frightened by feigned screams or told falsely that her companions have confessed.</p><p>Lecky’s page numbers are right, but his word “tortures” overstates what these pages mainly contain: most of the “Items” are deceptions and legal rules, and only a few are physical. Scot is also reporting what Bodin and the <em>Malleus</em> advise, not what was done in any particular trial. See <a href="#comparison">the comparison</a>.</p>
+  <p>Lecky calls pp. 11–12 a ‘frightful catalogue of the tortures’, but Scot mostly lists tricks and legal rules for examining witches, not physical torment. Scot says infamous witnesses and children may testify, the accused should be taken by surprise, promised impunity, frightened with feigned screams, watched by a planted spy, and told falsely that others have confessed. Only a few ‘Items’ are bodily, such as shaving all hair and thrusting a sharp instrument under the nails, and Scot is reporting what Bodin and the Malleus advise rather than what was done.</p>
 ---
 <section id="scot-11-12" class="passage">
 <h2>Book II, chapters 1–2: “The Order of Examination of Witches by the Inquisitors”</h2>
@@ -62,3 +62,7 @@ abstract: |
 
 <p>The page numbers line up with the 1665 printing because Scot’s book is short, and this is the only printing I have checked; the earlier editions (1584, 1651) probably paginate differently.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>In note 66 Lecky cites “Scott’s <em>Discovery of Witchcraft</em> (London, 1665), pp. 11, 12” for “a frightful catalogue of the tortures that were employed” against suspected witches. The two pages are not a catalogue of torture so much as a list of the <em>procedures</em> by which, Scot says, the inquisitors and Bodin recommended that accused witches be examined: infamous persons and children are admitted as witnesses, the accused is surprised and not left alone, her body is shaved, spikes are driven under her nails, and she is frightened by feigned screams or told falsely that her companions have confessed.</p><p>Lecky’s page numbers are right, but his word “tortures” overstates what these pages mainly contain: most of the “Items” are deceptions and legal rules, and only a few are physical. Scot is also reporting what Bodin and the <em>Malleus</em> advise, not what was done in any particular trial. See <a href="#comparison">the comparison</a>.</p>
+</details>

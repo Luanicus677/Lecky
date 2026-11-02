@@ -2,7 +2,7 @@
 title: Hobbes, Leviathan (Latin), ch. 29
 description: "Hobbes’s Latin Leviathan, chapter 29 (“De iis rebus quæ civitatem labefactant”): his charge that reading the Greek and Roman political authors is a chief cause of rebellion, quoted by Lecky in Chapter V, note 118. Lecky’s Latin is accurate apart from one verb form and his omission of a long stretch."
 heading: Hobbes, <em>Leviathan</em> (Latin version), chapter 29
-subtitle: "Against the reading of the ancient political writers"
+subtitle: "Hobbes says classics teach rebellion in monarchies"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn118\">Rationalism, ch. V, note 118</a>."]
   - ["Status", "The passage transcribed from the page images, translated and collated."]
 abstract: |
-  <p>Lecky says Hobbes expressed “a burst of extreme indignation” at the influence of the classics on the politics of rebellion. The Latin he quotes is Hobbes’s, with one small change (“comparari libet” for Hobbes’s “comparare libet”) and a long cut that Lecky marks with dots. The cut is the argument: young men, not armed with a solid antidote, take the Greek and Roman writers’ glorification of their wars and tyrannicides, and the “democratic” freedom of those states, as models.</p>
+  <p>Hobbes compares the effect of teaching Greek and Roman books to “hydrophobia” caught from “the bite of a rabid dog”. Lecky quotes the Latin accurately apart from changing “comparare libet” to “comparari libet” and cutting, with dots, Hobbes’s middle argument about young men not armed with a solid antidote admiring ancient wars, tyrannicides and “democratic” freedom. Lecky calls the passage “a burst of extreme indignation”, though the Latin reads as a measured argument to restrict such teaching in monarchies unless corrected by wise teachers.</p>
 ---
 <section id="rebellionis-causas" class="passage">
 <h2>“Inter rebellionis causas maximas” (pp. 235–236)</h2>
@@ -37,3 +37,7 @@ abstract: |
 </div>
 <p>Lecky’s “comparari” is probably a misprint or a different reading: <em>comparare</em> (“I like to compare”) is what the edition here prints. He also drops “Seorsum in monarchiis” (“Separately, in monarchies”), which restricts Hobbes’s point to monarchies; Lecky’s “this tendency of the classical writings” still fits. Lecky’s “burst of extreme indignation” is his characterisation; the Latin is a measured argument rather than an outburst.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says Hobbes expressed “a burst of extreme indignation” at the influence of the classics on the politics of rebellion. The Latin he quotes is Hobbes’s, with one small change (“comparari libet” for Hobbes’s “comparare libet”) and a long cut that Lecky marks with dots. The cut is the argument: young men, not armed with a solid antidote, take the Greek and Roman writers’ glorification of their wars and tyrannicides, and the “democratic” freedom of those states, as models.</p>
+</details>

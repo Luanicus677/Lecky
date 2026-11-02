@@ -2,7 +2,7 @@
 title: Mosheim’s note to Cudworth on the Fathers and the soul
 description: "Mosheim’s Latin-notes-in-English on the early Fathers’ belief that the soul is corporeal (in Harrison’s edition of Cudworth’s True Intellectual System, vol. 3, p. 325), quoted at length by Lecky in Chapter III, note 164."
 heading: Cudworth, <em>The True Intellectual System of the Universe</em>, with Mosheim’s notes
-subtitle: "“Not one of them entertained the same opinion …” (vol. 3, p. 325)"
+subtitle: "All early Fathers thought the soul corporeal"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn164\">Rationalism, ch. III, note 164</a>."]
   - ["Status", "p. 325 read on the image. The text is Mosheim’s section III of the note; the first page of the note is p. 324."]
 abstract: |
-  <p>Lecky’s long quotation is accurate in substance, with ellipses. The page reads “Not one of them entertained the same opinion as the majority of Christians do at the present day, that it is perfectly simple, and entirely destitute of all body, figure, form, and extension”; Lecky has “that the soul is perfectly simple”. Mosheim’s “For some contend that there are two things in the soul, spirit and a very thin and subtle body in which this spirit is clothed” and the Platonist/anti-Platonist division agree with Lecky’s version. Mosheim’s “those who follow Plato and the Platonists, for example Clement, Origen, and their disciples” is Lecky’s “(i.e. Clement, Origen, and their disciples)”.</p>
+  <p>According to Mosheim, not one early Father believed as the majority of Christians do at the present day, that the soul is “perfectly simple, and entirely destitute of all body, figure, form, and extension”. Lecky’s long quotation of the passage in Chapter III, note 164 is accurate in substance, with ellipses. He inserts “(the early Fathers)” and “the soul” for Mosheim’s “it”, and turns Mosheim’s “for example Clement, Origen, and their disciples” into a parenthesis.</p>
 ---
 <section id="mosheim-325" class="passage">
 <h2>The Fathers on the corporeity of the soul</h2>
@@ -22,3 +22,7 @@ abstract: |
 </blockquote>
 <p>Lecky’s version: “‘Not one of them (the early Fathers) entertained the same opinion as the majority of Christians do at the present day, that the soul is perfectly simple …’” with “(the early Fathers)” and “the soul” inserted for Mosheim’s “it”; “Platonists (i.e. Clement, Origen, and their disciples)” is Lecky’s parenthesis. The sentence “I am aware that some of them pronounce the soul to be a mere spirit …” is passed over by Lecky.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s long quotation is accurate in substance, with ellipses. The page reads “Not one of them entertained the same opinion as the majority of Christians do at the present day, that it is perfectly simple, and entirely destitute of all body, figure, form, and extension”; Lecky has “that the soul is perfectly simple”. Mosheim’s “For some contend that there are two things in the soul, spirit and a very thin and subtle body in which this spirit is clothed” and the Platonist/anti-Platonist division agree with Lecky’s version. Mosheim’s “those who follow Plato and the Platonists, for example Clement, Origen, and their disciples” is Lecky’s “(i.e. Clement, Origen, and their disciples)”.</p>
+</details>

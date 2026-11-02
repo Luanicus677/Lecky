@@ -2,7 +2,7 @@
 title: Wright, Narratives of Sorcery and Magic
 description: "Thomas Wright’s Narratives of Sorcery and Magic (1851): the six hundred burnt by the bishop of Bamberg (p. 326) behind a figure in Lecky’s Chapter I, note 2. Lecky’s page reference there, “vol. i. p. 186”, falls on a page about French werewolf trials."
 heading: Wright, <em>Narratives of Sorcery and Magic</em>
-subtitle: "The Bamberg burnings (p. 326)"
+subtitle: "Wright’s six hundred at Bamberg is on p. 326"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch1.html#fn2\">Rationalism, ch. I, note 2</a>."]
   - ["Status", "pp. 186 and 326 read on the images, and p. 187 (Remigius’s nine hundred) seen. Not found in Wright pp. 325–327: seven thousand burnt at Treves, eight hundred in a year at Würzburg. Notes 108 and 161 are not checked."]
 abstract: |
-  <p>Lecky says: “Seven thousand victims are said to have been burned at Treves, six hundred by a single bishop of Bamberg, and eight hundred in a single year in the bishopric of Wurtzburg.” Note 2 cites Wright, vol. i. p. 186. On p. 186 of this edition there is nothing of the kind: it describes French werewolf trials of 1573–88. Wright’s Bamberg figure is on p. 326, in the chapter on the burnings at Würzburg: a pamphlet published at Bamberg in 1659 “states the number of persons which Bishop John George had caused to be burnt for sorcery, to have been six hundred”, and Wright adds that between 1625 and 1639 “not less than nine hundred trials took place in the two courts of Bamberg and Zeil”. So “six hundred by a single bishop of Bamberg” is Wright’s; the Treves and Würzburg figures are not on these pages.</p>
+  <p>Lecky cites “Wright’s Sorcery, vol. i. p. 186” for six hundred burnt by a single bishop of Bamberg, but p. 186 describes French werewolf trials of 1573–88. Wright gives the six hundred figure on p. 326, where a pamphlet published at Bamberg in 1659 states the number Bishop John George had caused to be burnt for sorcery. Wright adds that between 1625 and 1639 not less than nine hundred trials took place in the two courts of Bamberg and Zeil.</p>
 ---
 <section id="bamberg-326" class="passage">
 <h2>“Six hundred” burnt by Bishop John George of Bamberg (p. 326)</h2>
@@ -23,3 +23,7 @@ abstract: |
 </blockquote>
 <p>Lecky (ch. I, text above note 2): “six hundred by a single bishop of Bamberg”. Matches Wright’s “six hundred” for Bishop John George (Johann Georg II Fuchs von Dornheim). Lecky’s “vol. i. p. 186” is not this page; the page 186 of this edition (“In 1573, a man who was burnt at Drôle, on the charge of having changed himself into a wolf …”) is on werewolves. Wright’s p. 187 gives Remigius’s nine hundred burnt in Lorraine, 1580–95, which is not Lecky’s figure either.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says: “Seven thousand victims are said to have been burned at Treves, six hundred by a single bishop of Bamberg, and eight hundred in a single year in the bishopric of Wurtzburg.” Note 2 cites Wright, vol. i. p. 186. On p. 186 of this edition there is nothing of the kind: it describes French werewolf trials of 1573–88. Wright’s Bamberg figure is on p. 326, in the chapter on the burnings at Würzburg: a pamphlet published at Bamberg in 1659 “states the number of persons which Bishop John George had caused to be burnt for sorcery, to have been six hundred”, and Wright adds that between 1625 and 1639 “not less than nine hundred trials took place in the two courts of Bamberg and Zeil”. So “six hundred by a single bishop of Bamberg” is Wright’s; the Treves and Würzburg figures are not on these pages.</p>
+</details>

@@ -2,7 +2,7 @@
 title: Augustine, De natura et gratia
 description: "Augustine’s sentence excluding the Virgin Mary from every question of sin (De natura et gratia, c. XXXVI, § 42; Migne PL 44, col. 267), which Lecky quotes in Chapter III, note 32, on the history of the Immaculate Conception."
 heading: Augustine, <em>De natura et gratia</em>
-subtitle: "“Excepta itaque sancta virgine Maria” (c. 42)"
+subtitle: "Lecky’s three tiny changes to Augustine’s exception"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn32\">Rationalism, ch. III, note 32</a>."]
   - ["Status", "The sentence read on the page image and collated. The rest of note 32 (Heeren, Gibbon, St Bernard) is not checked."]
 abstract: |
-  <p>Lecky’s Latin is the sentence at the head of Augustine’s chapter XXXVI, § 42, which the Migne editors summarise as “Sancta virgo Maria sine ullo vixit peccato”. It matches word for word apart from three small differences: Lecky has “habere” where Migne prints “haberi” (the editors say the older printed editions read “habere” and the manuscripts “haberi”), Lecky inserts “eum” before “quem”, and Lecky ends with a full stop for Augustine’s question mark. In the sentence before it, Augustine reports Pelagius as saying that piety requires us to confess the Mother of the Lord to have been without sin; Augustine then says he will not raise the question of sin in her case “out of honour to the Lord”.</p>
+  <p>Lecky’s Latin matches Augustine’s sentence almost word for word, with only three small differences. He prints “habere” where Migne prints “haberi”, a reading the editors ascribe to the older printed editions, inserts “eum” before “quem”, and ends with a full stop for Augustine’s question mark. The sentence follows Augustine’s report that Pelagius said piety requires the Mother of the Lord to be confessed without sin, which Augustine sets aside “out of honour to the Lord”.</p>
 ---
 <section id="excepta-42" class="passage">
 <h2>The Virgin excepted (c. XXXVI, § 42)</h2>
@@ -37,3 +37,7 @@ abstract: |
 </div>
 <p>Lecky quotes the sentence, with a reference to “De Naturâ et Gratiâ” and no chapter, as Augustine’s own words on the Virgin; the chapter is XXXVI (§ 42), and the sentence follows Augustine’s report of what Pelagius says about her.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky’s Latin is the sentence at the head of Augustine’s chapter XXXVI, § 42, which the Migne editors summarise as “Sancta virgo Maria sine ullo vixit peccato”. It matches word for word apart from three small differences: Lecky has “habere” where Migne prints “haberi” (the editors say the older printed editions read “habere” and the manuscripts “haberi”), Lecky inserts “eum” before “quem”, and Lecky ends with a full stop for Augustine’s question mark. In the sentence before it, Augustine reports Pelagius as saying that piety requires us to confess the Mother of the Lord to have been without sin; Augustine then says he will not raise the question of sin in her case “out of honour to the Lord”.</p>
+</details>
