@@ -260,6 +260,11 @@ def main():
     # starting with an underscore and mangle a few other things).
     (OUT / ".nojekyll").touch()
 
+    # Custom domain: GitHub Pages reads docs/CNAME. Keep the source copy at
+    # the repo root, since docs/ is wiped on every build.
+    if (ROOT / "CNAME").exists():
+        shutil.copy(ROOT / "CNAME", OUT / "CNAME")
+
     print("\nBuild complete:", OUT)
 
 
