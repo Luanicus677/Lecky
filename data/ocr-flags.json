@@ -169,11 +169,6 @@
  {
   "chapter": "vol1-ch3",
   "chunk_error": true,
-  "chunk": 102
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
   "chunk": 121
  },
  {
@@ -859,22 +854,12 @@
  {
   "chapter": "vol1-ch1",
   "chunk_error": true,
-  "chunk": 43
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
   "chunk": 53
  },
  {
   "chapter": "vol1-ch2",
   "chunk_error": true,
   "chunk": 66
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 83
  },
  {
   "chapter": "vol1-ch3",
