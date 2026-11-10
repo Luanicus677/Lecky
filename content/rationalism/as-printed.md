@@ -19,6 +19,10 @@ This edition fixes the mistakes of the scanning software and nothing else. Where
 
 <figure class="facsimile"><a href="https://archive.org/details/rationalismineur02leckuoft/page/n40/mode/2up"><img src="../assets/img/rationalism/slips/priest.jpg" alt="Printed lines reading “this was simply because in their time no priest had embraced Christianity”" loading="lazy"></a><figcaption>Vol. II, p. 25. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
 
+**“To subdue men’s bodies of their souls and spirits”** (vol. I, p. 340). Lecky quotes an English law of 1548 that kept the fish-days after the Reformation, partly for the good of the soul and partly, as it frankly says, so that fishermen “may thereby the rather be set on work”. Abstinence, in his quotation, is “a mean to virtue, and to subdue men’s bodies of their souls and spirits”. Hallam’s <a href="../ref/hallam-literature-and-constitutional-history.html"><i>Constitutional History</i></a>, which Lecky cites for these laws, gives the statute’s words as “to subdue men’s bodies to their soul and spirit” (ch. VII, in a note; read in the Project Gutenberg text, not on a scan).
+
+<figure class="facsimile"><a href="https://archive.org/details/rationalismeuro01leckuoft/page/n369/mode/2up"><img src="../assets/img/rationalism/slips/bodies-of.jpg" alt="Printed footnote lines reading “abstinence is a mean to virtue, and to subdue men’s bodies of their souls and spirits”" loading="lazy"></a><figcaption>Vol. I, p. 340, in a footnote. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+
 ## A century out
 
 **Aquinas, “the ablest writer of the fourteenth century”** (vol. I, p. 72). Thomas Aquinas died in 1274, so the thirteenth century is meant. Whether the slip is Lecky’s or the printer’s cannot be told from the page.

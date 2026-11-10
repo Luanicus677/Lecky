@@ -185,11 +185,6 @@
   "chunk": 183
  },
  {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 184
- },
- {
   "error": "Galas",
   "fix": "Calas",
   "context": "of sarcasm and invective that avenged the murder of Galas, the magnificent dream",
@@ -814,5 +809,23 @@
   "chapter": "vol1-ch1",
   "chunk_error": true,
   "chunk": 53
+ },
+ {
+  "error": "so so",
+  "fix": "so",
+  "context": "He assailed it not so so much by any train of arguments,",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 184
+ },
+ {
+  "error": "took place,[^64]",
+  "fix": "took place,'[^64]",
+  "context": "as any execution for heresy that ever took place,[^64] was almost unanimously applauded",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 184
  }
 ]
