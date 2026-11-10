@@ -13,7 +13,7 @@ This edition fixes the mistakes of the scanning software and nothing else. Where
 
 **“Accordingly wept to sleep again”** (vol. I, p. 66). Luther, Lecky says, grew so used to the Devil making a noise in the cloisters that, woken by the sound one night, “he perceived that it was *only* the Devil, and accordingly wept to sleep again”. The joke needs “went”. In the scanned copy there is a pencil tick in the margin beside these lines, perhaps an earlier reader’s.
 
-<figure class="facsimile"><a href="https://archive.org/details/rationalismeuro01leckuoft/page/n95/mode/2up"><img src="../assets/img/rationalism/slips/wept.jpg" alt="Printed lines reading “he perceived that it was only the Devil, and accordingly wept to sleep again”" loading="lazy"></a><figcaption>Vol. I, p. 66. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<figure class="facsimile"><a href="https://archive.org/details/rationalismeuro01leckuoft/page/n95/mode/2up"><img src="../assets/img/rationalism/slips/wept.jpg" alt="Printed lines reading “he perceived that it was only the Devil, and accordingly wept to sleep again”" loading="lazy"></a><figcaption>Vol. I, p. 66, with the pencil tick in the left margin. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
 
 **“No priest had embraced Christianity”** (vol. II, p. 25). Lecky is giving the persecutors’ case: if the New Testament shows no apostle using force, “this was simply because in their time no priest had embraced Christianity”. The sense seems to want “prince”, a ruler with force to use; the page says “priest”.
 

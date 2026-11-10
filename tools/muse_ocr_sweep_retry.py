@@ -11,8 +11,10 @@ if __name__ == '__main__':
     cs = [(i, c) for i, c in enumerate(chunks()) if i in bad]
     print('retrying', len(cs), 'chunks', flush=True)
     tin = tout = 0
-    with cf.ThreadPoolExecutor(4) as ex:
-        for i, fl, u in ex.map(run, cs):
+    with cf.ThreadPoolExecutor(6) as ex:
+        # as_completed, not map: a slow chunk must not hold back finished ones
+        for fut in cf.as_completed([ex.submit(run, c) for c in cs]):
+            i, fl, u = fut.result()
             out = [x for x in out if x.get('chunk') != i] + [dict(x, chunk=i) for x in fl]
             tin += u.get('prompt_tokens', 0); tout += u.get('completion_tokens', 0)
             json.dump(out, open(OUT, 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
