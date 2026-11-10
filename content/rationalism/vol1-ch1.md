@@ -673,7 +673,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^128]: Webster, On Witches. The identification of the Scripture demoniacs with lunatics had been made by Hobbes also.
 
-[^129]: Wagstaafe was a deformed, dwarfish scholar at Oxford, and was the special butt of the Oxonian wit (which in the seventeenth century does not appear to have been extremely brilliant). Poor Wagstaafe consoled himself by drinking whisky-punch; and having drunk too much, he died. (Wood's Athenæ.)
+[^129]: <a href="https://en.wikipedia.org/wiki/John_Wagstaffe">Wagstaafe</a> was a deformed, dwarfish scholar at Oxford, and was the special butt of the Oxonian wit (which in the seventeenth century does not appear to have been extremely brilliant). Poor Wagstaafe consoled himself by drinking whisky-punch; and having drunk too much, he died. (Wood's Athenæ.)
 
 [^130]: Bancroft, History of the United States, ch. xix. <a class="popup-ref" href="../ref/hutchinson-historical-essay.html#new-england-95">Hutchinson</a>, pp. 95-119.
 

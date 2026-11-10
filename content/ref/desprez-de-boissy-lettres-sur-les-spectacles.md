@@ -2,7 +2,7 @@
 title: Desprez de Boissy, Lettres sur les spectacles
 description: "The 1761 decree of the Parlement of Paris burning Huerne de la Motte’s defence of actors and striking him from the roll of advocates, printed in Desprez de Boissy’s Lettres sur les spectacles (vol. 1, p. 481) and cited by Lecky in Chapter VI, note 147. Lecky’s date, 1761, agrees with the decree."
 heading: Desprez de Boissy, <em>Lettres sur les spectacles</em>
-subtitle: "A lawyer’s book burnt by the hangman for defending actors, 1761"
+subtitle: "A lawyer’s book burnt by the executioner for defending actors, 1761"
 back_link:
   url: index.html
   text: Sources
