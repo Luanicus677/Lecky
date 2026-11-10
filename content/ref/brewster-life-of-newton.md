@@ -2,7 +2,7 @@
 title: Brewster, Memoirs of Newton
 description: "David Brewster’s Memoirs of Newton: Newton’s letter to Locke of 16 February 1691–2 on the duration of miracles in the early Church, quoted by Lecky in Chapter II, note 8. The last sentence Lecky quotes (“The history of those ages is very imperfect”) is not in Brewster’s text as printed in the 1860 edition."
 heading: Brewster, <em>Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton</em>
-subtitle: "Newton to Locke on miracles (vol. 2, ch. 24)"
+subtitle: "Lecky’s Newton quote and the missing last sentence"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol1-ch2.html#fn8\">Rationalism, ch. II, note 8</a>."]
   - ["Status", "Brewster’s sentence and Newton’s next letter read on the page images. King’s <em>Life of Locke</em> (vol. i. p. 415), which Lecky also cites, is not checked."]
 abstract: |
-  <p>Lecky quotes Newton as writing: “Miracles of good credit continued in the Church for about two or three hundred years. Gregorius Thaumaturgus had his name from thence, and was one of the latest who was eminent for that gift; but of their number and frequency I am not able to give you a just account. The history of those ages is very imperfect.” In Brewster, the first part is there, nearly word for word (“had his name from them”, not “from thence”), as Brewster’s quotation from Newton’s letter of 16 February 1691–2. The final sentence is not in Brewster’s quotation, which ends “… a just account”, nor in Newton’s next letter, 3 May 1692 (pp. 252–253), which sends Locke a transcript on miracles and cites Irenaeus, Eusebius, Tertullian and Gregory of Nyssa. Lecky may be quoting the full letter from King’s <em>Life of Locke</em> or the 1855 edition; I could not check.</p>
+  <p>Lecky quotes Newton ending with ‘The history of those ages is very imperfect’, but that sentence is not in Brewster’s 1860 text. Brewster’s quotation from Newton’s letter of 16 February 1691–2 ends at ‘a just account’, with ‘had his name from them’ not ‘from thence’.</p>
 ---
 <section id="miracles-letter" class="passage">
 <h2>“Miracles of good credit continued in the Church for about two or three hundred years”</h2>
@@ -24,3 +24,7 @@ abstract: |
 </blockquote>
 <p>Lecky’s sentence adds “The history of those ages is very imperfect”, which I did not find here. Lecky introduces Newton’s words with “He appears to have consulted Sir Isaac Newton; for, in one of Newton’s letters, we find a somewhat hesitating passage upon the subject”; Brewster’s text says that Newton was answering “some questions of Locke on the subject of miracles”, which supports it. Lecky says Locke wrote the passage in his <em>Third Letter on Toleration</em> in reply to the Oxford argument (note 9); that work is not on the site.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky quotes Newton as writing: “Miracles of good credit continued in the Church for about two or three hundred years. Gregorius Thaumaturgus had his name from thence, and was one of the latest who was eminent for that gift; but of their number and frequency I am not able to give you a just account. The history of those ages is very imperfect.” In Brewster, the first part is there, nearly word for word (“had his name from them”, not “from thence”), as Brewster’s quotation from Newton’s letter of 16 February 1691–2. The final sentence is not in Brewster’s quotation, which ends “… a just account”, nor in Newton’s next letter, 3 May 1692 (pp. 252–253), which sends Locke a transcript on miracles and cites Irenaeus, Eusebius, Tertullian and Gregory of Nyssa. Lecky may be quoting the full letter from King’s <em>Life of Locke</em> or the 1855 edition; I could not check.</p>
+</details>

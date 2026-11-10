@@ -126,11 +126,6 @@
   "chunk": 59
  },
  {
-  "chapter": "vol1-ch2",
-  "chunk_error": true,
-  "chunk": 66
- },
- {
   "error": "Protestanism",
   "fix": "Protestantism",
   "context": "individuals in Roman Catholic countries to Protestanism; but we look in",
@@ -138,16 +133,6 @@
   "chapter": "vol1-ch2",
   "context_found": true,
   "chunk": 68
- },
- {
-  "chapter": "vol1-ch2",
-  "chunk_error": true,
-  "chunk": 69
- },
- {
-  "chapter": "vol1-ch2",
-  "chunk_error": true,
-  "chunk": 72
  },
  {
   "error": "After, all,",
@@ -175,11 +160,6 @@
   "chapter": "vol1-ch3",
   "context_found": true,
   "chunk": 80
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 83
  },
  {
   "chapter": "vol1-ch3",
@@ -910,5 +890,15 @@
   "chapter": "vol1-ch1",
   "chunk_error": true,
   "chunk": 53
+ },
+ {
+  "chapter": "vol1-ch2",
+  "chunk_error": true,
+  "chunk": 66
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 83
  }
 ]

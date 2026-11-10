@@ -2,7 +2,7 @@
 title: Desprez de Boissy, Lettres sur les spectacles
 description: "The 1761 decree of the Parlement of Paris burning Huerne de la Motte’s defence of actors and striking him from the roll of advocates, printed in Desprez de Boissy’s Lettres sur les spectacles (vol. 1, p. 481) and cited by Lecky in Chapter VI, note 147. Lecky’s date, 1761, agrees with the decree."
 heading: Desprez de Boissy, <em>Lettres sur les spectacles</em>
-subtitle: "The Arrêt of 22 April 1761 against Huerne de la Motte"
+subtitle: "A lawyer’s book burnt by the hangman for defending actors, 1761"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch6.html#fn147\">Rationalism, ch. VI, note 147</a>. Lecky’s other citations of this book (notes 144, 145, 152) are not transcribed."]
   - ["Status", "The operative end of the decree transcribed and translated. The beginning of the decree (pp. 473–480) is not read. The decree’s date (22 April 1761, “soixante-un”) agrees with Lecky’s text (p. 350)."]
 abstract: |
-  <p>Lecky says that a lawyer named Huerne de la Motte ventured “in 1761” to denounce the refusal of burial to actors and to defend the actor’s profession, and that his work was burnt by the executioner and his name erased from the list of advocates. The decree confirms all of this: the book was torn up and burnt at the foot of the great staircase of the Palais, and Huerne was struck from the Tableau des Avocats. It is dated 22 April 1761, as Lecky says, and the burning is recorded the next day.</p>
+  <p>The decree ordered the book to be “torn up and burned by the Executioner of the High Justice at the foot of the great staircase of the Palace”, and that François-Charles Huerne de la Mothe “shall be and remain struck from the Roll of Advocates”. Lecky says Huerne de la Motte defended actors and denounced the refusal of burial to actors in 1761, and that his work was burnt and his name erased. The decree, dated 22 April 1761, confirms this.</p>
 ---
 <section id="arret" class="passage">
 <h2>The decree’s operative words (p. 481)</h2>
@@ -29,3 +29,7 @@ abstract: |
 </div>
 <p>Everything Lecky reports is in these lines. I did not read the beginning of the decree (pp. 473–480), which sets out the grounds, so I do not know how it characterised Huerne’s book.</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says that a lawyer named Huerne de la Motte ventured “in 1761” to denounce the refusal of burial to actors and to defend the actor’s profession, and that his work was burnt by the executioner and his name erased from the list of advocates. The decree confirms all of this: the book was torn up and burnt at the foot of the great staircase of the Palais, and Huerne was struck from the Tableau des Avocats. It is dated 22 April 1761, as Lecky says, and the burning is recorded the next day.</p>
+</details>

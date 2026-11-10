@@ -66,7 +66,11 @@
   "ok": true
  },
  "bossuet-defensio-declarationis": {
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "subtitle": "Kings as fathers: “Abimelech” means “My father the king”",
+  "opening": "Bossuet does write that “Abimelech”, common to the kings of Palestine, is translated “My father the king” to show kings were held in the place of parents from the beginning of the human race. Lecky repeats this in Chapter V, note 96. His reference, “lib. i. c. 3”, does not match the chapter numbering of the 1745 edition used here.",
+  "bad": [],
+  "ok": true,
+  "hand_edited": true
  },
  "bossuet-variations": {
   "subtitle": "What Lecky leaves out of Bossuet on punishing heretics",
@@ -75,7 +79,11 @@
   "ok": true
  },
  "brewster-life-of-newton": {
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "subtitle": "Lecky’s Newton quote and the missing last sentence",
+  "opening": "Lecky quotes Newton ending with ‘The history of those ages is very imperfect’, but that sentence is not in Brewster’s 1860 text. Brewster’s quotation from Newton’s letter of 16 February 1691–2 ends at ‘a just account’, with ‘had his name from them’ not ‘from thence’.",
+  "bad": [],
+  "ok": true,
+  "hand_edited": true
  },
  "buchanan-de-jure-regni": {
   "subtitle": "Buchanan’s borrowed maxim about king and law",
@@ -128,11 +136,10 @@
  },
  "desprez-de-boissy-lettres-sur-les-spectacles": {
   "subtitle": "Lecky’s 1761 date agrees with the decree",
-  "opening": "The decree ordered the book to be “torn up and burned by the Executioner of the High Justice at the foot of the great staircase of the Palace”, and that François-Charles Huerne de la Mothe “shall be and remain struck from the Roll of Advocates”. Lecky says Huerne de la Motte defended actors and denounced the refusal of burial to actors in 1761, and that his work was burnt and his name erased. The decree dated 22 April 1761 confirms this, with the burning recorded on 23 April 1761.",
-  "bad": [
-   "23"
-  ],
-  "ok": false
+  "opening": "The decree ordered the book to be “torn up and burned by the Executioner of the High Justice at the foot of the great staircase of the Palace”, and that François-Charles Huerne de la Mothe “shall be and remain struck from the Roll of Advocates”. Lecky says Huerne de la Motte defended actors and denounced the refusal of burial to actors in 1761, and that his work was burnt and his name erased. The decree, dated 22 April 1761, confirms this.",
+  "bad": [],
+  "ok": true,
+  "hand_edited": true
  },
  "eden-state-of-the-poor": {
   "subtitle": "Becket’s harvest labour, the 1102 law and Irish slaves",

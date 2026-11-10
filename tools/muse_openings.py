@@ -54,6 +54,7 @@ def apply(res):
     for s, j in res.items():
         if not j.get('ok'): continue
         f = os.path.join(ROOT, 'content/ref', s + '.md'); t = open(f, encoding='utf-8').read()
+        if 'editor-notes' in t: continue  # already applied: never append a second notes box
         m = re.match(r'(---\n)(.*?)(\n---\n)(.*)', t, re.S); fm, body = m.group(2) + '\n', m.group(4)
         am = re.search(r'^abstract: \|\n((?:  .*\n?|\n)*)', fm, re.M)
         old = '\n'.join(l[2:] if l.startswith('  ') else l for l in am.group(1).rstrip('\n').split('\n')).strip()

@@ -2,7 +2,7 @@
 title: Bossuet, Defensio declarationis cleri gallicani
 description: "Bossuet’s Defence of the Declaration of the Gallican Clergy: the passage on the royal name Abimelech that Lecky cites in Chapter V, note 96, found on p. 128 of the 1745 edition. The passage behind note 77 (the ‘wolves and sheep’ gloss) was not located."
 heading: Bossuet, <em>Defensio declarationis cleri gallicani</em>
-subtitle: "Kings as fathers: “Abimelech”"
+subtitle: "Kings as fathers: “Abimelech” means “My father the king”"
 back_link:
   url: index.html
   text: Sources
@@ -12,7 +12,7 @@ meta_rows:
   - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn96\">Rationalism, ch. V, note 96</a> (Abimelech). Note 77 (“<em>Defensio</em>, lib. i. c. 15, 16”) is not transcribed."]
   - ["Status", "One passage transcribed. <strong>Unverified:</strong> Lecky’s reference “lib. i. c. 3” does not match this edition’s chapter numbering (the page is in the first section of Part I, where chapters are numbered continuously and p. 125 begins chapter XVI), so he cites a different arrangement or edition. And the “wolves and sheep” sentence that Lecky paraphrases in the text before note 77 was not found."]
 abstract: |
-  <p>Lecky says Bossuet observes that “Abimelech”, a name common to all the kings of Palestine, means “my father king”. The remark is in the <em>Defensio</em>: Bossuet writes that from the very beginning of the human race kings were held in the place of parents, as even the name Abimelech common to the Palestinian kings shows, for “Abimelech” is Latinised <em>Pater meus Rex</em>.</p>
+  <p>Bossuet does write that “Abimelech”, common to the kings of Palestine, is translated “My father the king” to show kings were held in the place of parents from the beginning of the human race. Lecky repeats this in Chapter V, note 96. His reference, “lib. i. c. 3”, does not match the chapter numbering of the 1745 edition used here.</p>
 ---
 <section id="abimelech" class="passage">
 <h2>“Pater meus Rex” (p. 128)</h2>
@@ -27,3 +27,7 @@ abstract: |
 </div>
 <p>Lecky’s English: “‘Abimelech,’ which was a name originally common to all the kings of Palestine, signifies ‘My father king’”. “Originally” is Lecky’s; Bossuet says only “common”. Lecky’s “lib. i. c. 3” is not this page’s chapter (see the status note above).</p>
 </section>
+
+<details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
+<p>Lecky says Bossuet observes that “Abimelech”, a name common to all the kings of Palestine, means “my father king”. The remark is in the <em>Defensio</em>: Bossuet writes that from the very beginning of the human race kings were held in the place of parents, as even the name Abimelech common to the Palestinian kings shows, for “Abimelech” is Latinised <em>Pater meus Rex</em>.</p>
+</details>
