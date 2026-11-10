@@ -81,21 +81,6 @@
   "chunk": 37
  },
  {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 43
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 46
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 51
- },
- {
   "error": "p. 113. The",
   "fix": "p. 113.) The",
   "context": "Sweden (Magnin, Origines du Théâtre, tom. i. p. 113. The Apologie was",
@@ -114,16 +99,6 @@
   "chunk": 52
  },
  {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 53
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 54
- },
- {
   "error": "Wagstaafe",
   "fix": "Wagstaffe",
   "context": "Wagstaafe was a deformed, dwarfish scholar at Oxford, and was",
@@ -140,11 +115,6 @@
   "chapter": "vol1-ch1",
   "context_found": true,
   "chunk": 55
- },
- {
-  "chapter": "vol1-ch2",
-  "chunk_error": true,
-  "chunk": 58
  },
  {
   "error": "it all difficult",
@@ -930,5 +900,15 @@
   "chapter": "vol1-ch1",
   "chunk_error": true,
   "chunk": 38
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 43
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 53
  }
 ]

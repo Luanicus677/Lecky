@@ -29,4 +29,6 @@ back_link:
 <li><a href="vol2-ch6.html">Chapter VI — The Industrial History of Rationalism</a> <span class="work-status">complete (pp. 250–409)</span></li>
 </ol>
 
+<p><a href="as-printed.html">As printed: slips of the 1865 edition</a>, shown in facsimile (“wept to sleep again”, “Wagstaafe”, Aquinas in the “fourteenth century”).</p>
+
 <p style="color:var(--fg-faint); font-size:0.85rem;">Chapter titles above are taken from Lecky's own table of contents in the 1865 second edition.</p>

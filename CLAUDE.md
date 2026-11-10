@@ -278,6 +278,10 @@ Notes for continuing:
   three dropped '. . . .' ellipses in the La Boétie passage (n239), a lost paragraph break before 'But a few years passed away' (n400), Galas ->
   Calas, Eios -> Rios, 110 -> no, anil -> and, split words. Muse cannot tell a printer's slip from an OCR slip: never apply its flags unseen.
 
+- `content/rationalism/as-printed.md` ("As printed: slips of the 1865 edition", linked from the Rationalism index): facsimile strips of the as-printed
+  oddities (images in `assets/img/rationalism/slips/`, each linking to the scan page). Add new finds there. Page numbers on it are from image offsets
+  (vol. I n-29, vol. II n-15), only vol. II p. 25 read from the page head.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

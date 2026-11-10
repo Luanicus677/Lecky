@@ -1284,3 +1284,6 @@ details.original-toggle[open] > summary::before { content: "▾ "; }
 details.original-toggle > summary:hover { color: inherit; }
 details.original-toggle .original { margin-top: 0.5em; font-style: italic; }
 details.original-toggle .original em, details.original-toggle .original i { font-style: normal; }
+
+/* No first-line indent on a paragraph that follows a facsimile strip */
+.content figure.facsimile + p { text-indent: 0; }
