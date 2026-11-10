@@ -9,11 +9,6 @@
   "chunk": 10
  },
  {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 11
- },
- {
   "error": "corruscations",
   "fix": "coruscations",
   "context": "and the corruscations of Aurora are said to have been attributed to",
@@ -41,11 +36,6 @@
   "chunk": 13
  },
  {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 17
- },
- {
   "error": "wept",
   "fix": "went",
   "context": "that it was only the Devil, and accordingly wept to sleep again.",
@@ -62,11 +52,6 @@
   "chapter": "vol1-ch1",
   "context_found": true,
   "chunk": 21
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 25
  },
  {
   "error": "grevious",
@@ -94,16 +79,6 @@
   "chapter": "vol1-ch1",
   "context_found": true,
   "chunk": 37
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 38
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 41
  },
  {
   "chapter": "vol1-ch1",
@@ -950,5 +925,10 @@
   "chapter": "vol2-ch6",
   "chunk_error": true,
   "chunk": 324
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 38
  }
 ]

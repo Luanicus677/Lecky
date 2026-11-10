@@ -268,6 +268,16 @@ Notes for continuing:
   Simancas engraved title (n4), Michelet copy = 3rd ed. Brussels & Leipzig 1863 (n10). Macaulay has no scan (Gutenberg text), so no picture. Next: same pass for the
   next ~40 older pages (Glanvill, Middleton, Augustine, Gibbon, Agobard, Hecker, Codex, Desprez, Wright, Hogarth ...).
 
+- 10 Nov 2026: Muse OCR sweep (tools/muse_ocr_sweep.py, retry with tools/muse_ocr_sweep_retry.py; flags in data/ocr-flags.json) reviewed on the
+  page images with line strips (scratchpad strips.py: finds the flag's context in `<id>_djvu.xml` WORD coords and crops that line; here image n =
+  0-based OBJECT index). Most flags are AS PRINTED and must stay: vol. I 'corruscations', 'payed her homage', 'accordingly wept to sleep again'
+  (n95), 'grevious sin' (n128), 'Wagstaafe' (contents n25 and p. 130 = n159, four times), 'In numbers of the description', "Demons;'",
+  'p. 113.' with no closing bracket (n133), 'on Witchcraft,' with no closing quote (n139), 'After, all,' (n217), Aquinas 'fourteenth century'
+  (n101, Lecky's error); vol. II 'no priest had embraced Christianity' (p. 25 = n40; sense wants 'prince'), 'to bann', 'keenly sensibly',
+  'Tertullian and other of the Fathers', 'transcendant'. Genuine OCR faults fixed (28, all in vol. II chs. IV-VI): lost full stops read as commas,
+  three dropped '. . . .' ellipses in the La Boétie passage (n239), a lost paragraph break before 'But a few years passed away' (n400), Galas ->
+  Calas, Eios -> Rios, 110 -> no, anil -> and, split words. Muse cannot tell a printer's slip from an OCR slip: never apply its flags unseen.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
