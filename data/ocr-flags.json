@@ -162,11 +162,6 @@
   "chunk": 80
  },
  {
-  "chapter": "vol1-ch4",
-  "chunk_error": true,
-  "chunk": 154
- },
- {
   "error": "priest",
   "fix": "prince",
   "context": "this was simply because in their time no priest had embraced Christianity.",
@@ -192,11 +187,6 @@
   "chapter": "vol2-ch4",
   "context_found": true,
   "chunk": 190
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 192
  },
  {
   "error": "Milton, advocated",
@@ -226,36 +216,6 @@
   "chunk": 194
  },
  {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 199
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 201
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 202
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 203
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 206
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 207
- },
- {
   "error": "sensibly",
   "fix": "sensible",
   "context": "singularly loved by those about him, intensely amiable, keenly sensibly of the attacks",
@@ -263,41 +223,6 @@
   "chapter": "vol2-ch4",
   "context_found": true,
   "chunk": 208
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 209
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 211
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 212
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 216
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 217
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 218
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 219
  },
  {
   "error": "ever -increasing",
@@ -316,11 +241,6 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 223
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 224
  },
  {
   "error": "different, For",
@@ -350,21 +270,6 @@
   "chunk": 227
  },
  {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 229
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 231
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 232
- },
- {
   "error": "policy. of",
   "fix": "policy of",
   "context": "would usually be men pre-eminently unfit to adjudicate upon the policy. of nations.",
@@ -376,22 +281,7 @@
  {
   "chapter": "vol2-ch5",
   "chunk_error": true,
-  "chunk": 235
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
   "chunk": 239
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 240
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 241
  },
  {
   "error": "law; During",
@@ -410,21 +300,6 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 243
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 244
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 245
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 246
  },
  {
   "chapter": "vol2-ch5",
@@ -801,16 +676,6 @@
   "chunk": 140
  },
  {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 85
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 53
- },
- {
   "error": "so so",
   "fix": "so",
   "context": "He assailed it not so so much by any train of arguments,",
@@ -827,5 +692,218 @@
   "chapter": "vol2-ch4",
   "context_found": true,
   "chunk": 184
+ },
+ {
+  "error": "Hist,",
+  "fix": "Hist.",
+  "context": "discussion of this very perplexing subject see Milman, Hist, of Christianity, and",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 201
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 85
+ },
+ {
+  "chapter": "vol1-ch4",
+  "chunk_error": true,
+  "chunk": 154
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 53
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 192
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 199
+ },
+ {
+  "error": "•",
+  "fix": ";",
+  "context": "see Wodrow's History • and for a summary of",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 206
+ },
+ {
+  "error": "695696",
+  "fix": "695-696",
+  "context": "against Nonconformists in England, Neal's History of the Puritans, vol. ii. pp. 695696.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 206
+ },
+ {
+  "error": "Hist,",
+  "fix": "Hist.",
+  "context": "on the general intolerance of the Dutch clergy, Hallam, Hist, of Lit., vol.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 206
+ },
+ {
+  "error": "2G",
+  "fix": "26",
+  "context": "may not pardon or wink at your falsehood ' (p. 2G). See also on",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 206
+ },
+ {
+  "error": "{Ibid.",
+  "fix": "(Ibid.",
+  "context": "against toleration of sectaries and liberty of conscience.' {Ibid. pp. 211-222.) Among the notions",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 211
+ },
+ {
+  "error": "piiblished",
+  "fix": "published",
+  "context": "Of true Religion, Heresy, Schism, Toleration, piiblished in 1673. He does not, however, seem",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 211
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 202
+ },
+ {
+  "error": "Inquisitor- General",
+  "fix": "Inquisitor-General",
+  "context": "was centralised by the appointment of an Inquisitor- General at Rome, with whom",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 217
+ },
+ {
+  "error": "Marshes",
+  "fix": "Marches",
+  "context": "introduced into Lombardy, the Marshes, Romagna, Tuscany, the Balearic Isles, Arragon,",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 217
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 203
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 209
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 207
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 212
+ },
+ {
+  "error": "Starchamber",
+  "fix": "Star Chamber",
+  "context": "Convocation was accustomed to censure, and the Starchamber to suppress, heretical works.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 219
+ },
+ {
+  "error": "die",
+  "fix": "dye",
+  "context": "was a crime of the deepest die perpetrated by one who",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 235
+ },
+ {
+  "error": "but.",
+  "fix": "but",
+  "context": "Then indeed, for a brief but. memorable period, she placed herself",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 240
+ },
+ {
+  "error": "rebellion.' it",
+  "fix": "rebellion,' it",
+  "context": "'to burn together in hell with Satan the first founder of rebellion.' it is hard",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 240
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 216
+ },
+ {
+  "error": "Who",
+  "fix": "who",
+  "context": "was devastating all around him, Who would hesitate to applaud",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 231
+ },
+ {
+  "error": "'had",
+  "fix": "had",
+  "context": "propositions of modern liberalism, who 'had emancipated himself to so great",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 241
+ },
+ {
+  "error": "Nobody",
+  "fix": "No body",
+  "context": "would do them great injustice. Nobody of men ever exhibited a greater alacrity",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 244
+ },
+ {
+  "error": "Church, Doctrines",
+  "fix": "Church. Doctrines",
+  "context": "tone and complexion of the teachings of a Church, Doctrines concerning the sinfulness",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 246
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 229
  }
 ]

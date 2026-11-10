@@ -287,6 +287,14 @@ Notes for continuing:
   have shifted slightly). One flag NOT yet checked on the image: vol1-ch3 'subdue men's bodies of their souls and spirits' (Muse: 'to their').
   All other flags are reviewed (see the note above). The three last older source pages now have plain-English openings (all older pages done).
 
+- 10 Nov (later): second retry of the OCR sweep stopped at the owner's request with 50 of 326 chunks still unread (all in vol. II chs. IV-VI
+  except one each in vol. I chs. I, III, IV; Muse answered only ~1.5 chunks a minute). 20 more flags checked on images with scratchpad strips2.py:
+  14 OCR faults fixed (vol2-ch4: 'Hist,' x2, a bullet for ';', '695696', '2G', '{Ibid.', 'piiblished'; vol2-ch5: 'Inquisitor- General', 'but.',
+  "rebellion.'", 'Who', "'had", 'Nobody' -> 'No body', 'Church, Doctrines'). AS PRINTED, left and added to as-printed.md: vol. I p. 340 'to subdue
+  men's bodies of their souls and spirits' (Hallam Const. Hist. ch. VII note, Gutenberg 39711, has 'to their soul and spirit'), vol. II p. 51
+  'not so so much' (n66), 'the Marshes' (n136), 'Starchamber' (n144), 'deepest die' (n196). Not decided: vol2-ch4 'took place,[^64]' (Muse wants a
+  closing quote before the note mark; the image n65 is unclear at strip size).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
