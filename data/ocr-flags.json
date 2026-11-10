@@ -162,49 +162,9 @@
   "chunk": 80
  },
  {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 101
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 121
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 123
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 140
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 145
- },
- {
   "chapter": "vol1-ch4",
   "chunk_error": true,
   "chunk": 154
- },
- {
-  "chapter": "vol1-ch4",
-  "chunk_error": true,
-  "chunk": 162
- },
- {
-  "chapter": "vol1-ch4",
-  "chunk_error": true,
-  "chunk": 164
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 175
  },
  {
   "error": "priest",
@@ -228,16 +188,6 @@
   "chapter": "vol2-ch4",
   "chunk_error": true,
   "chunk": 184
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 186
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 189
  },
  {
   "error": "Galas",
@@ -279,11 +229,6 @@
   "chapter": "vol2-ch4",
   "context_found": true,
   "chunk": 194
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 198
  },
  {
   "chapter": "vol2-ch4",
@@ -852,18 +797,22 @@
   "chunk": 324
  },
  {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 53
- },
- {
-  "chapter": "vol1-ch2",
-  "chunk_error": true,
-  "chunk": 66
+  "error": "of",
+  "fix": "to",
+  "context": "and to subdue men's bodies of their souls and spirits;",
+  "confidence": "high",
+  "chapter": "vol1-ch3",
+  "context_found": true,
+  "chunk": 140
  },
  {
   "chapter": "vol1-ch3",
   "chunk_error": true,
   "chunk": 85
+ },
+ {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 53
  }
 ]

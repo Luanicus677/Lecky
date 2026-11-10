@@ -282,6 +282,11 @@ Notes for continuing:
   oddities (images in `assets/img/rationalism/slips/`, each linking to the scan page). Add new finds there. Page numbers on it are from image offsets
   (vol. I n-29, vol. II n-15), only vol. II p. 25 read from the page head.
 
+- OCR sweep state at 10 Nov 08:57: 66 of 326 chunks still unread (`chunk_error` entries in data/ocr-flags.json); rerun
+  `python3 tools/muse_ocr_sweep_retry.py` (Muse was slow, ~30-60 s a chunk; chapter files changed since the first sweep, so chunk boundaries may
+  have shifted slightly). One flag NOT yet checked on the image: vol1-ch3 'subdue men's bodies of their souls and spirits' (Muse: 'to their').
+  All other flags are reviewed (see the note above). The three last older source pages now have plain-English openings (all older pages done).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
