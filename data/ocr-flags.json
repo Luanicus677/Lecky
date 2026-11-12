@@ -279,11 +279,6 @@
   "chunk": 233
  },
  {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 239
- },
- {
   "error": "law; During",
   "fix": "law. During",
   "context": "the supreme arbiter of the moral law; During the reaction under Queen",
@@ -300,11 +295,6 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 243
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 247
  },
  {
   "error": "dust Think",
@@ -334,16 +324,6 @@
   "chunk": 248
  },
  {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 250
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 251
- },
- {
   "error": "transcendant",
   "fix": "transcendent",
   "context": "gave his eloquence a transcendant power in a revolutionary age.",
@@ -351,36 +331,6 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 254
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 255
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 257
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 258
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 259
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 260
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 262
  },
  {
   "error": "signifies,'",
@@ -401,36 +351,6 @@
   "chunk": 263
  },
  {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 264
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 265
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 267
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 269
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 270
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 271
- },
- {
   "error": "favour able",
   "fix": "favourable",
   "context": "the furtive character given to the transaction is eminently favour able to imposition",
@@ -438,11 +358,6 @@
   "chapter": "vol2-ch6",
   "context_found": true,
   "chunk": 273
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 275
  },
  {
   "error": "110",
@@ -454,36 +369,6 @@
   "chunk": 276
  },
  {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 279
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 280
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 284
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 285
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 288
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 290
- },
- {
   "error": "named",
   "fix": "name",
   "context": "and his named erased from the list of advocates.",
@@ -491,16 +376,6 @@
   "chapter": "vol2-ch6",
   "context_found": true,
   "chunk": 292
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 293
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 300
  },
  {
   "error": "introduced, At",
@@ -566,31 +441,6 @@
   "chunk": 309
  },
  {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 310
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 311
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 312
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 313
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 314
- },
- {
   "error": "On Usury]",
   "fix": "On Usury)",
   "context": "Bentham showed decisively (Letter xiii., On Usury] that such a law",
@@ -627,46 +477,6 @@
   "chunk": 316
  },
  {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 317
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 318
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 319
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 320
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 321
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 322
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 323
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 324
- },
- {
   "error": "of",
   "fix": "to",
   "context": "and to subdue men's bodies of their souls and spirits;",
@@ -701,31 +511,6 @@
   "chapter": "vol2-ch4",
   "context_found": true,
   "chunk": 201
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 85
- },
- {
-  "chapter": "vol1-ch4",
-  "chunk_error": true,
-  "chunk": 154
- },
- {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 53
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 192
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 199
  },
  {
   "error": "•",
@@ -782,11 +567,6 @@
   "chunk": 211
  },
  {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 202
- },
- {
   "error": "Inquisitor- General",
   "fix": "Inquisitor-General",
   "context": "was centralised by the appointment of an Inquisitor- General at Rome, with whom",
@@ -803,26 +583,6 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 217
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 203
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 209
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 207
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 212
  },
  {
   "error": "Starchamber",
@@ -861,11 +621,6 @@
   "chunk": 240
  },
  {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 216
- },
- {
   "error": "Who",
   "fix": "who",
   "context": "was devastating all around him, Who would hesitate to applaud",
@@ -902,8 +657,286 @@
   "chunk": 246
  },
  {
+  "chapter": "vol1-ch1",
+  "chunk_error": true,
+  "chunk": 53
+ },
+ {
+  "chapter": "vol1-ch3",
+  "chunk_error": true,
+  "chunk": 85
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 203
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 192
+ },
+ {
+  "chapter": "vol1-ch4",
+  "chunk_error": true,
+  "chunk": 154
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 199
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 202
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 207
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 216
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 212
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 239
+ },
+ {
   "chapter": "vol2-ch5",
   "chunk_error": true,
   "chunk": 229
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 247
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 250
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 251
+ },
+ {
+  "chapter": "vol2-ch4",
+  "chunk_error": true,
+  "chunk": 209
+ },
+ {
+  "error": "cer.tain",
+  "fix": "certain",
+  "context": "must be allied with political liberty — that a cer.tain balance should be preserved between",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 259
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 255
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 258
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 260
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 257
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 264
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 262
+ },
+ {
+  "chapter": "vol2-ch5",
+  "chunk_error": true,
+  "chunk": 265
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 267
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 270
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 279
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 271
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 275
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 284
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 280
+ },
+ {
+  "error": "condition, of society.",
+  "fix": "condition of society.",
+  "context": "how completely the Reformation was the normal consequence of the new condition, of society.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 285
+ },
+ {
+  "error": "Tins",
+  "fix": "This",
+  "context": "Tins movement has been well noticed by Grotius, De Jure, lib. iii. c. 14.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 310
+ },
+ {
+  "error": "the s 2 liberty",
+  "fix": "the liberty",
+  "context": "Honorius accorded slaves the s 2 liberty of accusing their masters in",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 310
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 288
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 293
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 290
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 311
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 312
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 313
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 314
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 317
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 318
+ },
+ {
+  "error": "operasingers",
+  "fix": "opera singers",
+  "context": "one of the first of the long line of great Italian operasingers, and to whom",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 322
+ },
+ {
+  "error": "twentyseven",
+  "fix": "twenty-seven",
+  "context": "was preached as early as 1548, only twentyseven years after the conquest",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 322
+ },
+ {
+  "error": "nil",
+  "fix": "all",
+  "context": "value of coins is depreciated; thirdly, nil the evils of uncertainty, panic, and",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 322
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 319
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 320
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 321
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 323
+ },
+ {
+  "chapter": "vol2-ch6",
+  "chunk_error": true,
+  "chunk": 324
  }
 ]
