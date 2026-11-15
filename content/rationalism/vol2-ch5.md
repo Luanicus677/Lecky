@@ -467,7 +467,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^30]: Striking instances of this are given by Grotius, De Jure, lib. i. c. iv. § 7.
 
-[^31]: This has been maintained among others by Milton and Gronovius among the Protestants, and by Bellarmine and (in more modern times) by Bianchi among the Catholics. See Bianchi, Traité de la Puissance Ecclésiastique (trad. Peltier, Paris, 1857), tom. i. p. 639-642.
+[^31]: This has been maintained among others by Milton and Gronovius among the Protestants, and by Bellarmine and (in more modern times) by Bianchi among the Catholics. See <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, Traité de la Puissance Ecclésiastique (trad. Peltier, Paris, 1857)</a>, tom. i. p. 639-642.
 
 [^32]: This appears to have been a favourite argument of the French Protestants: Avis aux Réfugiez sur leur prochain Retour en France, p. 43. To these the Gallican Catholics replied that Julian was dead when the invectives were delivered. Hilary, however, inveighed vehemently against the Arian Emperor Constantius, in the lifetime of the latter; and Bianchi, in a very ingenious fashion, argues from this that Constantius must have been virtually deposed on account of his heresy, for respect to lawful sovereigns is among the plainest duties; and as St. Hilary called Constantius 'a precursor of Antichrist,'' a rascal,' and 'an object of malediction,' &c. &c., it may be inferred that he did not regard him as his lawful sovereign. (Puissance Eccl., tom. i. pp. 651, 652.)
 
@@ -555,9 +555,9 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^74]: See on the one side Bianchi, Puissance Souveraine, and on the other the Defensio of Bossuet.
 
-[^75]: According to Bianchi, the first Catholic who maintained that the Pope had no power over the temporal possessions of princes who fell into heresy was an Englishman of the time of James I. — William Barclay, the father of the author of the Argenis. W.Barclay wrote against and was answered by Bellarmine. (Bianchi, tom. ii. pp.768, 769).
+[^75]: According to Bianchi, the first Catholic who maintained that the Pope had no power over the temporal possessions of princes who fell into heresy was an Englishman of the time of James I. — William Barclay, the father of the author of the Argenis. W.Barclay wrote against and was answered by Bellarmine. (<a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html#barclay">Bianchi, tom. ii. pp.768, 769</a>).
 
-[^76]: Bianchi, tom. i. pp. 96-104.
+[^76]: <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, tom. i. pp. 96-104.</a>
 
 [^77]: Defensio, lib. i. c. 15, 16. Avertissements sur les Lettres de M. Jurieu, no. 5.
 
@@ -667,7 +667,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^130]: As a distinguished Anglican divine of our own day has put it, 'It is idle, and worse than idle, to attempt to restrict and explain away this positive command ("Resist not evil "), and the Christian Church has always upheld it in its full extent. With one uniform unhesitating voice it has proclaimed the duty of passive obedience.'1 (Sewell, Christian Politics, ch. x.)
 
-[^131]: I have already referred to the bull of Gregory XVI. attesting this contradiction. I may add the following admission of a writer who may be regarded as one of the principal representatives of the Ultramontane party, which has always been the most liberal in politics:—'Quoique nous tombions d'accord que la source ou l'origine de la puissance publique réside dans la multitude, nous nions cependant que la puissance publique étant une fois transferée au prince, le peuple conserve toujours sur lui un droit de souvraineté. Nous disons, au contraire, qu'il ne lui reste plus dès lors que le devoir d'obéir, et qu'il n'existe qu'un cas où il puisse se soustraire à cette obéissance, comme en conviennent les plus ardents défenseurs de la puissance royale, savoir, celui où le prince deviendrait l'ennemi public et déclaré de tout son peuple, et où il chercherait à détruire la société civile.' (Bianchi, tom. i. p. 84.)
+[^131]: I have already referred to the bull of Gregory XVI. attesting this contradiction. I may add the following admission of a writer who may be regarded as one of the principal representatives of the Ultramontane party, which has always been the most liberal in politics:—'Quoique nous tombions d'accord que la source ou l'origine de la puissance publique réside dans la multitude, nous nions cependant que la puissance publique étant une fois transferée au prince, le peuple conserve toujours sur lui un droit de souvraineté. Nous disons, au contraire, qu'il ne lui reste plus dès lors que le devoir d'obéir, et qu'il n'existe qu'un cas où il puisse se soustraire à cette obéissance, comme en conviennent les plus ardents défenseurs de la puissance royale, savoir, celui où le prince deviendrait l'ennemi public et déclaré de tout son peuple, et où il chercherait à détruire la société civile.' (<a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html#duty-to-obey">Bianchi, tom. i. p. 84.</a>)
 
 [^132]: See, for some striking evidence of these sentiments, the Discours par un Ministre Patriote sur le projet d'accorder l'état civil aux Protestants, by the Abbé de L'Enfert (Paris, 1787).
 

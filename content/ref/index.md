@@ -418,6 +418,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Cathars who starved or poisoned themselves, and Catholics killed for looking pale; the heretics of Arras for whom Adam and Eve’s union was the first sin (2nd ed., tome III, 1844, pp. 259–264), cited in ch. I, note 47, and ch. III, note 58.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="bianchi-puissance-ecclesiastique.html">Bianchi, <em>Traité de la puissance ecclésiastique</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The people keep only “the duty to obey”, except against a prince who becomes the public enemy (tome I, p. 84); William Barclay “sold his pen” to James I (tome II, pp. 768–769). Peltier’s translation, Paris 1857, cited in ch. V, notes 31, 75, 76, 131.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
