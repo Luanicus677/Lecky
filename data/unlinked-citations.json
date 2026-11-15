@@ -1,67 +1,249 @@
 [
  {
   "id": "vol1-ch1#10",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Colloquia de fascinationibus",
+    "locator": "",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "Baxter",
+    "work": "World of Spirits",
+    "locator": "pp. 126, 127",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch1#11",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch1#12",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch1#13",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Herder",
+    "work": "Philosophy of History",
+    "locator": "b. viii. c. 2",
+    "quote": "",
+    "lang": "en"
+   },
+   {
+    "author": "Maury",
+    "work": "Histoire de Magie",
+    "locator": "passim",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol1-ch1#18",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "De cultu feminarum",
+    "locator": "lib. i. c. 2",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "St. Augustine",
+    "work": "De civitate Dei",
+    "locator": "lib. xv. cap. 23",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#19",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Des Mousseaux",
+    "work": "Pratiques des démons",
+    "locator": "p. 81",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Tertullian",
+    "work": "De spectaculis",
+    "locator": "cap. xxvi",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "St. Gregory the Great",
+    "work": "Dialogi",
+    "locator": "lib. i. c. 4",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "De corona",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#30",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Vita Sancti Hilarionis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Beugnot",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#31",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Gregory Nazianzen",
+    "work": "Oration against Julian",
+    "locator": "3rd",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#34",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Ammianus Marcellinus",
+    "work": "",
+    "locator": "lib. xxix. c. 1, 2",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#38",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Nicephorus",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Binsfeldius",
+    "work": "De Confessionibus Maleficorum",
+    "locator": "pp. 465-467",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "St. Gregory Nazianzen",
+    "work": "Oration",
+    "locator": "xviii",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#43",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Diocletian",
+    "work": "",
+    "locator": "",
+    "quote": "artem geometriæ disci atque exerceri publice interest. Ars autem mathematica damnabilis est",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol1-ch1#47",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Franck",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Le Comte de Gabalis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Plancey",
+    "work": "Dict. Infernale",
+    "locator": "art. Cabale",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Matter",
+    "work": "Hist. du Gnosticisme",
+    "locator": "tom. iii. pp. 259, 260",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#48",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Cudworth",
+    "work": "Int. System",
+    "locator": "vol. ii. p. 648",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#51",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Renan",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch1#56",
@@ -515,163 +697,629 @@
  },
  {
   "id": "vol1-ch1#165",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Dugald Stewart",
+    "work": "Dissert",
+    "locator": "p. 508",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#1",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Jerome",
+    "work": "Life",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#2",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Socrates",
+    "work": "",
+    "locator": "lib. iv. c. 23",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#4",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hume",
+    "work": "Essay on Miracles",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#5",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Hist. de Civilisation",
+    "locator": "Leçon XVII",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Renan",
+    "work": "Études Religieuses",
+    "locator": "",
+    "quote": "Il me semble que pour un vrai philosophe un prison cellulaire avec",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol1-ch2#7",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Muzarelli",
+    "work": "Treatise on the Inquisition",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Henrion",
+    "work": "Histoire de l'Eglise",
+    "locator": "fifth volume",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#12",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Locke",
+    "work": "Commonplace Book",
+    "locator": "",
+    "quote": "It is harder, to believe that God should alter or put out",
+    "lang": "en"
+   },
+   {
+    "author": "King",
+    "work": "Life of Locke",
+    "locator": "vol. i. pp. 230, 231",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Locke",
+    "work": "Essay on the Human Understanding",
+    "locator": "chapter on Reason and Faith",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#13",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch2#14",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Newman",
+    "work": "Anglican Difficulties",
+    "locator": "p. 54",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#16",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch2#17",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Strauss",
+    "work": "Life of Jesus",
+    "locator": "Introduction",
+    "quote": "We may summarily reject all miracles, prophecies, narratives of angels and demons,",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch2#18",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch2#20",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "de Montalembert",
+    "work": "Life of Lacordaire",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#21",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Rose",
+    "work": "On Protestantism in Germany",
+    "locator": "pp. 183–190",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#22",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Aids to Faith",
+    "locator": "first and second Essays",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Mansel",
+    "work": "Essay on Miracles",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch2#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "The Supernatural",
+    "locator": "Edinburgh Review for October 1862",
+    "quote": "The reign of law in nature is indeed, as far as we",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch2#25",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#1",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Justin Martyr",
+    "work": "Apol.",
+    "locator": "i",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#2",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Tertullian",
+    "work": "De Bapt.",
+    "locator": "cc. 5, 6, 7, 8",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#4",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Winckelman",
+    "work": "Hist. of Art",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   },
+   {
+    "author": "Raoul Rochette",
+    "work": "Cours d'Archéologie",
+    "locator": "",
+    "quote": "",
+    "lang": "fr"
+   },
+   {
+    "author": "Ch. Comte",
+    "work": "Traité de Législation",
+    "locator": "liv. iii. ch. 4.",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#5",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#6",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Raoul Rochette",
+    "work": "Tableau des Catacombes",
+    "locator": "p. 187",
+    "quote": "",
+    "lang": "fr"
+   },
+   {
+    "author": "Raoul Rochette",
+    "work": "Tableau des Catacombes",
+    "locator": "pp. 191, 192",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#9",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Ciampini",
+    "work": "Vetera Monumenta",
+    "locator": "pars i. p. 115",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "Maitland",
+    "work": "On the Catacombs",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#12",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Marangoni",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#16",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Maury",
+    "work": "Légendes Pieuses",
+    "locator": "pp. 173–178",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Psalms",
+    "locator": "",
+    "quote": "the hart panting for the waters,",
+    "lang": "en"
+   },
+   {
+    "author": "Ciampini",
+    "work": "De Sacris Ædificiis",
+    "locator": "p. 44",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Arringhi",
+    "work": "Roma Subterranea",
+    "locator": "tom. ii. pp. 602–606",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#19",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Raoul Rochette",
+    "work": "Discours sur les Types de l'Art Chrétien",
+    "locator": "p. 71",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Franck",
+    "work": "Sur la Kabbale",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Maury",
+    "work": "Croyances et Légendes de l'Antiquité",
+    "locator": "p. 338",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Beausobre",
+    "work": "Hist. du Manichéisme",
+    "locator": "tom. i. pp. 35–37",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Justin Martyr",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Tertullian",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Irenæus",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Epiphanius",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#25",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Maury",
+    "work": "Croyances et Légendes",
+    "locator": "art. Veronica",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Matter",
+    "work": "Hist. du Gnosticisme",
+    "locator": "tom. i. pp. 275–278",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Franck",
+    "work": "La Kabbale",
+    "locator": "p. 43",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#26",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Matter",
+    "work": "Hist. du Gnosticisme",
+    "locator": "tom. i. pp. 360–362",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#28",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Raoul Rochette",
+    "work": "Types de l'Art",
+    "locator": "pp. 9–26",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Raoul Rochette",
+    "work": "Tableau des Catacombes",
+    "locator": "p. 265",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Theodoret",
+    "work": "Hist.",
+    "locator": "lib. i. cap. 15",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Augustine",
+    "work": "",
+    "locator": "",
+    "quote": "Qua fuerit ille (Christus) facie nos penitus ignoramus",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#29",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Matter",
+    "work": "Hist. du Gnosticisme",
+    "locator": "tom. i. pp. 88, 89–98",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#30",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Thomas à Becket",
+    "work": "hymn",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#31",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Augustine",
+    "work": "De Trinitate",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Song of Solomon",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Nicephorus",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Raoul Rochette",
+    "work": "Types de l'Art Chrétien",
+    "locator": "pp. 30–39",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Pascal",
+    "work": "Institutions de l'Art Chrétien",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#33",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Bonaventura",
+    "work": "Psalter",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#35",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Addison",
+    "work": "Christian Evidences",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Marangoni",
+    "work": "Istoria della Cappella di Sancta Sanctorum di Roma",
+    "locator": "pp. 235–239",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#36",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Maimbourg",
+    "work": "Histoire des Iconoclastes",
+    "locator": "pp. 44–47",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Spanheim",
+    "work": "Historia Imaginum",
+    "locator": "pp. 417–420",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Marangoni",
+    "work": "Sancta Sanctorum",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Arringhi",
+    "work": "Roma Subterranea",
+    "locator": "tom. ii. pp. 452–460",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#37",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#38",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#39",
@@ -970,35 +1618,98 @@
  },
  {
   "id": "vol1-ch3#71",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sabatier",
+    "work": "Hist. de la Législation sur les Femmes Publiques",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#72",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Rio",
+    "work": "Art Chrétien",
+    "locator": "tom. i. p. 354",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#73",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Thevenot",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#74",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Rio",
+    "work": "Art Chrétien",
+    "locator": "Introd. pp. 17–21",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "O. Müller",
+    "work": "Manuel d'Archéologie",
+    "locator": "tom. i. pp. 156–157",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#75",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Eusebius",
+    "work": "Vita Const.",
+    "locator": "lib. iii. caps. 5, 6",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#76",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Vitet",
+    "work": "Études sur l'Histoire de l'Art",
+    "locator": "tom. i. p. 94",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#77",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Platina",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#78",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#79",
@@ -1108,67 +1819,233 @@
  },
  {
   "id": "vol1-ch3#88",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Beausobre",
+    "work": "Hist. du Manichéisme",
+    "locator": "tom. i. pp. 286–288",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Barbeyrac",
+    "work": "Morale des Pères",
+    "locator": "ch. vii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Spicilegium Solesmense",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "St. Melito",
+    "work": "Clavis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#89",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "De Genesi contra Manichaeos",
+    "locator": "lib. i. c. 23.",
+    "quote": "Bone of his bone, and flesh of his flesh,",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#90",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "Lib. v. cap. 25.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Swedenborg",
+    "work": "Conjugal Affection",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#91",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#92",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "Lib. ii. cap. 2.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#93",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Beausobre",
+    "work": "Hist. du Manichéisme",
+    "locator": "tom. i. p. 246.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#94",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Benedictine edition of the Greek Fathers",
+    "locator": "tom. ii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Montfaucon",
+    "work": "preface",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#95",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "Lib. i. prologus 2.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#96",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#97",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Isaiah",
+    "locator": "xl. 22",
+    "quote": "Qui statuit cœlum sicut fornicem.",
+    "lang": "la"
+   },
+   {
+    "author": "",
+    "work": "Job",
+    "locator": "xxxviii. 38",
+    "quote": "Cœlum autem in terram inclinavit, effusa est vero sicut terra, calx, conglutinavi",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#98",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#99",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#100",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Libertus Fromundus",
+    "work": "Vesta, sive Anti-Aristarchi Vindex",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#101",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Nicolaus Copernicus",
+    "work": "Revolutionibus orbium cœlestium",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Didacus Astunica",
+    "work": "Job",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Paolo Foscarini",
+    "work": "Letera del R. P. Maestro Paolo Foscarini sopra l'Opinione d' i Pythagorici e del Copernico",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Libertus Fromundus",
+    "work": "Anti-Aristarchus, sive Orbis Terræ immobilis",
+    "locator": "",
+    "quote": "Quia ad notitiam Sanctæ Congregationis pervenit falsam illam doctrinam Pythagoricam, divinæque Scripturæ",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#102",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Gronovius",
+    "work": "On the Tombs of the Popes",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Mathew of Westminster",
+    "work": "",
+    "locator": "anno 998",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#103",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Novum Organon",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#104",
@@ -1627,131 +2504,504 @@
  },
  {
   "id": "vol1-ch3#140",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Warburton",
+    "work": "Divine Legation",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Whately",
+    "work": "Essays on the Peculiarities of the Christian Religion",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Mackay",
+    "work": "Religious Developement of the Greeks and Hebrews",
+    "locator": "vol. ii. pp. 286–297",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#141",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Denis",
+    "work": "Histoire des Idées Morales dans l'Antiquité",
+    "locator": "tom. i. pp. 18, 19",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#142",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Denis",
+    "work": "Histoire des Idées Morales dans l'Antiquité",
+    "locator": "pp. 104–106",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#143",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Magnin",
+    "work": "Origines du Théâtre",
+    "locator": "tom. i. pp. 81–84",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#144",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Beausobre",
+    "work": "Hist. Critique du Manichéisme",
+    "locator": "tom. i. pp. 243–244",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#145",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Dallæus",
+    "work": "De Pœnis et Satisfactionibus",
+    "locator": "lib. iv. c. 9",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Herodotus",
+    "work": "",
+    "locator": "lib. v. c. 92",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#146",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Matthew of Westminster",
+    "work": "",
+    "locator": "An. 880",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#147",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Guizot",
+    "work": "History of Civilisation",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "St. René Taillandier",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#148",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Taillandier",
+    "work": "Scot. Erigène",
+    "locator": "pp. 176–180",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Ampère",
+    "work": "Hist. Littéraire de la France",
+    "locator": "tom. iii. p. 95",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Alexandri",
+    "work": "Hist. Eccles.",
+    "locator": "tom. vi. pp. 361–363",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#149",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Swinden",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Plancy",
+    "work": "Dictionnaire Infernal",
+    "locator": "art. Enfer",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Milman",
+    "work": "Hist. of Latin Christianity",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#151",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Swinden",
+    "work": "",
+    "locator": "p. 129",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#153",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Scaligerana",
+    "locator": "Art. Heretici",
+    "quote": "J'avois environ seize ans que je vis brusler un Jacobin qui fermoit",
+    "lang": "fr"
+   },
+   {
+    "author": "Cousin",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#154",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Suarez de Paz",
+    "work": "Praxis Ecclesiastica et Sæcularis",
+    "locator": "p. 158",
+    "quote": "In crimine hæresis omnes illi torquendi sunt qui in crimine læsæ majestatis",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#156",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Strutt",
+    "work": "Manners of the English People",
+    "locator": "vol. iii. p. 46",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hallam",
+    "work": "Const. Hist.",
+    "locator": "(ed. 1827), vol. i. p. 159",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Milner",
+    "work": "Letters to a Prebendary",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Froude",
+    "work": "Hist.",
+    "locator": "vol. vii. pp. 418, 419",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Barrington",
+    "work": "On the Statutes",
+    "locator": "pp. 80, and 440, 441",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#157",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Loiseleur",
+    "work": "Sur les Peines",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Montaigne",
+    "work": "Essays",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Charron",
+    "work": "Sagesse",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bayle",
+    "work": "Contrains-les Entrer",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Voltaire",
+    "work": "Phil. Dict.",
+    "locator": "art. Torture",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#159",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Loiseleur",
+    "work": "",
+    "locator": "pp. 335–338",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#160",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#162",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Laing",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#163",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Phaedon",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#165",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Cudworth",
+    "work": "",
+    "locator": "vol. iii. p. 318",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Cudworth",
+    "work": "",
+    "locator": "Ibid. p. 330.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#167",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "cap. ix.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#168",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Maury",
+    "work": "Légendes Pieuses",
+    "locator": "pp. 125–127.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#170",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Schelling",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#171",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Schmidt",
+    "work": "Études sur le Mysticisme Allemand du XIVe Siècle",
+    "locator": "tom. ii.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#173",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Melanchthon",
+    "work": "De Anima",
+    "locator": "p. 420",
+    "quote": "Mares nascuntur magis in dextrâ parte matricis, et a semine quod magis",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol1-ch3#174",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Maine de Biran",
+    "work": "Nouveaux Rapports Physiques et Morales",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#175",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hitchcock",
+    "work": "Religion of Geology",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hitchcock",
+    "work": "Lectures on the Seasons",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#177",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Plancey",
+    "work": "Dict. Infernal",
+    "locator": "art. Enfer",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#178",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Barrington",
+    "work": "On the Statutes",
+    "locator": "p. 461",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#179",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sir Thomas More",
+    "work": "Utopia",
+    "locator": "book i.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#180",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Barrington",
+    "work": "",
+    "locator": "pp. 461–462",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch3#181",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch3#182",
@@ -1843,67 +3093,254 @@
  },
  {
   "id": "vol1-ch4#7",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Biog. Univ.",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch4#11",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch4#14",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Jonathan Edwards",
+    "work": "Original Sin",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch4#15",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Matter",
+    "work": "Histoire des Doctrines Morales des trois Derniers Siècles",
+    "locator": "tom. i. pp. 51–67",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Pomponatius",
+    "work": "The Immortality of the Soul",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Biog. Univ.",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Charron",
+    "work": "Christian Evidences",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Huet",
+    "work": "Traité Philosophique de la Foiblesse de l'esprit humain",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bayle",
+    "work": "Réponses au Provincial",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Leibnitz",
+    "work": "La Foi et la Raison",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Lammenais",
+    "work": "Essai sur l'Indifférence",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch4#18",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Chillingworth",
+    "work": "Religion of Protestants",
+    "locator": "chap. vii.",
+    "quote": "This is certain, that God will not deal unjustly with unbaptised infants;",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch4#22",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Luther",
+    "work": "Table Talk",
+    "locator": "",
+    "quote": "It were a light and an easy matter for a Christian to",
+    "lang": "en"
+   },
+   {
+    "author": "Jubinal",
+    "work": "sur les Danses des Morts",
+    "locator": "p. 8.",
+    "quote": "Dans la société païenne toute composée du sensualisme et de licence, on",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol1-ch4#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch4#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Allemand-Lavigerie",
+    "work": "École Chrétienne d'Édesse",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch4#33",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Calvin",
+    "work": "De Æterna Dei Prædestinatione",
+    "locator": "",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "Calvin",
+    "work": "Institut. Christ.",
+    "locator": "lib. iii. c. 21–23",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "Beza",
+    "work": "De Æterna Dei Prædestinatione, contra Sebastianum Castellionem",
+    "locator": "",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "Beza",
+    "work": "Opuscula",
+    "locator": "",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "Beza",
+    "work": "Beza's Display of Popish Practices, or Patched Pelagianism",
+    "locator": "",
+    "quote": "God is not moved with the hatred of any that He should",
+    "lang": "en"
+   },
+   {
+    "author": "Jonathan Edwards",
+    "work": "Freedom of Will",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch4#34",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Jonathan Edwards",
+    "work": "Freedom of Will",
+    "locator": "p. 369",
+    "quote": "If by the author of sin is meant the permitter or not",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch4#36",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Jeremy Taylor",
+    "work": "Doctor Dubitantium",
+    "locator": "lib. iii. c. 2",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch4#38",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Newman",
+    "work": "Apologia pro Vita sua",
+    "locator": "Appendix, p. 77",
+    "quote": "The Greek Fathers thought that, when there was a justa causa, an",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol1-ch4#39",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Theologiae Christianae Principia Mathematica",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch4#40",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Laplace",
+    "work": "Théorie des Probabilités",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol1-ch4#41",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch4#42",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol1-ch4#44",
@@ -2003,259 +3440,982 @@
  },
  {
   "id": "vol2-ch4#11",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Lactantius",
+    "work": "Inst.",
+    "locator": "lib. v. c. xx.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Jerome",
+    "work": "Epist.",
+    "locator": "lib. ii. epist. 14",
+    "quote": "quasi quidam fluvius eloquentiæ Tullianæ, utinam tam nostra confirmare potuisset, quam facile",
+    "lang": "la"
+   },
+   {
+    "author": "Alexander",
+    "work": "Hist. Ecclesiastica",
+    "locator": "tom. iv. pp. 100-103",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Ampère",
+    "work": "Hist. Littéraire de la France",
+    "locator": "tom. i. pp. 218-223",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#12",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Socrates",
+    "work": "",
+    "locator": "lib. iv. c. xvi.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#13",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Cod. Theod.",
+    "locator": "lib. xvi. tit. 8.",
+    "quote": "sustinebit meritas pœnas.",
+    "lang": "la"
+   },
+   {
+    "author": "Bedarride",
+    "work": "Hist. des Juifs",
+    "locator": "pp. 16-20",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#15",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Cod. Th.",
+    "locator": "lib. ix. tit. 16, cc. i. ii.",
+    "quote": "Addite aras publicas atque delubra, et consuetudinis vestræ celebrate solemnia: nec enim",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#16",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Zosimus",
+    "work": "",
+    "locator": "book iv.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#17",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Eusebius",
+    "work": "Vita Constantini",
+    "locator": "lib. ii. c. xliv. xlv.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#18",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Eusebius",
+    "work": "Vita Constantini",
+    "locator": "lib. ii. c. xliv. xlv., lib. iv. c. xxiii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Theodoret",
+    "work": "",
+    "locator": "lib. vi. c. xxi.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sozomen",
+    "work": "",
+    "locator": "lib. iii. c. xvii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Milman",
+    "work": "History of Christianity",
+    "locator": "vol. ii. pp. 460-464 (ed. 1840)",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#19",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Libanius",
+    "work": "De Vita sua",
+    "locator": "Libanii Opera (ed. 1627), vol. ii. p. 11.",
+    "quote": "Plus apud Deos quam apud homines in terra conversabatur, tametsi lex prohiberet,",
+    "lang": "la"
+   },
+   {
+    "author": "Libanius",
+    "work": "Pro Templis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#20",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Beugnot",
+    "work": "Decadence du Polytheisme",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Burke",
+    "work": "",
+    "locator": "",
+    "quote": "Connivance, is the relaxation of tyranny, and not the definition of liberty",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#22",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Zosimus",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "De Templis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Pro Templis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#25",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Taylor",
+    "work": "Liberty of Prophesying",
+    "locator": "epistle dedicatory",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#26",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Cyprian",
+    "work": "Epis.",
+    "locator": "lib. i. ep. 11.",
+    "quote": "Neither let those who refuse to obey their bishops and priests think",
+    "lang": "en"
+   },
+   {
+    "author": "Taylor",
+    "work": "Liberty of Prophesying",
+    "locator": "sec. 14.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#27",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Retract",
+    "locator": "lib. ii. c. v.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Epist.",
+    "locator": "xciii. (in some editions xlviii.) cxxvii. clxxxv.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Contra Gaudentium",
+    "locator": "c. xxv.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Contra Epist. Parmeniani",
+    "locator": "c. vii.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#28",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Epist.",
+    "locator": "1. Bonifacio",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#29",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Augustine",
+    "work": "Epistulae",
+    "locator": "c. clviii. clix. clx.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Augustine",
+    "work": "Contra Gaudentium",
+    "locator": "lib. i. c. xix.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Augustine",
+    "work": "Epistulae",
+    "locator": "cv., otherwise clxvi.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Augustine",
+    "work": "Contra Parmenianum",
+    "locator": "lib. i. c. viii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Augustine",
+    "work": "Epistulae",
+    "locator": "clxvi.",
+    "quote": "Quid est enim pejor mors animos quam libertas erroris?",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#32",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Thadeus de Trautsmandorff",
+    "work": "La Tolerance Ecclesiastique et Civile",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Limborch",
+    "work": "Historia Inquisitionis",
+    "locator": "pp. 365-367, 372",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#34",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch4#36",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Rohrbacher",
+    "work": "Histoire de l'Eglise Catholique",
+    "locator": "torn. xvii. p. 220.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Eymericus",
+    "work": "Directorium Inquisitorum",
+    "locator": "p. 60",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#38",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sarpi",
+    "work": "Hist. of Council of Trent",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#39",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Motley",
+    "work": "Rise of the Dutch Republic",
+    "locator": "vol. ii. p. 155",
+    "quote": "Upon the 16th of February, 1568, a sentence of the Holy Office",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#44",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Mariana",
+    "work": "De Reins Ilispanicis",
+    "locator": "lib. xxiv. c. 17.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#45",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hallam",
+    "work": "Const. Hist.",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#47",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Elrington",
+    "work": "Life of Usher",
+    "locator": "vol. i. p. 73",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#48",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Wodrow",
+    "work": "History",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Neal",
+    "work": "History of the Puritans",
+    "locator": "vol. ii. pp. 695-696",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#50",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "McCrie",
+    "work": "Life of Knox",
+    "locator": "(ed. 1840), p. 246",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#53",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bancroft",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#54",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Temple",
+    "work": "On the United Provinces",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#56",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Biographie Universelle",
+    "locator": "art. Descartes",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Voltaire",
+    "work": "Lettres philosophiques",
+    "locator": "xiv.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Gioja",
+    "work": "Filosofia della Statistica",
+    "locator": "torn. ii. p. 389.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#58",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Henry",
+    "work": "Life of Calvin",
+    "locator": "vol. ii. pp. 232-242.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#59",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "McCrie",
+    "work": "Life of Knox",
+    "locator": "p. 246.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Knox",
+    "work": "Appellation",
+    "locator": "",
+    "quote": "None provoking the people to idolatrie oght to be exempted from the",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#60",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Neal",
+    "work": "History of the Puritans",
+    "locator": "ed. 1754, vol. i. pp. 40, 41.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#61",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch4#62",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Jurieu",
+    "work": "Droits des deux Souverains en Matière de Religion, la Conscience, et l'Expérience",
+    "locator": "[Rotterdam, 1687], p. 14.",
+    "quote": "Ce dogme Socinien, le plus dangereux de tous ceux de la secte",
+    "lang": "fr"
+   },
+   {
+    "author": "Bayle",
+    "work": "Contrains-les d'entrer",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#63",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Droit des deux Souverains",
+    "locator": "pp. 280-282.",
+    "quote": "Peut-on nier que le paganisme est tombé dans le monde par l'autorité",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#64",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hallam",
+    "work": "Hist. of Literature",
+    "locator": "vol. i. p. 554",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#65",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Beza",
+    "work": "De Ilcereticis",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "McKenzie",
+    "work": "Life of Calvin",
+    "locator": "pp. 79-89",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Coleridge",
+    "work": "Notes on English Divines",
+    "locator": "vol. i. p. 49",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#66",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bayle",
+    "work": "",
+    "locator": "art. Castalio",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Henry",
+    "work": "Life of Calvin",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hallam",
+    "work": "Hist. of Literature",
+    "locator": "vol. i. p. 557",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Alexander",
+    "work": "Sibylline verses",
+    "locator": "[Paris, 1846]",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#67",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Niebuhr",
+    "work": "",
+    "locator": "",
+    "quote": "I should deem the Bible itself imperfect if it did not include",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#70",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bayle",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Henry",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Gluten",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Castellio",
+    "work": "",
+    "locator": "",
+    "quote": "Vocas me subinde in Gallico libello: blasphemum, calumniatorem, malignum, canem latrantem, plenum",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#71",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Essais",
+    "locator": "liv. i. c. 34.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#72",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Beza",
+    "work": "Vita Calvini",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#77",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch4#78",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "ch. i.",
+    "quote": "Sans exception il faut soummettre toutes les lois morales à cette idée",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#79",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "Part i. c. 5.",
+    "quote": "Tout homme aiant éprouvé qu'il est sujet à l'erreur, et qu'il voit",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#80",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Grattan",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#82",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Lamennais",
+    "work": "Affaires de Rome",
+    "locator": "pp. 318-357",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#83",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Areopagitica",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#84",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Religion of Protestants",
+    "locator": "p. 44 (ed. 1742)",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#85",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Neal",
+    "work": "History of the Puritans",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Neal",
+    "work": "History of the Puritans",
+    "locator": "vol. ii. pp. 338-340",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Neal",
+    "work": "History of the Puritans",
+    "locator": "pp. 211-222",
+    "quote": "The parliament of this kingdom is persuaded that the piety and wisdom",
+    "lang": "en"
+   },
+   {
+    "author": "Calvin",
+    "work": "Psychopannychia",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Neal",
+    "work": "History of the Puritans",
+    "locator": "vol. ii. p. 339",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#86",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Holy Commonwealth",
+    "locator": "2nd Preface",
+    "quote": "Popery, Mahometanism, infidelity, and heathenism are the way to damnation; but liberty",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#87",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Political Aphorisms",
+    "locator": "23-24",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#88",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Harrington",
+    "work": "System of Politics",
+    "locator": "ch. vi",
+    "quote": "If it be said that in France there is liberty of conscience",
+    "lang": "en"
+   },
+   {
+    "author": "Harrington",
+    "work": "Oceana",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#89",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Areopagitica",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#90",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Areopagitica",
+    "locator": "",
+    "quote": "Truth, indeed, came once into the world with her Divine Master, and",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#91",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Of true Religion, Heresy, Schism, Toleration",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#92",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Of true Religion, Heresy, Schism, Toleration",
+    "locator": "",
+    "quote": "As for tolerating the exercise of their (the Catholics') religion, supposing their",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#93",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Chillingworth",
+    "work": "The Religion of Protestants",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#94",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch4#95",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Coleridge",
+    "work": "Notes on English Divines",
+    "locator": "vol. i. p. 209",
+    "quote": "If Jeremy Taylor had not in effect retracted after the Restoration, if",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch4#96",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch4#97",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch4#98",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Annuaire des Deux Monties",
+    "locator": "1858, p. 463",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch4#99",
@@ -2347,131 +4507,431 @@
  },
  {
   "id": "vol2-ch5#7",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sarpi",
+    "work": "",
+    "locator": "pp. 48-57 (ed. 1639)",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#8",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "M. Mignet",
+    "work": "Antonio Perez",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#10",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#11",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sarpi",
+    "work": "",
+    "locator": "Pp. 89, 90",
+    "quote": "Altre volte li santi Vescovi niuna cosa più predicavano e raccommandavano à",
+    "lang": "it"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#12",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Carena",
+    "work": "De Officio S. Inquisitionis",
+    "locator": "pp. 135-161",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sanchez",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Dens",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#14",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sarpi",
+    "work": "",
+    "locator": "p. 60",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sismondi",
+    "work": "Hist. de la Liberté",
+    "locator": "tom. i. pp. 108, 109",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#16",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Julian",
+    "work": "Epistle to Jamblichus",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#17",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sarpi",
+    "work": "",
+    "locator": "pp. 192, 193",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Milton",
+    "work": "Areopagitica",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#18",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Giannone",
+    "work": "Istoria di Napoli",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#19",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sleidan",
+    "work": "",
+    "locator": "liv. ii",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#20",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Lammenais",
+    "work": "Affaires de Rome",
+    "locator": "pp. 37-89",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#21",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Berkeley",
+    "work": "Querist",
+    "locator": "No. 291",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#22",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Leaders of Public Opinion in Ireland",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Blanco White",
+    "work": "Life",
+    "locator": "vol. i. p. 310",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Joyce",
+    "work": "Hist. of English Convocations",
+    "locator": "p. 449",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#27",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Gladstone",
+    "work": "Church and State",
+    "locator": "p. 188",
+    "quote": "At the point where Protestantism becomes vicious, where it receives the first",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#29",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Grotius",
+    "work": "De Jure Belli et Pacis",
+    "locator": "lib. i. cap. 4",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Taylor",
+    "work": "Ductor Dubitantium",
+    "locator": "lib. iii. cap. 3",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Gregory XVI",
+    "work": "bull to the Bishops of Poland",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Lammenais",
+    "work": "Affaires de Rome",
+    "locator": "pp. 308-317",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Sacro-Sancta Regum Majestas",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#30",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Grotius",
+    "work": "De Jure",
+    "locator": "lib. i. c. iv. § 7",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#31",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bianchi",
+    "work": "Traité de la Puissance Ecclésiastique",
+    "locator": "tom. i. p. 639-642",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#32",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Avis aux Réfugiez sur leur prochain Retour en France",
+    "locator": "p. 43",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bianchi",
+    "work": "Puissance Eccl.",
+    "locator": "tom. i. pp. 651, 652",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#33",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hallam",
+    "work": "Hist. of the Middle Ages",
+    "locator": "chapter on the 'Increase of Ecclesiastical Authority,'",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bossuet",
+    "work": "Defence of the Articles of the Gallican Church",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bianchi",
+    "work": "On Ecclesiastical Power",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#35",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bianchi",
+    "work": "Puissance Ecclésiastique",
+    "locator": "tom. i. pp. 550-571",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#36",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Sumna",
+    "locator": "Pars II. Quæst. civ. art. 6",
+    "quote": "Principibus sæcularibus in tantum homo obedire tenetur in quantum ordo justitiæ requirit.",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#37",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bianchi",
+    "work": "",
+    "locator": "tom. i. pp. 135, 136",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Milman",
+    "work": "Hist. of Latin Christianity",
+    "locator": "vol. vi. pp. 470-474",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#39",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Toland",
+    "work": "Life of Harrington",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#44",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bianchi",
+    "work": "",
+    "locator": "tom. i. pp. 145-147",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#46",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#48",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "p. 62",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#49",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "lib. i. ch. vi.",
+    "quote": "An tyrannum opprimere fas sit?",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#51",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#54",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#58",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#59",
@@ -2686,35 +5146,140 @@
  },
  {
   "id": "vol2-ch5#82",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Knox",
+    "work": "Appellation",
+    "locator": "",
+    "quote": "And therfor I fear not to affirm that it had bene the",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#84",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Camden",
+    "work": "Annal.",
+    "locator": "pars ii. (ad ann. 1571)",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#85",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#87",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Homily on Wilful Rebellion",
+    "locator": "",
+    "quote": "Eternal damnation is prepared for all impenitent rebels in hell with Satan",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#88",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Homily on Wilful Rebellion",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Homily on Obedience",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Canons of Convocation",
+    "locator": "1606",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hallam",
+    "work": "Const. Hist.",
+    "locator": "vol. i. p. 415",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#89",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Taylor",
+    "work": "Ductor Dubitantium",
+    "locator": "lib. iii. cap. iii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Elrington",
+    "work": "Life of Ussher",
+    "locator": "vol. i. p. 239",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Berkeley",
+    "work": "Discourse on Passive Obedience",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#90",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Allen",
+    "work": "Hist. of Royal Prerogative in England",
+    "locator": "p. 89",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Magna Charta",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#91",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Wodrow",
+    "work": "Hist. of Church of Scotland",
+    "locator": "vol. iii. p. 506",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hallam",
+    "work": "Const. Hist.",
+    "locator": "vol. ii. pp. 459-465 (ed. 1854)",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#92",
@@ -2806,35 +5371,125 @@
  },
  {
   "id": "vol2-ch5#101",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#102",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#104",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Toland",
+    "work": "Anglica Libera",
+    "locator": "p. 185",
+    "quote": "the success of the Protestant religion, politically speaking, depends on the liberty",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#105",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bianchi",
+    "work": "",
+    "locator": "tom. i. pp. 46-84",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Avis aux Réfugiez sur leur prochain retour en France",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Michelet",
+    "work": "Hist. de Louis XIV",
+    "locator": "pp. 431-436",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Jurieu",
+    "work": "Soupirs de la France Esclave",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#106",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Avis aux Réfugiez",
+    "locator": "pp. 64, 65 (ed. 1692)",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#107",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Michelet",
+    "work": "Hist. de Louis XIV",
+    "locator": "(1860), p. 432",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#108",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hotman",
+    "work": "Franco-Gallia",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hotman",
+    "work": "Brutum Fulmen",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hotman",
+    "work": "Antitribonius",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Joseph Scaliger",
+    "work": "Scaligerana",
+    "locator": "art. Hottomannus",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#109",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Franco-Gallia",
+    "locator": "lib. i. c. 9",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#110",
@@ -2902,67 +5557,220 @@
  },
  {
   "id": "vol2-ch5#120",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Noodt",
+    "work": "On the Power of Sovereigns",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Gronovius",
+    "work": "On the Royal Law",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#121",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Froude",
+    "work": "Nemesis of Faith",
+    "locator": "pp. 160, 161",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#122",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Comus",
+    "locator": "",
+    "quote": "Mortals! who would follow me, Love virtue, she alone is free: She",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#123",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Cibrario",
+    "work": "Economia Politico, del Medio Evo",
+    "locator": "vol. ii. p. 247 (2nd ed.)",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Ulrich von Hutten",
+    "work": "Epistolae Obscurorum Virorum",
+    "locator": "[London, 1689], pp. 103-107",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#124",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Montaigne",
+    "work": "Essais",
+    "locator": "liv. i. c. 27.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#125",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Franco-Gallia",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Mémoires de l'Estat de France sous Charles IX",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Tallemant des Reaux",
+    "work": "Les Historiettes",
+    "locator": "tom. i. p. 395.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#126",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Chevalier",
+    "work": "Lettres sur V Organisation de Travail",
+    "locator": "p. 17.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#127",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#128",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Napoleon III",
+    "work": "Du Passé et de l'Avenir de l'Artillerie",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Thiers",
+    "work": "Hist. de l'Empire",
+    "locator": "last volume",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Condorcet",
+    "work": "Tableau de V Esprit humain",
+    "locator": "p. 144",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Cibrario",
+    "work": "Economia Publica del Media Evo",
+    "locator": "tom. i. pp. 334, 335",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#130",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sewell",
+    "work": "Christian Politics",
+    "locator": "ch. x.",
+    "quote": "It is idle, and worse than idle, to attempt to restrict and",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#131",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bianchi",
+    "work": "",
+    "locator": "tom. i. p. 84",
+    "quote": "Quoique nous tombions d'accord que la source ou l'origine de la puissance",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch5#132",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Abbé de L'Enfert",
+    "work": "Discours par un Ministre Patriote sur le projet d'accorder l'état civil aux Protestants",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#134",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "La Sagesse",
+    "locator": "p. iii.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#135",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#136",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Thiers",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch5#137",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch5#138",
@@ -3074,99 +5882,457 @@
  },
  {
   "id": "vol2-ch6#7",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Codex Theodosianus",
+    "locator": "lib. ii. tit. 8, lex 1, and iv. 7, 1",
+    "quote": "",
+    "lang": "la"
+   },
+   {
+    "author": "A. Comte",
+    "work": "Philosophic Positive",
+    "locator": "tom. vi. pp. 43-47",
+    "quote": "",
+    "lang": "fr"
+   },
+   {
+    "author": "Storch",
+    "work": "Economic Politique",
+    "locator": "tom. v. pp. 306-310",
+    "quote": "",
+    "lang": "fr"
+   },
+   {
+    "author": "Troplong",
+    "work": "Influence du Christianisme sur le Droit Civil",
+    "locator": "",
+    "quote": "",
+    "lang": "fr"
+   },
+   {
+    "author": "Bedarride",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Du Lac",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Codex Theodosianus",
+    "locator": "ix. 6, 2",
+    "quote": "Cum accusatores servi dominis intonent, nemo judiciorum expectet eventum, nihil quæri, nihil",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#8",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Wright",
+    "work": "Letter on the Political Condition of the English Peasantry during the Middle Ages",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#9",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Champagny",
+    "work": "La Cliarite Chretienne",
+    "locator": "pp. 275-289",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#10",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Perin",
+    "work": "La Eicliesse dans les Societes Chretiennes",
+    "locator": "tom. i. pp. 345-361",
+    "quote": "",
+    "lang": "fr"
+   },
+   {
+    "author": "Van Bruyssel",
+    "work": "Hist. du Commerce Beige",
+    "locator": "tom. i. pp. 58, 59",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#12",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Grote",
+    "work": "Hist. of Greece",
+    "locator": "vol. ii. p. 123.",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#14",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Morighini",
+    "work": "On Institutions of Charity at Rome",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   },
+   {
+    "author": "M'Culloch",
+    "work": "Pol. Econ.",
+    "locator": "part i. ch. viii.",
+    "quote": "",
+    "lang": "en"
+   },
+   {
+    "author": "Parent-Duchatel",
+    "work": "Prostitution in the City of Paris",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   },
+   {
+    "author": "Ducellier",
+    "work": "Hist. des Classes Laborieus",
+    "locator": "",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#15",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Champagny",
+    "work": "Charite Chretienne",
+    "locator": "",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#16",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#21",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Brady",
+    "work": "Historical Treatise on Cities",
+    "locator": "p. 18",
+    "quote": "It wants not probability, though it manifestly appears not, that William Rufus,",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#22",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Thierry",
+    "work": "Hist. du Tiers Etat",
+    "locator": "pp. 24, 25",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Wealth of Nations",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#23",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "J. B. Say",
+    "work": "Traite d'Economie Politique",
+    "locator": "",
+    "quote": "interest of assurance,",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#24",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Chevallier",
+    "work": "Econ. Polit.",
+    "locator": "sec. v. c. 1.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#25",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Concina",
+    "work": "Adversus Usuram",
+    "locator": "Romæ, 1746",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Concina",
+    "work": "Usura Contractus trini",
+    "locator": "Romæ, 1748",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Leotardus",
+    "work": "De Usuris",
+    "locator": "Lugduni, 1649",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Lamet et Fromageau",
+    "work": "Dictionnaire des Cas de Conscience",
+    "locator": "art. Usure (Paris, 1733)",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Conférences Ecclésiastiques de Paris sur l'Usure",
+    "locator": "Paris, 1748",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#26",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Anderson",
+    "work": "Hist. of Commerce",
+    "locator": "vol. i. pp. 79-113",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Council of Nice",
+    "work": "decree",
+    "locator": "",
+    "quote": "Quoniam multi sub regula constituti avaritiam et turpia lucra sectantur, oblitique divinas",
+    "lang": "la"
+   },
+   {
+    "author": "Troplong",
+    "work": "Mémoire sur le Prêt à l'Intérêt",
+    "locator": "read before the Institute in 1844",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#28",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Lamet et Fromageau",
+    "work": "Dict. des Cas de Conscience",
+    "locator": "Art. Usure",
+    "quote": "Que Titius, ne seroit pas exempt d'usure en ne prenant que trois",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#29",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Conferences sur l'Usure",
+    "locator": "tom. i. p. 100",
+    "quote": "Usura non est dum ultra sortem aliquid exigitur tanquam ex benevolentia et",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#31",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Lamet et Fromageau",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Troplong",
+    "work": "Memoire",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#32",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#33",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Escobar",
+    "work": "Moral Philosophy",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#34",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Conférences sur l'Usure",
+    "locator": "tom. i. p. 23",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Salelles",
+    "work": "De Materiis Tribunalmm Inquisitionis",
+    "locator": "tom. ii. p. 156",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Cibrario",
+    "work": "Economia Politico del Medio Evo",
+    "locator": "vol. ii. p. 52",
+    "quote": "incest and usury are not sins.",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#35",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Chartario",
+    "work": "Praxis Interrogandarum Serum",
+    "locator": "p. 201",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#36",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Conférences sur l'Usure",
+    "locator": "tom. i. p. 100",
+    "quote": "Dominus noster, Luca attestante, aperte nos præcepto adstrinxit ne ex dato mutuo",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#37",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Thomas",
+    "work": "Summa",
+    "locator": "Pars ii. Quasst. 78",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Turgot",
+    "work": "Mem. sur les Prêts d'Argent",
+    "locator": "§ 26-27",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#38",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "Lev.",
+    "locator": "xxv. 36",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Deut.",
+    "locator": "xxiii. 19",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Ps.",
+    "locator": "xv. 5",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Ezek.",
+    "locator": "xviii.",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "",
+    "work": "Luke",
+    "locator": "vi. 35",
+    "quote": "Mutuum date nihil hide sperantea",
+    "lang": "la"
+   },
+   {
+    "author": "Bossuet",
+    "work": "2nde Pastorale, contre la Version de Richard Simon",
+    "locator": "",
+    "quote": "La tradition constante des conciles, a commencer par les plus anciens, celle",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#40",
@@ -3265,131 +6431,559 @@
  },
  {
   "id": "vol2-ch6#49",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Concina",
+    "work": "Adversus Usuram",
+    "locator": "p. 2",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Leotardus",
+    "work": "De Usuris",
+    "locator": "p. 15",
+    "quote": "Carolus Molinaeus contendit acerrime usuram, nisi fraus adsit aut debitor nimium opprimatur,",
+    "lang": "la"
+   },
+   {
+    "author": "M'Culloch",
+    "work": "Pol. Econ.",
+    "locator": "pt. iii. ch. viii",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#50",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Anderson",
+    "work": "Hist. of Commerce",
+    "locator": "vol. i. p. 304",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#51",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "De Jure Belli et Pads",
+    "locator": "lib. ii. cap. 12",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#52",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#53",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Le Fevre",
+    "work": "",
+    "locator": "",
+    "quote": "C'eat la proprement ce qu'on peut appeler Fart de chicaner avec Dieu.",
+    "lang": "fr"
+   },
+   {
+    "author": "Marot",
+    "work": "",
+    "locator": "",
+    "quote": "On ne prete plus a 1'usure, Mais tant qu'on veut a 1'interet.",
+    "lang": "fr"
+   },
+   {
+    "author": "",
+    "work": "Conférences sur l'Usure",
+    "locator": "tom. i. p. 25",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Concina",
+    "work": "Adversus Usuram",
+    "locator": "p. 3",
+    "quote": "fere primus",
+    "lang": "la"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#54",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Concina",
+    "work": "De Usura trini Contractûs",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Lamet",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Fromageau",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Troplong",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#55",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Pichler",
+    "work": "Jus Canonicum",
+    "locator": "lib. iii. tit. 19",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Concina",
+    "work": "De Usura trini Contractûs",
+    "locator": "pp. 152-155",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#58",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Locke",
+    "work": "Considerations on the Lowering of Interest",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Harrington",
+    "work": "Prerogative of Popular Government",
+    "locator": "c. 3",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#59",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Storch",
+    "work": "Economic Politique",
+    "locator": "tom. iii. p. 187",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#60",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bentham",
+    "work": "On Usury",
+    "locator": "Letter xiii.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#62",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Storch",
+    "work": "Economie Politique",
+    "locator": "tom. iii. p. 175",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#63",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Van Bruyssel",
+    "work": "Hist. du Commerce Beige",
+    "locator": "tom. i. p. 140",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Littre",
+    "work": "Revolution, Conservation et Positivisme",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "De Plassan",
+    "work": "Hist. de la Diplomatie Franchise",
+    "locator": "Introd.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#64",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bedarride",
+    "work": "Hist. des Juifs",
+    "locator": "p. 16",
+    "quote": "Le Christianisme ne prit une veritable consistance que sous la regne do",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#65",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bedarride",
+    "work": "",
+    "locator": "p. 260",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bedarride",
+    "work": "",
+    "locator": "pp. 114-123",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#67",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "St. Foix",
+    "work": "Euvres",
+    "locator": "tom. iv. pp. 88, 89",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Rios",
+    "work": "",
+    "locator": "pp. 88, 89",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sessa",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sabatier",
+    "work": "Hist. de la Legislation sur les Femmes Publiques",
+    "locator": "p. 103",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sabatier",
+    "work": "Hist. de la Legislation sur les Femmes Publiques",
+    "locator": "pp. 105, 106",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Ulrich von Hutten",
+    "work": "Epistol. Obscurorum Virorum",
+    "locator": "ep. 2",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#68",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Michelet",
+    "work": "Origines de Droit",
+    "locator": "p. 368",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#70",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Sessa",
+    "work": "De Judæis",
+    "locator": "p. 9",
+    "quote": "Usurae Judaicae tolerantur quidem ex permissione Principum et summorum Pontificum in Hebræis",
+    "lang": "la"
+   },
+   {
+    "author": "Troplong",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bedarride",
+    "work": "",
+    "locator": "pp. 192-194",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Adam Smith",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Cibrario",
+    "work": "",
+    "locator": "vol. iii. p. 318",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#72",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Rios",
+    "work": "Etudes sur les Juifs d'Espagne",
+    "locator": "p. 77",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#75",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#76",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Paramo",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#77",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#80",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bedarride",
+    "work": "",
+    "locator": "p. 151",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Lee",
+    "work": "On Inspiration",
+    "locator": "pp. 454-459",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "John Bernard de Rossi",
+    "work": "Bibliotheca Judaica Anticliristiana",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#82",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bedarride",
+    "work": "",
+    "locator": "pp. 258, 259",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#84",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Anderson",
+    "work": "Hist. of Commerce",
+    "locator": "vol. i. p. 193",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Anderson",
+    "work": "Hist. of Commerce",
+    "locator": "vol. iii. pp. 280-281",
+    "quote": "that the wives and daughters of merchants should i be abuilzied (' dressed,'",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#86",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Anderson",
+    "work": "",
+    "locator": "vol. i. p. 144.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#87",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Wade",
+    "work": "History of the Middle and Working Classes",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#88",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Malthus",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Senior",
+    "work": "Political Economy",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#89",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "De Maistre",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Villeneuve Bargemont",
+    "work": "Economic Politique Chretienne",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#91",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Anderson",
+    "work": "Hist. of Commerce",
+    "locator": "vol. i. p. 117",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#92",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Van Bruyssel",
+    "work": "Hist. du Commerce Beige",
+    "locator": "tom. i. p. 234",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#93",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Warden",
+    "work": "On Consular Establishments",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#95",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Cibrario",
+    "work": "Economia Politico, del Medio Evo",
+    "locator": "vol. i. p. 319",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "De Plassan",
+    "work": "Hist. de la Diplomatic Frangaise",
+    "locator": "In trod.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#98",
@@ -3627,131 +7221,456 @@
  },
  {
   "id": "vol2-ch6#118",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hone",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Jubinal",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Jacob",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Leroy",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Suard",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Collier",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#119",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Malone",
+    "work": "Hist. of the English Stage",
+    "locator": "pp. 12-13",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Hone",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Strutt",
+    "work": "History of the Manners of the People of England",
+    "locator": "vol. iii. pp. 137-140",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#120",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Jacob",
+    "work": "collection of Farces",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Warton",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Malone",
+    "work": "History of the English Stage",
+    "locator": "pp. 15, 16",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#121",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Malone",
+    "work": "Hist. of English Stage",
+    "locator": "p. 9",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Monteil",
+    "work": "Hist. des Français des Diverses États",
+    "locator": "tom. iii. p. 342, ed. 1853",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#122",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Colomb de Batines",
+    "work": "Bibliografia delle Antiche Rappresentazioni Italiane Sacre e Profane stampate nei Secoli XV. e XVI.",
+    "locator": "(Firenze, 1852)",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Roscoe",
+    "work": "Lorenzo de' Medici",
+    "locator": "ch. v.",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#123",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Riccoboni",
+    "work": "",
+    "locator": "tom. i. p. 89",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#124",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#125",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Hallam",
+    "work": "Hist. of Lit.",
+    "locator": "vol. i. p. 216",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#126",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#127",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bouterwek",
+    "work": "Hist. of Spanish Literature",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#128",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#129",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Riccoboni",
+    "work": "",
+    "locator": "tom. i. pp. 32, 33",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#130",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Riccoboni",
+    "work": "",
+    "locator": "tom. ii. pp. 9, 10",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Sismondi",
+    "work": "Hist. de la Litterature du Midi",
+    "locator": "tom. ii. pp. 188-199",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#132",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Riccoboni",
+    "work": "",
+    "locator": "tom. i. p. 183",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#133",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Charles",
+    "work": "La Comedie en France au Seizieme Siecle",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Riccoboni",
+    "work": "",
+    "locator": "tom. i. p. 137",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#134",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Burney",
+    "work": "History of Music",
+    "locator": "vol. i. pp. 173-194",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#135",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#137",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Vitet",
+    "work": "Études sur l'Histoire d'Art",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#138",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Riccoboni",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bouterwek",
+    "work": "History of Spanish Literature",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#139",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Lamet et Fromageau",
+    "work": "Dict. des Cas de Conscience",
+    "locator": "tom. i. p. 803",
+    "quote": "Les comediens, par leur profession comme elle s'exercise, sont en etat de",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#142",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bossuet",
+    "work": "Réflexions sur la Comédie",
+    "locator": "§ xi",
+    "quote": "L'Église condamne les comédiens, et croit par-là défendre assez la comédie la",
+    "lang": "fr"
+   },
+   {
+    "author": "",
+    "work": "Rit. de Paris",
+    "locator": "pp. 108–114",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#145",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "",
+    "work": "",
+    "locator": "p. 124",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#154",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#155",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#156",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#157",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "William Stafford",
+    "work": "A Compendious or Briefe Examination of Certayne Ordinary Complaints of divers of our Countrymen",
+    "locator": "",
+    "quote": "",
+    "lang": "en"
+   },
+   {
+    "author": "",
+    "work": "Pamphleteer",
+    "locator": "fifth volume",
+    "quote": "",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#158",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#163",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Bodin",
+    "work": "La Republique",
+    "locator": "p. 47",
+    "quote": "",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#165",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "D'Aussy",
+    "work": "Hist. de la Vie Privee des Franqais",
+    "locator": "tom. iii. pp. 116-129",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Pierre Lacroix",
+    "work": "Histoire des Anciennes Corporations",
+    "locator": "p. 76",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "M'Pherson",
+    "work": "Annals of Commerce",
+    "locator": "vol. ii. pp. 447-489",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#166",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Fitzpatrick",
+    "work": "Life of Doyle",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#168",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "M'Culloch",
+    "work": "Political Economy",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "M'Culloch",
+    "work": "Introduction to the Wealth of Nations",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#170",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Berkeley",
+    "work": "Querist",
+    "locator": "161, 555, 556, 557, 559",
+    "quote": "Whether that trade should not be accounted most pernicious, wherein the balance",
+    "lang": "en"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#171",
@@ -3827,35 +7746,97 @@
  },
  {
   "id": "vol2-ch6#180",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Say",
+    "work": "Theorie des Debouches",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Dudley North",
+    "work": "",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#181",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Philo",
+    "work": "De Vita Contemplated",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   },
+   {
+    "author": "Bayle",
+    "work": "Nouvelles Lettres",
+    "locator": "lettre xxi",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#182",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#183",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Montalembert",
+    "work": "Moines cT Occident",
+    "locator": "In trod. pp. 199, 200",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#184",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": []
  },
  {
   "id": "vol2-ch6#185",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "J. B. Say",
+    "work": "Olbie",
+    "locator": "p. 81",
+    "quote": "Toute vertu qui n'a pas l'utilité pour objet immédiat me paraît futile,",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#186",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Perin",
+    "work": "La Richesse dans Us Societes Chretiennes",
+    "locator": "",
+    "quote": "",
+    "lang": ""
+   }
+  ]
  },
  {
   "id": "vol2-ch6#188",
-  "error": "<HTTPError 502: 'Bad Gateway'>"
+  "cites": [
+   {
+    "author": "Madame de Staël",
+    "work": "L'Allemagne",
+    "locator": "",
+    "quote": "La morale fondée sur l'intérêt, si fortement prêchée par les écrivains français",
+    "lang": "fr"
+   }
+  ]
  },
  {
   "id": "vol2-ch6#189",

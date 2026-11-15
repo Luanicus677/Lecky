@@ -794,9 +794,9 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^121]: Lemoine, *Le Vitalisme de Stahl*, p. 6.
 
-[^122]: *Systema Theologicum ex Præ-Adamitarum Hypothesi*, pars i. The second part never appeared.
+[^122]: <a class="popup-ref" href="../ref/la-peyrere-men-before-adam.html">*Systema Theologicum ex Præ-Adamitarum Hypothesi*, pars i.</a> The second part never appeared.
 
-[^123]: Some of La Peyrère's arguments on this point are curiously far-fetched. Thus he asks why Abel should have kept sheep if there were no robbers to be feared, and where Cain got the weapon with which he killed his brother. The existence of a race of men not descended from Adam was very strenuously maintained, towards the close of the last century, by an eccentric member of the Irish Parliament named Dobbs, in a very strange book called *A Short View of Prophecy*. It has also been advocated in America, with a view to the defence of Negro Slavery. Mr. Dobbs thought there was a race resulting from an intrigue of Eve with the Devil.
+[^123]: Some of La Peyrère's arguments on this point are curiously far-fetched. Thus he asks <a class="popup-ref" href="../ref/la-peyrere-men-before-adam.html#abel">why Abel should have kept sheep if there were no robbers to be feared, and where Cain got the weapon with which he killed his brother</a>. The existence of a race of men not descended from Adam was very strenuously maintained, towards the close of the last century, by an eccentric member of the Irish Parliament named <a href="https://en.wikipedia.org/wiki/Francis_Dobbs">Dobbs</a>, in a very strange book called *A Short View of Prophecy*. It has also been advocated in America, with a view to the defence of Negro Slavery. Mr. Dobbs thought there was a race resulting from an intrigue of Eve with the Devil.
 
 [^124]: See Denis's *Hist. des Idées Morales dans l'Antiquité*.
 
