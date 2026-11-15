@@ -48,3 +48,17 @@ abstract: |
 </div>
 <p>This is the context of Lecky’s note 113 (“Angels were sometimes represented … bearing along the stars (and especially the Star of Bethlehem) in their hands”), and of his statement in the text that atmospheric changes were believed to be “effected by angels”. See also <a href="roccamora-de-cometis.html#angels">Roccamora on angels carrying the stars</a>.</p>
 </section>
+
+<section id="soul-little-man" class="passage">
+<h2>The soul as a little naked man (p. 124)</h2>
+<p class="passage-source">French: Paris 1843, p. 124, <a href="https://archive.org/details/essaisurleslge00mauruoft/page/n163/mode/2up">scan</a>; from the OCR only, not read on the image.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>Ainsi peu à peu la représentation matérielle s’emparait des idées les plus spirituelles et les plus inaccessibles aux sens, pour les revêtir d’une forme grossière et purement humaine. L’âme elle-même, l’âme n’échappait pas à cette triste influence de l’anthropomorphisme; on la vit bientôt représentée dans les images, sous la figure d’un petit homme, sans sexe, pour exprimer que la différence entre l’homme et la femme ne tient qu’au corps, et qu’ils sont au fond un être identique; nu, pour faire voir qu’après la mort, l’âme est dépouillée de toute enveloppe terrestre et vicieuse. Tantôt on voit cette petite figure, les mains jointes, s’échapper de la bouche du défunt et portée vers Dieu, dans un linceul, par les anges …</p>
+</div>
+<div class="rendering" lang="en">
+<p>So little by little material representation took hold of the most spiritual ideas, those least accessible to the senses, and clothed them in a coarse and purely human form. The soul itself did not escape this sad influence of anthropomorphism: it was soon shown in images as a little man, without sex, to express that the difference between man and woman lies only in the body and that at bottom they are one being; naked, to show that after death the soul is stripped of every earthly and sinful covering. Sometimes this little figure is seen, hands joined, escaping from the mouth of the dead person and carried to God in a shroud by the angels …</p>
+</div>
+</div>
+<p>This is the page behind Lecky’s note 169 and his statement in the text that the soul was pictured materially; Didron’s parallel, the souls of the blest as small naked figures in the hand of God, is on the <a href="didron-iconographie-chretienne.html#ames-main-de-dieu">Didron page</a>.</p>
+</section>

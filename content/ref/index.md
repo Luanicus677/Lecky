@@ -450,8 +450,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">More than thirty kingdoms trading with medieval Belgium (Brussels 1861, tome I, p. 234); Jean Petit calls the murder of a “tyrant” “honourable and meritorious” (tome II, pp. 48–49). Cited in ch. V, note 61, and ch. VI, notes 10, 63, 92.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="maury-legendes-pieuses.html">Maury, <em>Essai sur les légendes pieuses du moyen âge</em></a><span class="work-status">2 passages</span></div>
-<div class="work-desc">The stag that draws serpents out with its breath, a symbol of Christ (Paris 1843, pp. 174–178); angels carrying the sun, the moon and the star of Bethlehem (pp. 17–18). Cited in ch. III, notes 16, 113, 168.</div>
+<div class="work-title"><a class="popup-ref" href="maury-legendes-pieuses.html">Maury, <em>Essai sur les légendes pieuses du moyen âge</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">The soul as a little naked man (p. 124); the stag that draws serpents out with its breath, a symbol of Christ (Paris 1843, pp. 174–178); angels carrying the sun, the moon and the star of Bethlehem (pp. 17–18). Cited in ch. III, notes 16, 113, 168.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
