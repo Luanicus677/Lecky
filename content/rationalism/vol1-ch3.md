@@ -661,7 +661,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^57]: Raoul Rochette, *Cours d'Archéologie*, pp. 269, 270. See also Fortoul, *Études d'Archéologie*.
 
-[^58]: Matter, *Hist. du Gnosticisme*, tom. iii. p. 264.
+[^58]: <a class="popup-ref" href="../ref/matter-histoire-du-gnosticisme.html#pallor">Matter, *Hist. du Gnosticisme*, tom. iii. p. 264.</a>
 
 [^59]: The period in which the ascetic idea of ugliness was most supreme in art was between the sixth and twelfth centuries. Many of the Roman mosaics during that period exhibit a hideousness which the inexpertness of the artists was quite insufficient to account for, and which was evidently imitated from the emaciation of extreme asceticism.—See Vitet, *Études sur l'Histoire de l'Art*, tom. i. pp. 268–279. Concerning the art of the middle ages, besides the works that have come down to us, we have a good deal of evidence in a book by a bishop of the thirteenth century, named Durandus, called *Rationale Divinorum Officiorum*. A great deal of curious learning on mediæval art is collected by the Abbé Pascal in his *Institutions de l'Art Chrétien*; but, above all, in the <a class="popup-ref" href="../ref/didron-iconographie-chretienne.html">*Iconographie Chrétienne* of Didron</a>.
 
