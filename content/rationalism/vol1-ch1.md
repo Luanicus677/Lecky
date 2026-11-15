@@ -697,7 +697,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^140]: Ibid.
 
-[^141]: I, at least, have not been able to find any other case; but Sir Kenelm Digby, in his annotation to the passage from Sir Thomas Browne, which I have before quoted, says of the belief: 'There are divines of great note, and far from any suspicion of being irreligious, that do not oppose it.' The book of Dr. Harsenet is, I believe, rare; I only know it by the copious extracts in <a class="popup-ref" href="../ref/hutchinson-historical-essay.html">Hutchinson</a>. There is a notice of its author in Neal's Hist. of the Puritans.
+[^141]: I, at least, have not been able to find any other case; but Sir Kenelm Digby, in his annotation to the passage from Sir Thomas Browne, which I have before quoted, says of the belief: 'There are divines of great note, and far from any suspicion of being irreligious, that do not oppose it.' The book of Dr. Harsenet is, I believe, rare; I only know it by the copious extracts in <a class="popup-ref" href="../ref/hutchinson-historical-essay.html">Hutchinson</a>. There is a notice of its author in <a class="popup-ref" href="../ref/neal-history-of-the-puritans.html">Neal's Hist. of the Puritans</a>.
 
 [^142]: See Scott's Discovery, passim.
 

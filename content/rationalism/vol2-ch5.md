@@ -475,11 +475,11 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^34]: As one of the leading supporters of the Papal party put it with amusing coolness: <span class="foreign" lang="la">'Certe licet Paulus dixerit "omnis anima potestatibus sublimioribus subdita sit" nunquam addidit, etiam potestatibus excommunicatis; vel deprivatis a papa.'</span><span class="translation editorial" lang="en">[Certainly, although Paul said ‘Let every soul be subject to the higher powers,’ he never added: even to powers excommunicated or deposed by the Pope.]</span> (Suarez, De Fide, lib. vi. cap. 4.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#excommunicatis">source page</a>)
 
-[^35]: Bianchi, Puissance Ecclésiastique, tom. i. pp. 550-571. Louis Le Debonnaire seems to have been deposed in this way.
+[^35]: <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, Puissance Ecclésiastique, tom. i. pp. 550-571.</a> Louis Le Debonnaire seems to have been deposed in this way.
 
 [^36]: <span class="foreign" lang="la">'Principibus sæcularibus in tantum homo obedire tenetur in quantum ordo justitiæ requirit. Et ideo si non habeant justum principatum sed usurpatum, vel si injusta præcipiant, non tenentur eis subditi obedire, nisi forte per accidens propter vitandum scandalum vel periculum.'</span><span class="translation editorial" lang="en">[Man is bound to obey secular princes in so far as the order of justice requires. And therefore if they hold not a just but a usurped rule, or if they command unjust things, their subjects are not bound to obey them, except perhaps incidentally, to avoid scandal or danger.]</span> (<a class="popup-ref" href="../ref/aquinas-summa-secunda-secundae.html#usurpatum">Sumna, Pars II. Quæst. civ. art. 6</a>).
 
-[^37]: Bossuet simply remarks that for some centuries after St. Thomas the schoolmen seem to have been nearly unanimous on this point, but that it is manifest that they were mistaken! (See Bianchi, tom. i. pp. 135, 136.) The writer among the schoolmen who was most favourable to liberty was the Englishman William of Okham. (Milman, Hist. of Latin Christianity, vol. vi. pp. 470-474.)
+[^37]: Bossuet simply remarks that for some centuries after St. Thomas the schoolmen seem to have been nearly unanimous on this point, but that it is manifest that they were mistaken! (See <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, tom. i. pp. 135, 136</a>.) The writer among the schoolmen who was most favourable to liberty was the Englishman William of Okham. (Milman, Hist. of Latin Christianity, vol. vi. pp. 470-474.)
 
 [^38]: <a class="popup-ref" href="../ref/suarez-defensio-fidei.html#immediate-a-deo">Suarez, De Fide</a>, lib. iii. cap. 2; Bianchi, ch. i. These theologians of course endeavour to trace back their distinction to the origin of Christianity, but its formal definition and systematic enforcement are due mainly to the schoolmen.
 
@@ -493,7 +493,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^43]: <span class="foreign" lang="la">'Statim per hæresim rex ipso facto privatur aliquo modo dominio et proprietate sui regni, quia vel confiscatum manet vel ad legitimum successorem Catholicum ipso jure transit, et nihilominus non potest statim regno privari, sed juste illud possidet et administrat donec per sententiam saltem declaratoriam criminis condemnetur.'</span><span class="translation editorial" lang="en">[By heresy the king is at once, by the very fact, deprived in some measure of the dominion and ownership of his kingdom, because it either remains confiscated or passes by right to the lawful Catholic successor; and nevertheless he cannot at once be deprived of the kingdom, but justly possesses and administers it until he is condemned by at least a declaratory sentence of the crime.]</span> (Lib. vi. cap. iv.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#deposition">source page</a>)
 
-[^44]: Bianchi has collected a striking chain of passages in defence of this proposition (tom. i. pp. 145-147).
+[^44]: Bianchi has collected a striking chain of passages in defence of this proposition (<a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">tom. i. pp. 145-147</a>).
 
 [^45]: <span class="foreign" lang="la">'Si Papa regem deponat, ab illis tantum poterit expelli vel interfeci quibus ipse id commiserit.'</span><span class="translation editorial" lang="en">[If the Pope deposes a king, he may be expelled or killed only by those to whom the Pope has committed it.]</span> (De Fide, lib. vi. c. iv.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#ministri">source page</a>)
 
@@ -563,7 +563,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^78]: Hallam, Hist. of Lit.
 
-[^79]: Barrington on the Statutes, p. 280.
+[^79]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes.html">Barrington on the Statutes, p. 280.</a>
 
 [^80]: See, however, some rather strong passages quoted by Kellerus, Tyrannicidium, pp. 73, 74.
 
@@ -615,7 +615,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^104]: Among the less eminent freethinkers there were, indeed, some exceptions to this tendency. Thus Tindal wrote a tract against Passive Obedience in 1694, a defence of Toleration in 1697, and a defence of a Free Press in 1698. Toland too wrote, in 1702, a somewhat remarkable book called Anglica Libera, in which he advocated very eloquently the political principles of Locke, denounced strongly the doctrine of Hobbes that a sovereign has a right to dictate the religion of his subjects, and maintained that 'the success of the Protestant religion, politically speaking, depends on the liberty of the several States of Europe' (p. 185). Toland also edited the Oceana, and wrote the Lives of Harrington and Milton. But the most eminent avowed English freethinkers of the seventeenth and eighteenth centuries are those mentioned in the text, with the exception of Gibbon, who sat in Parliament as a Tory.
 
-[^105]: Many instances of this are collected by Bianchi (tom. i. pp. 46-84), but the fullest account I have met with is in a very clever anonymous book (written from a strong Catholic point of view, and ascribed by some to an author named Pellison, and by others to Bayle), called Avis aux Réfugiez sur leur prochain retour en France, par M. C. L. A. A. P. D. P. The condemnation of the book of Suarez was by a Synod of Tonneins, in 1614. On the other hand, on the extremely liberal views of Jurieu, who preceded both Sydney and Locke, see Michelet, Hist. de Louis XIV. pp. 431-436. The book in which Jurieu especially expressed them is his Soupirs de la France Esclave.
+[^105]: Many instances of this are collected by <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi (tom. i. pp. 46-84)</a>, but the fullest account I have met with is in a very clever anonymous book (written from a strong Catholic point of view, and ascribed by some to an author named Pellison, and by others to Bayle), called Avis aux Réfugiez sur leur prochain retour en France, par M. C. L. A. A. P. D. P. The condemnation of the book of Suarez was by a Synod of Tonneins, in 1614. On the other hand, on the extremely liberal views of Jurieu, who preceded both Sydney and Locke, see Michelet, Hist. de Louis XIV. pp. 431-436. The book in which Jurieu especially expressed them is his Soupirs de la France Esclave.
 
 [^106]: Avis aux Réfugiez, pp. 64, 65 (ed. 1692).
 
