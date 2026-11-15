@@ -398,6 +398,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">No religion describes hell with such “Particularities” (1727, p. 129), cited in ch. III, note 151; from the book that put hell in the sun.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="barrington-observations-on-the-statutes.html">Barrington, <em>Observations on the More Ancient Statutes</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Henry VIII’s “72,000” executions, which Barrington doubted and which go back to an astrologer’s horoscope; Fortescue’s “better hartes” (1769, pp. 461–463), cited in ch. III, notes 178 and 180.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>

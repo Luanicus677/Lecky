@@ -33,7 +33,7 @@ def run(b):
             time.sleep(5)
     return [], {}
 got, tin, tout = {}, 0, 0
-with cf.ThreadPoolExecutor(3) as ex:
+with cf.ThreadPoolExecutor(6) as ex:
     for items, u in ex.map(run, batches):
         for it in items:
             if it.get("id") in notes: got[it["id"]] = it
