@@ -320,6 +320,12 @@ Notes for continuing:
   Next ideas from the catalogue: Anderson Hist. of Commerce (6 notes; pagination mismatch known), Riccoboni (6; needs Lecky's edition),
   Bedarride (6), Rochette Cours d'archéologie (4), Sarpi (4), Bruyssel (4), Concina (4; no scan found), Maury Légendes pieuses (3).
 
+- 15 Nov later in the run: + bedarride-les-juifs-en-france (Paris 1859 `lesjuifsenfranc00beda` MATCHES Lecky; image = page+15; p. 16 = n31,
+  p. 114 = n129; the other scan `lesjuifsenfrance00beda` (1864) is paged differently; ch. VI note 64 French restored from Lecky's page),
+  raoul-rochette-cours-darcheologie (Paris 1828 `coursdarcheolog00roch`, pp. 268-270 = n273-n275, p. 269 misprinted 169; matches Lecky),
+  van-bruyssel-histoire-du-commerce (Brussels 1861: tome I `histoireducommer01bruy` p. 234 = n245; tome II `histoireducommer02bruy`
+  pp. 48-49 = n51-n52; matches Lecky; OCR 'Beige' -> 'Belge' fixed in five notes, verified on Lecky n190).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
