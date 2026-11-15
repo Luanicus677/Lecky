@@ -442,6 +442,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">With Constantine began “the era of religious persecutions” for the Jews (Paris 1859, p. 16); Pope Alexander II: “God does not rejoice in the shedding of blood” (p. 114). Cited in ch. IV (continued), note 13, and ch. VI, notes 42, 64, 65.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="raoul-rochette-cours-darcheologie.html">Raoul-Rochette, <em>Cours d’archéologie</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Why Greek statues were naked: the gymnasium, Seneca’s “God is naked”, and emperors shown naked as a sign of apotheosis (Paris 1828, pp. 268–270), the source of ch. III, notes 56–57.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
