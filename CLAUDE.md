@@ -303,6 +303,23 @@ Notes for continuing:
   'ch, xv.', 'mysteries,4 Like', 'possessors of the good, will', 'armaments', 'took place,1' (no closing quote, n65), 'pp. 213, 223.' (no
   bracket), '372.)'. Line-break compounds left (wellspent, slavetrade, slavelabour; 'slaveowners' is mid-line in print).
 
+- 15 Nov 2026 (1-hour run): catalogue retry finished (data/unlinked-citations.json now has all 553 notes, $0.11). New source pages, all read on
+  page images unless noted: barrington-observations-on-the-statutes (1769 3rd ed. `bim_eighteenth-century_observations-on-the-more_barrington-daines_1769`,
+  image = page+11: pp. 461-463 = n472-n474; 72,000 executions doubted by Barrington; Harrison/Cardano origin via Gutenberg 42506 TEXT; Fortescue);
+  roccamora-de-cometis (Rome 1670 `bub_gb_9zV6Y5kEcBEC`, p. 17 = n43, pp. 237-240 = n267-n270; title page not in scan);
+  la-peyrere-men-before-adam (English 1656 `bim_early-english-books-1641-1700_men-before-adam_la-peyrere-isaac-de_1656`, pp. 147-148 = n246-n247,
+  Systeme title n78; Latin 1655 copies exist, unread); neal-history-of-the-puritans (Dublin ed. 1755?: vol. I `historyofpur01neal` p. 48 = n75,
+  page+27; vol. III `historyofpur03neal` p. 244 = n265, pp. 391-393 = n412-n414, page+21; NOT Lecky's 1754 pagination);
+  matter-histoire-du-gnosticisme (2nd ed. tome III 1844 `histoirecritiqu01mattgoog`, page+9, pp. 259-264 = n268-n273, title n10; tome I copies
+  `histoirecritique01matt` etc. have Bardesanes at pp. 300-301, not Lecky's 360-362); bianchi-puissance-ecclesiastique (Peltier 1857: tome I
+  `traitdelapuissa01peltgoog` p. 84 = n117 page+33; tome II `traitdelapuissa00peltgoog` pp. 768-769 = n778-n779 page+10; Barclay was a Scot);
+  codex-theodosianus-xvi-3-de-monachis, -xv-7-8-actresses, -xvi-jews-and-temples (Ritter/Gothofredus vol. V = `BRes1409275` p. 420 = n423;
+  vol. VI.1 = `BRes1409276`: XVI.3 pp. 106-108 = n121-n123, XVI.8.1 p. 237 = n252, XVI.10.3 = n304); ciampini-vetera-monimenta (Rome 1690
+  `veteramonimentai00ciam` p. 115 = n214, plate XXXVI = n205; vol. 2 = `gri_33125010851414`; pp. 28, 84 unread). Cudworth page: + Origen sections
+  pp. 318-319, 330 (n327-n328, n339). OCR fixed from Lecky's page: vol2-ch6 notes 107, 109. Dead end: Beausobre Hist. du Manichéisme (not on archive.org).
+  Next ideas from the catalogue: Anderson Hist. of Commerce (6 notes; pagination mismatch known), Riccoboni (6; needs Lecky's edition),
+  Bedarride (6), Rochette Cours d'archéologie (4), Sarpi (4), Bruyssel (4), Concina (4; no scan found), Maury Légendes pieuses (3).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
