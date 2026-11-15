@@ -1,0 +1,50 @@
+---
+title: Codex Theodosianus XVI.8.1 and XVI.10.3
+description: "Two laws from book XVI of the Theodosian Code in Gothofredus’s edition (Leipzig, 1743): Constantine’s law of 315 burning Jews who stone converts to Christianity and punishing Christians who join the Jews (XVI.8.1, p. 237), cited by Lecky in Chapter IV (continued), note 13; and the law sparing the temples outside the walls of Rome because the games began in them (XVI.10.3, of 342), cited in Chapter VI, note 109."
+heading: <em>Codex Theodosianus</em> XVI.8.1 and XVI.10.3
+subtitle: "Constantine on Jews and converts, and the temples spared for the sake of the games"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Work", "The <a href=\"https://en.wikipedia.org/wiki/Codex_Theodosianus\">Theodosian Code</a>, book XVI: title 8, “De Iudaeis, Caelicolis et Samaritanis”, and title 10, “De paganis, sacrificiis et templis”."]
+  - ["Edition used", "<em>Codex Theodosianus cum perpetuis commentariis Iacobi Gothofredi</em>, ed. J. D. Ritter, vol. VI part 1, Leipzig 1743 (Internet Archive <a href=\"https://archive.org/details/BRes1409276\">BRes1409276</a>): XVI.8.1 on p. 237 = <a href=\"https://archive.org/details/BRes1409276/page/n252/mode/2up\">n252</a>; XVI.10.3 = <a href=\"https://archive.org/details/BRes1409276/page/n304/mode/2up\">n304</a> (the page number there reads 298, though the page before is numbered 288). Same edition as the pages on <a href=\"codex-theodosianus-ix-16.html\">IX.16</a>, <a href=\"codex-theodosianus-xvi-3-de-monachis.html\">XVI.3</a> and <a href=\"codex-theodosianus-xv-7-8-actresses.html\">XV.7.8</a>."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn13\">Rationalism, ch. IV (continued), note 13</a> (“Cod. Theod. lib. xvi. tit. 8”) and <a href=\"../rationalism/vol2-ch6.html#fn109\">ch. VI, note 109</a> (“Cod. Theod., xvi. 10. 3”, read on Lecky’s page, vol. II p. 330 = <a href=\"https://archive.org/details/rationalismineur02leckuoft/page/n345/mode/2up\">n345</a>)."]
+  - ["Status", "Both laws read on the page images, transcribed and translated in draft; a few of Gothofredus’s notes summarised."]
+abstract: |
+  <p>Constantine’s first law on the Jews, of 315, protects converts: any Jew who attacks with stones “or any other kind of fury” a Jew who has fled “their deadly sect” for the worship of God is to be “handed over to the flames at once and burnt with all his accomplices”. Its second clause goes the other way: any one “of the people” who joins “their nefarious sect” “shall suffer with them the deserved penalties”, <i>poenas meritas</i>, the words Lecky quotes. Gothofredus counts forty-eight laws on the Jews in the Code, from 315 to 429.</p>
+  <p>The other law shows Christian emperors bargaining with pleasure. Though “all superstition must be utterly rooted out”, the temples outside the walls of Rome are to stand untouched, because some of the games, the circus races and the contests began in them, and it is not right to tear down the places that give the Roman people “the solemnity of their ancient pleasures”.</p>
+---
+<section id="xvi-8-1" class="passage">
+<h2>XVI.8.1: “Flammis dedendus … poenas meritas sustinebit” (315)</h2>
+<p class="passage-source">Latin: Leipzig 1743, vol. VI.1, p. 237, <a href="https://archive.org/details/BRes1409276/page/n252/mode/2up">scan</a>. Editors’ note letters omitted. <span class="cited-passage">Highlighted</span>: Lecky’s quotation and the clauses he summarises.</p>
+<figure class="facsimile"><a href="../assets/img/ref/codex-theodosianus-xvi-8-1.jpg"><img src="../assets/img/ref/codex-theodosianus-xvi-8-1.jpg" alt="Printed Latin: “I. Imp. Constantinus A. ad Euagrium. Iudaeis, et Maioribus eorum, et Patriarchis, volumus intimari …”" loading="lazy"></a><figcaption>CTh XVI.8.1 in Gothofredus’s edition, vol. VI.1, p. 237. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>I. Imp. Constantinus A. ad Euagrium.</p>
+<p>Iudaeis, et maioribus eorum, et patriarchis, volumus intimari, quod si qui, post hanc legem, aliquem, qui eorum feralem fugerit sectam, et ad Dei cultum respexerit, saxis aut alio furoris genere (quod nunc fieri cognovimus) ausus fuerit adtemptare, <span class="cited-passage">mox flammis dedendus est, et cum omnibus suis participibus concremandus</span>. <span class="cited-passage">Si quis vero ex populo ad eorum nefariam sectam accesserit, et conciliabulis eorum se adplicaverit, cum ipsis poenas meritas sustinebit.</span> Dat. XV Kalend. Nov. Murgillo, Constantino A. IV et Licinio IV coss. [315.]</p>
+</div>
+<div class="rendering" lang="en">
+<p>The Emperor Constantine Augustus to Euagrius.</p>
+<p>We wish it to be made known to the Jews, their elders and their patriarchs, that if any of them, after this law, dares to attack with stones or any other kind of fury (as we have learnt is now being done) anyone who has fled their deadly sect and turned to the worship of God, <span class="cited-passage">he is to be handed over to the flames at once and burnt together with all his accomplices</span>. <span class="cited-passage">But if any one of the people joins their nefarious sect and attaches himself to their assemblies, he shall suffer the deserved penalties along with them.</span> Given on the fifteenth day before the Kalends of November [18 October], at Murgillum, in the fourth consulship of Constantine Augustus and of Licinius [315].</p>
+</div>
+</div>
+<p>Gothofredus’s notes: the law is the third in the same title of Justinian’s Code; “of the people” means a Christian (note g, where he raises and rejects the reading “or a gentile?”); and Murgillum (note h) is “in Upper Pannonia, near Mursa”. In his commentary he sums up the law’s two heads: the punishment by fire of Jews who attack a convert, and the “deserved penalties” of “apostates”, Christians who go over to the Jews, which a later law of Constantius turned into confiscation of goods, as Lecky says. Lecky’s further statement in the same note, that “a Jew who married a Christian incurred the penalty of death”, is from a different law, not checked here.</p>
+</section>
+
+<section id="xvi-10-3" class="passage">
+<h2>XVI.10.3: the temples outside the walls, kept for the games (342)</h2>
+<p class="passage-source">Latin: Leipzig 1743, vol. VI.1, <a href="https://archive.org/details/BRes1409276/page/n304/mode/2up">scan</a>. Heading: “Constantis Imp. lex de templis extra muros Urbis Romae positis non exscindendis” (“Law of the Emperor Constans on not destroying the temples outside the walls of the City of Rome”). <span class="cited-passage">Highlighted</span>: what Lecky reports.</p>
+<figure class="facsimile"><a href="../assets/img/ref/codex-theodosianus-xvi-10-3.jpg"><img src="../assets/img/ref/codex-theodosianus-xvi-10-3.jpg" alt="Printed Latin: “Quamquam omnis superstitio penitus eruenda sit, tamen volumus, ut aedes templorum, quae extra muros sunt positae, intactae incorruptaeque consistant”" loading="lazy"></a><figcaption>CTh XVI.10.3 in Gothofredus’s edition. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>III. Idem A. ad Catullinum p. v.</p>
+<p>Quamquam omnis superstitio penitus eruenda sit, tamen volumus, <span class="cited-passage">ut aedes templorum, quae extra muros sunt positae, intactae incorruptaeque consistant. Nam cum ex nonnullis vel ludorum vel circensium vel agonum origo fuerit exorta, non convenit ea convelli, ex quibus populo Romano praebeatur priscarum sollemnitas voluptatum.</span> Dat. Kalend. Novemb. Constantio IV et Constante III AA. coss.</p>
+</div>
+<div class="rendering" lang="en">
+<p>3. The same Augustus to Catullinus, prefect of the City.</p>
+<p>Although all superstition must be utterly rooted out, nevertheless we will <span class="cited-passage">that the buildings of the temples that stand outside the walls shall remain untouched and undamaged. For since the origin of some of the games, or of the circus races, or of the contests, arose from some of them, it is not fitting that those places should be pulled down from which the Roman people is provided with the solemn celebration of its ancient pleasures.</span> Given on the Kalends of November [1 November], in the fourth consulship of Constantius and the third of Constans, Augusti [342].</p>
+</div>
+</div>
+<p>Gothofredus’s notes correct the heading of the law: it should read “Constantius and Constans”, and the law belongs to Constans, who ruled Rome; “the City” is Rome; and the year is 342, when Catullinus was prefect of the City, not 346 as Baronius had it (notes b, c, f, i). He adds that <i>ludorum</i> means the stage shows, and <i>voluptatum</i> is “the proper word for games” (notes g, h).</p>
+</section>

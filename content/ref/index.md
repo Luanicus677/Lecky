@@ -430,6 +430,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The actress released to become a Christian who relapses is dragged back to the stage “until she is a ridiculous old woman” (381; Gothofredus’s edition, vol. V, p. 420), cited in ch. VI, note 107.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="codex-theodosianus-xvi-jews-and-temples.html"><em>Codex Theodosianus</em> XVI.8.1 and XVI.10.3</a><span class="work-status">2 laws</span></div>
+<div class="work-desc">Constantine burns Jews who stone converts and punishes Christians who become Jews (315); the temples outside Rome spared because the games began there (342). Cited in ch. IV (continued), note 13, and ch. VI, note 109.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>

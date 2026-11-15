@@ -633,7 +633,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^108]: Neander, Church History, vol. ii. p. 370. An old council forbade Christian women marrying actors. The actors, however, at a later period claimed one saint as their patron. This was St. Genetus, who was an actor in the reign of Diocletian. According to the legend, he was acting the part of a Christian in a piece which was designed to turn the new religion to ridicule, when, between the acts, he saw a vision, which converted him, and he accordingly proclaimed his allegiance to Christ upon the stage. The emperor and the audience at first loudly applauded, imagining that this was part of the play; but when they discovered the truth, the actor was put to death.
 
-[^109]: Cod. Theod., xvi. 10. 3.
+[^109]: <a class="popup-ref" href="../ref/codex-theodosianus-xvi-jews-and-temples.html#xvi-10-3">Cod. Theod., xvi. 10. 3.</a>
 
 [^110]: <a class="popup-ref" href="../ref/lebrun-discours-sur-la-comedie.html">Lebrun</a>, pp. 117-118; Cod. Theod., xv. 5, 5.
 
