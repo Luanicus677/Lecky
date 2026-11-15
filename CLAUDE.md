@@ -325,6 +325,8 @@ Notes for continuing:
   raoul-rochette-cours-darcheologie (Paris 1828 `coursdarcheolog00roch`, pp. 268-270 = n273-n275, p. 269 misprinted 169; matches Lecky),
   van-bruyssel-histoire-du-commerce (Brussels 1861: tome I `histoireducommer01bruy` p. 234 = n245; tome II `histoireducommer02bruy`
   pp. 48-49 = n51-n52; matches Lecky; OCR 'Beige' -> 'Belge' fixed in five notes, verified on Lecky n190).
+  + maury-legendes-pieuses: Légendes pieuses IS online (CLAUDE.md said not found): Paris 1843 `essaisurleslge00mauruoft`, image = page+39,
+  pp. 17-18 = n56-n57 (OCR only), pp. 173-178 = n212-n217 (pp. 176, 178 read); matches Lecky. pp. 125-127 (ch. III n168) not read.
 
 ## Readability layer (headings, synopses, figures)
 

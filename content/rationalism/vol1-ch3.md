@@ -562,7 +562,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^15]: <span class="foreign" lang="la">'Nos pisciculi secundum Ἰχθύν nostrum Jesum Christum in aquâ nascimur.'</span><span class="translation editorial" lang="en">[We little fishes, after the example of our Ichthys, Jesus Christ, are born in water.]</span> (<a class="popup-ref" href="../ref/tertullian-de-baptismo.html#pisciculi">Tertullian, <em>De Baptismo</em>, c. i.</a>)
 
-[^16]: Maury, *Légendes Pieuses*, pp. 173–178. This notion was, I imagine, pagan. There is a bas-relief in the Vatican which seems to represent a stag in the act of attacking a serpent. The passage in the Psalms, about 'the hart panting for the waters,' was mixed up with this symbol. In the middle ages, stags were invested with a kind of prophetic power. See also Ciampini, *De Sacris Ædificiis* (Romae), p. 44; and the very curious chapter in Arringhi, *Roma Subterranea*, tom. ii. pp. 602–606. The stag was supposed to dread the thunder so much, that through terror it often brought forth its young prematurely, and this was associated with the passage, 'The voice of thy thunder has made me afraid.'
+[^16]: <a class="popup-ref" href="../ref/maury-legendes-pieuses.html#stag">Maury, *Légendes Pieuses*, pp. 173–178.</a> This notion was, I imagine, pagan. There is a bas-relief in the Vatican which seems to represent a stag in the act of attacking a serpent. The passage in the Psalms, about 'the hart panting for the waters,' was mixed up with this symbol. In the middle ages, stags were invested with a kind of prophetic power. See also Ciampini, *De Sacris Ædificiis* (Romae), p. 44; and the very curious chapter in Arringhi, *Roma Subterranea*, tom. ii. pp. 602–606. The stag was supposed to dread the thunder so much, that through terror it often brought forth its young prematurely, and this was associated with the passage, 'The voice of thy thunder has made me afraid.'
 
 [^17]: This subject has been briefly noticed by Raoul Rochette in his *Discours sur l'Art du Christianisme* (1834), p. 7; and by Maury, *Légendes Pieuses*; but the full examination of it was reserved for M. <a class="popup-ref" href="../ref/didron-iconographie-chretienne.html">Didron</a>, in his great work, *Iconographie Chrétienne, Hist. de Dieu* (Paris, 1843), one of the most important contributions ever made to Christian archaeology. See, too, Emeric David, *Hist. de la Peinture au Moyen Age*, pp. 19–21.
 
@@ -776,7 +776,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^112]: <a class="popup-ref" href="../ref/roccamora-de-cometis.html#angels">Roccamora, *De Cometis*, p. 17</a>; St. Isidore, *De Ordine Creaturarum*.
 
-[^113]: Maury, *Légendes Pieuses*, pp. 17–18. Angels were sometimes represented in old Christian painting and sculpture bearing along the stars (and especially the Star of Bethlehem) in their hands. See, e. g., a very curious old bas relief round the choir of Notre Dame at Paris.
+[^113]: <a class="popup-ref" href="../ref/maury-legendes-pieuses.html#angels-stars">Maury, *Légendes Pieuses*, pp. 17–18.</a> Angels were sometimes represented in old Christian painting and sculpture bearing along the stars (and especially the Star of Bethlehem) in their hands. See, e. g., a very curious old bas relief round the choir of Notre Dame at Paris.
 
 [^114]: The fullest statement of the evidence of the prophetic character of comets I have met with, is in Raxo, *De Cometis* (1578). The author was a Spanish physician.
 
@@ -886,7 +886,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^167]: Ibid. cap. ix. I should mention that this book was written after Tertullian had become a Montanist, but there is no reason to believe that this had anything to say to his psychology.
 
-[^168]: See on this subject Maury, *Légendes Pieuses*, pp. 125–127.
+[^168]: See on this subject <a class="popup-ref" href="../ref/maury-legendes-pieuses.html">Maury, *Légendes Pieuses*, pp. 125–127</a>.
 
 [^169]: Maury, *Légendes Pieuses*, p. 124. There is an example of this in the *Triumph of Death*, by Orgagna, at Pisa. In the Greek churches the souls of the blest were sometimes represented as little children clasped in the mighty hand of God. (Didron, *Iconographie*, p. 216.) <a class="popup-ref" href="../ref/didron-iconographie-chretienne.html#ames-main-de-dieu">source page</a>
 
