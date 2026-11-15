@@ -657,86 +657,6 @@
   "chunk": 246
  },
  {
-  "chapter": "vol1-ch1",
-  "chunk_error": true,
-  "chunk": 53
- },
- {
-  "chapter": "vol1-ch3",
-  "chunk_error": true,
-  "chunk": 85
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 203
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 192
- },
- {
-  "chapter": "vol1-ch4",
-  "chunk_error": true,
-  "chunk": 154
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 199
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 202
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 207
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 216
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 212
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 239
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 229
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 247
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 250
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 251
- },
- {
-  "chapter": "vol2-ch4",
-  "chunk_error": true,
-  "chunk": 209
- },
- {
   "error": "cer.tain",
   "fix": "certain",
   "context": "must be allied with political liberty — that a cer.tain balance should be preserved between",
@@ -744,76 +664,6 @@
   "chapter": "vol2-ch5",
   "context_found": true,
   "chunk": 259
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 255
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 258
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 260
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 257
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 264
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 262
- },
- {
-  "chapter": "vol2-ch5",
-  "chunk_error": true,
-  "chunk": 265
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 267
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 270
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 279
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 271
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 275
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 284
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 280
  },
  {
   "error": "condition, of society.",
@@ -843,51 +693,6 @@
   "chunk": 310
  },
  {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 288
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 293
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 290
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 311
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 312
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 313
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 314
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 317
- },
- {
-  "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 318
- },
- {
   "error": "operasingers",
   "fix": "opera singers",
   "context": "one of the first of the long line of great Italian operasingers, and to whom",
@@ -915,28 +720,831 @@
   "chunk": 322
  },
  {
+  "error": "{Ferdinand and Isabella, vol. iii. pp. 492, 493.)",
+  "fix": "(Ferdinand and Isabella, vol. iii. pp. 492, 493.)",
+  "context": "calculations on which they are based. {Ferdinand and Isabella, vol. iii. pp.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 203
+ },
+ {
+  "error": "execution Three",
+  "fix": "execution. Three",
+  "context": "ordered it to be carried into instant execution Three millions of people, men, women,",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 203
+ },
+ {
+  "error": "Directoriwri)",
+  "fix": "Directorium)",
+  "context": "to the brief sketch prefixed to the Directoriwri) there is a full history",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 203
+ },
+ {
+  "error": "ancient",
+  "fix": "ancients",
+  "context": "boon of an assured and untrammelled mind. The fable of the ancient[^99] is still true.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 199
+ },
+ {
+  "error": "in which",
+  "fix": "which",
+  "context": "presenting a cup to all who enter in which diffuses through every vein",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 199
+ },
+ {
+  "error": "lends",
+  "fix": "lend",
+  "context": "above all, the old doctrine of the guilt of error, lends such a peculiar bitterness",
+  "confidence": "medium",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 199
+ },
+ {
+  "error": "throiigh",
+  "fix": "through",
+  "context": "many other passages on the subject scattered throiigh his writings.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 202
+ },
+ {
+  "error": "372.)",
+  "fix": "372.",
+  "context": "of intercession employed by the Inquisitors, Limborch, Historia Inquisitionis (Amsterdam, 1692), pp. 365-367, 372.)",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 202
+ },
+ {
+  "error": "mani«",
+  "fix": "manie",
+  "context": "not only I, but with me mani« thousand famous, godlie, and learned",
+  "confidence": "medium",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 207
+ },
+ {
+  "error": "Hist,",
+  "fix": "Hist.",
+  "context": "Hallam, Hist, of Literature, vol. i. p. 554.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 207
+ },
+ {
+  "error": "Calvin]",
+  "fix": "Calvin,",
+  "context": "full account of his life, Bayle, art. Castalio, and Henry, Life of Calvin] and,",
+  "confidence": "medium",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 207
+ },
+ {
+  "error": "Hist,",
+  "fix": "Hist.",
+  "context": "and, for a short notice, Hallam, Hist, of Literature, vol. i.",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 207
+ },
+ {
+  "error": "Cas talio",
+  "fix": "Castalio",
+  "context": "works I have noticed in the text, Cas talio translated the dialogues of the",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 207
+ },
+ {
+  "error": "pp. 213, 223.",
+  "fix": "pp. 213, 223.)",
+  "context": "Pitcairn's Criminal Trials of Scotland</a>, vol. i. part ii. pp. 213, 223.",
+  "confidence": "high",
+  "chapter": "vol1-ch1",
+  "context_found": true,
+  "chunk": 53
+ },
+ {
+  "error": "^Hist.",
+  "fix": "Hist.",
+  "context": "Hallam says (^Hist. of Literature) his book is,",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 209
+ },
+ {
+  "error": "Hist,",
+  "fix": "Hist.",
+  "context": "(Hallam, Hist, of Literature, vol. i. p. 559.)",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 209
+ },
+ {
+  "error": "' —",
+  "fix": "—",
+  "context": "be strictly proportionable to the credibility of its motives; ' — these and such as",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 192
+ },
+ {
+  "error": "subject, The",
+  "fix": "subject. The",
+  "context": "ensured a full discussion of the subject, The result",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 229
+ },
+ {
+  "error": "delay",
+  "fix": "dwell",
+  "context": "there is one upon which I may delay for a moment",
+  "confidence": "high",
+  "chapter": "vol1-ch3",
+  "context_found": true,
+  "chunk": 85
+ },
+ {
+  "error": "'Mars Gallicus,",
+  "fix": "'Mars Gallicus,'",
+  "context": "A book entitled 'Mars Gallicus, and published in 1635, under the",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 216
+ },
+ {
+  "error": "arid",
+  "fix": "and",
+  "context": "possibility of salvation in any Church, arid the injustice of every form",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 212
+ },
+ {
+  "error": "{The Brain and the Mind]",
+  "fix": "(The Brain and the Mind)",
+  "context": "from a psychological, and Drs. Laycock {The Brain and the Mind] and",
+  "confidence": "medium",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 212
+ },
+ {
+  "error": "{Human Physiology, pp. 799-819)",
+  "fix": "(Human Physiology, pp. 799-819)",
+  "context": "Laycock {The Brain and the Mind] and Carpenter {Human Physiology, pp. 799-819) from",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 212
+ },
+ {
+  "error": "{Mental Philosophy}",
+  "fix": "(Mental Philosophy)",
+  "context": "has availed himself of it {Mental Philosophy} to explain the laws",
+  "confidence": "medium",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 212
+ },
+ {
+  "error": "{Le Sommeil et les Reves)",
+  "fix": "(Le Sommeil et les Reves)",
+  "context": "and M. Maury {Le Sommeil et les Reves) has shown its connection",
+  "confidence": "high",
+  "chapter": "vol2-ch4",
+  "context_found": true,
+  "chunk": 212
+ },
+ {
+  "error": "Action",
+  "fix": "Acteon",
+  "context": "Action torn by his own dogs was an emblem of the sufferings of Christ;",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 247
+ },
+ {
+  "error": "In.",
+  "fix": "In",
+  "context": "history of the art of war. In. the early stages of civilisation military",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 250
+ },
+ {
+  "error": "no 'violation",
+  "fix": "no violation",
+  "context": "That no tyranny however gross, that no 'violation of the constitution",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 239
+ },
+ {
+  "error": "when' he",
+  "fix": "when 'he",
+  "context": "owed it even to Nebuchadnezzar, when' he had slain their",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 239
+ },
+ {
+  "error": "country cities",
+  "fix": "country, cities",
+  "context": "kinsfolk, burned their country cities, yea Jerusalem itself, and the",
+  "confidence": "medium",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 239
+ },
+ {
+  "error": "prince; 'much",
+  "fix": "prince;' much",
+  "context": "commandment of an heathen and foreign prince; 'much more therefore should",
+  "confidence": "medium",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 239
+ },
+ {
+  "error": "Lit,}",
+  "fix": "Lit.)",
+  "context": "in other respects scarcely differed from the first. (Hist. of Lit,}",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 260
+ },
+ {
+  "error": "deepseated",
+  "fix": "deep-seated",
+  "context": "we find that a deepseated aversion produced by general causes had",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 255
+ },
+ {
+  "error": "in deeddishonest",
+  "fix": "indeed dishonest",
+  "context": "of exceedingly extensive learning but of undisguised and in deeddishonest partiality, was published",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 258
+ },
+ {
+  "error": "Diet.",
+  "fix": "Dict.",
+  "context": "Protestants, by the Abbé de L'Enfert (Paris, 1787). Bayle, Diet., art. Faustus Socinus, Remarque c.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": false,
+  "chunk": 265
+ },
+ {
+  "error": "Giroudins,",
+  "fix": "Girondins,",
+  "context": "especially by the Giroudins, that finally vanquished the prevailing prejudice.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 265
+ },
+ {
+  "error": "ch, xv.",
+  "fix": "ch. xv.",
+  "context": "except during the period of the elections. (Contrat Social, liv. iii. ch, xv.)",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 265
+ },
+ {
+  "error": "Franco- Gallia",
+  "fix": "Franco-Gallia",
+  "context": "[^109]: Franco- Gallia, lib. i. c. 9. [^110]: Lib. i.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": false,
+  "chunk": 264
+ },
+ {
+  "error": "of 'Faith,",
+  "fix": "of Faith,",
+  "context": "some striking remarks on this in Froude's Nemesis of 'Faith, pp.",
+  "confidence": "high",
+  "chapter": "vol2-ch5",
+  "context_found": true,
+  "chunk": 264
+ },
+ {
+  "error": "when.",
+  "fix": "when",
+  "context": "and it was natural that when. the progress of knowledge destroyed the ascendency",
+  "confidence": "high",
   "chapter": "vol2-ch6",
-  "chunk_error": true,
+  "context_found": true,
+  "chunk": 271
+ },
+ {
+  "error": "wellspent",
+  "fix": "well-spent",
+  "context": "at the evening of a laborious and wellspent life, Christ appeared to him",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 271
+ },
+ {
+  "error": "armaments",
+  "fix": "amusements",
+  "context": "In their armaments, in their wars, above all, in the extreme solicitude",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 270
+ },
+ {
+  "error": "slavetrade",
+  "fix": "slave trade",
+  "context": "The modern slavetrade was an atrocity unknown to the ancients,",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 267
+ },
+ {
+  "error": "slaveowners",
+  "fix": "slave owners",
+  "context": "commerce enabling the modern slaveowners to command every description of luxury",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 267
+ },
+ {
+  "error": "slavelabour",
+  "fix": "slave labour",
+  "context": "in exchange for the produce of unskilled slavelabour, they have usually, in order to",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 267
+ },
+ {
+  "error": "mysteries,[^128] Like",
+  "fix": "mysteries.[^128] Like",
+  "context": "superseded and destroyed the mysteries,[^128] Like the former, this advance emanated chiefly",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 290
+ },
+ {
+  "error": "The' Sophonisba '",
+  "fix": "The 'Sophonisba'",
+  "context": "which was imitated from Seneca. The' Sophonisba 'was acted for the first",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 290
+ },
+ {
+  "error": "Strongbow'fl",
+  "fix": "Strongbow's",
+  "context": "by the Irish bishops on the occasion of Strongbow'fl invasion. Bodin has noticed",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 311
+ },
+ {
+  "error": "Grlanvil",
+  "fix": "Glanvil",
+  "context": "party, and by the time that Grlanvil wrote, which was in",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 311
+ },
+ {
+  "error": "\\vas",
+  "fix": "was",
+  "context": "he \\vas always free, and enjoyed the liberty of",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 311
+ },
+ {
+  "error": "{",
+  "fix": "'",
+  "context": "{ It wants -not probability, though it manifestly appears not,",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 311
+ },
+ {
+  "error": "-not",
+  "fix": "not",
+  "context": "{ It wants -not probability, though it manifestly appears not,",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 311
+ },
+ {
+  "error": "transcendant",
+  "fix": "transcendent",
+  "context": "spirit is compatible with the most transcendant abilities and with the",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 279
+ },
+ {
+  "error": "who in the middle ages, were",
+  "fix": "who, in the middle ages, were",
+  "context": "It was these last who in the middle ages, were the special",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 279
+ },
+ {
+  "error": "says,' recreation",
+  "fix": "says, 'recreation",
+  "context": "'because,' as he says,' recreation is necessary to mankind,' and",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 288
+ },
+ {
+  "error": "lias",
+  "fix": "has",
+  "context": "This lias been noticed in a very forcible but,",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 318
+ },
+ {
+  "error": "Maepherson",
+  "fix": "Macpherson",
+  "context": "The earliest notice Maepherson has been able to find of",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 318
+ },
+ {
+  "error": "Meaner",
+  "fix": "Mesmer",
+  "context": "were almost identical with those of Meaner and his followers.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 318
+ },
+ {
+  "error": "OlyntJiiacs.",
+  "fix": "Olynthiacs.",
+  "context": "See the OlyntJiiacs. Roscius even wrote a book on this",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": false,
+  "chunk": 318
+ },
+ {
+  "error": "stage,,which",
+  "fix": "stage, which",
+  "context": "the first who appeared on the Greek stage,,which Nero had",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 318
+ },
+ {
+  "error": "BrOmton",
+  "fix": "Bromton",
+  "context": "ultra id quod mutuo concessit \" (BrOmton Chronicon). Some governors made it",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "twentyeight",
+  "fix": "twenty-eight",
+  "context": "has been condemned by twentyeight Councils (six of them regarded by",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "250251",
+  "fix": "250-251",
+  "context": "See the passages in Concina, Usura trim Contractus, pp. 250251.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "Econ.t",
+  "fix": "Econ.",
+  "context": "in one of his letters quoted by M'Culloch, Pol. Econ.t pt. iii. ch.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "Molinseus",
+  "fix": "Molinaeus",
+  "context": "as a Protestant heresy — the heresy of Calvin, Molinseus, and Salmasius.",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "cloud u 2 of",
+  "fix": "cloud of",
+  "context": "his views on usury — a perfect cloud u 2 of subtleties — are",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "Concilia",
+  "fix": "Concina",
+  "context": "brief notice of his opinions in Concilia, De Usura trim Contractus, pp. 152-155.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 314
+ },
+ {
+  "error": "workDe",
+  "fix": "work De",
+  "context": "cited a passage from St. Thomas's workDe Sententiis, in which he",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
   "chunk": 319
  },
  {
+  "error": "favour able",
+  "fix": "favourable",
+  "context": "the saint was not very favour able to these' histriones,' for",
+  "confidence": "high",
   "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 320
+  "context_found": true,
+  "chunk": 319
  },
  {
+  "error": "Adani",
+  "fix": "Adam",
+  "context": "one occasion in the fifteenth century, Adani and Eve were brought",
+  "confidence": "high",
   "chapter": "vol2-ch6",
-  "chunk_error": true,
+  "context_found": true,
+  "chunk": 319
+ },
+ {
+  "error": "torn",
+  "fix": "tom.",
+  "context": "should be excluded from the sacraments (<a class=\"popup-ref\" href=\"../ref/desprez-de-boissy-lettres-sur-les-spectacles.html\">Desprez de Boissy</a>, torn i. p. 447).",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
   "chunk": 321
  },
  {
+  "error": "Fronde's",
+  "fix": "Froude's",
+  "context": "English bishops, in 1563, attributed the plague to the theatres (Fronde's Hist. vol. vii.",
+  "confidence": "medium",
   "chapter": "vol2-ch6",
-  "chunk_error": true,
+  "context_found": true,
+  "chunk": 321
+ },
+ {
+  "error": "21G",
+  "fix": "216",
+  "context": "Hallam says (Hist. of Lit., vol. i. p. 21G) that the farce",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "stiU, z 2 too,",
+  "fix": "still, too,",
+  "context": "There is stiU, z 2 too, a great 'passion play,' as it",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "Kesurrection",
+  "fix": "Resurrection",
+  "context": "ending with the appearance to the Magdalene after the Kesurrection), between which pictures",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "7£",
+  "fix": "7½",
+  "context": "When I saw it in 1860, the play lasted for 7£ hours,",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "de1",
+  "fix": "de'",
+  "context": "Roscoe's Lorenzo de1 Medici, ch. v.; Hogarth's Memoirs of the Opera,",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "Hallain",
+  "fix": "Hallam",
+  "context": "Of course, as Hallain has observed, recitative not being yet invented, the",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "Tavtuffe",
+  "fix": "Tartuffe",
+  "context": "and even some of the incidents and speeches, of his Tavtuffe from an old",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "B urney's",
+  "fix": "Burney's",
+  "context": "See B urney's Hist. of Music', Castil-Blaze, Chapelle Musique des Rois",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "Boman",
+  "fix": "Roman",
+  "context": "which is probably the most perfect Boman theatre in existence, is 66",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "Art.}",
+  "fix": "Art.)",
+  "context": "on the Antiquities of Orange, in his Etudes sur L'Histoire d'Art.} The length",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "Eiccoboni's",
+  "fix": "Riccoboni's",
+  "context": "(See Eiccoboni's history of the movement; and Bouterwek's Hist. of Spanish",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 320
+ },
+ {
+  "error": "MTherson's",
+  "fix": "M'Pherson's",
+  "context": "for the English part of the history, MTherson's Annals of Commerce, vol. ii.",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
   "chunk": 323
  },
  {
+  "error": "Doyle. B",
+  "fix": "Doyle.",
+  "context": "of attention, in Fitzpatrick's Life of Doyle. B",
+  "confidence": "medium",
   "chapter": "vol2-ch6",
-  "chunk_error": true,
-  "chunk": 324
+  "context_found": true,
+  "chunk": 323
+ },
+ {
+  "error": "1GOO",
+  "fix": "1600",
+  "context": "East India Company, which, in 1GOO, obtained permission to export",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 323
+ },
+ {
+  "error": "30,000/.",
+  "fix": "30,000l.",
+  "context": "metals to the amount of 30,000/. per annum, on",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 323
+ },
+ {
+  "error": "good, will",
+  "fix": "good will",
+  "context": "the profits of the possessors of the good, will be greater",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 323
+ },
+ {
+  "error": "o,'",
+  "fix": "of",
+  "context": "than the profits of the possessors o,' the bad land.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 323
+ },
+ {
+  "error": "Pararno",
+  "fix": "Paramo",
+  "context": "were impaled by Ferdinand. They are detailed by Pararno. Picus Mirandola.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": false,
+  "chunk": 317
+ },
+ {
+  "error": "by.Bedarride",
+  "fix": "by Bedarride",
+  "context": "Jewish literature of the middle ages is fully reviewed by.Bedarride and Rios.",
+  "confidence": "high",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 317
+ },
+ {
+  "error": "x 2\"",
+  "fix": "",
+  "context": "decree of banishment was simply changed for one of compulsory baptism. x 2\"",
+  "confidence": "medium",
+  "chapter": "vol2-ch6",
+  "context_found": true,
+  "chunk": 317
  }
 ]

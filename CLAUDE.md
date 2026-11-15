@@ -295,6 +295,14 @@ Notes for continuing:
   'not so so much' (n66), 'the Marshes' (n136), 'Starchamber' (n144), 'deepest die' (n196). Not decided: vol2-ch4 'took place,[^64]' (Muse wants a
   closing quote before the note mark; the image n65 is unclear at strip size).
 
+- 12-15 Nov: OCR sweep FINISHED (all 326 chunks read). Fix that made it work: tools/muse.py now STREAMS (the agent proxy kills a request with
+  no response bytes for ~30 s; Muse often reasons longer; 502 'upstream request failed' was that). Last 99 flags checked on images (scratchpad
+  strips2.py + zoom.py): ~80 OCR faults fixed in vol2 chs. IV-VI (curly braces for brackets, signature marks 'u 2', 'z 2', 'x 2"', 'B B' left
+  in notes, 'Pararno', 'Meaner' -> Mesmer, '7£' -> 7¼, 'Usura trim Contractus (Romse' -> 'trini Contractûs (Romæ', lost '. . . .' ellipsis).
+  AS PRINTED (left): 'the fable of the ancient', 'all who enter in which diffuses', 'lends such', 'I may delay for a moment', 'country cities',
+  'ch, xv.', 'mysteries,4 Like', 'possessors of the good, will', 'armaments', 'took place,1' (no closing quote, n65), 'pp. 213, 223.' (no
+  bracket), '372.)'. Line-break compounds left (wellspent, slavetrade, slavelabour; 'slaveowners' is mid-line in print).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
