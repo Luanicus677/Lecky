@@ -434,6 +434,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Constantine burns Jews who stone converts and punishes Christians who become Jews (315); the temples outside Rome spared because the games began there (342). Cited in ch. IV (continued), note 13, and ch. VI, note 109.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="ciampini-vetera-monimenta.html">Ciampini, <em>Vetera monimenta</em></a><span class="work-status">1 passage, 1 plate</span></div>
+<div class="work-desc">Where the halo came from, and the theory that it began as a guard against bird droppings; the radiate bird on the coin, phoenix or peacock (Rome 1690, p. 115 and plate XXXVI), cited in ch. III, notes 9, 50, 66.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="hume-populousness-of-ancient-nations.html">Hume, <em>Of the Populousness of Ancient Nations</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The exposure of children and population (p. 396), paraphrased in ch. VI, note 13. Lecky’s summary is accurate.</div>
 </li>
