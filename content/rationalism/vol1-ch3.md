@@ -774,13 +774,13 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^111]: This was originally a remark of St. Simon, but it has been adopted and made great use of by M. Comte and some of his disciples. See that very able book, Littré, *Vie de Comte*.
 
-[^112]: Roccamora, *De Cometis*, p. 17; St. Isidore, *De Ordine Creaturarum*.
+[^112]: <a class="popup-ref" href="../ref/roccamora-de-cometis.html#angels">Roccamora, *De Cometis*, p. 17</a>; St. Isidore, *De Ordine Creaturarum*.
 
 [^113]: Maury, *Légendes Pieuses*, pp. 17–18. Angels were sometimes represented in old Christian painting and sculpture bearing along the stars (and especially the Star of Bethlehem) in their hands. See, e. g., a very curious old bas relief round the choir of Notre Dame at Paris.
 
 [^114]: The fullest statement of the evidence of the prophetic character of comets I have met with, is in Raxo, *De Cometis* (1578). The author was a Spanish physician.
 
-[^115]: Roccamora, *De Cometis* (Romæ, 1670), pp. 238–239.
+[^115]: <a class="popup-ref" href="../ref/roccamora-de-cometis.html#principes">Roccamora, *De Cometis* (Romæ, 1670), pp. 238–239.</a>
 
 [^116]: In a letter to Zuinglius.
 
