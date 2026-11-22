@@ -424,6 +424,10 @@ Notes for continuing:
   images (translator's note 'That is, private sacrifices'); III.54 p. 158 = n182 and IV.23 = n216 OCR only). Lecky's 'lib. i. c. 16' (ch. I
   n26) and 'lib. iii. caps. 5, 6' (ch. III n75) do not fit: II.45 and III.54 do. Greek not checked.
 
+- 22 Nov (evening): + grotius-de-jure-belli-ac-pacis (Whewell 1853 vol. I `hugonisgrotiide00barbgoog`: I.4.7 pp. 185-186 = n257-n258, Tertullian
+  Apol. 37 (printed 'Externi sumus'), Theban legion + footnote 'mera est fabula'; vol2-ch5 notes 29-30 linked). `hugonisgrotiide00whewgoog` is
+  vol. II. Not done: III.14 (vol2-ch6 n5).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

@@ -625,4 +625,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="eusebius-vita-constantini.html">Eusebius, <em>Life of Constantine</em></a><span class="work-status">3 passages</span></div>
 <div class="work-desc">The emperor’s biographer, in the English translation of 1845. Governors forbidden to sacrifice, divination and sacrifice banned (with the translator’s “that is, private sacrifices”), temples stripped and statues paraded in Constantinople.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="grotius-de-jure-belli-ac-pacis.html">Grotius, <em>De jure belli ac pacis</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Book I, ch. IV, § 7, in Whewell’s 1853 edition: the early Christians who could have fought but did not, after Tertullian; the Theban legion, and a footnote calling it “mere fable”.</div>
+</li>
 </ul>
