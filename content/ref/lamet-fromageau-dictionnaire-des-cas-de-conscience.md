@@ -1,0 +1,90 @@
+---
+title: Lamet and Fromageau, Dictionnaire des cas de conscience
+description: "The Sorbonne casebook of Adrien-Augustin de Bussy de Lamet and Germain Fromageau (Paris 1733), read here in its Latin translation (Venice: Antonio Bortoli, 1753), because the French is not online. The three baptisms (tome I, p. 56), the actors declared in mortal sin on 20 March 1694 (tome I, p. 210), and Titius’s three per cent loan, condemned on 17 April 1677 (tome II, p. 499). Cited by Lecky in ch. IV, note 1, and ch. VI, notes 25, 28, 31, 33, 54, 139."
+heading: Lamet and Fromageau, <em>Dictionnaire des cas de conscience</em>
+subtitle: "The Sorbonne answers: three per cent is usury, and every actor is in mortal sin"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Authors", "Adrien-Augustin de Bussy de Lamet and Germain Fromageau, doctors of the Sorbonne, who answered written “cases of conscience” put to the Faculty; their signed decisions were arranged alphabetically and published after their deaths."]
+  - ["Lecky’s edition", "<em>Le Dictionnaire des cas de conscience</em>, 2 vols., folio, Paris, 1733 (Lecky, ch. VI, note 25). <strong>Not found online.</strong> A Paris printing of 1740 has been digitised by the Bayerische Staatsbibliothek (listed in the Deutsche Digitale Bibliothek), but it could not be reached from this edition’s working machine. Beware: the 1726 “Dictionnaire de cas de conscience” scans on the Internet Archive (<a href=\"https://archive.org/details/bub_gb_3DUtcaJz96wC\">bub_gb_3DUtcaJz96wC</a> and two other copies) are <em>Jean Pontas’s</em> dictionary, a different work with a nearly identical title."]
+  - ["Edition used", "The Latin translation: <em>Dictionarium casuum conscientiae, quos … domini quondam De Lamet et Fromageau Sorbonicae Familiae &amp; Societatis Doctores deciderunt, e Gallico idiomate, quo Parisiis prodiit, Latine redditum. In supplementum Dictionarii … Jo. Pontas</em>, 2 vols., Venice: Antonio Bortoli, 1753. Tome I (A–I) = Internet Archive <a href=\"https://archive.org/details/bub_gb_W_H_2JJ_XawC\">bub_gb_W_H_2JJ_XawC</a>: title page = <a href=\"https://archive.org/details/bub_gb_W_H_2JJ_XawC/page/n6/mode/2up\">n6</a>, p. 56 = <a href=\"https://archive.org/details/bub_gb_W_H_2JJ_XawC/page/n71/mode/2up\">n71</a>, p. 210 = <a href=\"https://archive.org/details/bub_gb_W_H_2JJ_XawC/page/n235/mode/2up\">n235</a>. Tome II (L–Z) = <a href=\"https://archive.org/details/bub_gb_aLuWZwzySvQC\">bub_gb_aLuWZwzySvQC</a>: p. 499 = <a href=\"https://archive.org/details/bub_gb_aLuWZwzySvQC/page/n502/mode/2up\">n502</a>. Like the French, it puts A–I (or J) in the first volume and the rest in the second."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn1\">Rationalism, ch. IV, note 1</a> (tom. i. p. 208); ch. VI, notes <a href=\"../rationalism/vol2-ch6.html#fn25\">25</a>, <a href=\"../rationalism/vol2-ch6.html#fn28\">28</a> (art. Usure), <a href=\"../rationalism/vol2-ch6.html#fn31\">31</a>, <a href=\"../rationalism/vol2-ch6.html#fn33\">33</a>, <a href=\"../rationalism/vol2-ch6.html#fn54\">54</a>, <a href=\"../rationalism/vol2-ch6.html#fn139\">139</a> (tom. i. p. 803)."]
+  - ["Status", "All three passages Lecky uses were found in the Latin translation and read on the page images (tome I pp. 56, 210; tome II p. 499). <strong>Lecky’s page numbers (tom. i. pp. 208, 803) cannot be checked</strong> without the French of 1733; the Latin pages are different, though the tome agrees. Lecky quotes the French, which this page cannot show: the comparisons below set his French beside the Latin translation. English renderings are this edition’s drafts."]
+abstract: |
+  <p>In 1677 someone asked the doctors of the Sorbonne a precise question: if Titius took only three per cent a year on a loan, would he be free of usury? No, answered Adrien de Lamet, on 17 April 1677: “any gain and any profit drawn from a loan, however small, makes usury”, because the prophet Ezekiel “makes no distinction of greater or lesser gain”. Seventeen years later, on 20 March 1694, Germain Fromageau and five colleagues concluded that actors, “by reason of their profession, as it is exercised, are in a state of mortal sin” and must be refused absolution unless they promised to give up the stage. The very next case in the book asks whether one may perform or watch <a href="https://en.wikipedia.org/wiki/Dom_Juan"><em>Le Festin de Pierre</em></a>, the Don Juan play.</p>
+  <p>Lecky quotes both decisions in French from the Paris edition of 1733, which is not online. They are here in the Latin translation published at Venice in 1753, and they say what Lecky says they say, with the dates he gives. A warning for anyone searching: the 1726 “Dictionnaire de cas de conscience” on the Internet Archive is by Jean Pontas, not Lamet and Fromageau.</p>
+---
+<section id="baptism" class="passage">
+<h2>Three baptisms: water, blood and desire (tome I, art. Baptismus, p. 56)</h2>
+<figure class="title-page"><a href="../assets/img/ref/lamet-fromageau-1753-title.jpg"><img src="../assets/img/ref/lamet-fromageau-1753-title.jpg" alt="Title page: “Dictionarium casuum conscientiae, quos secundum moralis principia … Domini quondam De Lamet et Fromageau Sorbonicae Familiae &amp; Societatis Doctores deciderunt, e Gallico idiomate, quo Parisiis prodiit, Latine redditum. In supplementum Dictionarii viri clarissimi Domini Jo: Pontas. Tomus primus. Venetiis, MDCCLIII. Apud Antonium Bortoli”" loading="lazy"></a><figcaption>Title page of tome I of the Latin translation, Venice, 1753: “translated into Latin from the French, in which it appeared at Paris … as a supplement to the Dictionary of … Jean Pontas”. <span class="credit"><a href="https://archive.org/details/bub_gb_W_H_2JJ_XawC/page/n6/mode/2up">Scan: Internet Archive</a> (Google Books) · public domain</span></figcaption></figure>
+<p class="passage-source">Latin translation: Venice 1753, tome I, introduction to the article “Baptismus”, p. 56, <a href="https://archive.org/details/bub_gb_W_H_2JJ_XawC/page/n71/mode/2up">scan n71</a>. Lecky cites the French, tom. i. p. 208.</p>
+<figure class="facsimile"><a href="../assets/img/ref/lamet-fromageau-1753-baptismus.jpg"><img src="../assets/img/ref/lamet-fromageau-1753-baptismus.jpg" alt="Printed Latin paragraph beginning “Quamquam, si proprie loqui volumus, unum est baptisma”, naming the baptism of water, of blood and of desire" loading="lazy"></a><figcaption>Tome I, p. 56. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Quamquam, si proprie loqui volumus, unum est baptisma, quemadmodum una fides est: potest illud tamen in tria dividi, quæ, ut ait D. Thomas, aquæ baptismate continentur; ut enim ea vera sint, debent verum suscipiendi baptismatis desiderium supponere. Primum est aquæ baptisma, de quo loquimur: <span class="cited-passage">alterum est baptisma sanguinis, cum nempe vita ob tuendam fidem expenditur, &amp; Martyrium perfertur; tertium est animi seu desiderii baptisma, tum scilicet cum propter Dei perfectum amorem maximus adest patratorum scelerum dolor, &amp; suscipiendi baptismatis sincera voluntas.</span> D. Augustinus productus in Canone <i>Baptismi de consecr. dist. 4.</i> veritatem &amp; efficaciam horum trium baptismatum ex eo probat, quod S. Cyprianus doceat tolerantiæ eumdem ac baptismatis effectum esse, <span class="cited-passage">boni Latronis exemplo</span>. Et <span class="cited-passage">Divus Ambrosius de Valentiniani Imperatoris, qui baptisma non susceperat, quamvis illud vehementer optaverit, morte verba faciens, videtur de ejus salute minime dubitare.</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>Properly speaking there is one baptism, as there is one faith; yet it can be divided into three, which, as St Thomas says, are contained in the baptism of water, for to be true they must presuppose a true desire to receive baptism. The first is the baptism of water, of which we are speaking; <span class="cited-passage">the second is the baptism of blood, when life is given up in defence of the faith and martyrdom is suffered; the third is the baptism of the spirit, or of desire, when, out of perfect love of God, there is the greatest sorrow for sins committed and a sincere will to receive baptism.</span> St Augustine, cited in the canon <i>Baptismi</i> (De consecratione, dist. 4), proves the truth and efficacy of these three baptisms from St Cyprian’s teaching that suffering has the same effect as baptism, <span class="cited-passage">by the example of the good thief</span>. And <span class="cited-passage">St Ambrose, speaking of the death of the Emperor Valentinian, who had not received baptism though he greatly desired it, seems not to doubt his salvation at all.</span></p>
+</div>
+</div>
+<p>Lecky’s note (ch. IV, note 1) summarises this paragraph closely: martyrdom, “the baptism of blood”, first; a “baptism of perfect love” resting on “the case of the penitent thief”; and catechumens who died before baptism, which is the case of <a href="https://en.wikipedia.org/wiki/Valentinian_II">Valentinian II</a> in Ambrose’s funeral oration.</p>
+</section>
+
+<section id="usure-1677" class="passage">
+<h2>“Si petit qu’il puisse être”: Titius’s three per cent (tome II, art. Usura, p. 499)</h2>
+<p class="passage-source">Latin translation: Venice 1753, tome II, “Usura”, case IV, answer IV and date, p. 499, <a href="https://archive.org/details/bub_gb_aLuWZwzySvQC/page/n502/mode/2up">scan n502</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/lamet-fromageau-1753-usura-1677.jpg"><img src="../assets/img/ref/lamet-fromageau-1753-usura-1677.jpg" alt="Printed Latin column: “IV. Titium ab usura exemptum non fore, si tantum terna annua pro centum sumpserit …” ending “Decisum Parisiis die 17. Aprilis an. 1677. A. De Lamet”" loading="lazy"></a><figcaption>Tome II, p. 499: the answer of 17 April 1677, signed by De Lamet. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<p>The case: Titius lends Fabius 10,000 livres, not by a contract of rent but on bills to which 500 livres are added each year, and the doctors are asked five questions, the fourth being “whether Titius would be free from usury if he took only three in each hundred”.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p><span class="cited-passage">IV. Titium ab usura exemptum non fore, si tantum terna annua pro centum sumpserit; quia nempe quivis quæstus, &amp; quodvis lucrum ex mutuo ductum, quamvis minimum sit, usuram efficit. Ezechiel cap. 18. nullam majoris, minorisve lucri distinctionem adhibet</span>: <i>Ad usuram non commodaverit</i>, inquit Propheta hic, <i>&amp; amplius non acceperit … Ad usuram dantem, &amp; amplius accipientem: numquid vivet? non vivet.</i> Ut proinde, cum omne lucrum, quodcumque tandem illud fuerit, per illud <i>amplius</i> intelligatur, lucrum, quod ex mutuo provenit, usurarium sit, &amp; quod inde consequitur, vetitum. …</p>
+<p>V. Quæstus hos usurarios legitimos non evadere, nec pravos esse desinere, cum iis quinquaginta, vel amplius, annorum praxis accedit: <i>Verbum Dei in æternum stat</i>; neque hoc idem divinum verbum hominum malitia &amp; corruptione mutatur.</p>
+<p>Decisum Parisiis die 17. Aprilis an. 1677. A. De Lamet.</p>
+</div>
+<div class="rendering" lang="en">
+<p><span class="cited-passage">IV. That Titius would not be free from usury if he took only three per cent a year, because any gain and any profit drawn from a loan, however small, makes usury. Ezekiel, ch. 18, makes no distinction between greater and lesser gain</span>: <i>“He that hath not given forth upon usury,”</i> says the prophet there, <i>“neither hath taken any increase … Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live.”</i> So that, since every gain whatever is understood by that word <i>increase</i>, gain that comes from a loan is usurious and, consequently, forbidden. …</p>
+<p>V. That these usurious gains do not become lawful, nor cease to be wicked, when fifty or more years of practice support them: <i>“The word of God stands for ever”</i>, and that divine word is not changed by men’s malice and corruption.</p>
+<p>Decided at Paris, 17 April 1677. A. De Lamet.</p>
+</div>
+</div>
+<table class="collation">
+<thead><tr><th>Lecky’s French (ch. VI, note 28)</th><th>Latin translation (1753)</th></tr></thead>
+<tbody>
+<tr><td>“Que Titius ne seroit pas exempt d’usure en ne prenant que trois pour cent d’intérêt,”</td><td>“Titium ab usura exemptum non fore, si tantum terna annua pro centum sumpserit;”</td></tr>
+<tr><td>“parceque tout profit et tout gain tiré du prêt, si petit qu’il puisse être, fait l’usure.”</td><td>“quia nempe quivis quæstus, &amp; quodvis lucrum ex mutuo ductum, quamvis minimum sit, usuram efficit.”</td></tr>
+<tr><td>“L’Ézéchiel au ch. xviii. ne fait point de distinction du plus ou du moins.”</td><td>“Ezechiel cap. 18. nullam majoris, minorisve lucri distinctionem adhibet”</td></tr>
+<tr><td>“In 1677”</td><td>“Decisum Parisiis die 17. Aprilis an. 1677.”</td></tr>
+</tbody>
+</table>
+<p>The Latin is a faithful translation of the words Lecky quotes, clause for clause. The case also shows how far casuistry had already gone by 1677: the loan is disguised as bills of exchange, and the fifth question asks whether fifty years of custom had made such profits lawful.</p>
+</section>
+
+<section id="comediens-1694" class="passage">
+<h2>“In the state of mortal sin”: actors, 20 March 1694 (tome I, art. Comœdia, p. 210)</h2>
+<p class="passage-source">Latin translation: Venice 1753, tome I, “Comœdia”, end of case I, p. 210, <a href="https://archive.org/details/bub_gb_W_H_2JJ_XawC/page/n235/mode/2up">scan n235</a>. Lecky cites the French, tom. i. p. 803.</p>
+<figure class="facsimile"><a href="../assets/img/ref/lamet-fromageau-1753-comoedia-1694.jpg"><img src="../assets/img/ref/lamet-fromageau-1753-comoedia-1694.jpg" alt="Printed Latin: “Illud etiam concludendum, Histriones officii sui causa, quemadmodum exercetur, in peccati mortalis statu versari … Decisum in Sorbona hac die 20. Martii an. 1694”" loading="lazy"></a><figcaption>Tome I, p. 210: the Sorbonne’s conclusion of 20 March 1694. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Ex his omnibus, quæ hactenus exposita sunt, sequitur, ex ratione, qua Ecclesiæ Patres, &amp; Canones de Comœdia, &amp; Histrionibus locuti sunt, quaque Episcopi sese in suis Ritualibus explicuerunt, atque etiamnum sese explicant, pro certo habendum esse, Comœdiam, prout quidem a Comicis agitur, malam semper hactenus habitam esse, quippe quæ cupiditates excitet, &amp; ad bonorum morum corruptionem tendat, sive ob repræsentationem, sive ob varias, quæ eam comitantur, circumstantias.</p>
+<p><span class="cited-passage">Illud etiam concludendum, Histriones officii sui causa, quemadmodum exercetur, in peccati mortalis statu versari</span>; quamobrem non sunt absolvendi, nisi ab arte sua se recessuros promittant.</p>
+<p>Quod attinet ad eos, qui proxima &amp; determinata ratione Comœdiæ cooperantur, eique volentes lubentes intersunt, quamvis non æque rei sint, atque Histriones, nihilominus in re gravi peccatum committunt; ut proinde iis neganda sit absolutio, ni utrique satis moniti resipiscere, &amp; a suscepto consilio discedere voluerint.</p>
+<p>Decisum in Sorbona hac die 20. Martii an. 1694. G. Fromageau. T. Lhuilier. Th. Durieux. Ph. De la Coste. De Blanger. Boilnet.</p>
+</div>
+<div class="rendering" lang="en">
+<p>From all that has been set out so far it follows, from the way the Fathers of the Church and the canons have spoken of comedy and actors, and the way bishops have expressed themselves in their rituals and still express themselves, that it must be held for certain that comedy, as performed by comedians, has always been considered evil, since it excites the passions and tends to the corruption of good morals, whether by the performance itself or by the various circumstances that accompany it.</p>
+<p><span class="cited-passage">It must also be concluded that actors, by reason of their profession, as it is exercised, are in the state of mortal sin</span>; and therefore they are not to be absolved unless they promise to leave their art.</p>
+<p>As for those who cooperate directly and specifically in comedy, and attend it willingly and gladly, though they are not as guilty as the actors, they still sin in a grave matter; so that absolution is to be refused to both, unless, after due warning, they are willing to repent and abandon their purpose.</p>
+<p>Decided at the Sorbonne, 20 March 1694. [Signed] G. Fromageau, T. Lhuilier, Th. Durieux, Ph. de la Coste, De Blanger, Boilnet.</p>
+</div>
+</div>
+<table class="collation">
+<thead><tr><th>Lecky’s French (ch. VI, note 139)</th><th>Latin translation (1753)</th></tr></thead>
+<tbody>
+<tr><td>“Les comédiens, par leur profession comme elle s’exercise, sont en état de péché mortel.”</td><td>“Histriones officii sui causa, quemadmodum exercetur, in peccati mortalis statu versari”</td></tr>
+<tr><td>“the doctors of the Sorbonne in 1694”</td><td>“Decisum in Sorbona hac die 20. Martii an. 1694.”</td></tr>
+</tbody>
+</table>
+<p>Lecky’s “s’exercise” (for <i>s’exerce</i>) is as printed in 1865. The next case on the following page (p. 211, read in the OCR only) is headed “Judicium de Comœdia, cui titulus, Convivium Petræ”, a judgment on the comedy <i>Le Festin de Pierre</i>, and its first point is that the play may not be performed or watched.</p>
+</section>

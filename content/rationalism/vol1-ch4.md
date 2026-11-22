@@ -173,7 +173,7 @@ It was thus that the great teachers of the seventeenth century, who were themsel
 
 *End of the First Volume.*
 
-[^1]: Martyrdom or, as it was termed, the baptism of blood being the chief. Some, however, relying on the case of the penitent thief, admitted a 'baptism of perfect love,' when a baptism by water could not be obtained. This consisted, of course, of extraordinary exercises of faith. Catechumens also, who died during the preparation for baptism, were thought by some to be saved. See Lamet et Fromageau, *Dict. des Cas de Conscience*, tom. i. p. 208.
+[^1]: Martyrdom or, as it was termed, the baptism of blood being the chief. Some, however, relying on the case of the penitent thief, admitted a 'baptism of perfect love,' when a baptism by water could not be obtained. This consisted, of course, of extraordinary exercises of faith. Catechumens also, who died during the preparation for baptism, were thought by some to be saved. See <a class="popup-ref" href="../ref/lamet-fromageau-dictionnaire-des-cas-de-conscience.html#baptism">Lamet et Fromageau, <em>Dict. des Cas de Conscience</em>, tom. i. p. 208</a>.
 
 [^2]: Wall's *History of Infant Baptism*, vol. ii. p. 211. <a class="popup-ref" href="../ref/wall-history-of-infant-baptism.html#hincmar-211">source page</a> St. Thomas Aquinas afterwards suggested the possibility of the infant being saved who died within the womb: 'God may have ways of saving it for aught we know.'
 

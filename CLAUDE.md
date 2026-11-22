@@ -360,7 +360,7 @@ Notes for continuing:
   Binsfeld 4, Strutt 4, Eusebius Vita Const. 4. NEW LEADS (archive.org, not yet opened): Concina 'In epistolam encyclicam Benedicti XIV
   adversus usuram commentarius' 1746 = `10688672bsb` (Lecky's 'Adversus Usuram, Romae 1746') and 'De spectaculis theatralibus' 1752 =
   `10526523bsb` (Lecky: published 1752) -- CLAUDE.md earlier said 'no Concina scan': wrong; 'Usura contractus trini' 1748 still not found.
-  Lamet & Fromageau French 'Dictionnaire de cas de conscience' 1726 = `bub_gb_3DUtcaJz96wC` (also `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`;
+  Lamet & Fromageau: WRONG, the 1726 'Dictionnaire de cas de conscience' = PONTAS (see the evening note) `bub_gb_3DUtcaJz96wC` (also `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`;
   Lecky used Paris 1733, so find art. Usure by headword) and Latin 'Dictionarium casuum conscientiae' 1773 = `bub_gb_HI23_vivcC8C`.
   Sarpi Discorso dell'Inquisitione: possibly in 'Risposta all'historia della Sacra Inquisitione ... o sia Discorso dell'origine' 1678 =
   `bub_gb_ZXSX6KuPuPwC` (unchecked; Lecky used ed. 1639). Naude Apologie Paris 1625 (Lecky's ed.) = `apologiepovrtovs00naud`.
@@ -376,6 +376,16 @@ Notes for continuing:
   of Concina's list (Nicaea and Lyon I unlabelled). OCR fixed from Lecky's page images: vol2-ch6 note 53 French (C'est là, l'art, prête à
   l'usure, intérêt), note 56 'JBened' -> 'Bened', note 141 'manifesto' -> 'manifeste', note 149 'De Sped.' -> 'De Spect.'.
   Usura contractus trini (1748; notes 48, 54, 55) still not found.
+
+- 22 Nov (evening): CORRECTION of the earlier lead: the 1726 'Dictionnaire de cas de conscience' scans (`bub_gb_3DUtcaJz96wC`,
+  `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`) and the 1773 Latin `bub_gb_HI23_vivcC8C` / `bub_gb_cGBAOjITur4C` are all JEAN PONTAS, not
+  Lamet & Fromageau. Lamet & Fromageau 1733 French: not online (BSB has a 1740 Paris printing, listed on deutsche-digitale-bibliothek.de,
+  but DDB shows a bot wall and the MDZ search is JS-only). Built `lamet-fromageau-dictionnaire-des-cas-de-conscience.md` from the LATIN
+  translation, Venice: Bortoli 1753 (issued as a supplement to Pontas): tome I = `bub_gb_W_H_2JJ_XawC` (image = djvu object index; title n6,
+  Baptismus p. 56 = n71, Comoedia 1694 decision p. 210 = n235, Festin de Pierre case p. 211 = n236), tome II = `bub_gb_aLuWZwzySvQC`
+  (Usura case IV, 17 Apr 1677, p. 499 = n502). Both decisions match Lecky's French in substance and date; his French pages (tom. i pp. 208,
+  803) unverifiable. Notes linked: vol1-ch4 n1; vol2-ch6 n25, 28, 31, 33, 54, 139; OCR accents fixed in notes 28, 139 (read on Lecky
+  n295, n362); 's'exercise' is AS PRINTED (added to as-printed.md text list).
 
 ## Readability layer (headings, synopses, figures)
 
