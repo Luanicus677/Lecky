@@ -387,6 +387,11 @@ Notes for continuing:
   803) unverifiable. Notes linked: vol1-ch4 n1; vol2-ch6 n25, 28, 31, 33, 54, 139; OCR accents fixed in notes 28, 139 (read on Lecky
   n295, n362); 's'exercise' is AS PRINTED (added to as-printed.md text list).
 
+- 22 Nov (evening): + naude-apologie (Paris: Targa 1625 = Lecky's ed., `apologiepovrtovs00naud`, image = page+31, title n8; ALL Lecky's
+  pages match: pp. 81-82 Toledo = n112-n113, 110-111 heresy axiom (Delrio/Maldonat) = n141-n142, 127 Bodin (+ James I verdict) = n158,
+  380-381 d'Abano (seven spirits, straw effigy) = n411-n412, inscription p. 387 = n418, ch. XV Agrippa pp. 400-429 = n431-n460).
+  OCR misreads page heads (127 -> '117'). vol1-ch1 notes 4, 63, 81, 86, 87, 92 linked.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
