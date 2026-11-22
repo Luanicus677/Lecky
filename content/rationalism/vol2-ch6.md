@@ -483,7 +483,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^33]: Besides Lamet and Fromageau there is a discussion as to ‘Monti di Pieta' in Escobar's Moral Philosophy.
 
-[^34]: Conférences sur l'Usure, tom. i. p. 23. Salelles, De Materiis Tribunalmm Inquisitionis (Romee, 1651), tom. ii. p. 156. According to Cibrario (Economia Politico, del Medio Evo, vol. ii. p. 52), a heretic named Bech, who was burnt in Piedmont in 1388, was accused among other things of having maintained that 'incest and usury are not sins.'
+[^34]: Conférences sur l'Usure, tom. i. p. 23. Salelles, De Materiis Tribunalium Inquisitionis (Romæ, 1651), tom. ii. p. 156. According to Cibrario (<a class="popup-ref" href="../ref/cibrario-economia-politica.html#bech">Economia Politica del Medio Evo, vol. ii. p. 52</a>), a heretic named Bech, who was burnt in Piedmont in 1388, was accused among other things of having maintained that 'incest and usury are not sins.'
 
 [^35]: Chartario, Praxis Interrogandarum Serum (Romæ, 1618), p. 201.
 
@@ -605,7 +605,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^94]: The earliest notice Macpherson has been able to find of an English consul is in 1346 (Annals of Commerce, vol. i. p. 536). <a class="popup-ref" href="../ref/macpherson-annals-of-commerce.html#consul-1346">source page</a>
 
-[^95]: Before this time ambassadors were sent only on occasions of emergency. The first instance of a resident ambassador seems to have been in 1455, when Francis Sforza, Duke of Milan, established one at Genoa, and towards the close of the century the institution became somewhat common in Italy (Cibrario, Economia Politico, del Medio Evo [Torino, 1842], vol. i. p. 319). It was also about this time that the use of cipher in diplomacy became usual. (Hid. De Plassan, Hist. de la Diplomatic Frangaise, In trod.)
+[^95]: Before this time ambassadors were sent only on occasions of emergency. The first instance of a resident ambassador seems to have been in 1455, when Francis Sforza, Duke of Milan, established one at Genoa, and towards the close of the century the institution became somewhat common in Italy (<a class="popup-ref" href="../ref/cibrario-economia-politica.html">Cibrario, Economia Politica del Medio Evo [Torino, 1842], vol. i. p. 319</a>). It was also about this time that the use of cipher in diplomacy became usual. (Hid. De Plassan, Hist. de la Diplomatic Frangaise, In trod.)
 
 [^96]: M. <a class="popup-ref" href="../ref/blanqui-histoire-de-leconomie-politique.html">Blanqui</a> has collected some extremely remarkable evidence of this (Ilistoire d'Economie Politique, tom. i. pp. 244-270). The Lombards also occasionally manifested extremely enlightened views on these subjects (see Rossi, Economic Politique, tom. i. p. 260), and Milan, perhaps longer than any other great town in Europe, was exempt from the medieval system of corporations. However, the first Italian writer of considerable merit on Political Economy was probably Serra, who was a Neapolitan, and it was at Naples that the first Professorship of Political Economy in Europe was established in 1754 by the munificence of the Florentine Intieri.
 

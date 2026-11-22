@@ -340,6 +340,9 @@ Notes for continuing:
   ...00lamegoog, bub_gb_LWUNd3ozKYQC); none matched Lecky's pp. 37-89 / 308-317 at a quick look (the Polish brief's text not found); skipped.
   + muratori-antiquitates-dissertatio-xvi (vol. I, Milan 1738, photographic reprint scan `antiquitatesit01mura`: diss. XVI = cols. 883-912,
   cols. 889-890 = n483, 891-892 = n484; ch. VI notes 43-45; OCR 'Italicce, dissert,' fixed to Lecky's 'Italicœ, dissert.' (read on n303)).
+  + cibrario-economia-politica (2nd ed. Turin 1842 vol. II `dellaeconomiapo04cibrgoog`, image = page-16, pp. 50-52 = n34-n36, title n7;
+  vol. III = `bub_gb_C3bb6Yv7QCIC`; vol. I 1842 not identified; ch. VI note 34). OCR fixed (read on Lecky n237, n298): 'Economia Politico,' ->
+  'Economia Politica' (3 notes), 'Tribunalmm ... (Romee' -> 'Tribunalium ... (Romæ'.
 
 ## Readability layer (headings, synopses, figures)
 
