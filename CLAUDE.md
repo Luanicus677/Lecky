@@ -426,7 +426,7 @@ Notes for continuing:
 
 - 22 Nov (evening): + grotius-de-jure-belli-ac-pacis (Whewell 1853 vol. I `hugonisgrotiide00barbgoog`: I.4.7 pp. 185-186 = n257-n258, Tertullian
   Apol. 37 (printed 'Externi sumus'), Theban legion + footnote 'mera est fabula'; vol2-ch5 notes 29-30 linked). `hugonisgrotiide00whewgoog` is
-  vol. II. Not done: III.14 (vol2-ch6 n5).
+  vol. II. III.14 § 3 added from vol. III `dejurebellietpac03grotuoft` p. 256 = n265 (vol2-ch6 n5).
 
 ## Readability layer (headings, synopses, figures)
 

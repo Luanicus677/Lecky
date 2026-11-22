@@ -425,7 +425,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^4]: See much horrible evidence of the atrocities practised on Roman slaves in Loiseleur, Etude sur les Crimes et les Peines dans VAntiquite et les Temps Modernes (Paris, 1863), pp. 83-98; and in Comte, Traite de Legislation, liv. v. There is an extremely good essay on the condition of the ancient slaves — one of the best ever written on the subject— in Bodin's Republic, lib. i. c. 5.
 
-[^5]: This movement has been well noticed by Grotius, De Jure, lib. iii. c. 14.
+[^5]: This movement has been well noticed by <a class="popup-ref" href="../ref/grotius-de-jure-belli-ac-pacis.html#iii-14">Grotius, De Jure, lib. iii. c. 14</a>.
 
 [^6]: Guizot.
 
