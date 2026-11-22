@@ -645,7 +645,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^114]: ‘Joculator.' Bossuet, however, says that the Acts of St. Paphnutius show that this was simply a perambulant flute-player. After all, Bossuet is obliged to make the following admission: 'Apres avoir purge la doctrine de Saint Thomas des exces dont on la chargeoit, il faut avouer avec le respect qui est du a un si grand homme, qu'il semble s'etre un peu eloigne, je ne dirai pas des sentimens dans le fond, mais plutot des expressions des anciens Peres sur le sujet des divertissemens.' (<a class="popup-ref" href="../ref/bossuet-maximes-sur-la-comedie.html#eutrapelia">Reflexions sur la Comedie, § 31.</a>)
 
-[^115]: Mackay's Religious Developement of the Greeks and Hebrews, vol. ii. pp. 286-297. Besides the drama, it is probable that the gladiatorial spectacles (which are of Etruscan origin) were originally religious. They seem at first to have been celebrated at the graves, and in honour of the dead.
+[^115]: <a class="popup-ref" href="../ref/mackay-progress-of-the-intellect.html#sacred-drama">Mackay's Religious Developement of the Greeks and Hebrews, vol. ii. pp. 286-297.</a> Besides the drama, it is probable that the gladiatorial spectacles (which are of Etruscan origin) were originally religious. They seem at first to have been celebrated at the graves, and in honour of the dead.
 
 [^116]: See Villemain, Moyen Age; Martonne, Piete du Moyen Age; Leroy, Etudes sur les Mysteres, p. 41.
 

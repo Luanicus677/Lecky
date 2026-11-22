@@ -350,6 +350,11 @@ Notes for continuing:
   + ford-handbook-for-spain (3rd ed. London 1855, continuous pagination: Part I `ahandbookfortra01fordgoog` p. 304 = n327 (matches Lecky
   vol. i p. 304), title n6; Part II `ahandbookfortra02fordgoog` p. 571 = n120 (Lecky's vol. ii p. 271 is another edition); ch. III notes 49, 65).
 
+- 22 Nov (end): + mackay-progress-of-the-intellect (London: Chapman 1850, vol. II `progressofintell02mack`, p. 115 = n126 (page+11 here),
+  § 18 'Form of the mysteries'; vol. I = `progressofintell01mack`). Lecky's 'vol. ii. pp. 286-297' (ch. VI note 115) does NOT match: vol. II
+  pp. 286-297 = Hebrew future state, vol. I pp. 286-297 = Notion of God; the page says the p. 115 identification is ours. Gladiators/Etruscan
+  sentence not found. Wikipedia popups rebuilt the same day (see the popup note above).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
