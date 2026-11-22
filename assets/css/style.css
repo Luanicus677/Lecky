@@ -862,6 +862,68 @@ section.footnotes a.footnote-back:hover {
   border: 1px solid var(--border);
 }
 
+/* Wikipedia popups and popins: the whole article (popups.js), as on gwern.net. */
+.popup .popframe-scroll-view { overscroll-behavior: contain; }
+.popup.wiki-popup { width: min(46em, calc(100vw - 2rem)); max-width: min(46em, calc(100vw - 2rem)); max-height: min(78vh, 760px); }
+.popup .popframe-title a::after, .popin-title::after { display: none !important; }
+.popup .popframe-title a { pointer-events: auto; color: var(--fg); text-decoration: none; }
+.popup .popframe-title a:hover { text-decoration: underline; }
+.popin.wiki-popin .popin-content { max-height: 75vh; overflow-y: auto; overscroll-behavior: contain; }
+.wiki-article { font-size: 0.95em; }
+.wiki-article a::after { display: none !important; }
+.wiki-article .mw-heading { margin-top: 1.1em; }
+.popup .wiki-article h2, .popin .wiki-article h2 { font-size: 1.1rem; margin: 0 0 0.5em; font-variant: small-caps; border-bottom: 1px solid var(--border); padding-bottom: 0.15em; }
+.wiki-article h3 { font-size: 1rem; margin: 0.9em 0 0.3em; }
+.wiki-article h4 { font-size: 0.95rem; margin: 0.8em 0 0.3em; font-style: italic; font-weight: normal; }
+.wiki-article ul, .wiki-article ol { padding-left: 1.4em; margin: 0 0 0.6em; }
+.wiki-article dl { margin: 0 0 0.6em; }
+.wiki-article blockquote { margin: 0.6em 1.2em; font-size: 0.95em; }
+.wiki-toc {
+  clear: both;
+  font-family: var(--font-sans);
+  font-size: 0.8em;
+  line-height: 1.8;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 0.35em 0;
+  margin: 0.7em 0 0.9em;
+}
+.wiki-toc-label { font-weight: 700; margin-right: 0.3em; }
+.wiki-toc a { white-space: nowrap; padding: 0 0.45em; border-left: 1px solid var(--border); }
+.wiki-article .infobox {
+  float: right;
+  clear: right;
+  width: auto !important;
+  max-width: 42%;
+  margin: 0 0 0.7em 1em;
+  font-size: 0.78em;
+  line-height: 1.35;
+  border: 1px solid var(--border);
+  border-collapse: collapse;
+}
+.wiki-article .infobox th, .wiki-article .infobox td { padding: 0.2em 0.4em; vertical-align: top; text-align: left; }
+.wiki-article .infobox-above, .wiki-article .infobox caption { font-weight: 700; text-align: center !important; font-size: 1.1em; }
+.wiki-article .infobox-image, .wiki-article .infobox-caption { text-align: center !important; }
+.wiki-article figure, .wiki-article .thumb {
+  float: right;
+  clear: right;
+  max-width: 38%;
+  margin: 0.2em 0 0.7em 1em;
+  font-size: 0.8em;
+  line-height: 1.35;
+  color: var(--fg-muted);
+}
+.wiki-article img { max-width: 100%; height: auto; }
+.wiki-article figcaption { margin-top: 0.2em; }
+.wiki-article table:not(.infobox) { display: block; overflow-x: auto; max-width: 100%; font-size: 0.82em; border-collapse: collapse; margin: 0.6em 0; }
+.wiki-article table:not(.infobox) th, .wiki-article table:not(.infobox) td { border: 1px solid var(--border); padding: 0.2em 0.4em; }
+.wiki-article .gallery { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.6em; }
+.wiki-article .gallerybox { width: 9em; font-size: 0.8em; }
+@media (max-width: 600px) {
+  .wiki-article .infobox { float: none; max-width: 100%; margin: 0 auto 0.8em; }
+  .wiki-article figure, .wiki-article .thumb { max-width: 45%; }
+}
+
 /* ---------- link icons ----------
    After gwern.net's link icons (links.css): a small, faint glyph after a
    link saying where it goes. Drawn with mask-image so it takes the text

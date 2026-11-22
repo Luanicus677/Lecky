@@ -234,7 +234,15 @@ Notes for continuing:
   pages in the parallel form; the build folds them). Owner wants each page to open with an interesting nugget in plain English: a short,
   concrete abstract (what is surprising, what Lecky got wrong), a plain-English subtitle (not the full original title), title page /
   facsimile images. Thiers page rebuilt as the model.
-- Touch screens: Wikipedia links open a popin with the article summary (popups.js `bindWikiPopin`; second tap follows the link).
+- Wikipedia popups (22 Nov 2026, owner's request): show the WHOLE article, scrollable, as gwern.net does. popups.js `fetchWikiFull` uses
+  `w/api.php?action=parse&format=json&formatversion=2&prop=text|displaytitle&redirects=1&origin=*` (CORS works; the page-summary API is still
+  fetched first for a fast lead, and is often 429 from this cloud machine but not for readers). `cleanWikiArticle` strips edit links, navboxes,
+  maintenance boxes, sidebars, reference markers and the References/Notes/External links sections (`WIKI_DROP_SECTIONS`, also French/Italian/
+  German names), red links, inline styles; rewrites links/images to absolute https; prefixes ids with `wp-`; adds a one-line Contents bar.
+  In-article and Contents links scroll the popup (`wireWikiAnchors`), never the page (a page scroll closes popups). Links inside get nested
+  popups (namespaced titles like File:/Category: are skipped). `position()` now shrinks a popup that fits neither above nor below. Touch:
+  the same article in a scrollable popin (second tap on the link follows it). Tested with Playwright by routing api.php to a saved response
+  (scratchpad wikitest.js / wikitouch.js); Thomas Aquinas (1 MB) renders in ~0.4 s.
 - Wikipedia link check: ordinary article pages (not the API) load from this machine; check with curl status codes, 1s apart. Oct 31 check
   fixed 8 broken links (Thiers -> fr.wikipedia; Raoul_Rochette; Edward_Burt; Francisco_de_Toledo_(Jesuit); Gioacchino_Ventura_di_Raulica;
   it:Giuseppe_Pecchio; Manuel_de_Sá; Samuel_Laing_(travel_writer), whose dates are 1780–1868, not the son's).

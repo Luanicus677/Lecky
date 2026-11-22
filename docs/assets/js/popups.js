@@ -105,7 +105,7 @@
   }
 
   function startDrag(event, box) {
-    if (event.button !== 0 || event.target.closest("button")) return;
+    if (event.button !== 0 || event.target.closest("button, a")) return;
     event.preventDefault();
     if (!box.classList.contains("pinned")) togglePin(box); // dragging pins it
     bringToFront(box);
@@ -175,15 +175,24 @@
   }
 
   function position(box, anchorEl) {
+    box.style.maxHeight = "";
     var r = anchorEl.getBoundingClientRect();
     var bw = box.offsetWidth;
     var bh = box.offsetHeight;
     var vw = document.documentElement.clientWidth;
     var vh = document.documentElement.clientHeight;
+    var below = vh - r.bottom - 26;
+    var above = r.top - 26;
 
     // Below the anchor; flip above if there isn't room below but is above.
+    // A tall popup (a whole Wikipedia article) that fits neither way goes on
+    // the roomier side and is shortened to fit; its content scrolls.
+    if (bh > below && bh > above) {
+      bh = Math.max(below, above);
+      box.style.maxHeight = bh + "px";
+    }
     var top;
-    if (vh - r.bottom < bh + 16 && r.top > bh + 16) {
+    if (bh > below && above >= bh) {
       top = window.scrollY + r.top - bh - 10;
       box.classList.add("popup-above");
     } else {
@@ -330,7 +339,32 @@
     });
   }
 
-  // --- Wikipedia: the article's lead, from Wikipedia's page-summary API ---
+  // --- Wikipedia: the whole article, as on gwern.net ---
+  // The lead (page-summary API: small, fast) shows first; the full article
+  // (action=parse, which allows cross-site requests with origin=*) replaces it
+  // when it arrives, cleaned of edit links, navboxes, maintenance notices and
+  // the reference apparatus. Links inside it get popups of their own.
+  var wikiFullCache = Object.create(null);
+  var WIKI_RE = /^https?:\/\/([a-z-]+)\.(?:m\.)?wikipedia\.org\/wiki\/([^#?]+)(?:#(.*))?/;
+  var WIKI_NS_RE = /^(File|Image|Special|Help|Wikipedia|WP|Template|Category|Portal|Talk|User|Module|MOS|Draft)(_talk)?:/i;
+  var WIKI_DROP_SECTIONS = /^(references|notes|footnotes|citations|sources|bibliography|works cited|cited works|further reading|external links|notes and references|references and notes|references and further reading|general and cited sources|cited sources|general references|explanatory notes|literature|primary sources|secondary sources|notes et références|références|bibliographie|liens externes|sources et bibliographie|note|bibliografia|collegamenti esterni|einzelnachweise|literatur|weblinks|anmerkungen)$/i;
+  var WIKI_STRIP = [
+    "style", "link", "script", "meta", ".mw-editsection", ".navbox", ".navbox-styles", ".vertical-navbox",
+    ".sidebar", ".metadata", ".ambox", ".ombox", ".tmbox", ".cmbox", ".fmbox", ".imbox", ".sistersitebox",
+    ".side-box", ".noprint", ".mw-empty-elt", ".shortdescription", ".hatnote", "#coordinates",
+    ".mw-references-wrap", "ol.references", ".reflist", "sup.reference", ".mw-cite-backlink", ".portalbox",
+    ".authority-control", ".catlinks", ".succession-box", ".mwe-math-mathml-inline", ".mwe-math-mathml-a11y",
+    "[style*='display:none']", "[style*='display: none']"
+  ].join(", ");
+
+  function wikiParts(link) {
+    var m = WIKI_RE.exec(link.href);
+    if (!m) return null;
+    var title = decodeURIComponent(m[2]);
+    if (WIKI_NS_RE.test(title)) return null;
+    return { lang: m[1], title: title, hash: m[3] ? decodeURIComponent(m[3]) : "" };
+  }
+
   function fetchWiki(lang, title) {
     var key = lang + ":" + title;
     if (!wikiCache[key]) {
@@ -344,11 +378,137 @@
     return wikiCache[key];
   }
 
+  function isWikiH2(el) {
+    return el.tagName === "H2" || (el.classList.contains("mw-heading2"));
+  }
+
+  function cleanWikiArticle(lang, parse, articleUrl) {
+    var doc = new DOMParser().parseFromString(parse.text, "text/html");
+    var root = doc.querySelector(".mw-parser-output") || doc.body;
+    root.querySelectorAll(WIKI_STRIP).forEach(function (el) { el.remove(); });
+    // Drop the reference and link-list sections (heading up to the next h2).
+    root.querySelectorAll("h2").forEach(function (h) {
+      if (!WIKI_DROP_SECTIONS.test(h.textContent.trim())) return;
+      var start = h.parentElement && h.parentElement.classList.contains("mw-heading") ? h.parentElement : h;
+      var el = start.nextElementSibling;
+      start.remove();
+      while (el && !isWikiH2(el)) { var next = el.nextElementSibling; el.remove(); el = next; }
+    });
+    var base = "https://" + lang + ".wikipedia.org";
+    root.querySelectorAll("a[href]").forEach(function (a) {
+      var h = a.getAttribute("href");
+      if (a.classList.contains("new") || /[?&]redlink=1/.test(h)) {  // red links: plain text
+        a.replaceWith.apply(a, Array.prototype.slice.call(a.childNodes));
+        return;
+      }
+      if (h.charAt(0) === "#") {
+        a.setAttribute("href", articleUrl + h);
+        a.setAttribute("data-wiki-anchor", "wp-" + decodeURIComponent(h.slice(1)));
+        return;
+      }
+      if (h.indexOf("//") === 0) h = "https:" + h;
+      else if (h.charAt(0) === "/") h = base + h;
+      a.setAttribute("href", h);
+    });
+    root.querySelectorAll("[id]").forEach(function (el) { el.id = "wp-" + el.id; });
+    root.querySelectorAll("img").forEach(function (img) {
+      ["src", "srcset"].forEach(function (attr) {
+        var v = img.getAttribute(attr);
+        if (v) img.setAttribute(attr, v.replace(/(^|[\s,])\/\//g, "$1https://"));
+      });
+      img.setAttribute("loading", "lazy");
+    });
+    root.querySelectorAll("[style]").forEach(function (el) { el.removeAttribute("style"); });
+    root.querySelectorAll("[width]:not(img)").forEach(function (el) { el.removeAttribute("width"); });
+
+    // A one-line table of contents after the lead, as gwern.net's popups have.
+    var heads = root.querySelectorAll("h2");
+    if (heads.length >= 3) {
+      var nav = doc.createElement("nav");
+      nav.className = "wiki-toc";
+      var label = doc.createElement("span");
+      label.className = "wiki-toc-label";
+      label.textContent = "Contents";
+      nav.appendChild(label);
+      heads.forEach(function (h) {
+        var a = doc.createElement("a");
+        a.href = articleUrl + "#" + h.id.replace(/^wp-/, "");
+        a.setAttribute("data-wiki-anchor", h.id);
+        a.textContent = h.textContent.trim();
+        nav.appendChild(a);
+      });
+      var first = heads[0].parentElement && heads[0].parentElement.classList.contains("mw-heading") ? heads[0].parentElement : heads[0];
+      first.parentNode.insertBefore(nav, first);
+    }
+    return { title: (parse.title || "").replace(/_/g, " "), html: root.innerHTML };
+  }
+
+  function fetchWikiFull(lang, title) {
+    var key = lang + ":" + title;
+    if (!wikiFullCache[key]) {
+      var url = "https://" + lang + ".wikipedia.org/w/api.php?action=parse&format=json&formatversion=2" +
+        "&prop=text%7Cdisplaytitle&redirects=1&disableeditsection=1&disabletoc=1&origin=*&page=" +
+        encodeURIComponent(title);
+      wikiFullCache[key] = fetch(url)
+        .then(function (res) {
+          if (!res.ok) throw new Error("fetch failed: " + res.status);
+          return res.json();
+        })
+        .then(function (d) {
+          if (!d.parse || !d.parse.text) throw new Error("no article");
+          var articleUrl = "https://" + lang + ".wikipedia.org/wiki/" + encodeURIComponent(d.parse.title.replace(/ /g, "_"));
+          var art = cleanWikiArticle(lang, d.parse, articleUrl);
+          art.url = articleUrl;
+          return art;
+        });
+      wikiFullCache[key].catch(function () { delete wikiFullCache[key]; });
+    }
+    return wikiFullCache[key];
+  }
+
+  function wikiSummaryHtml(data) {
+    var html = "";
+    if (data.thumbnail && data.thumbnail.source) {
+      html += '<img class="wiki-thumb" alt="" src="' + data.thumbnail.source + '">';
+    }
+    html += data.extract_html || "<p>" + (data.extract || "") + "</p>";
+    return html;
+  }
+
+  function wikiArticleHtml(art) {
+    return '<div class="wiki-article">' + art.html +
+      '<p class="popup-more"><a href="' + art.url + '">Read on Wikipedia →</a></p></div>';
+  }
+
+  // In-article links (contents, "see below") scroll the popup, not the page.
+  function wireWikiAnchors(content, scroller, hash) {
+    function jump(id) {
+      var target = content.querySelector('[id="' + id.replace(/"/g, '\\"') + '"]');
+      if (!target) return false;
+      var heading = target.closest(".mw-heading") || target;
+      scroller.scrollTop += heading.getBoundingClientRect().top - scroller.getBoundingClientRect().top - 6;
+      return true;
+    }
+    content.addEventListener("click", function (e) {
+      var a = e.target.closest && e.target.closest("a[data-wiki-anchor]");
+      if (!a || !content.contains(a)) return;
+      if (jump(a.getAttribute("data-wiki-anchor"))) e.preventDefault();
+    });
+    if (hash) jump("wp-" + hash.replace(/ /g, "_"));
+  }
+
+  function setWikiTitle(titleEl, text, href) {
+    titleEl.textContent = "";
+    var a = document.createElement("a");
+    a.href = href;
+    a.textContent = text + " (Wikipedia)";
+    titleEl.appendChild(a);
+  }
+
   function bindWikiLink(link) {
-    var m = /^https?:\/\/([a-z-]+)\.(?:m\.)?wikipedia\.org\/wiki\/([^#?]+)/.exec(link.href);
-    if (!m) return;
-    var lang = m[1];
-    var title = decodeURIComponent(m[2]);
+    if (link.closest(".popup-more, .popframe-title")) return;
+    var w = wikiParts(link);
+    if (!w) return;
 
     onHover(link, 180, function () {
       var p = show(link, function () {
@@ -358,23 +518,31 @@
         return q;
       });
       if (!p) return;
-      fetchWiki(lang, title).then(
-        function (data) {
-          if (p.box._removed) return;
-          p.titleEl.textContent = (data.title || title.replace(/_/g, " ")) + " (Wikipedia)";
-          var html = "";
-          if (data.thumbnail && data.thumbnail.source) {
-            html += '<img class="wiki-thumb" alt="" src="' + data.thumbnail.source + '">';
-          }
-          html += data.extract_html || "<p>" + (data.extract || "") + "</p>";
-          html += '<p class="popup-more"><a href="' + link.href + '">Read on Wikipedia →</a></p>';
-          fillContent(p, html, true);
-          if (!p.box.classList.contains("pinned")) position(p.box, link);
-        },
-        function () {
-          if (!p.box._removed) p.content.innerHTML = '<p class="popup-loading">Couldn’t reach Wikipedia.</p>';
+      var scroller = p.content.parentNode;
+      var full = false;
+      fetchWiki(w.lang, w.title).then(function (data) {
+        if (p.box._removed || full) return;
+        setWikiTitle(p.titleEl, data.title || w.title.replace(/_/g, " "), link.href);
+        fillContent(p, wikiSummaryHtml(data) + '<p class="popup-loading">Loading the whole article…</p>', true);
+        if (!p.box.classList.contains("pinned")) position(p.box, link);
+      }, function () {});
+      fetchWikiFull(w.lang, w.title).then(function (art) {
+        if (p.box._removed) return;
+        full = true;
+        setWikiTitle(p.titleEl, art.title || w.title.replace(/_/g, " "), art.url);
+        fillContent(p, wikiArticleHtml(art), true);
+        scroller.scrollTop = 0;
+        wireWikiAnchors(p.content, scroller, w.hash);
+        if (!p.box.classList.contains("pinned")) position(p.box, link);
+      }, function () {
+        if (p.box._removed) return;
+        var loading = p.content.querySelector(".popup-loading");
+        if (loading && p.content.children.length > 1) {
+          loading.outerHTML = '<p class="popup-more"><a href="' + link.href + '">Read on Wikipedia →</a></p>';
+        } else {
+          p.content.innerHTML = '<p class="popup-loading">Couldn’t reach Wikipedia. <a href="' + link.href + '">Open the article →</a></p>';
         }
-      );
+      });
     });
   }
 
@@ -487,28 +655,49 @@
     clone.querySelectorAll(".footnote-back, .translate-toggle").forEach(function (el) { el.remove(); });
     openPopinBox(ref, "Footnote #" + num, "#" + note.id, clone.innerHTML, closePopin);
   }
-  // Touch screens: tapping a Wikipedia link shows the article's lead in a
-  // popin first; the title bar (and "Read on Wikipedia") go to the article.
+  // Touch screens: tapping a Wikipedia link opens the article in a popin
+  // (lead first, then the whole article, scrollable); a second tap on the
+  // link, or the title bar, goes to Wikipedia.
+  function bindWikiPopinLinks(root) {
+    root.querySelectorAll('a[href*="wikipedia.org/wiki/"]').forEach(function (a) {
+      if (!a.closest(".popup-more")) bindWikiPopin(a);
+    });
+  }
   function bindWikiPopin(link) {
-    var m = /^https?:\/\/([a-z-]+)\.(?:m\.)?wikipedia\.org\/wiki\/([^#?]+)/.exec(link.href);
-    if (!m) return;
-    var lang = m[1], title = decodeURIComponent(m[2]);
+    var w = wikiParts(link);
+    if (!w) return;
     link.addEventListener("click", function (e) {
       if (popin && popin.ref === link) return; // second tap: follow the link
       e.preventDefault();
-      var pi = openPopinBox(link, title.replace(/_/g, " ") + " (Wikipedia)", link.href,
+      var pi = openPopinBox(link, w.title.replace(/_/g, " ") + " (Wikipedia)", link.href,
         '<p class="popup-loading">Fetching Wikipedia article…</p>');
-      fetchWiki(lang, title).then(function (data) {
+      pi.box.classList.add("wiki-popin");
+      var full = false;
+      fetchWiki(w.lang, w.title).then(function (data) {
+        if (popin !== pi || full) return;
+        pi.body.innerHTML = wikiSummaryHtml(data) + '<p class="popup-loading">Loading the whole article…</p>';
+        pi.title.textContent = (data.title || w.title.replace(/_/g, " ")) + " (Wikipedia)";
+        bindWikiPopinLinks(pi.body);
+        keepPopinOnScreen();
+      }, function () {});
+      fetchWikiFull(w.lang, w.title).then(function (art) {
         if (popin !== pi) return;
-        var html = "";
-        if (data.thumbnail && data.thumbnail.source) html += '<img class="wiki-thumb" alt="" src="' + data.thumbnail.source + '">';
-        html += data.extract_html || "<p>" + (data.extract || "") + "</p>";
-        html += '<p class="popup-more"><a href="' + link.href + '">Read on Wikipedia →</a></p>';
-        pi.body.innerHTML = html;
-        pi.title.textContent = (data.title || title.replace(/_/g, " ")) + " (Wikipedia)";
+        full = true;
+        pi.body.innerHTML = wikiArticleHtml(art);
+        pi.title.textContent = (art.title || w.title.replace(/_/g, " ")) + " (Wikipedia)";
+        pi.title.href = art.url;
+        bindWikiPopinLinks(pi.body);
+        pi.body.scrollTop = 0;
+        wireWikiAnchors(pi.body, pi.body, w.hash);
         keepPopinOnScreen();
       }, function () {
-        if (popin === pi) pi.body.innerHTML = '<p class="popup-loading">Couldn’t reach Wikipedia. <a href="' + link.href + '">Open the article →</a></p>';
+        if (popin !== pi) return;
+        var loading = pi.body.querySelector(".popup-loading");
+        if (loading && pi.body.children.length > 1) {
+          loading.outerHTML = '<p class="popup-more"><a href="' + link.href + '">Read on Wikipedia →</a></p>';
+        } else {
+          pi.body.innerHTML = '<p class="popup-loading">Couldn’t reach Wikipedia. <a href="' + link.href + '">Open the article →</a></p>';
+        }
       });
     });
   }
