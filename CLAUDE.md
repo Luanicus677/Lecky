@@ -345,6 +345,8 @@ Notes for continuing:
   'Economia Politica' (3 notes), 'Tribunalmm ... (Romee' -> 'Tribunalium ... (Romæ'.
   + rio-de-lart-chretien (1874 printing tome I `bub_gb_RVkb8BE6VMgC`, pp. 380-381 = n383-n384, title n6; NOT Lecky's 1861 printing (his
   tom. i. p. 354); 1861 tome III = `delartchrtien01riogoog`, tome I not found; Rome et Venise 1872 = `bub_gb_S4-qMKKAZqMC`; ch. III note 72).
+  + durand-vie-de-vanini (Rotterdam 1717 `bub_gb_OHZHhPdnEBoC`, image = page+39, pp. 169-172 = n208-n211, title n8; matches Lecky;
+  ch. III note 126; pp. 93-99 for note 105 not read).
 
 ## Readability layer (headings, synopses, figures)
 
