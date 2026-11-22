@@ -347,6 +347,8 @@ Notes for continuing:
   tom. i. p. 354); 1861 tome III = `delartchrtien01riogoog`, tome I not found; Rome et Venise 1872 = `bub_gb_S4-qMKKAZqMC`; ch. III note 72).
   + durand-vie-de-vanini (Rotterdam 1717 `bub_gb_OHZHhPdnEBoC`, image = page+39, pp. 169-172 = n208-n211, title n8; matches Lecky;
   ch. III note 126; pp. 93-99 for note 105 not read).
+  + ford-handbook-for-spain (3rd ed. London 1855, continuous pagination: Part I `ahandbookfortra01fordgoog` p. 304 = n327 (matches Lecky
+  vol. i p. 304), title n6; Part II `ahandbookfortra02fordgoog` p. 571 = n120 (Lecky's vol. ii p. 271 is another edition); ch. III notes 49, 65).
 
 ## Readability layer (headings, synopses, figures)
 
