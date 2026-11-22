@@ -419,7 +419,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^1]: The effects of slavery upon character have lately been treated with very remarkable ability in Cairnes' Slave Power. See also Storch, Econ. Poh't/que, tom. v., and Ch. Comte, Traite de Legislation, lib. v.
 
-[^2]: See on this subject Plutarch, Life of the Gracchi-, Denys, Halycarnassus, lib. ii. cap. 28; Colummella, De Re Rusticd. This whole subject has been very ably treated by M. Comte, Traite de Legislation. See also <a class="popup-ref" href="../ref/blanqui-histoire-de-leconomie-politique.html">Blanqui</a>, Histoire d? Economic Politique; Bureau de la Malle, Economic Politique des Romains.
+[^2]: See on this subject Plutarch, Life of the Gracchi; Denys, Halycarnassus, lib. ii. cap. 28; Colummella, De Re Rusticâ. This whole subject has been very ably treated by M. Comte, Traité de Legislation. See also <a class="popup-ref" href="../ref/blanqui-histoire-de-leconomie-politique.html">Blanqui</a>, Histoire d'Economie Politique; Bureau de la Malle, Economie Politique des Romains.
 
 [^3]: The distinctions have been fully developed by Cairnes and De Tocqueville.
 
@@ -435,7 +435,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^9]: Champagny, La Cliarite Chretienne, pp. 275-289.
 
-[^10]: See on this subject Perin, La Eicliesse dans les Societes Chretiennes, tom. i. pp. 345-361; <a class="popup-ref" href="../ref/van-bruyssel-histoire-du-commerce.html">Van Bruyssel, Hist. du Commerce Belge, tom. i. pp. 58, 59</a>.
+[^10]: See on this subject Perin, La Richesse dans les Societes Chretiennes, tom. i. pp. 345-361; <a class="popup-ref" href="../ref/van-bruyssel-histoire-du-commerce.html">Van Bruyssel, Hist. du Commerce Belge, tom. i. pp. 58, 59</a>.
 
 [^11]: Eden, History of the Labouring Classes in England, vol. i. p. 50. <a class="popup-ref" href="../ref/eden-state-of-the-poor.html#becket-harvest">source page</a>
 
