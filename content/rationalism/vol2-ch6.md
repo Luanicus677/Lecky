@@ -501,11 +501,11 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^42]: <a class="popup-ref" href="../ref/bedarride-les-juifs-en-france.html">Bedarride, Hist. des Juifs, pp. 186-189.</a>
 
-[^43]: Muratori, Antiq. Italicce, dissert, xvi. — a good history of the rise of Christian usurers.
+[^43]: <a class="popup-ref" href="../ref/muratori-antiquitates-dissertatio-xvi.html#florentines">Muratori, Antiq. Italicœ, dissert. xvi.</a> — a good history of the rise of Christian usurers.
 
-[^44]: Ibid.
+[^44]: <a class="popup-ref" href="../ref/muratori-antiquitates-dissertatio-xvi.html#sodoma-caorsa">Ibid.</a>
 
-[^45]: Ibid. This Council is reckoned a general one by the Catholics.
+[^45]: <a class="popup-ref" href="../ref/muratori-antiquitates-dissertatio-xvi.html#lateran-iii">Ibid.</a> This Council is reckoned a general one by the Catholics.
 
 [^46]: Ibid. The Council of Vienna, presided over by Clement V., pronounced it to be heretical to justify usury: <span class="foreign" lang="la">'Sane si quis in istum errorem inciderit, ut pertinaciter affirmare præsumat exercere usuras non esse peccatum, decernimus eum velut hæreticum puniendum.'</span><span class="translation editorial" lang="en">[Indeed, if anyone should fall into that error of presuming obstinately to affirm that practising usury is no sin, we decree that he be punished as a heretic.]</span> (Conférences sur l'Usure, tom. i. p. 93.) <a class="popup-ref" href="../ref/clementinae-ex-gravi.html#ex-gravi">source page</a>
 

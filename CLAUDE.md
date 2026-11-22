@@ -338,6 +338,8 @@ Notes for continuing:
 - 22 Nov: + dallaeus-de-poenis (Amsterdam: Blaeu 1649 `bub_gb_CMMEUPj014cC`, OCR poor (italic): book IV ch. 7 p. 368 = n377, ch. 9 p. 387 = n396,
   title n4; ch. III notes 137, 145). Lamennais Affaires de Rome: 5 scans (a589606400lameuoft 1837, affairesderome00lame, ...01lamegoog,
   ...00lamegoog, bub_gb_LWUNd3ozKYQC); none matched Lecky's pp. 37-89 / 308-317 at a quick look (the Polish brief's text not found); skipped.
+  + muratori-antiquitates-dissertatio-xvi (vol. I, Milan 1738, photographic reprint scan `antiquitatesit01mura`: diss. XVI = cols. 883-912,
+  cols. 889-890 = n483, 891-892 = n484; ch. VI notes 43-45; OCR 'Italicce, dissert,' fixed to Lecky's 'Italicœ, dissert.' (read on n303)).
 
 ## Readability layer (headings, synopses, figures)
 
