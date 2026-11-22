@@ -601,4 +601,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="binsfeld-de-confessionibus-maleficorum.html">Binsfeld, <em>De confessionibus maleficorum</em></a><span class="work-status">3 passages</span></div>
 <div class="work-desc">Peter Binsfeld’s treatise on witches’ confessions, Trier 1591, Lecky’s edition. Sadness as the devil’s opening with women, the cold-water test (a judge who uses it “sins mortally”), and St Cyprian’s devils defeated by Justina.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="sarpi-historia-dell-inquisizione.html">Sarpi, <em>Historia dell’origine … dell’Inquisizione</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Paolo Sarpi on the Inquisition in Venice, 1675 printing (Lecky used 1639). The bishops who once urged princes to care for religion and now tell them it is none of their business; where Lecky’s other references fall.</div>
+</li>
 </ul>

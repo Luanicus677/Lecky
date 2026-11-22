@@ -362,8 +362,7 @@ Notes for continuing:
   `10526523bsb` (Lecky: published 1752) -- CLAUDE.md earlier said 'no Concina scan': wrong; 'Usura contractus trini' 1748 still not found.
   Lamet & Fromageau: WRONG, the 1726 'Dictionnaire de cas de conscience' = PONTAS (see the evening note) `bub_gb_3DUtcaJz96wC` (also `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`;
   Lecky used Paris 1733, so find art. Usure by headword) and Latin 'Dictionarium casuum conscientiae' 1773 = `bub_gb_HI23_vivcC8C`.
-  Sarpi Discorso dell'Inquisitione: possibly in 'Risposta all'historia della Sacra Inquisitione ... o sia Discorso dell'origine' 1678 =
-  `bub_gb_ZXSX6KuPuPwC` (unchecked; Lecky used ed. 1639). Naude Apologie Paris 1625 (Lecky's ed.) = `apologiepovrtovs00naud`.
+  Sarpi: DONE 22 Nov evening from the 1675 Opere printing (the 1678 Risposta is a reply without Sarpi's text). Naude Apologie Paris 1625 (Lecky's ed.) = `apologiepovrtovs00naud`.
   Binsfeld Treves 1591 complete Google copy = `bub_gb_sC0R5IOoPQ8C`. Storch Cours d'economie politique 1823 = `india.history.resource.35253`
   (Lecky cites tom. v: check volume count). Renan Averroes 1852 = `in.ernet.dli.2015.292581`. Vitet Etudes: not found in a quick search.
 
@@ -397,6 +396,11 @@ Notes for continuing:
   All pages match: p. 155 eighth cause 'desolatio sive nimia tristitia' (vol1-ch1 n56; music half not on the page), p. 315 Scribonius
   'Aqua sagas in se ferre non potest' + Binsfeld: a judge using the water test 'mortaliter peccat' (vol1-ch3 n3), pp. 464-467 Cyprian &
   Justina in the appended Commentarius (vol1-ch1 n38). Note 76 (lycanthropy) not checked.
+
+- 22 Nov (evening): + sarpi-historia-dell-inquisizione (1675 Opere printing `bub_gb_Gmvz2lsPs20C`, image = page+13; title n2; note 11 passage
+  p. 79 = n92 (Lecky 'Pp. 89, 90'; Lecky 'della Maestà' vs 'dalla'); Milan 1242/Parma 1279 p. 47 = n60 (Lecky p. 60); Venice 1289 pp. 49-56
+  = n62-n69 (Lecky 48-57); Eunomius/Nestorius p. 186 = n199 (Lecky 192-193)). Lecky's Italian 1639 ed. not online (English 1639 is);
+  the 1678 'Risposta' `bub_gb_ZXSX6KuPuPwC` is a Catholic reply without Sarpi's text. vol2-ch5 notes 6, 7, 11, 14, 17 linked.
 
 ## Readability layer (headings, synopses, figures)
 
