@@ -402,6 +402,11 @@ Notes for continuing:
   = n62-n69 (Lecky 48-57); Eunomius/Nestorius p. 186 = n199 (Lecky 192-193)). Lecky's Italian 1639 ed. not online (English 1639 is);
   the 1678 'Risposta' `bub_gb_ZXSX6KuPuPwC` is a Catholic reply without Sarpi's text. vol2-ch5 notes 6, 7, 11, 14, 17 linked.
 
+- 22 Nov (evening): + storch-cours-deconomie-politique (St Petersburg 1815, 6 vols; tome III `coursdconomiep03storuoft` image = page+9:
+  p. 175 = n184 Starovertsis, pp. 187-188 = n196-n197 Louis XV 1766 / Catherine in LIVONIA 1786; tome V `coursdconomiep05storuoft`
+  p. 306 = n315 four causes, pp. 307-310 OCR). Lecky's tom. iii p. 403 (note 111, sham fights in Russia) does not exist in tome III (ends
+  <380); not found in tomes III-V. OCR fixed in notes 1 ('Poh't/que', Traité de Législation), 7, 59 ('Economic' -> 'Economie').
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
