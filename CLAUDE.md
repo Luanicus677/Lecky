@@ -407,6 +407,11 @@ Notes for continuing:
   p. 306 = n315 four causes, pp. 307-310 OCR). Lecky's tom. iii p. 403 (note 111, sham fights in Russia) does not exist in tome III (ends
   <380); not found in tomes III-V. OCR fixed in notes 1 ('Poh't/que', Traité de Législation), 7, 59 ('Economic' -> 'Economie').
 
+- 22 Nov (evening): + milman-history-of-christianity (London 1840, 3 vols; vol. II `historyofchrist02milm`, vol. III `historyofchrist03milm`,
+  image = page+19 in both; vol. II pp. 372-375 Donatists (p. 375 = n394), 460-464 Eusebius vs toleration (p. 461 = n480, footnote Cod. Th.
+  XVI.10.2); vol2-ch4 notes 10, 14, 18, 21, 31 linked. Note 31's 'vol. iii. p. 60' does NOT match (p. 60 = Julian/Maximus; Priscillian p. 261 =
+  n280). Latin Christianity (ch. III n149, ch. V n37) not done.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
