@@ -597,4 +597,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="naude-apologie.html">Naudé, <em>Apologie pour les grands hommes soupçonnez de magie</em></a><span class="work-status">4 passages</span></div>
 <div class="work-desc">Gabriel Naudé’s defence of great men accused of magic, Paris 1625, Lecky’s edition. Toledo’s magic as mathematics, sorcery after heresy, Bodin’s human failing, Pietro d’Abano’s spirits in a crystal and his straw effigy.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="binsfeld-de-confessionibus-maleficorum.html">Binsfeld, <em>De confessionibus maleficorum</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Peter Binsfeld’s treatise on witches’ confessions, Trier 1591, Lecky’s edition. Sadness as the devil’s opening with women, the cold-water test (a judge who uses it “sins mortally”), and St Cyprian’s devils defeated by Justina.</div>
+</li>
 </ul>
