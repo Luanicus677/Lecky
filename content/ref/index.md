@@ -613,4 +613,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="milman-history-of-christianity.html">Milman, <em>The History of Christianity</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">H. H. Milman’s history to the end of paganism, London 1840, Lecky’s edition. The Donatists and Circumcellions; Eusebius’s claims that Constantine banned sacrifice, weighed against Constantine’s own letters of toleration.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="renan-averroes.html">Renan, <em>Averroès et l’averroïsme</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Ernest Renan’s thesis on Averroes, Paris 1852, Lecky’s edition. Pietro d’Abano, his “horoscope of religions”, and the Inquisition’s revenge on his bones, compared with Naudé’s straw dummy.</div>
+</li>
 </ul>

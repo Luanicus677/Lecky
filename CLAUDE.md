@@ -412,6 +412,10 @@ Notes for continuing:
   XVI.10.2); vol2-ch4 notes 10, 14, 18, 21, 31 linked. Note 31's 'vol. iii. p. 60' does NOT match (p. 60 = Julian/Maximus; Priscillian p. 261 =
   n280). Latin Christianity (ch. III n149, ch. V n37) not done.
 
+- 22 Nov (evening): + renan-averroes (1852 1st ed. `in.ernet.dli.2015.292581`, OCR is garbage (Bengali), images fine, image = page+20:
+  pp. 258-259 = n278-n279, Pietro d'Abano; matches Lecky ch. I n81; Renan 'faisant brûler ses os' vs Naudé's straw dummy; tomb 'Petri Aponi
+  cineres, ob. 1315, aet. 66'). 1869 ed. `averrosetlave00rena` has d'Abano at p. 326. vol1-ch1 n51, vol2-ch6 n80 linked work-level only.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
