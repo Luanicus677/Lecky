@@ -335,6 +335,9 @@ Notes for continuing:
   pp. 48-49 = n51-n52; matches Lecky; OCR 'Beige' -> 'Belge' fixed in five notes, verified on Lecky n190).
   + maury-legendes-pieuses: Légendes pieuses IS online (CLAUDE.md said not found): Paris 1843 `essaisurleslge00mauruoft`, image = page+39,
   pp. 17-18 = n56-n57 (OCR only), pp. 173-178 = n212-n217 (pp. 176, 178 read); matches Lecky. pp. 125-127 (ch. III n168) not read.
+- 22 Nov: + dallaeus-de-poenis (Amsterdam: Blaeu 1649 `bub_gb_CMMEUPj014cC`, OCR poor (italic): book IV ch. 7 p. 368 = n377, ch. 9 p. 387 = n396,
+  title n4; ch. III notes 137, 145). Lamennais Affaires de Rome: 5 scans (a589606400lameuoft 1837, affairesderome00lame, ...01lamegoog,
+  ...00lamegoog, bub_gb_LWUNd3ozKYQC); none matched Lecky's pp. 37-89 / 308-317 at a quick look (the Polish brief's text not found); skipped.
 
 ## Readability layer (headings, synopses, figures)
 

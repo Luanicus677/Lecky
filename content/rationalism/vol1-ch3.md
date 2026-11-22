@@ -824,7 +824,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^136]: <span class="foreign" lang="la">'Sic et Epicurus omnem cruciatum doloremque depretiat modicum quidem contemptibilem pronuntiando magnum vero non diuturnum. . . . Enimvero nos qui sub Deo omnium speculatore dispungimur, quique æternam ab eo pœnam providemus merito soli innocentiæ occurrimus et pro scientiæ plenitudine et pro magnitudine cruciatus non diuturni verum sempiterni.'</span><span class="translation editorial" lang="en">[So Epicurus too makes light of all torture and pain, declaring it contemptible if slight, and not lasting if great. … But we, who are judged under God, the overseer of all, and who foresee an eternal punishment from him, rightly alone attain to innocence, both through the fullness of our knowledge and through the greatness of a torment not brief but everlasting.]</span> (<a class="popup-ref" href="../ref/tertullian-apologeticum.html#apol-45">Tertullian, <em>Apol.</em>, cap. xlv.</a>)
 
-[^137]: The opinions of this last Father on the subject, which are very little known, are clearly stated in that learned book, Dallæus, *De Pœnis et Satisfactionibus* (Amsterdam, 1649), lib. iv. c. 7. For Origen's well-known opinions, see *Ibid.* lib. iv. c. 6.
+[^137]: The opinions of this last Father on the subject, which are very little known, are clearly stated in that learned book, <a class="popup-ref" href="../ref/dallaeus-de-poenis.html#nyssa">Dallæus, *De Pœnis et Satisfactionibus* (Amsterdam, 1649), lib. iv. c. 7.</a> For Origen's well-known opinions, see *Ibid.* lib. iv. c. 6.
 
 [^138]: A long chain of quotations establishing this will be found in <a class="popup-ref" href="../ref/swinden-nature-and-place-of-hell.html">Swinden, *On the Fire of Hell* (London, 1727)</a>; and in Horberry's *Enquiry concerning Future Punishment* (London, 1744).
 
@@ -840,7 +840,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^144]: The Manichæans are said to have believed that the souls of the dead were purified in the sun; that they were then borne in the moon to the angels; and that the phases of the moon were caused by the increase or diminution of the freight. (Beausobre, *Hist. Critique du Manichéisme*, tom. i. pp. 243–244.)
 
-[^145]: Dallæus, *De Pœnis et Satisfactionibus*, lib. iv. c. 9. Some of the ancients had a notion about fire being the portal of the unseen world. Herodotus (lib. v. c. 92) tells a curious story about Periander, a tyrant of Corinth, who invoked the shade of his wife; but she refused to answer his questions, alleging that she was too cold; for though dresses had been placed in her tomb, they were of no use to her, as they had not been burnt.
+[^145]: <a class="popup-ref" href="../ref/dallaeus-de-poenis.html#judgment-fire">Dallæus, *De Pœnis et Satisfactionibus*, lib. iv. c. 9.</a> Some of the ancients had a notion about fire being the portal of the unseen world. Herodotus (lib. v. c. 92) tells a curious story about Periander, a tyrant of Corinth, who invoked the shade of his wife; but she refused to answer his questions, alleging that she was too cold; for though dresses had been placed in her tomb, they were of no use to her, as they had not been burnt.
 
 [^146]: Scoti was at first the name of the Irish; it was afterwards shared and finally monopolised by the inhabitants of Scotland. Erigena means, born in Erin—the distinctive name of Ireland. There is an amusing notice of Scotus Erigena in Matthew of Westminster (An. 880).
 
