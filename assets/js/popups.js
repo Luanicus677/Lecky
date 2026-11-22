@@ -449,11 +449,17 @@
       var url = "https://" + lang + ".wikipedia.org/w/api.php?action=parse&format=json&formatversion=2" +
         "&prop=text%7Cdisplaytitle&redirects=1&disableeditsection=1&disabletoc=1&origin=*&page=" +
         encodeURIComponent(title);
-      wikiFullCache[key] = fetch(url)
-        .then(function (res) {
+      // One retry after a pause if Wikipedia says "too many requests" (429).
+      var get = function (tries) {
+        return fetch(url).then(function (res) {
+          if (res.status === 429 && tries > 0) {
+            return new Promise(function (ok) { setTimeout(ok, 1500); }).then(function () { return get(tries - 1); });
+          }
           if (!res.ok) throw new Error("fetch failed: " + res.status);
           return res.json();
-        })
+        });
+      };
+      wikiFullCache[key] = get(1)
         .then(function (d) {
           if (!d.parse || !d.parse.text) throw new Error("no article");
           var articleUrl = "https://" + lang + ".wikipedia.org/wiki/" + encodeURIComponent(d.parse.title.replace(/ /g, "_"));
