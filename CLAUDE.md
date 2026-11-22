@@ -355,6 +355,18 @@ Notes for continuing:
   pp. 286-297 = Hebrew future state, vol. I pp. 286-297 = Notion of God; the page says the p. 115 identification is ours. Gladiators/Etruscan
   sentence not found. Wikipedia popups rebuilt the same day (see the popup note above).
 
+- 22 Nov ranking of works with NO source page (notes naming the author, all chapters): Concina 16, Sarpi 8, Milman 8, Anderson 7,
+  Riccoboni 7, Lamet & Fromageau 7, Renan 7, Naude 6, Lamennais 6, Grotius 6, Vitet 6, Storch 5, Troplong 5, Beausobre 5, M'Culloch 5,
+  Binsfeld 4, Strutt 4, Eusebius Vita Const. 4. NEW LEADS (archive.org, not yet opened): Concina 'In epistolam encyclicam Benedicti XIV
+  adversus usuram commentarius' 1746 = `10688672bsb` (Lecky's 'Adversus Usuram, Romae 1746') and 'De spectaculis theatralibus' 1752 =
+  `10526523bsb` (Lecky: published 1752) -- CLAUDE.md earlier said 'no Concina scan': wrong; 'Usura contractus trini' 1748 still not found.
+  Lamet & Fromageau French 'Dictionnaire de cas de conscience' 1726 = `bub_gb_3DUtcaJz96wC` (also `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`;
+  Lecky used Paris 1733, so find art. Usure by headword) and Latin 'Dictionarium casuum conscientiae' 1773 = `bub_gb_HI23_vivcC8C`.
+  Sarpi Discorso dell'Inquisitione: possibly in 'Risposta all'historia della Sacra Inquisitione ... o sia Discorso dell'origine' 1678 =
+  `bub_gb_ZXSX6KuPuPwC` (unchecked; Lecky used ed. 1639). Naude Apologie Paris 1625 (Lecky's ed.) = `apologiepovrtovs00naud`.
+  Binsfeld Treves 1591 complete Google copy = `bub_gb_sC0R5IOoPQ8C`. Storch Cours d'economie politique 1823 = `india.history.resource.35253`
+  (Lecky cites tom. v: check volume count). Renan Averroes 1852 = `in.ernet.dli.2015.292581`. Vitet Etudes: not found in a quick search.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
