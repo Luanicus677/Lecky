@@ -101,7 +101,7 @@ Notes for continuing:
 - Simancas (`simancas-de-catholicis-institutionibus.md`): only 1575 Rome editions found online (`bub_gb_n-Ktt0tILHMC`, also `AFD0229`; 1692 Opera `bub_gb_cUhD5jRglLAC`); no 1569 copy. Lecky's p. 365 (fides) matches the 1575 pagination, but his torture pages (297-309, 305) do not: torture is Titulus LXV, pp. 494-513 (Vives p. 495, Spain p. 506). Page images viewed: 365, 366, 494, 495, 506. The 'vivid description of modes of torture' is not confirmed; pp. 497-513 only keyword-scanned.
 - Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
 
-- Volume II source pages: `mariana-de-rege.md` (1605 Mainz ed. `bub_gb_FNnUXWPFQEcC`, image n = printed page + 30; ch. V notes 52-60; note 60's 'Nos tamen non quid facturi sint homines' is at the foot of p. 65 = n95 (found by Muse full-text hunt, Oct 2026); 1599 Toledo ed. not seen) and `suarez-defensio-fidei.md` (Vivès vol. 24 `rpfranciscisuare24suar`, image n = page + 19; lib. vi cap. 4 at pp. 680-682; notes 34, 41-43, 45). Not done: Toletus, Sa, Molina, Ayala (`balthazarisayala01ayal`, `dejureetofficiis01ayaluoft`; Molina `rplodouicimolina0Nmoli`), Concina (no scan found), Sarpi, Bianchi, Troplong.
+- Volume II source pages: `mariana-de-rege.md` (1605 Mainz ed. `bub_gb_FNnUXWPFQEcC`, image n = printed page + 30; ch. V notes 52-60; note 60's 'Nos tamen non quid facturi sint homines' is at the foot of p. 65 = n95 (found by Muse full-text hunt, Oct 2026); 1599 Toledo ed. not seen) and `suarez-defensio-fidei.md` (Vivès vol. 24 `rpfranciscisuare24suar`, image n = page + 19; lib. vi cap. 4 at pp. 680-682; notes 34, 41-43, 45). Not done: Toletus, Sa, Molina, Ayala (`balthazarisayala01ayal`, `dejureetofficiis01ayaluoft`; Molina `rplodouicimolina0Nmoli`), Concina (DONE 22 Nov, see below), Sarpi, Bianchi, Troplong.
 
 - Also Vol. II: `buchanan-de-jure-regni.md` (1581 ed., p. 16 = image n15; ch. V note 83; poor microfilm, read on image) and `bossuet-defensio-declarationis.md` (1745 ed. vol. 1 `defensiodeclarat01boss`, image n = page + 65; p. 128 Abimelech, note 96). Bossuet note 77 ('Defensio lib. i. c. 15, 16', wolves/sheep) NOT located; Lecky's 'lib. i. c. 3' does not match this edition's chapter numbering. Other scans found (unused): Bianchi 1745-46 Italian `bub_gb_p6UbBtH6D1cC`; Hotman Franco-Gallia 1665 `bub_gb_8IPQdc7m1ukC`; Troplong `bub_gb_GvGwHmfT9LwC`; Desprez de Boissy `lettressurlesspe01desp`; Lebrun `discourssurlacom00lebr`; Bedarride `lesjuifsenfranc00beda`; Eymericus 1607 `10488917bsb`.
 
@@ -366,6 +366,16 @@ Notes for continuing:
   `bub_gb_ZXSX6KuPuPwC` (unchecked; Lecky used ed. 1639). Naude Apologie Paris 1625 (Lecky's ed.) = `apologiepovrtovs00naud`.
   Binsfeld Treves 1591 complete Google copy = `bub_gb_sC0R5IOoPQ8C`. Storch Cours d'economie politique 1823 = `india.history.resource.35253`
   (Lecky cites tom. v: check volume count). Renan Averroes 1852 = `in.ernet.dli.2015.292581`. Vitet Etudes: not found in a quick search.
+
+- 22 Nov (later): + concina-adversus-usuram-de-spectaculis (BOTH Lecky's editions; ALL his pages match). Adversus usuram, Rome 1746 =
+  `10688672bsb`, arabic page = image n - 43 (p. 2 = n45, p. 3 = n46, pp. 32-33 = n75-n76, pp. 112-113 = n155-n156), title n4, p. xiv = n21
+  (Lecky's 'p. 14' = p. xiv: the reprinted Vix pervenit). De spectaculis, Rome 1752 = `10526523bsb`, page = image n - 59 (p. 38 = n97,
+  42 = n101, 178 = n237, 283 = n342, 285 = n344, 293 = n352, 302 = n361), title n6, Benedict XIV letter of 1 Jan 1748 = n5, dedication
+  'hortante BENEDICTO XIV' p. xxii = n25; p. 257 ff. = appendix digest of Mariana De spectaculis; Diss. II (p. ~291) = against monks'
+  carnival theatricals. archive.org page labels in both scans are ONE TOO HIGH. Lecky's 28 councils / 6 general / 17 popes = his own count
+  of Concina's list (Nicaea and Lyon I unlabelled). OCR fixed from Lecky's page images: vol2-ch6 note 53 French (C'est là, l'art, prête à
+  l'usure, intérêt), note 56 'JBened' -> 'Bened', note 141 'manifesto' -> 'manifeste', note 149 'De Sped.' -> 'De Spect.'.
+  Usura contractus trini (1748; notes 48, 54, 55) still not found.
 
 ## Readability layer (headings, synopses, figures)
 

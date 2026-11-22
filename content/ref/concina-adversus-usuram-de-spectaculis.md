@@ -1,0 +1,213 @@
+---
+title: Concina, Adversus usuram and De spectaculis
+description: "Daniele Concina’s two Roman books against usury (In epistolam encyclicam Benedicti XIV adversus usuram commentarius, Rome 1746) and against the theatre (De spectaculis theatralibus, Rome 1752), both in the editions Lecky cites. Calvin, Molinaeus and Le Coreur (pp. 2–3), Vix pervenit (p. xiv), the 28 councils and 17 popes (pp. 112–113); Benedict XIV’s letter on carnival, actors barred from communion (p. 42), the theatre of Córdoba (p. 178), the bull of Cuenca (p. 283), monks acting comedies (p. 293), Daillé (p. 302)."
+heading: Concina, <em>Adversus usuram</em> and <em>De spectaculis</em>
+subtitle: "A Dominican against interest and against the stage: the pope’s own polemicist"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Daniele_Concina\">Daniele Concina</a>, Venetian Dominican and rigorist moral theologian, a favourite controversialist of <a href=\"https://en.wikipedia.org/wiki/Pope_Benedict_XIV\">Benedict XIV</a>. Both books were written in support of that pope: the first comments on his encyclical on usury, <a href=\"https://en.wikipedia.org/wiki/Vix_pervenit\"><em>Vix pervenit</em></a> (1745); the second was sent to press “at the urging of Benedict XIV”."]
+  - ["Editions used", "Both are the editions Lecky cites. (1) <em>In epistolam encyclicam Benedicti XIV. adversus usuram commentarius, quo illustrata doctrina catholica Nicolai Broedersen ac aliorum errores refelluntur</em>, Rome: Typographia Palladis (N. and M. Palearini), 1746; Munich, Bayerische Staatsbibliothek copy, Internet Archive <a href=\"https://archive.org/details/10688672bsb\">10688672bsb</a>: title page = <a href=\"https://archive.org/details/10688672bsb/page/n4/mode/2up\">n4</a>; arabic page p = image n(p + 43); p. xiv = <a href=\"https://archive.org/details/10688672bsb/page/n21/mode/2up\">n21</a>. (2) <em>De spectaculis theatralibus christiano cuique tum laico, tum clerico vetitis dissertationes duae; accedit dissertatio tertia De presbyteris personatis</em>, Rome: Typographia Apollinea, 1752; BSB copy, Internet Archive <a href=\"https://archive.org/details/10526523bsb\">10526523bsb</a>: title page = <a href=\"https://archive.org/details/10526523bsb/page/n6/mode/2up\">n6</a>; page p = image n(p + 59). In both scans the automatic page labels on archive.org are one page too high."]
+  - ["Cited in", "Rationalism, ch. VI, notes <a href=\"../rationalism/vol2-ch6.html#fn25\">25</a>, <a href=\"../rationalism/vol2-ch6.html#fn27\">27</a>, <a href=\"../rationalism/vol2-ch6.html#fn47\">47</a>, <a href=\"../rationalism/vol2-ch6.html#fn49\">49</a>, <a href=\"../rationalism/vol2-ch6.html#fn53\">53</a>, <a href=\"../rationalism/vol2-ch6.html#fn56\">56</a> (usury); <a href=\"../rationalism/vol2-ch6.html#fn113\">113</a>, <a href=\"../rationalism/vol2-ch6.html#fn117\">117</a>, <a href=\"../rationalism/vol2-ch6.html#fn140\">140</a>, <a href=\"../rationalism/vol2-ch6.html#fn141\">141</a>, <a href=\"../rationalism/vol2-ch6.html#fn149\">149</a>, <a href=\"../rationalism/vol2-ch6.html#fn151\">151</a> and ch. III, <a href=\"../rationalism/vol1-ch3.html#fn132\">note 132</a> (theatre, bull-fighting). Notes 48, 54 and 55 cite Concina’s third book, <em>Usura contractus trini</em> (Rome 1748), which we have not found online."]
+  - ["Status", "<strong>Every page Lecky cites in these two books matches.</strong> Read on the page images: 1746 pp. 2, 3, xiv, 112, 113; 1752 pp. [v] (Benedict XIV’s letter), xxii, 38, 42, 178, 283, 293, 302. Pp. 32–33 (1746) and 285 (1752) located by the page offset and read in the OCR only. Long s modernised; translations are this edition’s drafts."]
+abstract: |
+  <p>Lecky’s claim that the Church condemned usury through “twenty-eight Councils (six of them regarded by the Church of Rome as general), and seventeen popes” sounds like a figure out of Concina. It isn’t. Concina gives a bare list of canons, and Lecky counted it: there are exactly 28 councils and 17 popes on these two pages, and exactly six councils carry Concina’s label “generale”. The list also includes Nicaea (325) and Lyon I (1245), which Rome counts as general councils too, so “six” follows Concina’s labels, not the Church’s reckoning.</p>
+  <p>The theatre book opens with the pope himself: a letter of Benedict XIV of 1 January 1748, printed in Latin and Italian, saying the Church merely “permits and tolerates, though reluctantly, and to avoid greater evils” the license of carnival. That is the “energetic extract which Concina has prefixed to his book”. Inside are the stories Lecky uses: priests barred actors from communion alongside prostitutes; a “miracle-working” friar had the theatres of Córdoba pulled down; at Cuenca a bull that had killed seven men had its deed painted in a public place. Lecky’s retelling of that last story adds the crowd’s delight; Concina, quoting Mariana, calls the picture “a monument of madness and savagery”.</p>
+---
+<section id="calvin-molinaeus" class="passage">
+<h2>Calvin, Molinaeus and the three kinds of borrower (1746, p. 2)</h2>
+<figure class="title-page"><a href="../assets/img/ref/concina-1746-title.jpg"><img src="../assets/img/ref/concina-1746-title.jpg" alt="Title page printed in red and black: “In epistolam encyclicam Benedicti XIV. adversus usuram commentarius quo illustrata doctrina catholica Nicolai Broedersen ac aliorum errores refelluntur. Authore Fr. Daniele Concina Ordinis Praedicatorum. Romae, MDCCXLVI”, with the papal arms" loading="lazy"></a><figcaption>Title page, Rome, 1746, printed in red and black under the arms of Benedict XIV. <span class="credit"><a href="https://archive.org/details/10688672bsb/page/n4/mode/2up">Scan: Internet Archive</a> (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<p class="passage-source">Latin: Rome 1746, Dissertatio I, ch. I, § II, p. 2, <a href="https://archive.org/details/10688672bsb/page/n45/mode/2up">scan n45</a>. <span class="cited-passage">Highlighted</span>: what Lecky reports.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>II. Errores porro, qui Sedem Apostolicam sollicitarunt, ut paulo altius rem arcessam, sunt sequentes. Calvinus, qui Paterenorum, seu Catharorum, aliorumque priorum temporum hæreticorum renovavit hæreses, errores quoque pugnantes cum Divina lege, quæ usuras vetat, adoptavit, sed nova indutos larva. Vetitam absolute Judæis usuram asserit, sed legem hanc politicam, seu cæremonialem esse contendit, quæ, Evangelio promulgato, evanuit; <i>Unde sequitur</i> (inquit in octavum Decalogi præceptum) <i>usuras hodie non esse illicitas</i>. Obiter hoc de argumento Calvinus, sed ex instituto Carolus Molinæus scripsit, tum Gallice, tum Latine. Novum ipse de usura invectum a Calvino errorem munire studuit. <span class="cited-passage">Negat usuram justitiæ commutanti adversari, si fit ad legum civilium præscriptum exacta; sed cum charitate tantum pugnare concedit, si nimia fit, vel a pauperibus percepta.</span> Tria ille hominum genera distinguit. Unum eorum, qui mendicata stipe vivunt, mutuumque reddere nequeunt. Alterum eorum, qui ob aliquem fortuitum casum pecunia egent; opportuno tamen tempore illam restituere valent. Tertium eorum, qui divites sunt, nempe negotiatores, &amp; fundorum, redituumque possessores. Primis eleemosyna, seu mutuo, absque spe recuperandæ sortis, succurrendum ait. Secundis gratis mutuandum, cum solius sortis restituendæ onere, sine lucro. A tertiis juste exigi usuras moderatas una cum sorte defendit.</p>
+</div>
+<div class="rendering" lang="en">
+<p>II. To go back a little further, the errors that moved the Apostolic See to act are these. Calvin, who revived the heresies of the Patarenes or Cathars and other heretics of earlier times, also adopted errors at war with the divine law that forbids usury, but dressed them in a new mask. He grants that usury was absolutely forbidden to the Jews, but contends that this law was political or ceremonial, and lapsed when the Gospel was proclaimed: <i>“From which it follows”</i> (he says on the eighth commandment) <i>“that usury is not unlawful today.”</i> Calvin wrote on the subject in passing; Charles Dumoulin [Molinaeus] wrote on it expressly, in French and in Latin, and set out to fortify the new error about usury that Calvin had brought in. <span class="cited-passage">He denies that usury offends commutative justice, if it is exacted within the limits set by the civil laws; he grants only that it conflicts with charity, if it is excessive or taken from the poor.</span> He distinguishes three kinds of people. First, those who live by begging and cannot repay a loan. Second, those who need money through some accident, but can repay it in due time. Third, the rich: merchants, and owners of land and rents. The first, he says, must be helped by alms, or by a loan with no hope of recovering the principal; the second must be lent to free, with only the principal to repay, without profit; and from the third he defends the just exaction of moderate interest along with the principal.</p>
+</div>
+</div>
+<p>Lecky (note 49) gives Calvin the view that usury “was only wrong when it was exacted in an oppressive manner from the poor”, and adds that it “was also adopted by Molinaeus”. On this page Concina gives Calvin a different argument (the Mosaic law against usury was political and has lapsed) and gives the poor-borrower distinction to <a href="https://en.wikipedia.org/wiki/Charles_Dumoulin">Dumoulin</a>.</p>
+</section>
+
+<section id="le-coreur" class="passage">
+<h2>“Is fere primus”: Le Coreur and the two kinds of loan (1746, p. 3)</h2>
+<p class="passage-source">Latin: Rome 1746, p. 3, <a href="https://archive.org/details/10688672bsb/page/n46/mode/2up">scan n46</a>. Concina’s index (p. 217) also refers this to “p. 3”.</p>
+<figure class="facsimile"><a href="../assets/img/ref/concina-1746-p3.jpg"><img src="../assets/img/ref/concina-1746-p3.jpg" alt="Printed Latin: “Proximius haeresi accessit Auctor Libelli editi 1682., cui titulus: Traité de la pratique des Billets entre les Negozians. Cognomen Authoris est le Coreur … Is fere primus cavillari mutui finitionem coepit”" loading="lazy"></a><figcaption>Concina, 1746, p. 3: Le Coreur, “fere primus”. <span class="credit">Scan: Internet Archive (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Proximius hæresi accessit Auctor Libelli editi 1682., cui titulus: <i lang="fr">Traité de la pratique des Billets entre les Negozians</i>. Cognomen Authoris est <i>le Coreur, Presbyter Ecclesiæ S. Germani Antissiodorensis</i>. <span class="cited-passage">Is fere primus cavillari mutui finitionem cœpit, duplexque mutuum commentus est; alterum consumptionis, negotiationis alterum.</span> Illud, secus istud, verum mutuum adfirmat, &amp; lucrum ex eodem perceptum usuræ labe aspersum fatetur. Posterius non proprie mutuum appellat; sed contractum commercii, ex quo lucrum moderatum perceptum, cujuscumque usuræ expers est, honestusque proventus ab eodem nuncupatur. Usura quippe sine mutuo haberi nequit. Mutuum hoc in contractu deest: Igitur &amp; usura abest. Sic ille.</p>
+</div>
+<div class="rendering" lang="en">
+<p>… Nearer still to the heresy came the author of a little book published in 1682, entitled <i>Treatise on the Practice of Bills among Merchants</i>. The author’s surname is <i>Le Coreur, priest of the church of Saint-Germain-l’Auxerrois</i>. <span class="cited-passage">He was almost the first to begin quibbling at the definition of a loan, and he invented a double loan: one for consumption, the other for trade.</span> The first, unlike the second, he affirms to be a true loan, and he admits that profit taken from it is stained with usury. The second he does not call a loan in the proper sense, but a contract of commerce; a moderate profit taken from it is free of all usury, and he calls it an honest return. For there can be no usury without a loan; in this contract there is no loan; therefore there is no usury. So he argues.</p>
+</div>
+</div>
+<p>Two things Lecky’s note 53 smooths over. Concina names two earlier Catholic writers who came “not very far” from the error, the Minim <a href="https://en.wikipedia.org/wiki/Emmanuel_Maignan">Emmanuel Maignan</a> and the Jesuit Andreas de Colonia (1676), so his “fere primus” is about the definition of a loan. And Concina’s distinction is between loans for consumption and loans for trade; Lecky’s “those which had their origin in the necessities of poverty” is his own gloss on the first kind.</p>
+</section>
+
+<section id="vix-pervenit-xiv" class="passage">
+<h2>Benedict XIV’s encyclical, reprinted at the front (1746, p. xiv, not p. 14)</h2>
+<p class="passage-source">Latin: Rome 1746, preliminary pages, p. xiv, <a href="https://archive.org/details/10688672bsb/page/n21/mode/2up">scan n21</a>. The encyclical <i>Vix pervenit</i> begins on p. xii.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Porro hæc unanimi consensu probaverunt. I. <span class="cited-passage">Peccati genus illud, quod usura vocatur, quodque in contractu mutui propriam suam sedem, &amp; locum habet, in eo est repositum, quod quis ex ipsomet mutuo, quod suapte natura tantundem duntaxat reddi postulat, quantum receptum est, plus sibi reddi velit, quam est receptum</span>; ideoque ultra sortem, lucrum aliquod, ipsius ratione mutui, sibi deberi contendat …</p>
+</div>
+<div class="rendering" lang="en">
+<p>And they approved the following unanimously. I. <span class="cited-passage">The kind of sin called usury, which has its proper seat and place in the contract of loan, consists in this: that someone wants more returned to him from the loan itself than he received, although by its very nature a loan asks only that the same amount be returned as was received</span>; and therefore claims that some profit beyond the principal is owed him by reason of the loan itself …</p>
+</div>
+</div>
+<p>Lecky’s note 56 quotes these words exactly, citing “Concina, Adversus Usuram, p. 14”, and his 1865 page does print an arabic “14”. Arabic p. 14 of Concina only summarises the encyclical; the words are on p. xiv. For the full text see the <a href="benedict-xiv-vix-pervenit.html#vix-pervenit-3"><em>Vix pervenit</em> page</a>.</p>
+</section>
+
+<section id="augustine-32" class="passage">
+<h2>Augustine on Psalm 36 (1746, pp. 32–33)</h2>
+<p>Lecky’s note 27 sends the reader to “Concina, Adversus Usuram, pp. 32–33” for Augustine’s definition of the usurer (“si plus quam dedisti expectas accipere, fœnerator es”). Concina quotes it at the foot of p. 32 and the top of p. 33 (<a href="https://archive.org/details/10688672bsb/page/n75/mode/2up">scans n75</a>–<a href="https://archive.org/details/10688672bsb/page/n76/mode/2up">n76</a>; located in the OCR and by the page offset, not read on the images). Augustine’s own text is on the <a href="augustine-enarratio-psalm-36.html#foeneraveris">Psalm 36 page</a>.</p>
+</section>
+
+<section id="councils-popes" class="passage">
+<h2>Twenty-eight councils and seventeen popes: Lecky’s own count (1746, pp. 112–113)</h2>
+<p class="passage-source">Latin: Rome 1746, Dissertatio I, ch. X, “Conciliorum, &amp; Pontificum Decreta adversus usuram”, pp. 112–113, <a href="https://archive.org/details/10688672bsb/page/n155/mode/2up">scans n155</a>–<a href="https://archive.org/details/10688672bsb/page/n156/mode/2up">n156</a>.</p>
+<p>Concina says he will only “point out the places, which anyone may consult if he wishes” (“Loca tantum indicabo, quæ consulere quisque poterit, si velit”), and gives the list below without totals. After canon 44 of the so-called Apostolic Canons, he names these councils (the six he calls <i>generale</i> in bold):</p>
+<ol>
+<li>Elvira, can. 20</li><li>Nicaea, can. 17</li><li>Carthage I, can. 13</li><li>Carthage III, can. 15</li><li>Carthage IV, can. 67</li><li>Arles II, can. 14</li><li>Tours (461), can. 13</li><li>Trullan (Quinisext), can. 10</li><li>Mainz, can. 13</li><li>Reims (813), can. 32</li><li>Chalon II, can. 5</li><li>Aachen, cap. 40</li><li>Paris VI, lib. 1, cap. 53</li><li>Pavia, can. 21</li><li>Worms, can. 69</li><li>Reims (1049), can. 7</li><li>Poitiers, can. 10</li><li>Gerona, cap. 19</li><li><strong>Lateran II</strong>, under Innocent II, can. 13</li><li>Tours, under Alexander III</li><li><strong>Lateran III</strong>, can. 25</li><li>Avignon, can. 3</li><li><strong>Lateran IV</strong>, under Innocent III, cap. 4</li><li>Lyon I, under Innocent IV, cap. 13</li><li><strong>Lyon II</strong>, cann. 26–27</li><li>Trier (1310), can. 31</li><li><strong>Vienne</strong>, lib. 5, tit. 5, cap. unic.</li><li><strong>Lateran V</strong>, under Leo X (on the <i>montes pietatis</i>)</li>
+</ol>
+<figure class="facsimile"><a href="../assets/img/ref/concina-1746-p113.jpg"><img src="../assets/img/ref/concina-1746-p113.jpg" alt="Printed Latin paragraph IV listing popes: “Summos quoque Pontifices indicabo plane in id consentientes. S. Leo, Gregorius Magnus, &amp; Leo IV. … universim usuras improbant”" loading="lazy"></a><figcaption>Concina, 1746, p. 113: the seventeen popes. <span class="credit">Scan: Internet Archive (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>IV. Summos quoque Pontifices indicabo plane in id consentientes. S. Leo, Gregorius Magnus, &amp; Leo IV. in propriis Operibus usuras detestati sunt. Alexander III. in Lateranensi Conc. III., usuras damnavit can. 25. Item plura adversus eas edidit Decreta, quæ habentur Lib. 5. Decret. Urbanus III. can. <i>Consuluit</i>, Innocentius III. cap. <i>Quam perniciosa Extra, de usuris</i>; &amp; cap. <i>Post miserabilem</i>, Greg. IX. cap. <i>Navig.</i>, Clemens IV. in Epist. ad Episc. Atrebatensem, Gregorius X. cap. <i>Usurarum</i>, &amp; cap. <i>Quamquam de usuris</i>, Cœlestinus V. in suis de usuris regulis, quas, antequam esset Pontifex, scripsit, Bonifacius VIII. cap. <i>Usurarum</i>, Clemens V. in Concilio Viennensi, Martinus V. cap. <i>Regimini</i>, S. Pius V. in Constitut. <i>In eam, quæ nostro</i>, Sixtus V. in Const. <i>Detestabilis</i>, &amp; Alexander VIII. Innocentio XI. in proposition. damnat. universim usuras improbant.</p>
+</div>
+<div class="rendering" lang="en">
+<p>IV. I shall also point out the popes who plainly agree on this. St Leo, Gregory the Great and Leo IV denounced usury in their own works. Alexander III condemned usury at the Third Lateran Council, can. 25, and issued several more decrees against it, found in book 5 of the Decretals. Urban III, can. <i>Consuluit</i>; Innocent III, cap. <i>Quam perniciosa</i> (Extra, de usuris), and cap. <i>Post miserabilem</i>; Gregory IX, cap. <i>Navig[anti]</i>; Clement IV, in his letter to the bishop of Arras; Gregory X, cap. <i>Usurarum</i> and cap. <i>Quamquam</i> (de usuris); Celestine V, in his rules on usury, written before he became pope; Boniface VIII, cap. <i>Usurarum</i>; Clement V, at the Council of Vienne; Martin V, cap. <i>Regimini</i>; St Pius V, in the constitution <i>In eam, quae nostro</i>; Sixtus V, in the constitution <i>Detestabilis</i>; and Alexander VIII [and] Innocent XI, in the condemned propositions: all condemn usury of every kind.</p>
+</div>
+</div>
+<p>Counting gives 28 councils, 6 of them labelled general, and 17 popes (reading the last line as two popes), exactly Lecky’s figures in note 47, which therefore come from counting this list. Two councils Concina leaves unlabelled, <a href="https://en.wikipedia.org/wiki/First_Council_of_Nicaea">Nicaea</a> and <a href="https://en.wikipedia.org/wiki/First_Council_of_Lyon">Lyon I</a>, are also on Rome’s list of general councils, so Lecky’s “six of them regarded by the Church of Rome as general” follows Concina’s labels rather than Rome’s reckoning.</p>
+</section>
+
+<section id="benedict-1748" class="passage">
+<h2>The pope on carnival: “permitted only, and tolerated, though reluctantly” (1752, front matter)</h2>
+<figure class="title-page"><a href="../assets/img/ref/concina-1752-title.jpg"><img src="../assets/img/ref/concina-1752-title.jpg" alt="Title page: “De spectaculis theatralibus christiano cuique tum laico, tum clerico vetitis dissertationes duae. Accedit dissertatio tertia De presbyteris personatis. Auctore F. Daniele Concina Ordinis Praedicatorum. Romae, ex Typographia Apollinea MDCCLII”, with a shield showing a child and the motto “Soli Deo”" loading="lazy"></a><figcaption>Title page, Rome, 1752: “Dissertations on theatrical shows, forbidden to every Christian, lay or cleric … with a third dissertation on masked priests”. <span class="credit"><a href="https://archive.org/details/10526523bsb/page/n6/mode/2up">Scan: Internet Archive</a> (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<p class="passage-source">Latin and Italian: Rome 1752, unnumbered leaf before the title page, <a href="https://archive.org/details/10526523bsb/page/n5/mode/2up">scan n5</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/concina-1752-benedict-1748.jpg"><img src="../assets/img/ref/concina-1752-benedict-1748.jpg" alt="Two columns, Latin and Italian, headed “Benedictus XIV. Pontifex Optimus Maximus” and “Benedetto XIV. Pontefice Ottimo Massimo”: “Satis nobis sit dicere permitti dumtaxat et tolerari, tametsi aegre …”" loading="lazy"></a><figcaption>The leaf Concina prefixed to his book: Benedict XIV’s circular letter of 1 January 1748, in Latin and Italian. <span class="credit">Scan: Internet Archive (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p><span class="cited-passage">Satis nobis sit dicere permitti dumtaxat &amp; tolerari, tametsi ægre, &amp; ad majora vitanda mala ab Ecclesia Bacchanaliorum relaxationes</span>: quemadmodum justo, validoque ratiocinio concludit celebris, piusque Theologus Thomas Stapletonius in sua VIII. oratione contra Bacchanalia tom. 2. operum pag. 556. Discrimen præterea magnum esse inter ea, quæ præcipiuntur, &amp; quæ tolerantur. <i>Aliud est, quod docemus, aliud quod sustinemus: aliud quod emendare præcipimur, &amp; donec emendemus, tolerare compellimur</i>: verba sunt S. Augustini contra Faustum lib. 20. cap. 21. Unde consequitur in rebus dumtaxat toleratis, locum non esse extensioni, &amp; ut eisdem uti pro arbitrio valeamus &amp;c.</p>
+<p>Datum Romæ apud Sanctam Mariam Majorem die 1. Januar. MDCCXLVIII. Pontificatus Nostri anno octavo.</p>
+</div>
+<div class="rendering" lang="en">
+<p><span class="cited-passage">Let it be enough for us to say that the license of carnival is merely permitted and tolerated by the Church, though reluctantly, and to avoid greater evils</span>, as the famous and pious theologian Thomas Stapleton concludes, with just and sound reasoning, in his eighth oration against carnival (Works, vol. 2, p. 556). Further, there is a great difference between what is commanded and what is tolerated. <i>“What we teach is one thing, what we bear with another; one thing we are commanded to correct, and until we correct it we are forced to tolerate it”</i>: the words are St Augustine’s, <i>Against Faustus</i>, book 20, ch. 21. From this it follows that things merely tolerated leave no room for extension, nor for using them as we please, etc.</p>
+<p>Given at Rome, at Santa Maria Maggiore, 1 January 1748, in the eighth year of our pontificate.</p>
+</div>
+</div>
+<p>The Italian column is headed “Lettera circolare … agli Arcivescovi, e Vescovi dello Stato Temporale Pontificio”: a circular to the archbishops and bishops of the Papal States, Lecky’s “bishops of his kingdom” (note 151). The theologian quoted is the English Catholic <a href="https://en.wikipedia.org/wiki/Thomas_Stapleton">Thomas Stapleton</a>.</p>
+</section>
+
+<section id="hortante" class="passage">
+<h2>“At the urging of Benedict XIV” (1752, dedication, p. xxii)</h2>
+<p class="passage-source">Latin: Rome 1752, end of the dedication to Andrés Mayoral, archbishop of Valencia, p. xxii, <a href="https://archive.org/details/10526523bsb/page/n25/mode/2up">scan n25</a>.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… <span class="cited-passage">Prælo idem subjeci, hortante BENEDICTO XIV. Pontifice Maximo</span>, Optimoque, &amp; Sanioris doctrinæ assertore, &amp; vindice præclarissimo.</p>
+</div>
+<div class="rendering" lang="en">
+<p>… <span class="cited-passage">I have sent it to the press at the urging of Benedict XIV, Supreme Pontiff</span>, best of popes, and most illustrious champion and defender of sounder doctrine.</p>
+</div>
+</div>
+<p>This confirms Lecky’s “at the request of Benedict XIV” (note 117). The dedicatee, <a href="https://es.wikipedia.org/wiki/Andr%C3%A9s_Mayoral">Andrés Mayoral</a>, is praised for driving the theatres out of Valencia; on p. 178 (below) Concina says the archbishop had “turned the theatres into charitable hospices”.</p>
+</section>
+
+<section id="histriones" class="passage">
+<h2>Actors’ earnings “de turpi causa” (1752, p. 38)</h2>
+<p class="passage-source">Latin: Rome 1752, Dissertatio I, p. 38, within Lecky’s pp. 36–41 (note 113), <a href="https://archive.org/details/10526523bsb/page/n97/mode/2up">scan n97</a>.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… <i>Si qui autem superflue sua in tales consumunt, vel etiam sustentant illos histriones, qui illicitis ludis utuntur, peccant, quasi eos in peccato foventes, unde Augustinus dicit: quod donare res suas histrionibus, vitium est immane, non virtus.</i> Hanc vero comicorum, qui illicitis ludis utuntur, artem, eodem loco S. Thomas habet ac meretricium, ut 2. 2. q. 87. a. 2. ad 2. expresse docet. <span class="cited-passage"><i>Quædam vero dicuntur male acquisita, quia acquiruntur ex turpi causa; sicut de meretricio, et histrionatu</i></span>, <i>&amp; aliis hujusmodi.</i> Ab ejusmodi hominibus, subdit ibidem decimas <i>Ecclesia non debet recipere, quamdiu sunt in peccato, ne videatur eorum peccatis communicare.</i></p>
+</div>
+<div class="rendering" lang="en">
+<p>… <i>“But if any spend their goods to excess on such people, or even support actors who practise unlawful shows, they sin, as encouraging them in sin; hence Augustine says that to give one’s goods to actors is a monstrous vice, not a virtue.”</i> St Thomas puts this art of the comedians who practise unlawful shows on the same footing as prostitution, as he says expressly in 2a 2ae q. 87 a. 2 ad 2: <span class="cited-passage"><i>“Some things are said to be ill-gotten because they are gained from a shameful source, as from prostitution and acting”</i></span>, <i>“and other such things.”</i> From such people, he adds in the same place, <i>“the Church ought not to accept tithes while they remain in sin, lest it seem to share in their sins.”</i></p>
+</div>
+</div>
+<p>Lecky’s note 113 quotes “de turpi causa, sicut de meretricio et histrionatu” from Aquinas; Concina gives the reference as the <em>Summa</em>, 2a 2ae q. 87 a. 2 ad 2.</p>
+</section>
+
+<section id="arcendi" class="passage">
+<h2>Actors barred from communion with prostitutes (1752, p. 42)</h2>
+<p class="passage-source">Latin: Rome 1752, Dissertatio I, p. 42, <a href="https://archive.org/details/10526523bsb/page/n101/mode/2up">scan n101</a>.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Rituale Metense an. 1605. vetat, ne Ecclesiastica sepultura donentur Comœdi, et histriones. Rituale Parisiense infamem declarat artem Comœdorum, eosque a sacra communione arcet. Rituale Cabilonense Parisiis anno 1649. impressum hæc jubet. <span class="cited-passage"><i>Arcendi sunt publice indigni, quales sunt excommunicati, interdicti, manifeste infames, ut meretrices, concubinarii, comœdi.</i></span> Severius hoc idem mandat Episcopus Atrebatensis anno 1695. Universitas Parisiensis anno 1648. idem statuit.</p>
+</div>
+<div class="rendering" lang="en">
+<p>… The ritual of Metz of 1605 forbids church burial to comedians and actors. The ritual of Paris declares the actor’s art infamous and keeps them from holy communion. The ritual of Chalon, printed at Paris in 1649, orders this: <span class="cited-passage"><i>“The publicly unworthy are to be kept away, such as the excommunicated, the interdicted, the manifestly infamous, like prostitutes, men living with concubines, and actors.”</i></span> The bishop of Arras commands the same more severely in 1695; the University of Paris decreed the same in 1648.</p>
+</div>
+</div>
+<p>Lecky’s note 141 quotes the italicised sentence as “quoted by Concina”: it is the Chalon ritual’s, not Concina’s own.</p>
+</section>
+
+<section id="possada" class="passage">
+<h2>The friar who pulled down the theatres of Córdoba (1752, p. 178)</h2>
+<p class="passage-source">Latin: Rome 1752, Dissertatio I, p. 178, <a href="https://archive.org/details/10526523bsb/page/n237/mode/2up">scan n237</a>.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Comœdos proscripsere Catholici Reges Philippus II., &amp; Philippus IV. Histriones repræsentare Parisiis spectacula vetitum est anno 1584., &amp; 1588. <span class="cited-passage">Theatra demolitus est Cordubæ Venerabilis P. Possada miraculorum patrator celeberrimus.</span> Theatra hisce diebus in pia Xenodochia trasmutavit præstantissimus Archiepiscopus Valentiæ …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… The Catholic kings Philip II and Philip IV proscribed comedians. Actors were forbidden to give performances at Paris in 1584 and 1588. <span class="cited-passage">The Venerable Father Possada, a most famous worker of miracles, demolished the theatres of Córdoba.</span> In these very days the most excellent archbishop of Valencia has turned the theatres into charitable hospices …</p>
+</div>
+</div>
+<p>Lecky’s note 149 matches (“the venerable and miracle-working Father Possada … caused the destruction of the theatre of Cordova”), though Concina has “theatres” in the plural. Concina also has Philip II and Philip IV proscribing actors, for which Lecky cites Desprez de Boissy.</p>
+</section>
+
+<section id="bull-cuenca" class="passage">
+<h2>The bull of Cuenca: “a monument of madness and savagery” (1752, pp. 283, 285)</h2>
+<p class="passage-source">Latin: Rome 1752, appendix “Ad præcedentem Dissertationem ex P. Marianæ opere de Spectaculis” (from p. 257), p. 283, <a href="https://archive.org/details/10526523bsb/page/n342/mode/2up">scan n342</a>; p. 285 (<a href="https://archive.org/details/10526523bsb/page/n344/mode/2up">n344</a>) read in the OCR only. This appendix is Concina’s digest of <a href="https://en.wikipedia.org/wiki/Juan_de_Mariana">Mariana</a>’s treatise on public shows, so the story is Mariana’s.</p>
+<figure class="facsimile"><a href="../assets/img/ref/concina-1752-p283.jpg"><img src="../assets/img/ref/concina-1752-p283.jpg" alt="Printed Latin: “… qui tunc, inquit P. Mariana, maxime placet, cum plures ad terram prostrat, adeo, ut Conchae, quae Urbs nobilis est in Celtiberis, Taurus, qui septem occiderat homines, immortalitati consecratus fuit …”" loading="lazy"></a><figcaption>Concina, 1752, p. 283: Mariana’s bull of Cuenca. <span class="credit">Scan: Internet Archive (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>[p. 283] … merentur illi, qui in mediam multitudinem ferocientem Taurum producunt, qui tunc, inquit P. Mariana, maxime placet, cum plures ad terram prostrat, adeo, ut <span class="cited-passage">Conchæ, quæ Urbs nobilis est in Celtiberis, Taurus, qui septem occiderat homines, immortalitati consecratus fuit, rei gestæ imagine pictura expressa in loco publico</span>, quod amentiæ &amp; immanitatis monumentum est.</p>
+<p>[p. 285] … <span class="cited-passage">In pluribus Italiæ Civitatibus Tauri agitantur longo fune constricti omni periculo sublato.</span> Verum talem adhiberi cautionem in Hispania sperare quis poterit? …</p>
+</div>
+<div class="rendering" lang="en">
+<p>[p. 283] … deserve those who drive a raging bull into the middle of the crowd; a bull, says Father Mariana, pleases most when it throws many to the ground; so much so that <span class="cited-passage">at Cuenca, a noble city of the Celtiberians, a bull that had killed seven men was consecrated to immortality, its deed being painted in a public place</span>: a monument of madness and savagery.</p>
+<p>[p. 285] … <span class="cited-passage">In many cities of Italy the bulls are baited tied with a long rope, all danger removed.</span> But who could hope to see such a precaution taken in Spain? …</p>
+</div>
+</div>
+<table class="collation">
+<thead><tr><th>Lecky (ch. III, note 132)</th><th>Concina, p. 283</th></tr></thead>
+<tbody>
+<tr><td>“An old theologian mentions”</td><td>Concina quoting <a href="https://en.wikipedia.org/wiki/Juan_de_Mariana">Juan de Mariana</a></td></tr>
+<tr><td>“in the town of Concha”</td><td>“Conchæ, quæ Urbs nobilis est in Celtiberis” (Cuenca)</td></tr>
+<tr><td>“became the object of the highest reverence”</td><td>“immortalitati consecratus fuit” (was consecrated to immortality)</td></tr>
+<tr><td>“the people were so gratified that a painting … was immediately executed for the public square”</td><td>“rei gestæ imagine pictura expressa in loco publico” (its deed painted in a public place); nothing about the people’s delight or speed</td></tr>
+<tr><td>—</td><td>“quod amentiæ &amp; immanitatis monumentum est” (a monument of madness and savagery)</td></tr>
+</tbody>
+</table>
+</section>
+
+<section id="regulares" class="passage">
+<h2>Monks who act comedies “sin mortally” (1752, p. 293)</h2>
+<p class="passage-source">Latin: Rome 1752, Dissertatio II, “Adversus theatra nonnullorum Regularium tempore carnisprivii”, thesis at the head of ch. I, p. 293, <a href="https://archive.org/details/10526523bsb/page/n352/mode/2up">scan n352</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/concina-1752-p293.jpg"><img src="../assets/img/ref/concina-1752-p293.jpg" alt="Printed italic Latin: “Regulares, qui propriae Religionis habitum exuunt, et laicales, seu Theatrales vestes induunt, ut in suis Coenobiis Comoedias profanas repraesentent, peccant mortaliter”" loading="lazy"></a><figcaption>Concina, 1752, p. 293. <span class="credit">Scan: Internet Archive (Bayerische Staatsbibliothek) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p><i><span class="cited-passage">Regulares, qui propriæ Religionis habitum exuunt, &amp; laicales, seu Theatrales vestes induunt, ut in suis Cœnobiis Comœdias profanas repræsentent, peccant mortaliter.</span> Gravius vero peccant Superiores id permittentes, aut pro viribus non impedientes, nulla excusatione suffragante.</i></p>
+</div>
+<div class="rendering" lang="en">
+<p><i><span class="cited-passage">Religious who put off the habit of their order and put on lay or theatrical clothes to perform profane comedies in their monasteries sin mortally.</span> Superiors who permit it, or do not prevent it as far as they can, sin more gravely, and no excuse avails them.</i></p>
+</div>
+</div>
+<p>Lecky (note 117) says Concina “devoted a dissertation” to this, and he did: the whole second dissertation is headed “Against the theatricals of some religious at carnival time” (table of contents), and this thesis opens its first chapter. It exists because, as Lecky says, the custom “still continued in some monasteries”.</p>
+</section>
+
+<section id="dallaeus" class="passage">
+<h2>“Idolaters”: the Calvinist Daillé on carnival plays (1752, p. 302)</h2>
+<p class="passage-source">Latin: Rome 1752, Dissertatio II, p. 302, <a href="https://archive.org/details/10526523bsb/page/n361/mode/2up">scan n361</a>.</p>
+<div class="parallel">
+<div class="original" lang="la">
+<p>… Nihil præterea tantum ansæ Romanam carpendi Ecclesiam Hæreticis subministrat, quam hæc Cœnobitica spectacula. <span class="cited-passage">Improperat præ aliis Dallæus Calvinista Catholicis, quod ad Sacram Quadragesimalem abstinentiam se accingant bacchanalium dierum celebratione</span>; quod Ethnicorum larvales, &amp; scenicos ludos quotannis ex instituto renovent; quod his putidissimis superstitionibus ad Christiana jejunia se præparent; atque adeo, ceu Idololatriæ reos illos traducit, &amp; diffamat.</p>
+</div>
+<div class="rendering" lang="en">
+<p>… Moreover, nothing gives heretics so much handle for attacking the Roman Church as these monastic shows. <span class="cited-passage">The Calvinist Daillé, above all others, reproaches Catholics for girding themselves for the holy abstinence of Lent by keeping the days of carnival</span>; for renewing every year, by set custom, the masks and stage-plays of the pagans; for preparing themselves for Christian fasting with these most rotten superstitions; and so he holds them up to scorn as guilty of idolatry.</p>
+</div>
+</div>
+<p>Lecky’s note 151 (“These carnival dramas excited the great indignation of the Calvinist Dallaeus (Concina, pp. 302–303)”) matches. <a href="https://en.wikipedia.org/wiki/Jean_Daill%C3%A9">Jean Daillé</a> has his own page here for another book, <a href="dallaeus-de-poenis.html"><em>De poenis</em></a>.</p>
+</section>
