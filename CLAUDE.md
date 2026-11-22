@@ -416,6 +416,10 @@ Notes for continuing:
   pp. 258-259 = n278-n279, Pietro d'Abano; matches Lecky ch. I n81; Renan 'faisant brûler ses os' vs Naudé's straw dummy; tomb 'Petri Aponi
   cineres, ob. 1315, aet. 66'). 1869 ed. `averrosetlave00rena` has d'Abano at p. 326. vol1-ch1 n51, vol2-ch6 n80 linked work-level only.
 
+- 22 Nov (evening): + strutt-manners-and-customs (Horda Angel-cynnan vol. III 1776 `bim_eighteenth-century_porda-anzel-cynnan-or-_strutt-joseph_1776_3`,
+  image = page+3; images are HUGE (8792x11201: set PIL MAX_IMAGE_PIXELS=None); p. 46 = n49 rack after Foxe (ch. III n156), pp. 137-140 =
+  n140-n143 Coventry/N-Town play (ch. VI n119)). Sports and Pastimes (ch. III n131, ch. VI n111) cited without pages: not done.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

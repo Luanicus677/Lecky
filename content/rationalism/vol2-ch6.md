@@ -653,7 +653,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^118]: See the collections of these by Hone, Jubinal, Jacob, &c.; and the works of Leroy, Suard, and Collier upon their history.
 
-[^119]: On which see Malone, Hist. of the English Stage, pp. 12-13. Some curious examples of it have been collected by Hone; and also in Strutt's History of the Manners of the People of England, vol. iii. pp. 137-140.
+[^119]: On which see Malone, Hist. of the English Stage, pp. 12-13. Some curious examples of it have been collected by Hone; and also in <a class="popup-ref" href="../ref/strutt-manners-and-customs.html#coventry-play">Strutt's History of the Manners of the People of England, vol. iii. pp. 137-140</a>.
 
 [^120]: Some striking instances of this indecency, which indeed is sufficiently manifest in most of the mysteries, are given by Jacob in his Introduction to his collection of Farces. Wherever the seventh commandment was to be broken, the actors disappeared behind a curtain which was hung across a part of the stage; and this is the origin of the French proverbial expression about things that are done 'derriere le rideau.' More than once the Government suppressed the sacred plays in France on account of their evil effects upon morals. In England matters seem to have been if possible worse; and Warton has shown that on at least one occasion in the fifteenth century, Adam and Eve were brought upon the stage strictly in their state of innocence. In the next scene the fig-leaves were introduced. (<a class="popup-ref" href="../ref/malone-historical-account-english-stage.html#naked">Malone's History of the English Stage, pp. 15, 16.</a>)
 
