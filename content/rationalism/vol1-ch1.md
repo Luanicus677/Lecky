@@ -465,7 +465,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^25]: The history of this movement has been traced with masterly ability by <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html">Maury</a>, Sur la Magie, and also by Beugnot, Destruction de Paganisme, dans l'Occident.
 
-[^26]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-1">Codex Theodosianus, lib. ix. tit. xvi. c. 1, 2.</a> The pagan historian Zosimus observes, that when Constantine had abandoned his country's gods 'he made this beginning of impiety, that he looked with contempt on the art of foretelling' (lib. ii. c. 29); and Eusebius classifies his prohibition of prophecy with the measures directed openly against paganism. (Vita Const. lib. i. c. 16.)
+[^26]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-1">Codex Theodosianus, lib. ix. tit. xvi. c. 1, 2.</a> The pagan historian Zosimus observes, that when Constantine had abandoned his country's gods 'he made this beginning of impiety, that he looked with contempt on the art of foretelling' (lib. ii. c. 29); and Eusebius classifies his prohibition of prophecy with the measures directed openly against paganism. (<a class="popup-ref" href="../ref/eusebius-vita-constantini.html#ii-44-45">Vita Const. lib. i. c. 16</a>.)
 
 [^27]: <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-3">Cod. Th. lib. ix. t. xvi. l. 3.</a>
 

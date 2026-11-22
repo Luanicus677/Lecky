@@ -258,9 +258,9 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^16]: The first emperor who refused it was Gratian (Zosimus, book iv.).
 
-[^17]: Eusebius, Vita Const, lib. ii. c. xliv. xlv.
+[^17]: <a class="popup-ref" href="../ref/eusebius-vita-constantini.html#ii-44-45">Eusebius, Vita Const, lib. ii. c. xliv. xlv.</a>
 
-[^18]: See Eusebius, Vita Const, lib. ii. c. xliv. xlv., lib. iv. c. xxiii.; Theodoret, lib. vi. c. xxi.; Sozomen, lib. iii. c. xvii. Eusebius repeats this assertion over and over again; see <a class="popup-ref" href="../ref/milman-history-of-christianity.html#eusebius-sacrifice">Milman, History of Christianity, vol. ii. pp. 460-464 (ed. 1840)</a>.
+[^18]: See <a class="popup-ref" href="../ref/eusebius-vita-constantini.html#ii-44-45">Eusebius, Vita Const, lib. ii. c. xliv. xlv.</a>, <a class="popup-ref" href="../ref/eusebius-vita-constantini.html#iv-23">lib. iv. c. xxiii.</a>; Theodoret, lib. vi. c. xxi.; Sozomen, lib. iii. c. xvii. Eusebius repeats this assertion over and over again; see <a class="popup-ref" href="../ref/milman-history-of-christianity.html#eusebius-sacrifice">Milman, History of Christianity, vol. ii. pp. 460-464 (ed. 1840)</a>.
 
 [^19]: Speaking of his youth, Libanius says: <span class="foreign" lang="la">'Plus apud Deos quam apud homines in terra conversabatur, tametsi lex prohiberet, quam audenti violare capitis pœna fuit. Verumtamen cum illis ipsis vitam agens et iniquam legem et impium legislatorem deridebat.'</span><span class="translation editorial" lang="en">[He conversed more with the gods than with men on earth, though the law forbade it and to dare to break it was death. Yet, living among those very men, he mocked both the unjust law and the impious lawgiver.]</span> (De Vita sua, Libanii Opera (ed. 1627), vol. ii. p. 11.) However, in his oration Pro Templis, Libanius says distinctly that Constantine did not disturb the worship of the temples. It is hard to reconcile these two passages and the last with the statements of Eusebius, but I suppose the fact is that the law was made, but was generally suffered to be inoperative.
 

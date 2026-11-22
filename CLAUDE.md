@@ -420,6 +420,10 @@ Notes for continuing:
   image = page+3; images are HUGE (8792x11201: set PIL MAX_IMAGE_PIXELS=None); p. 46 = n49 rack after Foxe (ch. III n156), pp. 137-140 =
   n140-n143 Coventry/N-Town play (ch. VI n119)). Sports and Pastimes (ch. III n131, ch. VI n111) cited without pages: not done.
 
+- 22 Nov (evening): + eusebius-vita-constantini (English tr. London 1845 `lifeconstantine00eusegoog`; II.44-45 pp. 88-89 = n112-n113 read on
+  images (translator's note 'That is, private sacrifices'); III.54 p. 158 = n182 and IV.23 = n216 OCR only). Lecky's 'lib. i. c. 16' (ch. I
+  n26) and 'lib. iii. caps. 5, 6' (ch. III n75) do not fit: II.45 and III.54 do. Greek not checked.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

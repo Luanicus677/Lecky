@@ -695,7 +695,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^74]: Praxiteles is said to have definitively given the character of sensuality to Venus, who had previously floated between several ideals of beauty, and also to have been the especial author of the effeminate type of Apollo. Phryne, who was then the great model of voluptuous beauty—she who, having been condemned to death, was absolved on account of her exceeding loveliness—was his mistress. His contemporary Polycles greatly strengthened the sensual movement by introducing into art the hermaphrodite. See Rio, *Art Chrétien*, Introd. pp. 17–21; O. Müller, *Manuel d'Archéologie*, tom. i. pp. 156–157.
 
-[^75]: Constantine himself set the example in this respect. See the admiring remarks of Eusebius, *Vita Const.* lib. iii. caps. 5, 6.
+[^75]: Constantine himself set the example in this respect. See the admiring remarks of <a class="popup-ref" href="../ref/eusebius-vita-constantini.html#iii-54">Eusebius, <em>Vita Const.</em> lib. iii. caps. 5, 6</a>.
 
 [^76]: When this impulse had ceased in Italy, it was still in some degree continued by the explorations of the French in Greece, where a French consulate was formed about 1630. See Vitet, *Études sur l'Histoire de l'Art*, tom. i. p. 94.
 
