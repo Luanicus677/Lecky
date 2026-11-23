@@ -443,9 +443,9 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^14]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html#discours-xiii">Garinet, pp. 13, 14.</a>
 
-[^15]: This very obscure branch of the subject has been most admirably treated by <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html">Maury</a>, Histoire de la Magie (Paris, 1860), pp. 78-85. An extremely learned and able work, from which I have derived great assistance.
+[^15]: This very obscure branch of the subject has been most admirably treated by <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#emperors-monopoly-79">Maury</a>, Histoire de la Magie (Paris, 1860), pp. 78-85. An extremely learned and able work, from which I have derived great assistance.
 
-[^16]: <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html">Maury</a>, ch. iv.
+[^16]: <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#emperors-monopoly-79">Maury</a>, ch. iv.
 
 [^17]: The Alexandrian or Neo-Platonic school probably owed a great part of its influence over early Christianity to its doctrine of a divine Trinity — the Unity, the Logos, and the energising Spirit — which was thought by some to harmonise with the Christian doctrine. Many persons have believed that Neo-Platonic modes both of thought and expression are reflected in St. John's Gospel. The influence which this school exercised over Christianity forms one of the most remarkable pages in ecclesiastical history. From it the orthodox derived a great part of their metaphysics, and, in a great measure, their doctrine concerning the worship of demons, to which St. Paul was long thought to have alluded. From it the Gnostics, the first important sect of Christian heretics, obtained their central doctrine of the Æons, which Julian endeavoured to consolidate into a rival system. On the doctrine of the demons, in its relation to heathen worship, see the chapter on Neo-Platonism in <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html">Maury</a>, and the curious argument based on the Platonic theory, which occupies the greater part of the eighth book of the De Civitate Dei.
 
