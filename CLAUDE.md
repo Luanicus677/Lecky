@@ -472,6 +472,8 @@ Notes for continuing:
   vol. II starts too late for Lecky's 'vol. ii. p. 36' (bells c. 400); not matched, dropped. Image-crop tip: the Read tool shows thumbnails at a
   scale that misleads eye estimates by ~10%; probe a strip first or use gspan.py with the XML.
 
+- Hallam Lit. of Europe vol. III candidates for Lecky's 'vol. iii' (3-vol printings): `introductiontol32hallgoog` (1855), `introductionlite03hall` (1872), also 1860/1864 goog scans; a keyword grep for 'Glanvil'/'Scepsis' found nothing in the first two (OCR may spell it otherwise). Unfinished.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
