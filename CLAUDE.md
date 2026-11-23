@@ -462,6 +462,16 @@ Notes for continuing:
   26, 31, 54, 70 linked; note 26 OCR 'divinas Scripturae' -> 'divinæ Scripturæ' (read on Lecky n294)). Troplong's Influence du christianisme
   (note 7) = `delinfluenceduc00tropgoog` (1843) etc., not done. Never put `cat` with no file in a shell chain: it waits on stdin and hangs.
 
+- 23 Nov (run 2, later): Maury La magie (BSG scan, image = page+11): + ch. IV pp. 79, 81 = n90, n92 (#emperors-monopoly-79; ch. I notes 15-16),
+  p. 189 = n200 (#dusii-189, Dusii/'Deuce'; ch. I note 21). Légendes pieuses (image = page+39) now ALL Lecky's pages done: pp. 125-127 = n164-n166
+  (#souls-125, Adhémar's half-shaved beard; ch. III n168), p. 136 = n175 (#devil-136; ch. I n52), pp. 179-180 = n218-n219 (#ear-179; ch. III n30),
+  pp. 239-242 = n278-n281 (#god-or-magic-239; ch. II n3). CORRECTION: Croyances et légendes de l'antiquité 1863 IS online = `croyancesetlge00maur`
+  (image = page+7; its _page_numbers.json is 2 out): new page maury-croyances-et-legendes (pp. 267-268 = n274-n275 pious frauds, ch. IV n37;
+  p. 338 = n345 Helena/Ennoia, ch. III n23; p. 340 = n347 Prounikos 'lascif', ch. III n25). Lecky vol. I p. 232 (n261) prints 'Verbum a tris' (a
+  dropped 'p'; Maury has 'patris'), on as-printed.md. Anderson 1801 4-vol: `anhistoricaland02andegoog` = vol. II, `...00andegoog` = vol. IV;
+  vol. II starts too late for Lecky's 'vol. ii. p. 36' (bells c. 400); not matched, dropped. Image-crop tip: the Read tool shows thumbnails at a
+  scale that misleads eye estimates by ~10%; probe a strip first or use gspan.py with the XML.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
