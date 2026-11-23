@@ -453,6 +453,15 @@ Notes for continuing:
   1854 vol. III (Lecky's vol. iii pp. 289, 358-362, 439) not yet found; 1854 Const. Hist. candidates `constitutionalh05hallgoog` (1854),
   1827 Const. Hist. vol. 1 = `hallamconstitutionalhistoryofengland01` (Lecky ch. III n156 'ed. 1827, vol. i. p. 159'), not checked.
 
+- 23 Nov (run 2): Buckle vol. II = London: Parker 1861, `india.history.resource.74598` (DLI; image = page+35): pp. 189-190 = n224-n225
+  (Hume's Commentaries: no trial 'proceeds upon the notion of a vain or cheating art'; Lecky's 'no cases of imposture detected' is stronger),
+  p. 231 = n266 (1560 mass law; the Act also allows bodily punishment for the first offence), pp. 349-369 = n384-n404 (Welsh's curse, Devil
+  'studying for more than five thousand years', p. 368 = n403). All Lecky's Buckle notes now checked. + troplong-du-pret (Du prêt, Paris:
+  Hingray 1845, `duprts00trop`, preface page = image n - 7: p. i mottoes = n8, Nicaea canon in Saumaise's Latin p. lxxix = n86, Constantine
+  12% a month before p. lxxx = n87, St Louis 'Dimittant usuras, aut exeant' p. cxvii = n124, Carthage 'insinué' p. cvi (OCR); vol2-ch6 notes
+  26, 31, 54, 70 linked; note 26 OCR 'divinas Scripturae' -> 'divinæ Scripturæ' (read on Lecky n294)). Troplong's Influence du christianisme
+  (note 7) = `delinfluenceduc00tropgoog` (1843) etc., not done. Never put `cat` with no file in a shell chain: it waits on stdin and hangs.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
