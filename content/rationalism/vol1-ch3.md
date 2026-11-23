@@ -886,7 +886,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^167]: Ibid. cap. ix. I should mention that this book was written after Tertullian had become a Montanist, but there is no reason to believe that this had anything to say to his psychology.
 
-[^168]: See on this subject <a class="popup-ref" href="../ref/maury-legendes-pieuses.html">Maury, *Légendes Pieuses*, pp. 125–127</a>.
+[^168]: See on this subject <a class="popup-ref" href="../ref/maury-legendes-pieuses.html#souls-125">Maury, *Légendes Pieuses*, pp. 125–127</a>.
 
 [^169]: <a class="popup-ref" href="../ref/maury-legendes-pieuses.html#soul-little-man">Maury, *Légendes Pieuses*, p. 124.</a> There is an example of this in the *Triumph of Death*, by Orgagna, at Pisa. In the Greek churches the souls of the blest were sometimes represented as little children clasped in the mighty hand of God. (Didron, *Iconographie*, p. 216.) <a class="popup-ref" href="../ref/didron-iconographie-chretienne.html#ames-main-de-dieu">source page</a>
 
