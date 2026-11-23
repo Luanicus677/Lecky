@@ -447,6 +447,12 @@ Notes for continuing:
 
 - 23 Nov: + riccoboni-histoire-du-theatre-italien (see the corrected Hogarth/Riccoboni note above). vol2-ch6 notes 112, 123, 129, 130, 132, 133 linked; OCR fixed from Lecky's page (n347, n356): note 112 'l'an 1500 jusqu'à l'an 1660', note 130 'Ruccellai', note 133 'Bachetone'. Scratchpad lzoom.py crops Lecky vol. II lines (needs lk/v2.xml).
 
+- 23 Nov: Hallam Lit. of Europe 1854 vol. I = `introductiontoli01hall` (image = page+33 near p. 554; p. 216 = n249) MATCHES Lecky's 'vol. i.'
+  pages: 216 Patelin, 554 footnote 'circumstances of aggravation', 557 Castalio/Bellius, 558 Aconcio, 559 'simple proposition' (n592; names
+  Koornhert). New section #castalio-1854 on hallam-literature-and-constitutional-history.md; vol2-ch4 n64, 66, 73 and vol2-ch6 n125 linked.
+  1854 vol. III (Lecky's vol. iii pp. 289, 358-362, 439) not yet found; 1854 Const. Hist. candidates `constitutionalh05hallgoog` (1854),
+  1827 Const. Hist. vol. 1 = `hallamconstitutionalhistoryofengland01` (Lecky ch. III n156 'ed. 1827, vol. i. p. 159'), not checked.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
