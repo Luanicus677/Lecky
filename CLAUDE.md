@@ -428,6 +428,11 @@ Notes for continuing:
   Apol. 37 (printed 'Externi sumus'), Theban legion + footnote 'mera est fabula'; vol2-ch5 notes 29-30 linked). `hugonisgrotiide00whewgoog` is
   vol. II. III.14 § 3 added from vol. III `dejurebellietpac03grotuoft` p. 256 = n265 (vol2-ch6 n5).
 
+- 23 Nov: + mcculloch-political-economy (Principles 4th ed. 1849 `4edprinciplesofp00mccuuoft`: Dublin foundlings p. 246 = n273 (pt I ch VIII),
+  Calvin pp. 566-567 = n593-n594 (pt III ch VIII; McCulloch cites Dugald Stewart); 3rd ed. 1843 `2principlesofpol00mccuuoft` also has both.
+  WN ed. McCulloch 1838 one vol. `inquiryintonatur00smit_2`: colliers note p. 172 = n239 (Lecky 'vol. ii. p. 186' = 1828 4-vol ed., vol. II
+  not online; vols I/III/IV = india.history.resource.15286-15288); Introd. Discourse 1663 repeal (OCR). vol2-ch6 n14, 20, 49, 168, 169 linked.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

@@ -629,4 +629,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="grotius-de-jure-belli-ac-pacis.html">Grotius, <em>De jure belli ac pacis</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Book I, ch. IV, § 7, in Whewell’s 1853 edition: the early Christians who could have fought but did not, after Tertullian; the Theban legion, and a footnote calling it “mere fable”.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="mcculloch-political-economy.html">M’Culloch, <em>Principles of Political Economy</em> and the <em>Wealth of Nations</em></a><span class="work-status">4 passages</span></div>
+<div class="work-desc">J. R. M’Culloch’s Principles (1849) and his edition of Adam Smith (1838). The Dublin Foundling Hospital’s 12,561 deaths, Calvin on interest (via Dugald Stewart), the Scottish colliers bound to their pits until 1775–1799.</div>
+</li>
 </ul>
