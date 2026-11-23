@@ -433,6 +433,12 @@ Notes for continuing:
   WN ed. McCulloch 1838 one vol. `inquiryintonatur00smit_2`: colliers note p. 172 = n239 (Lecky 'vol. ii. p. 186' = 1828 4-vol ed., vol. II
   not online; vols I/III/IV = india.history.resource.15286-15288); Introd. Discourse 1663 repeal (OCR). vol2-ch6 n14, 20, 49, 168, 169 linked.
 
+- 23 Nov: + vitet-etudes-sur-lhistoire-de-lart (vol. I Paris 1864 `etudessurlhisto00vitegoog`, image = page+32: p. 94 = n126 consulate
+  1630-1640; p. 245 = n277 asceticism-or-barbarians question; pp. 268-279 = n300-n311 'Fin de la décadence' blames BARBARIANS (p. 272 = n304,
+  p. 277 = n309): Lecky's ch. III n59 'imitated from the emaciation of extreme asceticism' is not Vitet's conclusion). Other vols: BnF 1867
+  printings `bnf-bpt6k...`, `etudessurlhistoi02vite` (1868 vol. 2). Container restart 23 Nov wiped pip packages and the scratchpad:
+  `pip install -r requirements.txt` before building.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

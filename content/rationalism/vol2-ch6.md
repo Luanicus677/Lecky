@@ -687,7 +687,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^135]: Called originally 'discantus.' The exact date of its invention is a matter of great controversy. It is said to have been suggested by the varied tones of the organ
 
-[^136]: See Burney's Hist. of Music; Castil-Blaze, Chapelle Musique des Rois de France; <a class="popup-ref" href="../ref/hogarth-memoirs-of-the-opera.html">Hogarth's Hist. of the Opera</a>; Monteil, Hist. des Français (XVII. Siecle); the notice of Palestrina in <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html">Hallam's Hist. of Literature</a>; and the Essays on Musical Notation, by Vitet and Coussemaker.
+[^136]: See Burney's Hist. of Music; Castil-Blaze, Chapelle Musique des Rois de France; <a class="popup-ref" href="../ref/hogarth-memoirs-of-the-opera.html">Hogarth's Hist. of the Opera</a>; Monteil, Hist. des Français (XVII. Siecle); the notice of Palestrina in <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html">Hallam's Hist. of Literature</a>; and the Essays on Musical Notation, by <a class="popup-ref" href="../ref/vitet-etudes-sur-lhistoire-de-lart.html">Vitet</a> and Coussemaker.
 
 [^137]: The stage of Orange, which is probably the most perfect Roman theatre in existence, is 66 yards broad and 12 deep. (See Vitet's Essay on the Antiquities of Orange, in his Études sur l'Histoire d'Art.) The length of the stage of Herculaneum is greater than that of San Carlo at Naples, but its depth is only a few feet.
 
