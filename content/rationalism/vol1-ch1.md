@@ -705,7 +705,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^144]: I need hardly refer to the noble description of the Scotch Kirk in <a class="popup-ref" href="../ref/buckle-history-of-civilization.html">Buckle's</a> History — a description the substantial justice of which will be questioned by no one who is acquainted with the history of Scotch witchcraft. On the multitude of miracles and apparitions of Satan that were believed, see pp. 349-369.
 
-[^145]: The very remarkable fact, that no cases of imposture have been detected in Scotch witch-trials, is noted by <a class="popup-ref" href="../ref/buckle-history-of-civilization.html">Buckle</a>. (Vol. ii. pp. 189, 190.)
+[^145]: The very remarkable fact, that no cases of imposture have been detected in Scotch witch-trials, is noted by <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#scotland-no-imposture">Buckle</a>. (Vol. ii. pp. 189, 190.)
 
 [^146]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#boxes-623">Dalyell, Darker Superstitions of Scotland, p. 624.</a>
 

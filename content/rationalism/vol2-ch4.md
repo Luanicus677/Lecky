@@ -322,7 +322,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^48]: For the circumstances of the persecution in Scotland, see Wodrow's History; and for a summary of the laws against Nonconformists in England, <a class="popup-ref" href="../ref/neal-history-of-the-puritans.html">Neal's History of the Puritans, vol. ii. pp. 695-696</a>.
 
-[^49]: <a class="popup-ref" href="../ref/buckle-history-of-civilization.html">Buckle</a>, Hist., vol. ii. p. 231; McKenzie, Laws of Scotland.
+[^49]: <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#mass-1560">Buckle</a>, Hist., vol. ii. p. 231; McKenzie, Laws of Scotland.
 
 [^50]: McCrie, Life of Knox (ed. 1840), p. 246.
 
