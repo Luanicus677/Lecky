@@ -1,0 +1,72 @@
+---
+title: Riccoboni, Histoire du théâtre italien
+description: "Luigi Riccoboni’s Histoire du théâtre italien (Paris, 1728), the first volume of the edition Lecky cites: Harlequin’s costume derived from the ancient mimes (pp. 4–6), the Calandra (pp. 32–33), Cecchini ennobled by the Emperor (p. 57), ‘Dottor Bachetone’ as the source of Tartuffe (p. 137), and a comedy acted before Clement VII and the Emperor (p. 183). Cited by Lecky in ch. VI, notes 112, 123, 129, 130, 132, 133."
+heading: Riccoboni, <em>Histoire du théâtre italien</em>
+subtitle: "An Italian actor claims Tartuffe and Harlequin for Italy"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Luigi_Riccoboni\">Luigi Riccoboni</a>, actor-manager known on the stage as Lelio, who brought his Italian company to Paris in 1716. The book is dedicated, in Italian, to Queen Caroline of Great Britain."]
+  - ["Edition used", "<em>Histoire du théâtre italien depuis la décadence de la comédie latine; avec un catalogue des tragédies et comédies italiennes imprimées depuis l’an 1500 jusqu’à l’an 1660</em>, Paris, 1728 (the first volume; Lecky’s “tom. i.”). Getty Research Institute copy, Internet Archive <a href=\"https://archive.org/details/histoiredutheatr00ricc\">histoiredutheatr00ricc</a> (the title leaf is not in the scan). Plates are bound in, so the offset between page and image changes: p. 4 = <a href=\"https://archive.org/details/histoiredutheatr00ricc/page/n25/mode/2up\">n25</a>, p. 32 = <a href=\"https://archive.org/details/histoiredutheatr00ricc/page/n53/mode/2up\">n53</a>, p. 57 = <a href=\"https://archive.org/details/histoiredutheatr00ricc/page/n112/mode/2up\">n112</a>, p. 89 = <a href=\"https://archive.org/details/histoiredutheatr00ricc/page/n144/mode/2up\">n144</a>, p. 137 = <a href=\"https://archive.org/details/histoiredutheatr00ricc/page/n194/mode/2up\">n194</a>, p. 183 = <a href=\"https://archive.org/details/histoiredutheatr00ricc/page/n240/mode/2up\">n240</a>. The second volume (Lecky’s “tom. ii.”, note 130) is not online."]
+  - ["Cited in", "Rationalism, ch. VI, notes <a href=\"../rationalism/vol2-ch6.html#fn112\">112</a> (pp. 4–6), <a href=\"../rationalism/vol2-ch6.html#fn123\">123</a> (p. 89), <a href=\"../rationalism/vol2-ch6.html#fn129\">129</a> (pp. 32–33), <a href=\"../rationalism/vol2-ch6.html#fn130\">130</a> (tom. ii.), <a href=\"../rationalism/vol2-ch6.html#fn132\">132</a> (p. 183), <a href=\"../rationalism/vol2-ch6.html#fn133\">133</a> (p. 137)."]
+  - ["Status", "<strong>Lecky’s pages in tome I match this edition</strong> (pp. 4–6, 32–33, 137, 183), except p. 89: Cecchini is on pp. 42 and 57. Read on the page images: pp. 32, 57, 137; the others from the OCR, located by page heads. An earlier note in this edition’s files said this printing did not match Lecky; that was a miscount caused by the plates."]
+abstract: |
+  <p>Lecky’s claim that Molière took Tartuffe from an Italian play comes from an interested party. Luigi Riccoboni, the leading Italian actor in Paris, says that “more than a hundred years before Molière appeared” his company played “Il Dottor Bachetone”, “in which one finds the character, the actions and the principal speeches of Tartuffe”. He has a story to go with it. When he put on a piece with the casket scene that is also in Molière’s <em>L’Avare</em>, a friend reproached him for giving Paris “a copy of Molière, much inferior to the original”; Riccoboni answered that Molière had copied the Italians.</p>
+  <p>The same actor traces Harlequin’s patchwork suit and shaven head to the mimes of ancient Rome, and keeps among his papers a printed copy of the letters by which the Emperor Matthias ennobled the Harlequin Pier Maria Cecchini.</p>
+---
+<section id="harlequin" class="passage">
+<h2>Harlequin’s costume and the ancient mimes (pp. 4–6)</h2>
+<p class="passage-source">French: Paris 1728, ch. I, pp. 4–6, <a href="https://archive.org/details/histoiredutheatr00ricc/page/n25/mode/2up">scans n25</a>–<a href="https://archive.org/details/histoiredutheatr00ricc/page/n27/mode/2up">n27</a> (OCR, checked against the page heads).</p>
+<p>Riccoboni argues that the shows that survived the fall of Rome best were those that needed least literature: “the games of the mimes and pantomimes, those of the mountebanks in the public squares”. Harlequin’s suit, “if someone examined it today as a new invention”, would seem the most extravagant ever imagined; he derives it from the shaven-headed mimes called <i>planipedes</i>, quoting Apuleius on the mime’s <i>centunculus</i>, his patchwork coat: “Dans un seul mot, <i>Mimi centunculo</i>, voilà l’habit d’Arlequin désigné” (in two words, the habit of Harlequin). Lecky’s note 112 cites these pages for the mountebanks as “the origin of the modern pantomime”.</p>
+</section>
+
+<section id="calandra" class="passage">
+<h2>The Calandra (pp. 32–33)</h2>
+<p class="passage-source">French: Paris 1728, pp. 32–33, <a href="https://archive.org/details/histoiredutheatr00ricc/page/n53/mode/2up">scans n53</a>–<a href="https://archive.org/details/histoiredutheatr00ricc/page/n54/mode/2up">n54</a>.</p>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… <span class="cited-passage"><i>La Calandra di Bernardo Divitio da Bibiena poi Cardinale</i>, est pareillement imprimée de 1523.</span> quoique l’impression de l’Exemplaire qui se trouve dans la Bibliotheque …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… <span class="cited-passage"><i>La Calandra</i> by Bernardo Dovizi da Bibbiena, later Cardinal, was likewise printed in 1523</span>, although the printing of the copy in the library …</p>
+</div>
+</div>
+<p>Lecky’s note 129 supports “the first regular Italian comedy appears to have been the ‘Calandra,’ and its author was the Cardinal Bibbiena”. Riccoboni, on the same page, thinks an older comedy, the <i>Floriana</i>, was written about 1400.</p>
+</section>
+
+<section id="cecchini" class="passage">
+<h2>A Harlequin ennobled by the Emperor (p. 57; Lecky says p. 89)</h2>
+<p class="passage-source">French: Paris 1728, p. 57, <a href="https://archive.org/details/histoiredutheatr00ricc/page/n112/mode/2up">scan n112</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/riccoboni-1728-p57.jpg"><img src="../assets/img/ref/riccoboni-1728-p57.jpg" alt="Printed French: “L’Empereur et le Roi de France les comblerent de graces et d’honneurs. Je conserve une Copie imprimée des Lettres de l’Empereur Mathias qui annoblit Pietro Maria Cecchini, homme d’esprit et de Lettres, qui jouoit le Rôle d’Arlequin”" loading="lazy"></a><figcaption>Riccoboni, 1728, p. 57. <span class="credit">Scan: Internet Archive (Getty Research Institute) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… ils porterent si loin l’excellence de leur Art qu’ils furent appellés à toutes les Cours de l’Europe. L’Empereur &amp; le Roi de France les comblerent de graces &amp; d’honneurs. <span class="cited-passage">Je conserve une Copie imprimée des Lettres de l’Empereur Mathias qui annoblit <i>Pietro Maria Cecchini</i>, homme d’esprit &amp; de Lettres, qui jouoit le Rôle d’Arlequin.</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>… they carried the excellence of their art so far that they were called to every court in Europe. The Emperor and the King of France loaded them with favours and honours. <span class="cited-passage">I keep a printed copy of the letters of the Emperor Matthias ennobling <i>Pier Maria Cecchini</i>, a man of wit and letters, who played the part of Harlequin.</span></p>
+</div>
+</div>
+<p>Lecky’s note 123 (“Cecchino … He was ennobled by the Emperor of Germany”) cites “tom. i. p. 89”; in this printing p. 89 is the end of the historical part, and Cecchini appears, besides p. 57, on p. 42 (OCR only), with his stage name Frittellino. <a href="https://en.wikipedia.org/wiki/Pier_Maria_Cecchini">Cecchini</a>’s defence of the theatre, which Lecky dates 1621, is not on these pages.</p>
+</section>
+
+<section id="bachetone" class="passage">
+<h2>“Il Dottor Bachetone” and Tartuffe (p. 137)</h2>
+<p class="passage-source">French: Paris 1728, catalogue of comedies, p. 137, <a href="https://archive.org/details/histoiredutheatr00ricc/page/n194/mode/2up">scan n194</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/riccoboni-1728-p137.jpg"><img src="../assets/img/ref/riccoboni-1728-p137.jpg" alt="Printed French: “je commencerai par le Tartuffe. Plus de cent ans avant que Moliere parût on jouoit sur notre Théâtre le Docteur Bachetone, où l’on trouve le caractère, les actions et les principaux discours de Tartuffe”" loading="lazy"></a><figcaption>Riccoboni, 1728, p. 137. <span class="credit">Scan: Internet Archive (Getty Research Institute) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… donc à quelques-unes des Piéces de Moliere, &amp; je commencerai par le <i>Tartuffe</i>. <span class="cited-passage">Plus de cent ans avant que Moliere parût on jouoit sur notre Théâtre le <i>Docteur Bachetone</i>, où l’on trouve le caractere, les actions &amp; les principaux discours de <i>Tartuffe</i>.</span> Il ne paroît point que l’Italie ait puisé cette Piéce dans aucunes sources étrangeres. La Scene de la <i>Cassette</i> étoit sur notre Théâtre avant que l’<i>Avare</i> parût sur celui de France. Lorsque je vins à Paris &amp; que je donnai la Piéce d’<i>Arlequin &amp; Lelio Valets dans la même Maison</i>, où se trouve cette Scene, un de mes Amis me reprocha d’avoir donné au Public une copie de Moliere, bien inferieure à l’Original; … je ne voulus point convenir que notre Scene fût imitée de celle de Moliere. Je detrompai mon Ami &amp; je lui fis voir que Moliere l’avoit entierement imitée de nous …</p>
+</div>
+<div class="rendering" lang="en">
+<p>… [I come] then to some of Molière’s plays, and I shall begin with <i>Tartuffe</i>. <span class="cited-passage">More than a hundred years before Molière appeared, our theatre was playing <i>Il Dottor Bachetone</i>, in which one finds the character, the actions and the principal speeches of <i>Tartuffe</i>.</span> Italy does not appear to have drawn this play from any foreign source. The scene of the casket was on our stage before <i>L’Avare</i> appeared on the French one. When I came to Paris and gave the piece <i>Harlequin and Lelio, Servants in the Same House</i>, which contains that scene, a friend reproached me for giving the public a copy of Molière, much inferior to the original; … I would not admit that our scene was imitated from Molière’s. I undeceived my friend and showed him that Molière had imitated it entirely from us …</p>
+</div>
+</div>
+<p>Lecky’s note 133 (“Riccoboni, however, asserts that Moliere took the character, and even some of the incidents and speeches, of his Tartuffe from an old Italian play called Doctor Bachetone (tom. i. p. 137)”) is exact; Lecky rightly presents it as Riccoboni’s assertion. (The OCR of Lecky’s note read “Eachetone”; his page prints “Bachetone”, as Riccoboni does.)</p>
+</section>
+
+<section id="clement-vii" class="passage">
+<h2>A comedy before Clement VII and the Emperor (p. 183)</h2>
+<p class="passage-source">French: Paris 1728, catalogue of comedies, p. 183, <a href="https://archive.org/details/histoiredutheatr00ricc/page/n240/mode/2up">scan n240</a> (OCR, checked against the page head).</p>
+<p>The page continues Riccoboni’s note on a comedy whose “representation was made before Pope Clement VII and the Emperor”; Alessandro Velutello, in an apology printed with it, claimed it was the first comedy in verse. Lecky’s note 132 cites this page for Clement VII and Charles V at Bologna watching “the comedy of ‘The Three Tyrants,’ by Ricci”. The play’s title falls on the previous page, which was not read.</p>
+</section>

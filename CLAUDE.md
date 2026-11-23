@@ -137,7 +137,7 @@ Notes for continuing:
 
 - Also: `eden-state-of-the-poor.md` (1797 vol. i `bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`, image = page+39: pp. 7, 10, 50 = n46, n49, n89; ch. VI notes 11, 17). Becket sentence is shorter in Eden than in Lecky; Giraldus/Strongbow sentence in note 17 is not on these pages. Eden's other pages unchecked.
 
-- Also: `hogarth-memoirs-of-the-opera.md` (vol. i 1851 `memoirsoperaini00hogagoog`, image = page+16: p. 7 = n23, p. 8 = n24, p. 28 = n44; ch. VI notes 131, 148). Lulli: matches (Hogarth adds the 'I have got a copy' sequel). Politian: no Cardinal Gonzaga on pp. 7-8 (Lecky's detail presumably from Roscoe ch. v). p. 6 not read. Riccoboni 1728 (`histoiredutheatr00ricc`): printed p. 55 = n110, so pagination does NOT match Lecky's tom. i p. 89 (Cecchino): Lecky used another edition (probably 1731); Cecchini/Frittellino at about n63. Not done: Riccoboni notes 112, 123, 129, 132.
+- Also: `hogarth-memoirs-of-the-opera.md` (vol. i 1851 `memoirsoperaini00hogagoog`, image = page+16: p. 7 = n23, p. 8 = n24, p. 28 = n44; ch. VI notes 131, 148). Lulli: matches (Hogarth adds the 'I have got a copy' sequel). Politian: no Cardinal Gonzaga on pp. 7-8 (Lecky's detail presumably from Roscoe ch. v). p. 6 not read. Riccoboni 1728 (`histoiredutheatr00ricc`): WRONG earlier conclusion; it IS Lecky's tome I (plates make the offset vary): pp. 4-6 = n25-n27, 32-33 = n53-n54, 57 = n112, 89 = n144, 137 = n194, 183 = n240 all match except p. 89 (Cecchino is on pp. 42, 57). DONE 23 Nov as riccoboni-histoire-du-theatre-italien.md; tome II (note 130) not online.
 
 - Also: `maury-la-magie-et-lastrologie.md` (Didier 1860 `BSG_8R428_3INV2303FA`, image = page+11; OCR page headers in this scan are unreliable, read page numbers on images: p. 117 = n128, 118 = n129, 221 = n232, 317 = n328; vol1-ch1 notes 20, 29, 92, 93). Lecky's quotations match (slip 'leur dépouiller' for 'les'; 'ce que' for 'ce qui' in note 93; note 20's 'religious exercise'/'inhaled' is not on p. 317). Maury also footnotes 'Cod. Theodos. IX.16 l.4 p. 128 t. III ed. Ritter' (same edition as our Codex page). Notes 33, 49 (p. 185, pacts; Lecky says witch concept "first appeared" in 12th c., Maury only dates the pact belief) and 94 (p. 219, La Bruyère) also done. Unchecked Maury notes: ch. I notes 13, 15 (pp. 78-85), 16, 25, 36; Légendes pieuses (ch. I note 52; ch. II note 3; ch. III notes 16, 17, 113, 168, 169) and Croyances et légendes (ch. III note 23, ch. IV note 37) are DIFFERENT books, not found yet.
 
@@ -444,6 +444,8 @@ Notes for continuing:
   dates, figures and names; wrong chapter/page. Every entry links Lecky's note (#fnN) and the source-page section; all 79 links checked.
   ADD NEW FINDS THERE when a source page records a substantive disagreement (not mere edition mismatches). Anderson 1801 4-vol ed. =
   `anhistoricaland00andegoog`/`01`/`02` (looks like a reissue of 1787-89; not checked against Lecky).
+
+- 23 Nov: + riccoboni-histoire-du-theatre-italien (see the corrected Hogarth/Riccoboni note above). vol2-ch6 notes 112, 123, 129, 130, 132, 133 linked; OCR fixed from Lecky's page (n347, n356): note 112 'l'an 1500 jusqu'à l'an 1660', note 130 'Ruccellai', note 133 'Bachetone'. Scratchpad lzoom.py crops Lecky vol. II lines (needs lk/v2.xml).
 
 ## Readability layer (headings, synopses, figures)
 

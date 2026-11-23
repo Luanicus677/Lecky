@@ -637,4 +637,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="vitet-etudes-sur-lhistoire-de-lart.html">Vitet, <em>Études sur l’histoire de l’art</em></a><span class="work-status">3 passages</span></div>
 <div class="work-desc">Ludovic Vitet’s essays, vol. I (1864). The French consuls at Athens; why the saints in Rome’s mosaics grew ugly, where Vitet blames the barbarians and Lecky, citing him, blames asceticism.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="riccoboni-histoire-du-theatre-italien.html">Riccoboni, <em>Histoire du théâtre italien</em></a><span class="work-status">5 passages</span></div>
+<div class="work-desc">Luigi Riccoboni (“Lelio”), Paris 1728, Lecky’s tome I. Harlequin’s costume from the Roman mimes, the Calandra, an emperor ennobling a Harlequin, and the Italian play Riccoboni says Molière copied for Tartuffe.</div>
+</li>
 </ul>
