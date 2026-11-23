@@ -36,6 +36,7 @@ Lecky was, for a historian of 1865, an unusually careful one. Most of what has b
 - **A terrible Christ.** Didron confines the sternness of Christ in art to the Passion and the Last Judgment; Lecky makes it a general rule ([ch. I, note 52](vol1-ch1.html#fn52)). [Didron](../ref/didron-iconographie-chretienne.html#christ-redoutable)
 - **Aliturus.** Lecky’s sentence on the actor who interceded for the Jews claims more than Gibbon’s note does ([ch. VI, note 103](vol2-ch6.html#fn103)). [Gibbon](../ref/gibbon-decline-and-fall.html#aliturus)
 - **“It is said.”** In three places Lecky states as fact what Dalyell only reports as hearsay about Scottish witch trials. [Dalyell](../ref/dalyell-darker-superstitions.html)
+- **No impostors in Scotland.** “The very remarkable fact, that no cases of imposture have been detected in Scotch witch-trials, is noted by Buckle” ([ch. I, note 145](vol1-ch1.html#fn145)). Buckle’s footnote quotes the jurist David Hume, who says only that none of the trials “proceeds upon the notion of a vain or cheating art”: no one was *charged* with witchcraft as a fraud. That is a fact about the indictments, not evidence that no witch was an impostor. [Buckle](../ref/buckle-history-of-civilization.html#scotland-no-imposture)
 
 ## Dates, figures and names
 
@@ -54,6 +55,7 @@ These are slips of reference rather than of substance: the passage exists, but n
 - Eusebius, *Life of Constantine*, “lib. i. c. 16” and “lib. iii. caps. 5, 6” ([ch. I, note 26](vol1-ch1.html#fn26); [ch. III, note 75](vol1-ch3.html#fn75)): the passages are II.45 and III.54. [Eusebius](../ref/eusebius-vita-constantini.html)
 - *Malleus Maleficarum* “Pars I. Quæst. vii.” for St Serenus ([ch. I, note 78](vol1-ch1.html#fn78)): it is Pars II, Quaest. I. [Malleus](../ref/sprenger-malleus-maleficarum.html#serenus-150)
 - Augustine, *City of God*, the Sibyl’s acrostic “cap. 20” ([ch. III, note 14](vol1-ch3.html#fn14)): it is chapter 23. [Augustine](../ref/augustine-de-civitate-dei.html#sibyl-xviii-23)
+- Riccoboni, *Histoire du théâtre italien*, “p. 89” for the Harlequin Cecchini ennobled by the Emperor ([ch. VI, note 123](vol2-ch6.html#fn123)): he is on pp. 42 and 57, although Lecky’s other pages in the same volume fit. [Riccoboni](../ref/riccoboni-histoire-du-theatre-italien.html#cecchini)
 - Concina, *Adversus usuram*, “p. 14” ([ch. VI, note 56](vol2-ch6.html#fn56)): the words are on p. xiv. [Concina](../ref/concina-adversus-usuram-de-spectaculis.html#vix-pervenit-xiv)
 - Pages that do not fit any edition found: Mackay, “vol. ii. pp. 286–297” ([ch. VI, note 115](vol2-ch6.html#fn115); [Mackay](../ref/mackay-progress-of-the-intellect.html)); Milman, “vol. iii. p. 60” ([ch. IV, note 31](vol2-ch4.html#fn31); [Milman](../ref/milman-history-of-christianity.html)); Storch, “tom. iii. p. 403”, a page tome III does not have ([ch. VI, note 111](vol2-ch6.html#fn111); [Storch](../ref/storch-cours-deconomie-politique.html)); Beugnot “p. 148” for p. 143 ([ch. I, note 29](vol1-ch1.html#fn29); [Beugnot](../ref/beugnot-destruction-du-paganisme.html)).
 
