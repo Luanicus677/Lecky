@@ -1,0 +1,62 @@
+---
+title: "Lecky and his sources: where the footnotes and the books disagree"
+description: "What this edition has found in checking Lecky’s footnotes against the books he cites: claims his sources do not make, words given to the wrong speaker, sources made stronger than they are, and wrong dates and figures. Each entry links to the source page with the passage, transcribed from a scan."
+heading: "Lecky and his sources"
+subtitle: "Where the footnotes and the books disagree"
+back_link:
+  url: index.html
+  text: Rationalism in Europe
+---
+<p class="editorial-note">This page is editorial. It gathers what has turned up in checking Lecky’s footnotes against the books themselves, on the <a href="../ref/index.html">source pages</a> of this edition. Lecky’s text is never altered; the disagreements are recorded here and on the source pages, where each passage is transcribed from a scan and translated.</p>
+
+Lecky was, for a historian of 1865, an unusually careful one. Most of what has been checked so far stands up: his quotations are usually exact, and his page numbers usually lead to the right page of the edition he used. Concina, Naudé, Binsfeld, Bédarride, Buckle and Durand, for instance, match him page for page. But checking several hundred of his footnotes has also turned up places where the book does not say what Lecky says it says. They fall into a few kinds, and they are listed below. Only part of his notes have been checked so far, so this is a sample, not a verdict.
+
+## The source says something else
+
+- **Ugly saints and the monks.** Lecky says the hideous figures in Roman mosaics of the dark ages were “evidently imitated from the emaciation of extreme asceticism”, citing Vitet, pp. 268–279 ([ch. III, note 59](vol1-ch3.html#fn59)). On those pages Vitet blames the barbarians: “the question at issue is a question of barbarism, and precisely the barbarians are forgotten.” Asceticism is only a question he raised earlier and left open. [Vitet](../ref/vitet-etudes-sur-lhistoire-de-lart.html#barbarians)
+- **Witches, apples and orchards.** Lecky credits De Lancre with the “brilliant suggestion” that witchcraft about Bordeaux was connected with orchards, the Devil having a special power over apples ([ch. I, note 3](vol1-ch1.html#fn3)). The passage in Garinet that he cites says nothing of orchards or Bordeaux; De Lancre’s point is Eve and the apple. [Garinet](../ref/garinet-histoire-de-la-magie.html#p176)
+- **Snow and tempests.** Constantine’s law of 321, in Lecky’s summary, protected harvests “from hail, snow, or tempests” ([ch. I, note 27](vol1-ch1.html#fn27)). The law speaks of rains and hail; snow and tempests are not in it. [Codex Theodosianus](../ref/codex-theodosianus-ix-16.html#law-3)
+- **The bull of Cuenca.** A bull that had killed seven men, Lecky says, “became the object of the highest reverence, and the people were so gratified that a painting … was immediately executed” ([ch. III, note 132](vol1-ch3.html#fn132)). His source, Concina quoting Mariana, says the bull was “consecrated to immortality” by a painting in a public place, and calls it “a monument of madness and savagery”; the delighted crowd and the haste are Lecky’s. [Concina](../ref/concina-adversus-usuram-de-spectaculis.html#bull-cuenca)
+- **An English consul who was Venetian.** Lecky’s “earliest notice” of an English consul (1346) is, in Macpherson, a consul of the Venetian merchants at Bruges, mentioned in an English record ([ch. VI, note 94](vol2-ch6.html#fn94)). [Macpherson](../ref/macpherson-annals-of-commerce.html#consul-1346)
+- **The rebellion that wasn’t.** Lecky says the witch-burnings near Brescia in 1518 provoked “an absolute rebellion” ([ch. I, note 5](vol1-ch1.html#fn5)). The Venetian records show the Council of Ten ordering the inquisitors to stop, and delegates from the valley later asking for the inquisition to go on. [Madden](../ref/madden-phantasmata.html#venice-1518)
+- **Things not on the page.** Newton’s last sentence in Lecky’s quotation (“The history of those ages is very imperfect”) is not in Brewster’s text ([ch. II, note 8](vol1-ch2.html#fn8); [Brewster](../ref/brewster-life-of-newton.html#miracles-letter)). Hogarth does not mention the Cardinal Gonzaga at Politian’s *Orfeo* ([ch. VI, note 131](vol2-ch6.html#fn131); [Hogarth](../ref/hogarth-memoirs-of-the-opera.html#orfeo-politian)). Pecchio’s page has the maritime code of Amalfi, not Lecky’s manuscript of Roman laws found there ([ch. VI, note 90](vol2-ch6.html#fn90); [Pecchio](../ref/pecchio-storia-della-economia-pubblica.html#tavola-amalfitana)).
+
+## The right words, the wrong speaker
+
+- **Jerome and Vigilantius.** “As St. Jerome says”, Lecky writes, the souls of the martyrs love their ashes ([ch. III, note 34](vol1-ch3.html#fn34)). The words are Vigilantius’s, quoted by Jerome in order to mock them. [Jerome](../ref/jerome-contra-vigilantium.html#cineres-8)
+- **Naudé and the demonologists.** Lecky has Naudé “observe” that nearly all heresies before the Reformation were accompanied by an outburst of sorcery ([ch. I, note 63](vol1-ch1.html#fn63)). Naudé reports it as the axiom of “our Catholic doctors, and principally Delrio and Maldonat”, and passes on without endorsing it. [Naudé](../ref/naude-apologie.html#heresies)
+- **Calvin and Dumoulin.** The view that usury is wrong only when oppressive or taken from the poor is Calvin’s in Lecky ([ch. VI, note 49](vol2-ch6.html#fn49)); in Concina, whom he cites, it is Charles Dumoulin’s, and Calvin’s argument is a different one. [Concina](../ref/concina-adversus-usuram-de-spectaculis.html#calvin-molinaeus)
+- **Augustine on Christ’s face.** Lecky’s quotation joins Augustine’s remark that nobody knows what Christ looked like to a sentence that, in Augustine, is about St Paul ([ch. III, note 28](vol1-ch3.html#fn28)). [Augustine](../ref/augustine-de-trinitate.html#penitus-ignoramus)
+
+## Stronger than the source
+
+- **Augustine’s peacock.** Augustine tested for himself that a peacock’s flesh did not rot, and Lecky says he “seemed to regard [it] as a miracle” ([ch. III, note 8](vol1-ch3.html#fn8)). Augustine gives it as a *natural* example, beside the salamander and Etna. [Augustine](../ref/augustine-de-civitate-dei.html#peacock-xxi-4)
+- **Constantine’s ban on sacrifice.** Lecky says the prohibition of temple worship is “expressly and unequivocally asserted” by Eusebius ([ch. IV, note 18](vol2-ch4.html#fn18)). Eusebius does assert a ban on sacrifice, but his English translator noted “that is, private sacrifices”, and Milman, whom Lecky also cites, sets beside it Constantine’s own letters promising the pagans toleration. [Eusebius](../ref/eusebius-vita-constantini.html#ii-44-45), [Milman](../ref/milman-history-of-christianity.html#eusebius-sacrifice)
+- **Catherine’s interest law.** “Catherine of Russia” lowered the general rate of interest and so raised it ([ch. VI, note 59](vol2-ch6.html#fn59)): in Storch the example is one province, Livonia, in 1786. [Storch](../ref/storch-cours-deconomie-politique.html#interest-laws)
+- **A terrible Christ.** Didron confines the sternness of Christ in art to the Passion and the Last Judgment; Lecky makes it a general rule ([ch. I, note 52](vol1-ch1.html#fn52)). [Didron](../ref/didron-iconographie-chretienne.html#christ-redoutable)
+- **Aliturus.** Lecky’s sentence on the actor who interceded for the Jews claims more than Gibbon’s note does ([ch. VI, note 103](vol2-ch6.html#fn103)). [Gibbon](../ref/gibbon-decline-and-fall.html#aliturus)
+- **“It is said.”** In three places Lecky states as fact what Dalyell only reports as hearsay about Scottish witch trials. [Dalyell](../ref/dalyell-darker-superstitions.html)
+
+## Dates, figures and names
+
+- **Salem.** “Twenty-seven persons were executed” ([ch. I, note 130](vol1-ch1.html#fn130)); Hutchinson, his source, counts nineteen hanged and one pressed to death, with eight more condemned. Lecky’s figure is the hanged plus the condemned. [Hutchinson](../ref/hutchinson-historical-essay.html#new-england-95)
+- **The last witch burnt.** “I believe, in Switzerland, in 1782” ([ch. I, note 50](vol1-ch1.html#fn50)): Michelet has Spain in 1782 and Switzerland in 1781. Elsewhere Lecky dates the Spanish burning 1780, where his source, Buckle, says 1781 ([ch. I, note 4](vol1-ch1.html#fn4)). [Michelet](../ref/michelet-la-sorciere.html#dernieres-brulures), [Buckle](../ref/buckle-history-of-civilization.html#p334-spain)
+- **Leith.** Lecky dates the burnings at Leith 1664; Dalyell has 1644 (ch. I, at [note 159](vol1-ch1.html#fn159)). [Dalyell](../ref/dalyell-darker-superstitions.html#scotland-669)
+- **Grillandus** was not “an Italian inquisitor of the fifteenth century” ([ch. I, note 1](vol1-ch1.html#fn1)): he judged sorcery cases from 1517 and published in the sixteenth. [Grillandi](../ref/grillandi-de-sortilegiis.html#lecky-quotation)
+- **Six general councils.** Lecky counts 28 councils against usury, “six of them regarded by the Church of Rome as general” ([ch. VI, note 47](vol2-ch6.html#fn47)). He counted Concina’s list correctly, but Concina’s list also includes Nicaea and Lyon I, which Rome counts as general too. [Concina](../ref/concina-adversus-usuram-de-spectaculis.html#councils-popes)
+- **Bull-baiting.** Macaulay’s joke is that the Puritan hated *bear*-baiting “not because it gave pain to the bear, but because it gave pleasure to the spectators”; Lecky makes it bull-baiting ([ch. III, note 132](vol1-ch3.html#fn132)). [Macaulay](../ref/macaulay-history-and-essays.html#bearbaiting)
+- **Seville, not Andalusia** for Mariana’s two thousand burnt in the first year of the Inquisition ([ch. IV, note 37](vol2-ch4.html#fn37)); and 1443, not 1440, for the ransom of Moors for slaves ([ch. VI, note 160](vol2-ch6.html#fn160)). [Llorente](../ref/llorente-histoire-de-linquisition.html#totals), [Macpherson](../ref/macpherson-annals-of-commerce.html#moors-1443)
+
+## Wrong chapter, wrong page
+
+These are slips of reference rather than of substance: the passage exists, but not where Lecky says.
+
+- Eusebius, *Life of Constantine*, “lib. i. c. 16” and “lib. iii. caps. 5, 6” ([ch. I, note 26](vol1-ch1.html#fn26); [ch. III, note 75](vol1-ch3.html#fn75)): the passages are II.45 and III.54. [Eusebius](../ref/eusebius-vita-constantini.html)
+- *Malleus Maleficarum* “Pars I. Quæst. vii.” for St Serenus ([ch. I, note 78](vol1-ch1.html#fn78)): it is Pars II, Quaest. I. [Malleus](../ref/sprenger-malleus-maleficarum.html#serenus-150)
+- Augustine, *City of God*, the Sibyl’s acrostic “cap. 20” ([ch. III, note 14](vol1-ch3.html#fn14)): it is chapter 23. [Augustine](../ref/augustine-de-civitate-dei.html#sibyl-xviii-23)
+- Concina, *Adversus usuram*, “p. 14” ([ch. VI, note 56](vol2-ch6.html#fn56)): the words are on p. xiv. [Concina](../ref/concina-adversus-usuram-de-spectaculis.html#vix-pervenit-xiv)
+- Pages that do not fit any edition found: Mackay, “vol. ii. pp. 286–297” ([ch. VI, note 115](vol2-ch6.html#fn115); [Mackay](../ref/mackay-progress-of-the-intellect.html)); Milman, “vol. iii. p. 60” ([ch. IV, note 31](vol2-ch4.html#fn31); [Milman](../ref/milman-history-of-christianity.html)); Storch, “tom. iii. p. 403”, a page tome III does not have ([ch. VI, note 111](vol2-ch6.html#fn111); [Storch](../ref/storch-cours-deconomie-politique.html)); Beugnot “p. 148” for p. 143 ([ch. I, note 29](vol1-ch1.html#fn29); [Beugnot](../ref/beugnot-destruction-du-paganisme.html)).
+
+## What this does not show
+
+Many apparent mismatches are not Lecky’s fault. Where his page numbers fail, the usual reason is that the edition he used is not online and a later or earlier printing has been read instead (Rio, Ford, Neal, Sarpi, Lamet and Fromageau, among others); the source pages say so where it applies. Slips of the 1865 printer, as distinct from Lecky’s, are on a separate page: [As printed](as-printed.html). And the books he gets right far outnumber those listed here.

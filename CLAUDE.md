@@ -439,6 +439,12 @@ Notes for continuing:
   printings `bnf-bpt6k...`, `etudessurlhistoi02vite` (1868 vol. 2). Container restart 23 Nov wiped pip packages and the scratchpad:
   `pip install -r requirements.txt` before building.
 
+- 23 Nov: + `content/rationalism/lecky-and-his-sources.md` ("Lecky and his sources: where the footnotes and the books disagree"), linked from
+  the Rationalism index above As printed. Sections: the source says something else; right words, wrong speaker; stronger than the source;
+  dates, figures and names; wrong chapter/page. Every entry links Lecky's note (#fnN) and the source-page section; all 79 links checked.
+  ADD NEW FINDS THERE when a source page records a substantive disagreement (not mere edition mismatches). Anderson 1801 4-vol ed. =
+  `anhistoricaland00andegoog`/`01`/`02` (looks like a reissue of 1787-89; not checked against Lecky).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
