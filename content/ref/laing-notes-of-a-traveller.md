@@ -1,6 +1,6 @@
 ---
 title: Laing, Notes of a Traveller
-description: "Samuel Laing’s Notes of a Traveller (1842), “Swiss character” (pp. 323–324 of the 1854 reprint): the Swiss as “eminently moral in conduct, yet eminently irreligious”, quoted at length by Lecky in Chapter IV, note 35."
+description: "Samuel Laing’s Notes of a Traveller (1842), “Swiss character” (pp. 323–324 of the 1842 edition): the Swiss as “eminently moral in conduct, yet eminently irreligious”, quoted at length by Lecky in Chapter IV, note 35."
 heading: Laing, <em>Notes of a Traveller on the Social and Political State of France, Prussia, Switzerland, Italy</em>
 subtitle: "The Swiss, moral in conduct yet irreligious"
 back_link:
@@ -8,7 +8,7 @@ back_link:
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Samuel_Laing_(travel_writer)\">Samuel Laing</a> (1780–1868), the Orkney travel writer (not his son of the same name, the railway chairman and MP). Lecky: “The following passage from another work of the same writer [Laing, author of <em>Sweden</em>] …” (<a href=\"../rationalism/vol1-ch4.html#fn35\">Chapter IV, note 35</a>), with no title or page."]
-  - ["Edition used", "The 1854 reprint of the <em>Notes of a Traveller</em>: Internet Archive <a href=\"https://archive.org/details/notesatraveller02laingoog\">notesatraveller02laingoog</a> (a Google scan); p. 323 = image <a href=\"https://archive.org/details/notesatraveller02laingoog/page/n341/mode/2up\">n341</a> and p. 324 = n342 (image = page + 18). I identified the work from the quotation itself, not from Lecky’s reference. The “Church of Geneva” chapter, p. 324 on the running head."]
+  - ["Edition used", "The first edition of the <em>Notes of a Traveller</em>, London: Longman, 1842 (the title page, read 24 Nov 2026, says 1842; this page earlier called the scan an 1854 reprint): Internet Archive <a href=\"https://archive.org/details/notesatraveller02laingoog\">notesatraveller02laingoog</a> (a Google scan); p. 323 = image <a href=\"https://archive.org/details/notesatraveller02laingoog/page/n341/mode/2up\">n341</a> and p. 324 = n342 (image = page + 18). I identified the work from the quotation itself, not from Lecky’s reference. The “Church of Geneva” chapter, p. 324 on the running head."]
   - ["Cited in", "<a href=\"../rationalism/vol1-ch4.html#fn35\">Rationalism, ch. IV, note 35</a>."]
   - ["Status", "pp. 323–324 read on the images. Lecky’s “Laing’s <em>Sweden</em>, pp. 108–141” (the figures on illegitimate births) is a different book and not checked."]
 abstract: |
@@ -17,6 +17,7 @@ abstract: |
 <section id="swiss-character" class="passage">
 <h2>“A people eminently moral in conduct, yet eminently irreligious” (pp. 323–324)</h2>
 <p class="passage-source">English: pp. 323–324, <a href="https://archive.org/details/notesatraveller02laingoog/page/n341/mode/2up">scan</a> and <a href="https://archive.org/details/notesatraveller02laingoog/page/n342/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<figure class="title-page"><a href="../assets/img/ref/laing-1842-title.jpg"><img src="../assets/img/ref/laing-1842-title.jpg" alt="Title page: “Notes of a Traveller, on the social and political state of France, Prussia, Switzerland, Italy, and other parts of Europe, during the present century. By Samuel Laing, Esq. … London: Longman, Brown, Green, and Longmans … 1842”" loading="lazy"></a><figcaption>Title page, London 1842. <span class="credit"><a href="https://archive.org/details/notesatraveller02laingoog/page/n7/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <blockquote>
 <p>… without the higher influences of religion. But so it is. <span class="cited-passage">The Swiss people present to the political philosopher the unexpected and most remarkable social phenomenon of a people eminently moral in conduct, yet eminently irreligious; at the head of the moral state in Europe, not merely for absence of numerous or great crimes, or of disregard of right, but for ready obedience to law, for honesty, fidelity to their engagements, for fair dealing, sobriety, industry, orderly conduct, for good government, useful public institutions, general well-being, and comfort — yet at the bottom of the scale for religious feelings, observances, or knowledge, especially in the Protestant cantons, in which prosperity, well-being, and morality seem to be, as compared to the Catholic cantons, in an inverse ratio to the influence of religion on the people.</span> How is this discordance between their religious and their moral and material state to be reconciled? It is so obvious, that every traveller in Switzerland is struck with the great contrast in the well-being and material condition of the Protestant and Catholic populations, and equally so with the difference in the influence of religion over each. …</p>
 </blockquote>

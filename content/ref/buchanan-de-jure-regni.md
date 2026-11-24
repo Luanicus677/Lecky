@@ -17,6 +17,7 @@ abstract: |
 <section id="lex-loquens" class="passage">
 <h2>The king as speaking law (p. 16)</h2>
 <p class="passage-source">Latin: p. 16, <a href="https://archive.org/details/bim_early-english-books-1475-1640_de-jure-regni-apud-scoto_buchanan-geo_1581/page/n15/mode/2up">scan</a>. The speaker is “M.” (Maitland), who is arguing with Buchanan’s other character. <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
+<figure class="title-page"><a href="../assets/img/ref/buchanan-1581-title.jpg"><img src="../assets/img/ref/buchanan-1581-title.jpg" alt="Title page: “De jure regni apud Scotos dialogus, auctore Georgio Buchanano Scoto. Ad Iacobum VI Scotorum regem. Editio tertia. M.D.LXXXI. Ad exemplar Ioannis Rossei, Edinburgi. Cum privilegio Scotorum regis”" loading="lazy"></a><figcaption>Title page, 1581, “editio tertia”, printed “after the copy of John Ross, Edinburgh”. <span class="credit"><a href="https://archive.org/details/bim_early-english-books-1475-1640_de-jure-regni-apud-scoto_buchanan-geo_1581/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <div class="parallel">
 <div class="original" lang="la">
 <p>… Regibus igitur cætera liberis hic unus imperii modus est præfinitus, ut suas actiones &amp; orationem ad legum præscripta conformarent: &amp; præmia pœnasque, maxima societatis continenda vincula, ex earum sanctionibus dividerent. Deniqe quemadmodum ait summus administrandæ reipub. Magister, ut <span class="cited-passage">rex esset lex loquens, lex Rex mutus.</span> …</p>

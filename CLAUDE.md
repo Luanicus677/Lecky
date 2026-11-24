@@ -196,7 +196,7 @@ Notes for continuing:
 
 - Also: `taylor-liberty-of-prophesying.md` (1836 `discourseofliber1836tayl`, pp. 328-329 = n369-n370 = page+41; ch. IV note 13 § 18; matches). Other Taylor: ch. IV note 36 (Ductor Dubitantium iii c. 2), vol2 ch. IV note 7 done (p. 368 = n409). Other scans: `discourseofliber00tayl` (1834), `cu31924029261506`.
 
-- Also: `laing-notes-of-a-traveller.md` (1854 reprint `notesatraveller02laingoog`, pp. 323-324 = n341-n342 = page+18; ch. IV note 35's Swiss quotation; identified from the text, Lecky gives no title). Laing's Sweden pp. 108-141 (illegitimacy figures; ch. IV note 35 and vol. II ch. IV note 52) not found.
+- Also: `laing-notes-of-a-traveller.md` (1842 first ed., title page n7; not an 1854 reprint as first noted; `notesatraveller02laingoog`, pp. 323-324 = n341-n342 = page+18; ch. IV note 35's Swiss quotation; identified from the text, Lecky gives no title). Laing's Sweden pp. 108-141 (illegitimacy figures; ch. IV note 35 and vol. II ch. IV note 52) not found.
 
 - Unmatched/dead ends (this run): Chillingworth Religion of Protestants ch. VII (vol1 ch. IV note 18: 'God will not deal unjustly with unbaptised infants' not found by keyword in scans `workswchillingw00chilgoog`, `..._chillingworth-william_1664_0`); Sarpi 'Pp. 89, 90' (vol2 ch. V note 11, Italian quote not in `istoriadelconci00micagoog`/`01`; the work is probably a Sarpi political tract, not found online); Strauss Life of Jesus quote (vol1 ch. II note 17); Beugnot p. 148 (vol1 ch. I note 29). Newman essay on miracles scans exist (`twoessaysonbibli00newm`) but ch. II note 16 has no quotation.
 

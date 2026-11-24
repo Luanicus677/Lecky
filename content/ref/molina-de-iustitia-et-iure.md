@@ -17,6 +17,7 @@ abstract: |
 <section id="tyrannus" class="passage">
 <h2>The two kinds of tyrant (p. 539–540)</h2>
 <p class="passage-source">Latin: p. 539 (left column, bottom) to p. 540, <a href="https://archive.org/details/rplodouicimolina04moli/page/n27/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: the words Lecky uses.</p>
+<figure class="title-page"><a href="../assets/img/ref/molina-1659-title.jpg"><img src="../assets/img/ref/molina-1659-title.jpg" alt="Title page: “R. P. Lodovici Molinae e Societate Iesu … De iustitia et iure, tomus quartus … Moguntiae … Anno M.DC.LIX”" loading="lazy"></a><figcaption>Title page, tome IV, Mainz 1659. <span class="credit"><a href="https://archive.org/details/rplodouicimolina04moli/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <div class="parallel">
 <div class="original" lang="la">
 <p>Quod verò ad secundam attinet, distinguendum est. Quoniam duobus modis aliquis est tyrannus. Uno, quia licet sit vere dominus reipublicæ, in qua tyrannidem exercet, inique tamen atque injustè eam administrat. Altero verò, quoniam non est reipublicæ dominus, sed eam usurpatam habet ac oppressam.</p>

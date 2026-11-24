@@ -17,6 +17,7 @@ abstract: |
 <section id="tyrannus" class="passage">
 <h2>“Tyrannus” (p. 308)</h2>
 <p class="passage-source">Latin: <a href="https://archive.org/details/bub_gb_5AK7-pKY-O8C/page/n309/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation (the second aphorism).</p>
+<figure class="title-page"><a href="../assets/img/ref/sa-1599-title.jpg"><img src="../assets/img/ref/sa-1599-title.jpg" alt="Title page: “Aphorismi confessariorum ex doctorum sententiis collecti, auctore Emanuele Sa … Societatis Iesu … Editio altera recognita. Antverpiae, ex officina Ioachimi Trognaesii. M.D.XCIX”" loading="lazy"></a><figcaption>Title page, Antwerp 1599, with the IHS device of the Jesuits. <span class="credit"><a href="https://archive.org/details/bub_gb_5AK7-pKY-O8C/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <div class="parallel">
 <div class="original" lang="la">
 <p><em>1.</em> Ad tyrannum gubernantem licet recurrere pro justitia, si aliunde non possit haberi.</p>

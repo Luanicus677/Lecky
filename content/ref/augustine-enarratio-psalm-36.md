@@ -17,6 +17,7 @@ abstract: |
 <section id="foeneraveris" class="passage">
 <h2>“Si feneraveris homini” (on Ps. 36:26)</h2>
 <p class="passage-source">Latin: <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_36/page/n192/mode/2up">scan</a>. Augustine has just argued that God commands lending to him: “Fenera Deo”. <span class="cited-passage">Highlighted</span>: Lecky’s words.</p>
+<figure class="title-page"><a href="../assets/img/ref/pl36-title.jpg"><img src="../assets/img/ref/pl36-title.jpg" alt="Title page: “Patrologiae cursus completus … Series prima … Patrologiae tomus XXXVI. S. Augustini tomus quartus”" loading="lazy"></a><figcaption>Title page of Migne’s <em>Patrologia Latina</em>, tome XXXVI (Augustine on the Psalms). <span class="credit"><a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_36/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <div class="parallel">
 <div class="original" lang="la">
 <p>… Et dicitur tibi, Fenera Deo. Si feneras homini, habes spem; et si feneras Deo, spem non habebis? <span class="cited-passage">Si feneraveris homini, id est, mutuam pecuniam tuam dederis, a quo aliquid plus quam dedisti exspectes accipere: non pecuniam solam, sed aliquid plus quam dedisti, sive illud triticum sit, sive vinum, sive oleum, sive quodlibet aliud; si plus quam dedisti exspectas accipere, fenerator es, et in hoc improbandus, non laudandus.</span></p>

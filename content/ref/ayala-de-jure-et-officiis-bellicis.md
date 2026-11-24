@@ -17,6 +17,7 @@ abstract: |
 <section id="usurper" class="passage">
 <h2>A usurper may be killed by anyone (Book I, § 24)</h2>
 <p class="passage-source">Latin: <a href="https://archive.org/details/dejureetofficiis01ayaluoft/page/n91/mode/2up">scan</a>. <span class="cited-passage">Highlighted</span>: Lecky’s quotation. Abbreviations expanded.</p>
+<figure class="title-page"><a href="../assets/img/ref/ayala-1912-title.jpg"><img src="../assets/img/ref/ayala-1912-title.jpg" alt="Title page: “Balthazaris Ayalae … De jure et officiis bellicis et disciplina militari libri III. Edited by John Westlake … Volume one … Washington”" loading="lazy"></a><figcaption>Title page of the Carnegie Institution reprint, vol. I, Washington 1912. <span class="credit"><a href="https://archive.org/details/dejureetofficiis01ayaluoft/page/n12/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <div class="parallel">
 <div class="original" lang="la">
 <p>Ex his certè liquet, quod quamvis <span class="cited-passage">tyrannum, qui per vim &amp; illegitimè principatum occupavit, si tyrannis aliter tolli non possit, occidere cuilibet licitum sit</span>: &amp; per legem Valeriam, sacrum esset cum bonis caput ejus, qui consilia regni occupandi iniisset: illum tamen, qui jure successionis, electionisve princeps est, quamvis inique &amp; crudeliter agat, privato non licere …</p>
