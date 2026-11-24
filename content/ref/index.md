@@ -85,6 +85,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Tertullian’s picture of the Christians watching the damned in the fire (ch. 30), in Latin and English from Migne, with Lecky’s Latin quotation collated word by word; and the woman who came home from the theatre possessed, the demon having “found her in its own domain” (ch. 26). Cited in <em>Rationalism</em>, ch. III, note 152, and ch. I, note 23.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="gregory-dialogues.html">Gregory the Great, <em>Dialogues</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The nun who ate an unblessed lettuce and swallowed a devil, who complained: “I was sitting there upon the lettice, and she came and did eat me” (Book I; the English of 1608, ed. 1911). Cited in ch. I, note 23.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="aquinas-summa-supplement.html">Aquinas, <em>Summa</em> Supplement q. 94</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Whether the blessed will see the punishments of the damned (art. 1), in Latin and English from an 18th-century edition. Lecky’s quotation is a paraphrase, not a sentence of the text. Cited in <em>Rationalism</em>, ch. III, note 150.</div>
 </li>
