@@ -488,6 +488,12 @@ Notes for continuing:
   Würzburg 800 in a single year' mixes the two counts (on lecky-and-his-sources.md). Notes 55 and ch. III 133 (no pages) not identified.
   Crop with gspan.py + the item's _djvu.xml: eye estimates from the Read tool's thumbnails are unreliable.
 
+- 24 Nov: GARINET (1818 `histoiredelamagi00gari`, image = page+57 from p. 6 to p. 328; XML word crops work): + #salic-6 (pp. 6-7 = n63-n64,
+  ch. I n76), #agrippa-dog (pp. 121-122 = n178-n179, ch. I n87: Garinet calls it a lie and it is a COLLAR off the dog's neck), #bordeaux-1718
+  (p. 256 = n313, n80), #ventriloquists-280 (n337, n100), #boguet-code (p. 302 = n359, n80), #mazarin-1643 (p. 328 = n385, n98: letter dated
+  21 Sept 1643, Lecky 1642). Both errors on lecky-and-his-sources.md. Still unread: pp. 14-15 (n71-n72 Frédégonde, n42), 35 (n92 sylphs/aurora,
+  n46), 39 (n96 Charlemagne, n44), 45 (n102 Agobard, n45), 75 (n132-n134 unclear page heads, n54).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

@@ -10,7 +10,7 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Paolo Grillandi’s handbook on sorcery, 1530s. Quaestio III, §12, compared against the 1545 and 1592 editions, and the passage on sorcerers and physicians from the Lyon 1620 <em>Malleus</em> collection, which also shows which edition of the <em>Malleus</em> Lecky used. Cited in <em>Rationalism</em>, ch. I, notes 1 and 71.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="garinet-histoire-de-la-magie.html">Garinet, <em>Histoire de la Magie en France</em></a><span class="work-status">3 passages</span></div>
+<div class="work-title"><a class="popup-ref" href="garinet-histoire-de-la-magie.html">Garinet, <em>Histoire de la Magie en France</em></a><span class="work-status">9 passages</span></div>
 <div class="work-desc">Jules Garinet’s history of sorcery in France, 1818. The preface’s survey of ancient laws against sorcerers (pp. xiii–xiv), including the sorceress “Lemia”, and the famine of 795 and the eclipse under Louis the Debonair (pp. 38, 42), in French and English, each compared with Lecky. Cited in <em>Rationalism</em>, ch. I, notes 3, 4, 9, 14, 39, 40, and others.</div>
 </li>
 <li>
