@@ -18,6 +18,7 @@ abstract: |
 <h2>“Which They Call Holy Images” (p. 244)</h2>
 
 <p class="passage-source">Latin: Baluze, 1666, p. 244 (<a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n327/mode/2up">scan</a>). Spelling regularised (long s, <em>&amp;</em> expanded, <em>æ</em> as <em>ae</em>, <em>u</em>/<em>v</em>). The chapter heading falls on an earlier page that I did not read. <span class="cited-passage">Highlighted</span>: Lecky’s note 42 (his p. 233).</p>
+<figure class="title-page"><a href="../assets/img/ref/agobard-1666-title.jpg"><img src="../assets/img/ref/agobard-1666-title.jpg" alt="Title page: “Sancti Agobardi archiepiscopi Lugdunensis opera. Item epistolae et opuscula Leidradi et Amulonis, archiepiscoporum Lugdunensium. Stephanus Baluzius Tutelensis in unum collegit, emendavit, notisque illustravit. Parisiis, apud Franciscum Muguet … M.DC.LXVI”" loading="lazy"></a><figcaption>Title page of Baluze’s edition, Paris 1666. <span class="credit"><a href="https://archive.org/details/bub_gb_gOkJ5k0uktIC/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

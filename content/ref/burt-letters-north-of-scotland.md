@@ -18,6 +18,7 @@ abstract: |
 <h2>Letter XII, p. 281: The Burning at Dornoch</h2>
 
 <p class="passage-source">English: Burt, 1754, vol. I, p. 281 (<a href="https://archive.org/details/bim_eighteenth-century_letters-from-a-gentleman_burt-edward-author-of-_1754_1/page/n302/mode/2up">scan</a>). Long s printed as s. <span class="cited-passage">Highlighted</span>: the sentences Lecky relies on.</p>
+<figure class="title-page"><a href="../assets/img/ref/burt-1754-title.jpg"><img src="../assets/img/ref/burt-1754-title.jpg" alt="Title page: “Letters from a Gentleman in the North of Scotland to his Friend in London … In two volumes. Vol. I. London: Printed for S. Birt … MDCCLIV”" loading="lazy"></a><figcaption>Title page, vol. I, London 1754. <span class="credit"><a href="https://archive.org/details/bim_eighteenth-century_letters-from-a-gentleman_burt-edward-author-of-_1754_1/page/n2/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="en">

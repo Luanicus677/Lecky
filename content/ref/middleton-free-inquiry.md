@@ -18,6 +18,7 @@ abstract: |
 <h2>The Exorcists (pp. 85–87)</h2>
 
 <p class="passage-source">English: 1749 Dublin printing, pp. 85–87. Spelling and punctuation as printed, except that the long s is printed as s. The first extract is a note running along the foot of pp. 85–86. <span class="cited-passage">Highlighted</span>: what Lecky’s note 3 summarises.</p>
+<figure class="title-page"><a href="../assets/img/ref/middleton-1749-title.jpg"><img src="../assets/img/ref/middleton-1749-title.jpg" alt="Title page: “A Free Inquiry into the Miraculous Powers, Which are supposed to have subsisted in the Christian Church, From the Earliest Ages through several successive Centuries … By Conyers Middleton, D.D. … Dublin: Printed for J. Smith … MDCCXLIX”" loading="lazy"></a><figcaption>Title page, Dublin 1749. <span class="credit"><a href="https://archive.org/details/freeinquiryintom00midd/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="en">

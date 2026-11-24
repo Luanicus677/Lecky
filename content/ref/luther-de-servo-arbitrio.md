@@ -18,6 +18,7 @@ abstract: |
 <h2>The Will as a Beast (pp. 69–71)</h2>
 
 <p class="passage-source">Latin: 1664 edition, pp. 69–70 (<a href="https://archive.org/details/bub_gb_Sp8ZXu8IePYC/page/n94/mode/2up">p. 69</a>, <a href="https://archive.org/details/bub_gb_Sp8ZXu8IePYC/page/n95/mode/2up">p. 70</a>; the “Satan” half continues at the foot of the annotation, <a href="https://archive.org/details/bub_gb_Sp8ZXu8IePYC/page/n96/mode/2up">p. 71</a>). The text is Luther’s; the editor’s “Annotatio (t)” on p. 70 comments on “ceu iumentum”. Spelling regularised. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/luther-1664-title.jpg"><img src="../assets/img/ref/luther-1664-title.jpg" alt="Title page: “Beati Patris Martini Lutheri liber de servo arbitrio, contra Desid. Erasmum Roterodamum: cum brevibus annotationibus … editus a Sebastiano Schmidt … Sumptibus Joh. Christoph. Nagel … Anno M.DC.LXIV”" loading="lazy"></a><figcaption>Title page of Sebastian Schmidt’s annotated edition, 1664. <span class="credit"><a href="https://archive.org/details/bub_gb_Sp8ZXu8IePYC/page/n2/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

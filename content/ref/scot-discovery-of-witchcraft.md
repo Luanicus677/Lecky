@@ -18,6 +18,7 @@ abstract: |
 <h2>Book II, chapters 1–2: “The Order of Examination of Witches by the Inquisitors”</h2>
 
 <p class="passage-source">English: Scot, 1665, pp. 11 and 12 (<a href="https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n28/mode/2up">p. 11</a>, <a href="https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n29/mode/2up">p. 12</a>). Long s printed as s; italics for the Latin and for authorities’ names omitted in the English except where they are Latin. <span class="cited-passage">Highlighted</span>: the items that are physical or coercive, which are what “frightful catalogue of the tortures” can refer to.</p>
+<figure class="title-page"><a href="../assets/img/ref/scot-1665-title.jpg"><img src="../assets/img/ref/scot-1665-title.jpg" alt="Title page: “The Discovery of Witchcraft: proving, that the compacts and contracts of witches with devils and all infernal spirits or familiars, are but erroneous novelties and imaginary conceptions … By Reginald Scot, Esquire … London: Printed for A. Clark … 1665”" loading="lazy"></a><figcaption>Title page, London 1665 (the third edition, with the added Discourse of Devils and Spirits). <span class="credit"><a href="https://archive.org/details/bim_early-english-books-1641-1700_the-discovery-of-witchcr_scot-reginald_1665/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="en">
