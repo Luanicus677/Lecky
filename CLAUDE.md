@@ -511,6 +511,13 @@ Notes for continuing:
   n275), #ch21 (p. 271 = n302): Lecky's ranges = Blanqui's chapters XX and XXI. + champagny-charite-chretienne (Paris: Douniol 1854,
   `lacharitechreti00chamgoog`, image = page+19, 'Défense du travail' pp. 275-289, Augustine De opere monachorum p. 279 = n298, title n12).
 
+- 24 Nov (translations): the Oct translation sweep had MISSED 44 quotations (mostly OCR'd French without accents, and second quotations
+  in notes that already had one translation). All now have span.foreign + span.translation.editorial pairs: vol. I ch. I notes 74, 76, 80, 86,
+  93, 97, 104; ch. III 22, 30, 101 (Index decree of 1616), 110, 120, 135?, 153, 173, 176; ch. IV 12/22 (Pascal, Jubinal), 45; vol. II ch. IV
+  62, 63, 79, 81; ch. V 28, 59?, 117, 131; ch. VI 27, 30, 38, 39, 56, 64, 74, 114, 143, 177, 188. Detector (scratchpad-free; rerun after edits):
+  quoted runs >= 10 words with >= 4 French/Latin/Italian function words and <= 1 English one, outside existing foreign+translation pairs:
+  now finds nothing. Smart-quote pitfall: a straight ' right after a closing tag (e.g. '...*italic*') renders as &lsquo;; type ’ instead.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
