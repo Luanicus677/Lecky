@@ -9,8 +9,8 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Tertullian\">Tertullian</a> (c. 155–c. 220), <em>De spectaculis</em> (“On the shows”), a tract urging Christians to avoid the theatre, circus and arena. Lecky cites it as “<em>De Spectac.</em> cap. xxx.”"]
   - ["Edition used", "J.-P. Migne, <em>Patrologia Latina</em>, vol. 1 (Paris, 1844 printing, as dated in the archive.org record, which I did not check against the title page): <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1\">archive.org</a>. Chapter 30 begins at the foot of col. 660 (image <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1/page/n347/mode/2up\">n347</a>) and runs to col. 662 (<a href=\"https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1/page/n348/mode/2up\">n348</a>). Lecky does not say which edition he used. The translation is this edition’s own draft."]
-  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn152\">Rationalism, ch. III, note 152</a>. The same note’s companion, <a href=\"../rationalism/vol1-ch3.html#fn150\">note 150</a>, is on the <a href=\"aquinas-summa-supplement.html\">Aquinas page</a>."]
-  - ["Status", "The passage Lecky quotes, transcribed from the page images, translated, and collated against his text. The chapter’s opening sentences (cols. 660–661) are included for context."]
+  - ["Cited in", "<a href=\"../rationalism/vol1-ch3.html#fn152\">Rationalism, ch. III, note 152</a> (ch. 30), and <a href=\"../rationalism/vol1-ch1.html#fn23\">ch. I, note 23</a> (ch. 26). The same note’s companion, <a href=\"../rationalism/vol1-ch3.html#fn150\">note 150</a>, is on the <a href=\"aquinas-summa-supplement.html\">Aquinas page</a>."]
+  - ["Status", "The passage Lecky quotes, transcribed from the page images, translated, and collated against his text. The chapter’s opening sentences (cols. 660–661) are included for context. Ch. 26 (col. 657, scan n346) read on the image."]
 abstract: |
   <p>Tertullian pictures Christians watching kings groaning in darkness, governors melting in fiercer flames, and philosophers blushing as they burn with their disciples. Lecky quotes the passage in Latin to show the early Church found pleasure in the sight of the damned, and the words support him. His quotation is substantially accurate but not word for word, with one clause in a different order, an extra word, changed words and different punctuation, and he leaves out the last sentence about joys “more pleasing than the circus”.</p>
 ---
@@ -34,6 +34,21 @@ abstract: |
 <summary>Notes on the translation</summary>
 <p><em>Fabri aut quaestuariae filius</em> is “son of the carpenter or of the <em>quaestuaria</em>”, which means a woman who earns her living (that is, a prostitute); the edition’s note and a variant (“quaestuarii”) are not followed here. “Xystici” are athletes who trained in the covered portico (<em>xystus</em>). <em>Utraque cavea</em> I take to mean the seating of both theatre and amphitheatre. “Imagining spirit” is <em>spiritu imaginante</em>. The edition’s apparatus records a few variant readings (“tot spectans reges”, “ruber” for “rubens”, “quaestuarii”, “adlaederentur”); none is used.</p>
 </details>
+</section>
+
+<section id="ch26" class="passage">
+<h2>Chapter 26: the woman who came home from the theatre with a demon (cols. 657–658)</h2>
+<p class="passage-source">Latin: Migne PL 1, ch. 26, cols. 657–658, <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1/page/n346/mode/2up">scan n346</a>. <span class="cited-passage">Highlighted</span>: what Lecky retells.</p>
+<figure class="facsimile"><a href="../assets/img/ref/tertullian-spectaculis-c26.jpg"><img src="../assets/img/ref/tertullian-spectaculis-c26.jpg" alt="Printed Latin: “Nam et exemplum accidit, Domino teste, ejus mulieris quae theatrum adiit, et inde cum daemonio rediit … in meo eam inveni. Constat et alii linteum in somnis ostensum … nec ultra quintum diem eam mulierem in saeculo fuisse.”" loading="lazy"></a><figcaption>Tertullian, <em>De spectaculis</em>, ch. 26, Migne PL 1, col. 657. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Cur ergo non ejusmodi etiam dæmoniis penetrabiles fiant? Nam et exemplum accidit, Domino teste, <span class="cited-passage">ejus mulieris quæ theatrum adiit, et inde cum dæmonio rediit. Itaque in exorcismo cum oneraretur immundus spiritus, quod ausus esset fidelem aggredi: constanter et justissime quidem (inquit) feci, in meo eam inveni.</span> Constat et alii <span class="cited-passage">linteum in somnis ostensum ejus diei nocte, qua tragœdum audierat, cum exprobratione nominato tragœdo</span>, nec ultra quintum diem eam mulierem in sæculo fuisse.</p>
+</div>
+<div class="rendering" lang="en">
+<p>Why then should such people not become open to demons as well? For there is the example, the Lord is witness, <span class="cited-passage">of the woman who went to the theatre and came back from it with a demon. So, in the exorcism, when the unclean spirit was rebuked for having dared to attack a believer, it answered boldly: “And quite rightly too, I did it; I found her in my own domain.”</span> It is well known, too, that another woman <span class="cited-passage">was shown a linen cloth in her sleep, on the night of the day she had heard a tragic actor, with reproaches in which the actor was named</span>, and that this woman did not live beyond the fifth day.</p>
+</div>
+</div>
+<p>Lecky (ch. I, text and note 23) retells both stories: the devil “replied apologetically, that it had found the woman in its house”, and the second woman “dreamed all the following night of a winding sheet, and heard the actor’s name ringing, with frightful reproaches, in her ears”. Tertullian’s devil is not apologetic but defiant (“constanter et justissime quidem feci”), and Lecky leaves out the end of the second story: she was dead within five days.</p>
 </section>
 
 <section id="collation" class="passage">
