@@ -269,6 +269,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">“Ergo cineres suos amant animae martyrum” (c. 8), cited in ch. III, note 34. The words are Vigilantius’s, quoted by Jerome to mock; Lecky has “As St. Jerome says”.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="jerome-vita-pauli.html">Jerome, <em>Life of Paul the First Hermit</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The raven that brought half a loaf a day for sixty years, and a whole one for Antony; the two lions that mourned Paul, dug his grave and begged Antony’s blessing (Migne PL 23, cols. 25–28). Cited in ch. II, note 1.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="macaulay-history-and-essays.html">Macaulay, <em>History of England</em> and <em>Essays</em></a><span class="work-status">4 passages</span></div>
 <div class="work-desc">Bear-baiting and the Puritans, the “servile handmaid of monarchy”, the Low Church clergy and the Associate Presbytery’s witchcraft, cited in ch. I note 167, ch. III notes 87 and 132, ch. V note 86. Read in Gutenberg texts, not page scans; two quotations are inexact.</div>
 </li>
