@@ -542,8 +542,27 @@ Notes for continuing:
   `window.leckyBindPopups(root)` for content added after load.
 - Home page: 'Start here' cards (`.start-here a.start-card`), the curiosity box, status. Sources index: filter box (assets/js/filter.js),
   'Browse by chapter', link to the Old Books gallery.
+- More build placeholders: `<!-- NEW-SOURCES -->` (6 newest source pages by git creation date), `<!-- READTIME:<stem> -->`,
+  `<!-- LINKED-NOTES -->`. Link previews: build.py `SITE_URL` (change it if the site moves to readlecky.com/.org), og:image = the page's
+  title page or first figure, else DEFAULT_SHARE_IMAGE (Grillandi 1545 woodcut title). Favicon assets/img/favicon.svg.
 - Continue reading (assets/js/progress.js): chapter pages save {page, section, fraction} in localStorage key `lecky-reading-place`;
   home and Rationalism contents show 'Continue reading … (N% through)'; the link adds `#resume`, which scrolls to the saved place.
+
+- 24 Nov (afternoon run, engagement + sources): pictures. Title pages located WITHOUT viewing many leaves: `<id>_scandata.xml`, the
+  `<pageType>Title</pageType>` leaf among leaves with addToAccessFormats != false gives the image index (Google `bub_gb_` scans often
+  mark n0 wrongly; BSB scans may mark a chapter opening). Fetch candidates, paste them into ONE contact sheet (PIL) and view once. 47 title
+  pages added this way; 141+ of 172 source pages now have a picture. Migne two-column pages: scratchpad `gbox.py` crops the bounding box of
+  the words between two regexes (column-safe); when a passage runs across columns, crop each column by coordinates. Large XML (PL vols
+  50-60 MB): download a byte RANGE around the object (`curl -r`), split on `<OBJECT`, and read `usemap="...NNNN.djvu"` for the image number.
+  New source pages: newman-apologia (App. p. 77 on lying; Lecky's italics on 'zeal for God's honour'), newman-anglican-difficulties (2nd ed.
+  1850, Lecture III p. 57; Lecky p. 54 = other printing), burney-general-history-of-music (1782 vol. II pp. 65-66 `10527086bsb` n72-n73:
+  Julian's epigram = an organ for Burney; Lecky's 'bagpipe'), mccrie-life-of-knox (Philadelphia 1845 p. 221 = n230; Lecky's 1840 ed. not
+  online), socrates-ecclesiastical-history (Bohn `ecclesiasticalhi00socruoft`: IV.23 Ammon p. 236 = n259; IV.16 p. 229 = n252),
+  jerome-vita-pauli (PL 23 cols. 25-28 = n14-n15), guizot-histoire-de-la-civilisation (Lecon XVII pp. 31-32 = n44-n45, April count 1,472),
+  montalembert-le-pere-lacordaire (2nd ed. 1862 pp. 75-76 = n84-n85), gregory-dialogues (1608 English ed. 1911 `dialoguesofsaint00greg`
+  n56-n57, lettuce). Sections added: knox-appellation pp. 500 (n511), 515 (n526) for vol2-ch4 n59; tertullian-de-spectaculis ch. 26 (PL 1
+  cols. 657-658 = n346; ch. I n23). Corrections found on title pages: Laing's scan is the 1842 first ed.; Friedberg's is the 1955 Graz reprint.
+  Still unlinked in ch. II: notes 7 (Muzarelli), 13 (Farmer), 16, 17 (Strauss, not found), 21 (Rose), 22-23 (Aids to Faith), 25.
 
 ## Readability layer (headings, synopses, figures)
 
