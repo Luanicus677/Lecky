@@ -573,7 +573,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^83]: As Buchanan tersely puts it, 'Rex, lex loquens; lex, rex mutus.' (<a class="popup-ref" href="../ref/buchanan-de-jure-regni.html#lex-loquens">source page</a>)
 
-[^84]: Camden, Annal., pars ii. (ad ann. 1571).
+[^84]: <a class="popup-ref" href="../ref/camden-annals-of-elizabeth.html#scots-discourse-1571">Camden, Annal.</a>, pars ii. (ad ann. 1571).
 
 [^85]: It is worthy of remark, as showing their persistence, that probably the ablest modern advocate of what may be termed the Biblical aspect of liberty was Robert Hall.
 

@@ -645,6 +645,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The Inquisition’s handbook (Lyon 1649) on confessors who solicit their penitents: Title VI, pp. 135–161, Lecky’s exact pages, with the bulls of Paul IV, Pius IV and Gregory XV. Cited in vol. II, ch. V, note 12.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="camden-annals-of-elizabeth.html">Camden, <em>Annals of Elizabeth</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">1571: the Scots’ discourse “That the Scottish People are above their Kings”, which Elizabeth read “not without Indignation” (English version, 1688, pp. 154–155). Cited in vol. II, ch. V, note 84.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="elrington-life-of-ussher.html">Elrington, <em>Life of Ussher</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">The Irish bishops’ judgment of 1626: toleration of Catholics “is a grievous sin” (p. 73); and Ussher in the Civil War: “war made by subjects, though really intending such an end, is unjust” (p. 239). Dublin 1847, vol. I, Lecky’s pages. Cited in vol. II, ch. IV, note 47, and ch. V, note 89.</div>
 </li>
