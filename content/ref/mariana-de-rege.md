@@ -9,11 +9,36 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Juan_de_Mariana\">Juan de Mariana</a> (1536–1624), Spanish Jesuit. Lecky discusses the book in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a> and cites it by page, “1st ed.”, i.e. the Toledo edition of 1599."]
   - ["Edition used", "<em>De rege et regis institutione libri III</em>, Mainz 1605: <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC\">archive.org/details/bub_gb_FNnUXWPFQEcC</a>. Printed page p is image n(p+30): p. 57 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n87/mode/2up\">n87</a>, p. 58 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n88/mode/2up\">n88</a>, p. 59 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n89/mode/2up\">n89</a>, p. 60 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n90/mode/2up\">n90</a>, p. 65 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n95/mode/2up\">n95</a>, pp. 66–67 = <a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n96/mode/2up\">n96</a>–<a href=\"https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n97/mode/2up\">n97</a>. Lecky’s page numbers (72–85) are 15–18 higher than these, as expected from a different edition; I have not seen the 1599 Toledo printing. Translations are this edition’s own drafts."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn52\">Rationalism, ch. V, notes 52</a>, <a href=\"../rationalism/vol2-ch5.html#fn53\">53</a>, <a href=\"../rationalism/vol2-ch5.html#fn55\">55</a>, <a href=\"../rationalism/vol2-ch5.html#fn56\">56</a>, <a href=\"../rationalism/vol2-ch5.html#fn57\">57</a>, <a href=\"../rationalism/vol2-ch5.html#fn60\">60</a>."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn52\">Rationalism, ch. V, notes 52</a>, <a href=\"../rationalism/vol2-ch5.html#fn53\">53</a>, <a href=\"../rationalism/vol2-ch5.html#fn55\">55</a>, <a href=\"../rationalism/vol2-ch5.html#fn56\">56</a>, <a href=\"../rationalism/vol2-ch5.html#fn57\">57</a>, <a href=\"../rationalism/vol2-ch5.html#fn60\">60</a>; also notes <a href=\"../rationalism/vol2-ch5.html#fn49\">49</a> (the chapter heading) and <a href=\"../rationalism/vol2-ch5.html#fn50\">50</a> (Clément, p. 54 here)."]
   - ["Status", "Seven quotations transcribed from the page images, translated and collated. Long-s abbreviations expanded silently."]
 abstract: |
   <p>Juan de Mariana, a Spanish Jesuit, argued in 1599 that subjects may kill a tyrant, and debated how: by the sword, yes, but poison raised scruples. The book was burnt in Paris after the assassination of Henri IV. Lecky’s Latin quotations from it are accurate almost word for word; even the one sentence that once seemed missing turns up at the foot of p. 65.</p>
 ---
+<section id="clement" class="passage">
+<h2>Jacques Clément, “the eternal honour of France”: a phrase the later editions dropped (1605, pp. 51, 54)</h2>
+<p class="passage-source">Latin: Mainz 1605, Book I, chapter VI, heading on p. 51 (<a href="https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n81/mode/2up">scan n81</a>) and the passage on p. 54 (<a href="https://archive.org/details/bub_gb_FNnUXWPFQEcC/page/n84/mode/2up">scan n84</a>). Abbreviations expanded. <span class="cited-passage">Highlighted</span>: what Lecky quotes.</p>
+<figure class="facsimile"><a href="../assets/img/ref/mariana-1605-p51-caput6.jpg"><img src="../assets/img/ref/mariana-1605-p51-caput6.jpg" alt="Printed heading: “Caput VI. An tyrannum opprimere fas sit.”" loading="lazy"></a><figcaption>The chapter heading, “Is it lawful to kill a tyrant?”, Mainz 1605, p. 51. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<figure class="facsimile"><a href="../assets/img/ref/mariana-1605-p54-clement.jpg"><img src="../assets/img/ref/mariana-1605-p54-clement.jpg" alt="Printed Latin: “Cæso Rege ingens sibi nomen fecit … Sic Clemens ille periit, viginti quatuor natus annos, simplici iuvenis ingenio, neque robusto corpore: sed maior vis vires &amp; animum confirmabat. … De facto monachi non una opinio fuit …”" loading="lazy"></a><figcaption>Mariana, Mainz 1605, p. 54: the death of Clément, without “æternum Galliæ decus”. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p><b>Caput VI. <span class="cited-passage">An tyrannum opprimere fas sit.</span></b></p>
+<p>[p. 54] … Cæso Rege ingens sibi nomen fecit. cæde cædes expiata, ac manibus Guisii Ducis perfide perempti regio sanguine est parentatum. <span class="cited-passage">Sic Clemens ille periit, viginti quatuor natus annos, simplici iuvenis ingenio, neque robusto corpore: sed maior vis vires &amp; animum confirmabat.</span> …</p>
+<p>De facto monachi non una opinio fuit. multis laudantibus atque immortalitate dignum iudicantibus: vituperant alii prudentiæ &amp; eruditionis laude præstantes, fas esse negantes cuiquam privata auctoritate Regem consensu populi renunciatum, sacroque oleo de more delibutum sanctumque adeo perimere, sit ille quamvis perditis moribus, atque in tyrannidem degenerarit.</p>
+</div>
+<div class="rendering" lang="en">
+<p><b>Chapter VI. <span class="cited-passage">Whether it is lawful to kill a tyrant.</span></b></p>
+<p>[p. 54] … By killing the king he made himself a great name. Murder was atoned for by murder, and the shade of the Duke of Guise, treacherously slain, received its offering of royal blood. <span class="cited-passage">So perished that Clément, twenty-four years old, a youth of simple mind and no strong body: but a greater power strengthened his strength and his courage.</span> …</p>
+<p>About the monk’s deed there was more than one opinion. Many praised it and judged it worthy of immortality; others, eminent for prudence and learning, blamed it, denying that anyone may by private authority kill a king proclaimed by the consent of the people and anointed, as custom is, with the sacred oil, and so made holy, however depraved his morals and though he has degenerated into a tyrant.</p>
+</div>
+</div>
+<table class="collation">
+<tr><th>Mariana (Mainz 1605, p. 54)</th><th>Lecky (vol. II, ch. V, text at note 50)</th></tr>
+<tr><td>Sic Clemens ille periit,</td><td>Thus did Clement perish <i>as many deem the eternal honour of France</i></td></tr>
+<tr><td>viginti quatuor natus annos, simplici iuvenis ingenio, neque robusto corpore: sed maior vis vires &amp; animum confirmabat.</td><td>a youth but four-and-twenty years of age, simple in mind and weak in body: but a higher might confirmed both his courage and his strength.</td></tr>
+</table>
+<p>Lecky translates the sentence of the first edition (Toledo 1599), which he cites as “p. 69”. In the Mainz printing of 1605 the sentence is on p. 54 and has no “æternum Galliæ decus” (“the eternal honour of France”), which is what Lecky’s own note 50 says, after Hallam: the words “were omitted in the later editions”. The 1599 edition has not been found online, so the omitted words themselves are not checked here. The paragraph that follows shows Mariana setting out both opinions of the deed before giving his own.</p>
+</section>
+
 <section id="consentire" class="passage">
 <h2>The “consent” of philosophers and theologians (pp. 58–59)</h2>
 
