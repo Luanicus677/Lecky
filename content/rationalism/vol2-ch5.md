@@ -501,19 +501,19 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^47]: <a class="popup-ref" href="../ref/mariana-de-rege.html">De Rege et Regis Institutione</a>, pp. 55-65. (1st ed:)
 
-[^48]: Ibid. p. 62.
+[^48]: <a class="popup-ref" href="../ref/mariana-de-rege.html">Ibid. p. 62.</a>
 
 [^49]: Ibid. lib. i. ch. vi. <a class="popup-ref" href="../ref/mariana-de-rege.html#clement">‘An tyrannum opprimere fas sit? ’</a>
 
 [^50]: <a class="popup-ref" href="../ref/mariana-de-rege.html#clement">P. 69</a>. Mr. Hallam observes that the words 'æternum Galliæ decus' were omitted in the later editions, which, however, in other respects scarcely differed from the first. (<a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#mariana-197">Hist. of Lit.</a>)
 
-[^51]: P. 72.
+[^51]: <a class="popup-ref" href="../ref/mariana-de-rege.html">P. 72.</a>
 
 [^52]: Certe a republica unde ortum habet regia potestas, rebus exigentibus Regem in jus vocari posse et si sanitatem respuat principatu spoliari. Neque ita in principem jura potestatis transtulit ut non sibi majorem reservarit potestatem. . . . Populis volentibus tributa nova imperantur, leges constituuntur; et quod est amplius populi sacramento jura imperandi quamvis hæreditaria successori confirmantur' (pp. 72, 73). Very remarkable words to have been written by a Spaniard and a priest nearly a century before Locke. (<a class="popup-ref" href="../ref/mariana-de-rege.html#consentire">source page</a>)
 
 [^53]: Et est communis sensus quasi quædam naturæ vox mentibus nostris indita, auribus insonans lex, qua a turpi honestum secernimus.' (p. 74.) (<a class="popup-ref" href="../ref/mariana-de-rege.html#consentire">source page</a>)
 
-[^54]: Pp. 72-74.
+[^54]: <a class="popup-ref" href="../ref/mariana-de-rege.html">Pp. 72-74.</a>
 
 [^55]: <span class="foreign" lang="la">'In eo consentire tum philosophos tum theologos video eum principem qui vi et armis rempublicam occupavit nullo præterea jure, nullo publico civium consensu, perimi a quocumque, vita et principatu spoliari posse.'</span><span class="translation editorial" lang="en">[On this I see philosophers and theologians agree: that a prince who has seized the commonwealth by force and arms, with no further right and no public consent of the citizens, may be killed by anyone and stripped of life and rule.]</span> (pp. 74, 75.) A few lines lower comes the eulogy of Ehud. The 'consenting theologians' are not cited—and, indeed, Mariana scarcely ever quotes an ecclesiastical authority—but the reader may find a great many given in Suarez (De Fide, lib. vi. cap. iv.). St. Thomas justified Ehud on this general ground, and in this point seems to have differed little or not at all from Mariana. (<a class="popup-ref" href="../ref/mariana-de-rege.html#consentire">source page</a>)
 
@@ -521,9 +521,9 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^57]: 'Qui votis publicis favens eum perimere tentarit, haudquaquam inique eum fecisse existimabo.' (p. 77.) (<a class="popup-ref" href="../ref/mariana-de-rege.html#medicinam">source page</a>)
 
-[^58]: Pp. 77, 78.
+[^58]: <a class="popup-ref" href="../ref/mariana-de-rege.html">Pp. 77, 78.</a>
 
-[^59]: P. 83.
+[^59]: <a class="popup-ref" href="../ref/mariana-de-rege.html">P. 83.</a>
 
 [^60]: <span class="foreign" lang="la">'Nos tamen non quid facturi sint homines sed quid per naturæ leges concessum sit despicimus. . . . Et est naturæ vox communis hominum sensus vituperantium si quis in alios quantumvis hostes veneno grassetur'</span><span class="translation editorial" lang="en">[We, however, consider not what men are going to do, but what is permitted by the laws of nature. … And the voice of nature is the common sense of men, who condemn anyone who proceeds by poison against others, however much they are enemies]</span> (pp. 83-85). It is said that Mariana, in his History, has treated kings with considerable deference; but his antimonarchical opinions appear very strongly in a short work called, 'Discourse on the Defects of the Government of the Jesuits,' which contains—what is extremely rare in the writings of the members of the order—a bitter attack on the general, and a fierce denunciation of the despotic principles on which the society is constituted. The following (which I quote from a French translation of 1625) is very characteristic:—<span class="foreign" lang="fr">'Selon mon opinion la monarchie nous met par terre, non pour estre monarchie ains pour n'estre bien tempérée. C'est un furieux sanglier qui ravage tout par ou il passe, et si on ne l'arreste tout court, nous ne devons espérer de repos.'</span><span class="translation editorial" lang="en">[In my opinion monarchy is bringing us down, not for being monarchy but for not being well tempered. It is a raging boar that lays waste everything wherever it goes, and unless it is stopped short we must not hope for rest.]</span> (ch. x.) (<a class="popup-ref" href="../ref/mariana-de-rege.html#nos-tamen">source page</a>)
 
@@ -627,15 +627,15 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^110]: Lib. i. c. 24. So Knox: 'To promote a woman to beare rule is repugnant to nature, contumelie to God, a thing most contrarious to his reveled will and approved ordinance; and finallie it is the subversion of good order, of all equitie and justice.' (<a class="popup-ref" href="../ref/knox-first-blast.html#repugnant">Monstrous Regiment of Women.</a>)
 
-[^111]: Quæst. ii.
+[^111]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">Quæst. ii.</a>
 
 [^112]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">Vindiciæ contra Tyrannos</a>, p. 45 (ed. 1610).
 
 [^113]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html#elijah">Vindiciæ</a>, pp. 38-39, 60.
 
-[^114]: P. 45.
+[^114]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">P. 45.</a>
 
-[^115]: P. 60.
+[^115]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">P. 60.</a>
 
 [^116]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">Vindiciæ</a>, p. 79.
 
