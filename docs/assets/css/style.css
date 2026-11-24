@@ -1415,3 +1415,4 @@ ul.rh-cards.gallery li a.rh-title { font-weight: 600; }
 .new-sources-box h2 { font-size: 1.15rem; }
 ul.rh-cards.new-sources { list-style: none; padding-left: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5em, 1fr)); gap: 1rem 0.9rem; }
 ul.rh-cards.new-sources li a.rh-title { font-weight: 600; }
+.readtime { color: var(--fg-faint); font-size: 0.82em; font-style: italic; margin-left: 0.3em; white-space: nowrap; }

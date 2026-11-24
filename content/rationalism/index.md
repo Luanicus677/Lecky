@@ -14,23 +14,23 @@ back_link:
 ## Volume I
 
 <ol class="toc">
-<li><a href="introduction.html">Introduction</a></li>
-<li><a href="vol1-ch1.html">Chapter I — On the Declining Sense of the Miraculous: Magic and Witchcraft</a> <span class="work-status">complete</span></li>
-<li><a href="vol1-ch2.html">Chapter II — On the Declining Sense of the Miraculous: The Miracles of the Church</a> <span class="work-status">complete</span></li>
-<li><a href="vol1-ch3.html">Chapter III — Æsthetic, Scientific, and Moral Developements of Rationalism</a> <span class="work-status">complete</span></li>
-<li><a href="vol1-ch4.html">Chapter IV — On Persecution</a> <span class="work-status">Part I complete (pp. 386–447, end of Volume I)</span></li>
+<li><a href="introduction.html">Introduction</a> <!-- READTIME:introduction --></li>
+<li><a href="vol1-ch1.html">Chapter I — On the Declining Sense of the Miraculous: Magic and Witchcraft</a> <!-- READTIME:vol1-ch1 --> <span class="work-status">complete</span></li>
+<li><a href="vol1-ch2.html">Chapter II — On the Declining Sense of the Miraculous: The Miracles of the Church</a> <!-- READTIME:vol1-ch2 --> <span class="work-status">complete</span></li>
+<li><a href="vol1-ch3.html">Chapter III — Æsthetic, Scientific, and Moral Developements of Rationalism</a> <!-- READTIME:vol1-ch3 --> <span class="work-status">complete</span></li>
+<li><a href="vol1-ch4.html">Chapter IV — On Persecution</a> <!-- READTIME:vol1-ch4 --> <span class="work-status">Part I complete (pp. 386–447, end of Volume I)</span></li>
 </ol>
 
 ## Volume II
 
 <ol class="toc">
-<li><a href="vol2-ch4.html">Chapter IV (continued) — On Persecution: Part II, The History of Persecution</a> <span class="work-status">complete (pp. 1–105)</span></li>
-<li><a href="vol2-ch5.html">Chapter V — On the Secularisation of Politics</a> <span class="work-status">complete (pp. 106–249)</span></li>
-<li><a href="vol2-ch6.html">Chapter VI — The Industrial History of Rationalism</a> <span class="work-status">complete (pp. 250–409)</span></li>
+<li><a href="vol2-ch4.html">Chapter IV (continued) — On Persecution: Part II, The History of Persecution</a> <!-- READTIME:vol2-ch4 --> <span class="work-status">complete (pp. 1–105)</span></li>
+<li><a href="vol2-ch5.html">Chapter V — On the Secularisation of Politics</a> <!-- READTIME:vol2-ch5 --> <span class="work-status">complete (pp. 106–249)</span></li>
+<li><a href="vol2-ch6.html">Chapter VI — The Industrial History of Rationalism</a> <!-- READTIME:vol2-ch6 --> <span class="work-status">complete (pp. 250–409)</span></li>
 </ol>
 
 <p><a href="../curiosities.html">A cabinet of curiosities</a>: the strangest things found in the books behind the footnotes (a Devil who has studied for five thousand years, the sun as hell, a stag that sucks snakes from their holes).</p>
 <p><a href="lecky-and-his-sources.html">Lecky and his sources: where the footnotes and the books disagree</a>, from the checking done for the source pages (Vitet’s barbarians turned into ascetics, Jerome made to say what he mocked, Salem’s twenty dead counted as twenty-seven).</p>
 <p><a href="as-printed.html">As printed: slips of the 1865 edition</a>, shown in facsimile (“wept to sleep again”, “Wagstaafe”, Aquinas in the “fourteenth century”).</p>
 
-<p style="color:var(--fg-faint); font-size:0.85rem;">Chapter titles above are taken from Lecky's own table of contents in the 1865 second edition.</p>
+<p style="color:var(--fg-faint); font-size:0.85rem;">Chapter titles above are taken from Lecky's own table of contents in the 1865 second edition. Reading times are for the main text at 250 words a minute, not counting the notes.</p>

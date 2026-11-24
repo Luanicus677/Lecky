@@ -321,6 +321,12 @@ def by_chapter_html():
     return "".join(out)
 
 
+def reading_time(words):
+    """At 250 words a minute, main text only."""
+    mins = round(words / 250 / 5) * 5
+    return f"about {mins} minutes" if mins < 90 else f"about {round(mins / 60 * 2) / 2:g} hours"
+
+
 def chapter_next_html(stem):
     """At the end of a chapter: the next chapter, and the sources this chapter
     leans on most (by the number of its notes that link to them)."""
@@ -335,8 +341,7 @@ def chapter_next_html(stem):
     nxt = ""
     if stem in order and order.index(stem) + 1 < len(order):
         n_stem, n_title, n_words = CHAPTERS[order.index(stem) + 1]
-        mins = round(n_words / 250 / 5) * 5          # at 250 words a minute
-        took = f"about {mins} minutes" if mins < 90 else f"about {round(mins / 60 * 2) / 2:g} hours"
+        took = reading_time(n_words)
         nxt = (f'<p class="next-chapter">Next: <a href="{n_stem}.html">{n_title}</a> \u2192'
                f'<span class="rh-sub">{n_words:,} words, {took} of reading, not counting the notes</span></p>')
     srcs = ""
@@ -430,6 +435,10 @@ def build_page(src_path: Path, out_path: Path):
         github_repo=GITHUB_REPO,
     )
     html = template.render(**context)
+    for stem, _name, words in CHAPTERS:
+        tag = f"<!-- READTIME:{stem} -->"
+        if tag in html:
+            html = html.replace(tag, f'<span class="readtime">{reading_time(words)}</span>')
     html = (html.replace("<!-- SOURCE-COUNT -->", str(len(REFMETA)))
                 .replace("<!-- GALLERY-COUNT -->", str(sum(1 for m in REFMETA.values() if m.get("thumb")))))
     out_path.parent.mkdir(parents=True, exist_ok=True)
