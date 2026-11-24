@@ -6,6 +6,15 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 ---
 <p class="editorial-note">New here? Start with <a href="../curiosities.html">the cabinet of curiosities</a>, or <a class="random-source" href="index.html">open a source at random</a>. Every source page ends with “Further down the rabbit hole”: the books Lecky cites beside it.</p>
 
+<p class="source-tools"><input type="search" id="source-filter" placeholder="Filter: a name, a subject, a word (bulls, comets, usury…)" aria-label="Filter the sources"> <a href="../old-books.html">See them as pictures →</a></p>
+
+<details class="by-chapter-wrap"><summary>Browse by chapter</summary>
+
+<!-- SOURCES-BY-CHAPTER -->
+
+</details>
+<script src="../assets/js/filter.js" defer></script>
+
 <ul class="work-list">
 <li>
 <div class="work-title"><a class="popup-ref" href="grillandi-de-sortilegiis.html">Grillandus, <em>De Sortilegiis</em></a><span class="work-status">2 passages</span></div>

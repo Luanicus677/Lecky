@@ -247,12 +247,12 @@ def source_item(slug, prefix=""):
     return f'<li><a class="popup-ref" href="{prefix}{slug}.html">{m["title"]}</a>{sub}</li>'
 
 
-def source_card(slug, prefix=""):
+def source_card(slug, prefix="", root="../"):
     """A source as a small card: a crop of its old printed page (or a large
     initial when it has no picture), its title and plain-English subtitle."""
     m = REFMETA[slug]
     if m.get("thumb"):
-        pic = (f'<img src="../assets/img/ref/thumbs/{m["thumb"]}" alt="" loading="lazy" '
+        pic = (f'<img src="{root}assets/img/ref/thumbs/{m["thumb"]}" alt="" loading="lazy" '
                f'width="180" height="120">')
     else:
         initial = re.sub(r"[^A-Za-z\u00c0-\u024f]", "", m["title"])[:1] or "\u00b6"
@@ -270,6 +270,36 @@ def rabbit_hole_html(slug):
             '<p class="rabbit-intro">Sources that Lecky cites in the notes next to the ones that cite this page.</p><ul class="rh-cards">'
             + "".join(source_card(t) for t in rel) +
             '</ul><p class="rabbit-random"><a class="random-source" href="index.html">Or jump to a random source \u2192</a></p></section>\n')
+
+
+def gallery_html():
+    """Every source page that has a picture, as a grid of cards (old-books.md)."""
+    slugs = sorted((s for s, m in REFMETA.items() if m.get("thumb")), key=lambda s: REFMETA[s]["title"].lower())
+    return ('<ul class="rh-cards gallery">' + "".join(source_card(s, "ref/", "") for s in slugs) + "</ul>",
+            len(slugs))
+
+
+def by_chapter_html():
+    """For the Sources index: under each chapter, the source pages its notes
+    link to, most-cited first, with the number of notes."""
+    out = ['<div class="by-chapter">']
+    for stem, name, _words in CHAPTERS:
+        counts = {}
+        for (st, _note), slugs in NOTE_REFS.items():
+            if st == stem:
+                for s in slugs:
+                    if s in REFMETA:
+                        counts[s] = counts.get(s, 0) + 1
+        if not counts:
+            continue
+        top = sorted(counts, key=lambda s: (-counts[s], REFMETA[s]["title"]))
+        items = "".join(
+            f'<li><a class="popup-ref" href="{s}.html">{REFMETA[s]["title"]}</a> '
+            f'<span class="bc-count">{counts[s]} note{"s" if counts[s] > 1 else ""}</span></li>' for s in top)
+        out.append(f'<details><summary>{name} <span class="bc-count">{len(top)} sources</span></summary>'
+                   f'<p class="bc-read"><a href="../rationalism/{stem}.html">Read the chapter \u2192</a></p><ol>{items}</ol></details>')
+    out.append("</div>")
+    return "".join(out)
 
 
 def chapter_next_html(stem):
@@ -329,6 +359,13 @@ def build_page(src_path: Path, out_path: Path):
 
     toc_html = build_toc(body_html)
 
+    # Generated blocks, placed by an HTML comment in the Markdown.
+    if "<!-- SOURCE-GALLERY -->" in body_html:
+        grid, n = gallery_html()
+        body_html = body_html.replace("<!-- SOURCE-GALLERY -->", grid)
+    if "<!-- SOURCES-BY-CHAPTER -->" in body_html:
+        body_html = body_html.replace("<!-- SOURCES-BY-CHAPTER -->", by_chapter_html())
+
     rel = src_path.relative_to(CONTENT)
     if rel.parts[0] == "ref":
         body_html = fold_originals(body_html)
@@ -372,6 +409,8 @@ def build_page(src_path: Path, out_path: Path):
         github_repo=GITHUB_REPO,
     )
     html = template.render(**context)
+    html = (html.replace("<!-- SOURCE-COUNT -->", str(len(REFMETA)))
+                .replace("<!-- GALLERY-COUNT -->", str(sum(1 for m in REFMETA.values() if m.get("thumb")))))
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(html, encoding="utf-8")
     print(f"  {src_path.relative_to(ROOT)} -> {out_path.relative_to(ROOT)}")
