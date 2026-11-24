@@ -381,8 +381,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The “possessed” of Morzine felt no pin, but only during their fits (1863, p. 63), cited in ch. I, note 104.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="cudworth-true-intellectual-system.html">Cudworth, <em>The True Intellectual System of the Universe</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">Deniers of witches have “some hankering towards atheism” (1743 ed., vol. II, p. 702), cited in ch. I, note 127.</div>
+<div class="work-title"><a class="popup-ref" href="cudworth-true-intellectual-system.html">Cudworth, <em>The True Intellectual System of the Universe</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Deniers of witches have “some hankering towards atheism” (1743 ed., vol. II, p. 702), cited in ch. I, note 127. Also p. 702 on Psellus and St Basil: devils must have bodies, since they are to be punished with fire (ch. I, note 48).</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="butler-hudibras.html">Butler, <em>Hudibras</em></a><span class="work-status">1 passage</span></div>

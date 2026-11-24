@@ -509,7 +509,7 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^47]: On the Hebrew Cabala, see the learned work of M. Franck, and on the notions in the middle ages, and in the sixteenth and seventeenth centuries, Le Comte de Gabalis. Plancey, Dict. Infernale, art. Cabale. All the heathen gods were supposed to be sylphs or other aerial spirits. Vesta was the wife of Noah — Zoroaster, her son, otherwise called Japhet. The sin of Adam was deserting the sylph for his wife, and the story of the apple was allegorical, &c. This last notion appears to have been a relic of Manicheism, and was very common among the heretics of the tenth and eleventh centuries (<a class="popup-ref" href="../ref/matter-histoire-du-gnosticisme.html#arras">Matter, Hist. du Gnosticisme, tom. iii. pp. 259, 260</a>). Paracelsus was one of the principal asserters of the existence of the sylphs, &c.
 
-[^48]: This was a very old notion. St. Basil seems to have maintained it very strongly. Cudworth's Int. System, vol. ii. p. 648.
+[^48]: This was a very old notion. St. Basil seems to have maintained it very strongly. <a class="popup-ref" href="../ref/cudworth-true-intellectual-system.html#psellus-bodies">Cudworth's Int. System</a>, vol. ii. p. 648.
 
 [^49]: Maury, p. 185. <a class="popup-ref" href="../ref/maury-la-magie-et-lastrologie.html#pactes-185">source page</a>
 
