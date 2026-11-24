@@ -1411,3 +1411,7 @@ ul.rh-cards.gallery li a.rh-title { font-weight: 600; }
 .bc-read { font-size: 0.85rem; margin: 0.2em 0 0 1em; text-indent: 0 !important; }
 .continue-reading { border-left: 3px solid var(--fg-faint); padding: 0.4em 0.8em; background: var(--sidenote-bg); font-size: 0.95rem; text-indent: 0 !important; margin: 0 0 1.2rem; }
 .continue-reading a { font-weight: 600; }
+.new-sources-box { margin: 1.5rem 0; }
+.new-sources-box h2 { font-size: 1.15rem; }
+ul.rh-cards.new-sources { list-style: none; padding-left: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5em, 1fr)); gap: 1rem 0.9rem; }
+ul.rh-cards.new-sources li a.rh-title { font-weight: 600; }

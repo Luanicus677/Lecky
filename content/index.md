@@ -36,6 +36,13 @@ abstract: >
 </div>
 <script src="assets/js/curio.js" defer></script>
 
+<div class="new-sources-box">
+<h2>Newly added sources</h2>
+
+<!-- NEW-SOURCES -->
+
+</div>
+
 William Edward Hartpole Lecky was born in Dublin in 1838 and died in 1903. He is best known for two large works of intellectual and moral history, *The History of the Rise and Influence of the Spirit of Rationalism in Europe* (1865) and *A History of European Morals from Augustus to Charlemagne* (1869), along with his later and more extensive *A History of England in the Eighteenth Century*. His historical method, tracing the slow retreat of superstition, persecution, and dogmatic certainty before the advance of a more sceptical, humane rationalism, makes his work unusually dense with citation: he draws constantly on primary sources, many of them obscure even in his own day.
 
 That density of citation is the reason this site exists. Reading Lecky well means being able to follow him into his sources. Our aim is a site where that following-along is frictionless: hover a reference to see what it is, click through to read it, and keep going as deep as curiosity allows.

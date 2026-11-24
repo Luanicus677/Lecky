@@ -279,6 +279,25 @@ def gallery_html():
             len(slugs))
 
 
+def newest_sources_html(k=6):
+    """The source pages most recently added (by the commit that created each
+    file), as picture cards for the home page."""
+    import subprocess
+    try:
+        log = subprocess.run(["git", "log", "--diff-filter=A", "--name-only", "--format=%at", "--", "content/ref"],
+                             cwd=ROOT, capture_output=True, text=True, timeout=30).stdout
+    except Exception:
+        return ""
+    seen, order = set(), []
+    for line in log.splitlines():
+        m = re.match(r"content/ref/([a-z0-9-]+)\.md$", line.strip())
+        if m and m.group(1) in REFMETA and m.group(1) not in seen:
+            seen.add(m.group(1)); order.append(m.group(1))
+    if not order:
+        return ""
+    return '<ul class="rh-cards new-sources">' + "".join(source_card(s, "ref/", "") for s in order[:k]) + "</ul>"
+
+
 def by_chapter_html():
     """For the Sources index: under each chapter, the source pages its notes
     link to, most-cited first, with the number of notes."""
@@ -363,6 +382,8 @@ def build_page(src_path: Path, out_path: Path):
     if "<!-- SOURCE-GALLERY -->" in body_html:
         grid, n = gallery_html()
         body_html = body_html.replace("<!-- SOURCE-GALLERY -->", grid)
+    if "<!-- NEW-SOURCES -->" in body_html:
+        body_html = body_html.replace("<!-- NEW-SOURCES -->", newest_sources_html())
     if "<!-- SOURCES-BY-CHAPTER -->" in body_html:
         body_html = body_html.replace("<!-- SOURCES-BY-CHAPTER -->", by_chapter_html())
 
