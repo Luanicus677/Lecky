@@ -749,6 +749,10 @@
     }, { passive: true });
   }
 
+  // Let other scripts wire up content they add later (e.g. the home page's
+  // random curiosities).
+  window.leckyBindPopups = function (root) { bindAll(root, false); };
+
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
   } else {

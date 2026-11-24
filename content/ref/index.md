@@ -4,6 +4,8 @@ description: The works Lecky cites, transcribed and translated where they can be
 heading: Sources
 abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own page with the passage he used, a translation where it isn’t in English, and a link to a scan of the edition the text comes from. Every source page lists the places in Lecky that cite it, so you can move in either direction.</p>
 ---
+<p class="editorial-note">New here? Start with <a href="../curiosities.html">the cabinet of curiosities</a>, or <a class="random-source" href="index.html">open a source at random</a>. Every source page ends with “Further down the rabbit hole”: the books Lecky cites beside it.</p>
+
 <ul class="work-list">
 <li>
 <div class="work-title"><a class="popup-ref" href="grillandi-de-sortilegiis.html">Grillandus, <em>De Sortilegiis</em></a><span class="work-status">2 passages</span></div>

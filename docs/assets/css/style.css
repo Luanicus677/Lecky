@@ -1349,3 +1349,34 @@ details.original-toggle .original em, details.original-toggle .original i { font
 
 /* No first-line indent on a paragraph that follows a facsimile strip */
 .content figure.facsimile + p { text-indent: 0; }
+
+/* ---------- rabbit holes (build.py): related sources on source pages,
+   "where next" at the end of chapters, curiosities on the home page ---------- */
+.rabbit-hole, .chapter-next {
+  margin: 3rem 0 1.5rem; padding: 0.9rem 1.1rem 0.7rem;
+  border: 1px solid var(--border); background: var(--sidenote-bg); font-size: 0.95rem;
+}
+.rabbit-hole h2 { margin-top: 0; font-size: 1.15rem; }
+.rabbit-intro, .chapter-next-intro { color: var(--fg-muted); font-size: 0.88rem; text-indent: 0 !important; margin: 0.2em 0 0.5em; }
+.rabbit-hole ul, .chapter-next ul { list-style: none; padding-left: 0; margin: 0.3em 0; }
+.rabbit-hole li, .chapter-next li { margin: 0 0 0.55em; line-height: 1.35; }
+.rabbit-hole li a, .chapter-next li a { font-weight: 600; }
+.rh-sub { display: block; color: var(--fg-muted); font-style: italic; font-size: 0.9em; }
+.rabbit-random { font-size: 0.85rem; text-align: right; margin: 0.4em 0 0; text-indent: 0 !important; }
+.next-chapter { font-size: 1.05rem; margin: 0 0 0.6em; text-indent: 0 !important; }
+.next-chapter a { font-weight: 600; }
+
+.curio-box { margin: 1.5rem 0; padding: 0.9rem 1.1rem; border: 1px solid var(--border-strong); background: var(--sidenote-bg); }
+.curio-box h2 { margin-top: 0; font-size: 1.15rem; }
+.curio-box ul { list-style: none; padding-left: 0; margin: 0.4em 0; }
+.curio-box li { margin: 0 0 0.8em; line-height: 1.4; font-size: 0.95rem; }
+.curio-box .curio-more { font-size: 0.88rem; text-indent: 0 !important; margin: 0.3em 0 0; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5em; }
+.curio-shuffle { font: inherit; font-size: 0.88rem; background: none; border: 1px solid var(--border-strong); color: var(--link); padding: 0.1em 0.6em; cursor: pointer; }
+ul.curiosities { list-style: none; padding-left: 0; }
+ul.curiosities li { margin: 0 0 1.1em; line-height: 1.45; }
+ul.curiosities li strong { font-variant: small-caps; letter-spacing: 0.02em; }
+.start-here { display: grid; grid-template-columns: repeat(auto-fit, minmax(14em, 1fr)); gap: 0.8rem; margin: 1rem 0 1.5rem; }
+.start-here a.start-card { display: block; border: 1px solid var(--border); padding: 0.7rem 0.85rem; text-decoration: none; background: var(--bg); }
+.start-here a.start-card:hover { border-color: var(--fg-muted); background: var(--sidenote-bg); }
+.start-card strong { display: block; font-variant: small-caps; font-size: 1.05rem; margin-bottom: 0.25em; color: var(--fg); }
+.start-card span { display: block; color: var(--fg-muted); font-size: 0.88rem; line-height: 1.35; }

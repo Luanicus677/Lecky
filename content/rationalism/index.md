@@ -4,7 +4,7 @@ description: Table of contents.
 heading: The History of the Rise and Influence of the Spirit of Rationalism in Europe
 subtitle: W. E. H. Lecky · first published 1865
 meta_rows:
-  - ["Status", "Introduction live; chapters in progress — see About"]
+  - ["Status", "Complete: Introduction and Chapters I–VI (vol. I pp. 1–447, vol. II pp. 1–409); Lecky’s index not transcribed"]
   - ["Volumes", "2"]
   - ["Edition", "1865, second edition (Longmans, Green, and Co.)"]
 back_link:
@@ -29,6 +29,7 @@ back_link:
 <li><a href="vol2-ch6.html">Chapter VI — The Industrial History of Rationalism</a> <span class="work-status">complete (pp. 250–409)</span></li>
 </ol>
 
+<p><a href="../curiosities.html">A cabinet of curiosities</a>: the strangest things found in the books behind the footnotes (a Devil who has studied for five thousand years, the sun as hell, a stag that sucks snakes from their holes).</p>
 <p><a href="lecky-and-his-sources.html">Lecky and his sources: where the footnotes and the books disagree</a>, from the checking done for the source pages (Vitet’s barbarians turned into ascetics, Jerome made to say what he mocked, Salem’s twenty dead counted as twenty-seven).</p>
 <p><a href="as-printed.html">As printed: slips of the 1865 edition</a>, shown in facsimile (“wept to sleep again”, “Wagstaafe”, Aquinas in the “fourteenth century”).</p>
 

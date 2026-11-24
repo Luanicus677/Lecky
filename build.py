@@ -146,6 +146,10 @@ def collect_backlinks():
             m = re.match(r"\[\^(\d+)\]:", line)
             note = int(m.group(1)) if m else None
             for slug in dict.fromkeys(REF_LINK_RE.findall(line)):
+                if note is not None:
+                    NOTE_REFS.setdefault((src.stem, note), [])
+                    if slug not in NOTE_REFS[(src.stem, note)]:
+                        NOTE_REFS[(src.stem, note)].append(slug)
                 entry = (label, src.stem, note)
                 if entry not in links.setdefault(slug, []):
                     links[slug].append(entry)
@@ -166,6 +170,102 @@ def backlinks_html(entries):
     return ('<section id="backlinks" class="backlinks"><h2>Backlinks</h2>'
             '<p class="backlinks-intro">Every place in <i>Rationalism in Europe</i> that links to this page '
             '(generated automatically when the site is built).</p><ul>' + "".join(items) + "</ul></section>\n")
+
+
+NOTE_REFS = {}   # (chapter stem, note number) -> [source slugs], filled by collect_backlinks
+REFMETA = {}     # source slug -> {"title", "subtitle", "teaser"}
+CHAPTERS = []    # [(stem, short title)] in reading order
+CHAPTER_ORDER = ["introduction", "vol1-ch1", "vol1-ch2", "vol1-ch3", "vol1-ch4", "vol2-ch4", "vol2-ch5", "vol2-ch6"]
+
+
+def strip_tags(s):
+    return re.sub(r"<[^>]+>", "", str(s or "")).replace("&amp;", "&").strip()
+
+
+def collect_refmeta():
+    """Titles, plain-English subtitles and a one-sentence teaser for every
+    source page, used by the rabbit-hole boxes, chapter ends and the
+    random-source button."""
+    for src in sorted((CONTENT / "ref").glob("*.md")):
+        if src.stem == "index":
+            continue
+        meta, _ = parse_source(src)
+        abstract = re.sub(r"\s+", " ", strip_tags(meta.get("abstract")))
+        first = re.split(r"(?<=[.!?\u201d])\s+(?=[A-Z\u201c])", abstract)[0] if abstract else ""
+        if len(first) > 280:
+            first = first[:277].rsplit(" ", 1)[0] + "\u2026"
+        REFMETA[src.stem] = {
+            "title": strip_tags(meta.get("heading") or meta.get("title") or src.stem),
+            "subtitle": strip_tags(meta.get("subtitle")),
+            "teaser": first,
+        }
+    for stem in CHAPTER_ORDER:
+        path = CONTENT / "rationalism" / f"{stem}.md"
+        if path.exists():
+            meta, _ = parse_source(path)
+            CHAPTERS.append((stem, strip_tags(re.split(r"<br>", str(meta.get("heading") or meta.get("title")))[0])))
+
+
+def related_sources(slug, k=6):
+    """Other source pages Lecky cites close to the notes that cite `slug`:
+    the same note scores 1, a neighbouring note 1/(1+distance), up to four
+    notes away; pages cited elsewhere in the same chapters fill any gap."""
+    score = {}
+    for _label, stem, note in BACKLINKS.get(slug, []):
+        if note is None:
+            continue
+        for d in range(-4, 5):
+            for other in NOTE_REFS.get((stem, note + d), []):
+                if other != slug and other in REFMETA:
+                    score[other] = score.get(other, 0) + 1.0 / (1 + abs(d))
+    if len(score) < k:
+        stems = {stem for _l, stem, _n in BACKLINKS.get(slug, [])}
+        for (stem, _note), slugs in NOTE_REFS.items():
+            if stem in stems:
+                for other in slugs:
+                    if other != slug and other in REFMETA and other not in score:
+                        score[other] = 0.01
+    return sorted(score, key=lambda t: (-score[t], REFMETA[t]["title"]))[:k]
+
+
+def source_item(slug, prefix=""):
+    m = REFMETA[slug]
+    sub = f'<span class="rh-sub">{m["subtitle"]}</span>' if m["subtitle"] else ""
+    return f'<li><a class="popup-ref" href="{prefix}{slug}.html">{m["title"]}</a>{sub}</li>'
+
+
+def rabbit_hole_html(slug):
+    rel = related_sources(slug)
+    if not rel:
+        return ""
+    return ('<section id="rabbit-hole" class="rabbit-hole"><h2>Further down the rabbit hole</h2>'
+            '<p class="rabbit-intro">Sources that Lecky cites in the notes next to the ones that cite this page.</p><ul>'
+            + "".join(source_item(t) for t in rel) +
+            '</ul><p class="rabbit-random"><a class="random-source" href="index.html">Or jump to a random source \u2192</a></p></section>\n')
+
+
+def chapter_next_html(stem):
+    """At the end of a chapter: the next chapter, and the sources this chapter
+    leans on most (by the number of its notes that link to them)."""
+    counts = {}
+    for (st, _note), slugs in NOTE_REFS.items():
+        if st == stem:
+            for slug in slugs:
+                if slug in REFMETA:
+                    counts[slug] = counts.get(slug, 0) + 1
+    top = sorted(counts, key=lambda t: (-counts[t], REFMETA[t]["title"]))[:6]
+    order = [st for st, _ in CHAPTERS]
+    nxt = ""
+    if stem in order and order.index(stem) + 1 < len(order):
+        n_stem, n_title = CHAPTERS[order.index(stem) + 1]
+        nxt = f'<p class="next-chapter">Next: <a href="{n_stem}.html">{n_title}</a> \u2192</p>'
+    srcs = ""
+    if top:
+        srcs = ('<p class="chapter-next-intro">The sources this chapter cites most, with the passages transcribed:</p><ul>'
+                + "".join(source_item(t, "../ref/") for t in top) + "</ul>")
+    if not (nxt or srcs):
+        return ""
+    return f'<nav class="chapter-next" aria-label="Where next">{nxt}{srcs}<p class="rabbit-random"><a class="random-source" href="../ref/index.html">A random source \u2192</a></p></nav>\n'
 
 
 LANG_NAMES = {"la": "Latin", "fr": "French", "it": "Italian", "de": "German", "es": "Spanish", "grc": "Greek", "el": "Greek"}
@@ -202,10 +302,17 @@ def build_page(src_path: Path, out_path: Path):
     if rel.parts[0] == "ref":
         body_html = fold_originals(body_html)
     if rel.parts[0] == "ref" and src_path.stem != "index" and BACKLINKS.get(src_path.stem):
-        section = backlinks_html(BACKLINKS[src_path.stem])
+        section = rabbit_hole_html(src_path.stem) + backlinks_html(BACKLINKS[src_path.stem])
         marker = '\n<section class="footnotes"'
         body_html = (body_html.replace(marker, "\n" + section + marker[1:], 1)
                      if marker in body_html else body_html + section)
+
+    if rel.parts[0] == "rationalism" and src_path.stem in CHAPTER_ORDER:
+        box = chapter_next_html(src_path.stem)
+        if box:
+            marker = '\n<section class="footnotes"'
+            body_html = (body_html.replace(marker, "\n" + box + marker[1:], 1)
+                         if marker in body_html else body_html + box)
 
     # The 1865 edition's printer's ornament (redrawn as SVG): above the first
     # paragraph of a chapter, and again as a tailpiece where the text ends.
@@ -245,6 +352,7 @@ def main():
     OUT.mkdir(parents=True)
 
     BACKLINKS.update(collect_backlinks())
+    collect_refmeta()
     print("Rendering pages:")
     for src in sorted(CONTENT.rglob("*.md")):
         rel = src.relative_to(CONTENT)
@@ -259,6 +367,12 @@ def main():
     # everything ourselves; Jekyll would otherwise ignore files/folders
     # starting with an underscore and mangle a few other things).
     (OUT / ".nojekyll").touch()
+
+    # The list the random-source button draws from.
+    import json
+    sources = [[slug, m["title"], m["subtitle"]] for slug, m in sorted(REFMETA.items())]
+    (OUT / "assets" / "js" / "sources.js").write_text(
+        "window.LECKY_SOURCES=" + json.dumps(sources, ensure_ascii=False) + ";\n", encoding="utf-8")
 
     # Custom domain: GitHub Pages reads docs/CNAME. Keep the source copy at
     # the repo root, since docs/ is wiped on every build.
