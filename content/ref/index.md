@@ -73,6 +73,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Lectures of 1850 to the Oxford Movement. Lecture III opens with its founders’ belief, “the Nation being on its way to give up revealed truth”, which Newman then calls a hopeless basis for the Church of England. Cited in ch. II, note 14.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="newman-essay-ecclesiastical-miracles.html">Newman, <em>Essay on the Miracles of the Early Ages</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Prefixed to the Oxford Fleury, 1842: “there is no presumption whatever against miracles generally in the ages after the Apostles” (p. xv). Cited in ch. II, note 16.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="burney-general-history-of-music.html">Burney, <em>A General History of Music</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Charles Burney, vol. II, 1782. The Greek epigram attributed to Julian, which Burney reads as the earliest description of an organ with bellows and keys, and Lecky as praise of a bagpipe (pp. 65–66). Cited in ch. III, note 82.</div>
 </li>
