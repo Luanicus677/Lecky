@@ -405,6 +405,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Thomas M’Crie’s admiring biography (1811; read in the Philadelphia edition of 1845). Knox’s sermon against Mary’s first mass, “more fearfull … than if ten thousand armed enemies were landed”, and M’Crie’s plea to be “just as well as liberal” (p. 221). Cited in vol. II, ch. IV, notes 50 and 59.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="socrates-ecclesiastical-history.html">Socrates, <em>Ecclesiastical History</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Socrates Scholasticus, in Bohn’s translation. The monk Ammon, carried over a river by an angel so that he need not undress (IV.23), and the eighty clergy burnt at sea by Valens (IV.16). Cited in ch. II, note 2, and vol. II, ch. IV, note 12.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="locke-commonplace-book-miracles.html">Locke’s Commonplace Book on Inspiration and Miracles</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">A miracle against reason is “one miracle against another” (King’s Life of Locke, 1830, pp. 231–232), cited in ch. II, note 12.</div>
 </li>

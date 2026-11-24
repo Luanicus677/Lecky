@@ -42,6 +42,7 @@ abstract: |
 <li><strong>The sun is hell.</strong> An Anglican clergyman calculated that the sun is large enough and hot enough to hold the damned of all ages, and concluded that it is “the Tartarus or Local Hell”. <a class="popup-ref" href="ref/swinden-nature-and-place-of-hell.html#sun">Swinden →</a></li>
 <li><strong>The old gods as rag dolls.</strong> In the fifth century, persecution notwithstanding, peasants still carried Jupiter, Minerva and Venus about as “poor little dolls of linen or of flour”; in the eighth century they were still doing it. <a class="popup-ref" href="ref/michelet-la-sorciere.html#old-gods-36">Michelet →</a></li>
 <li><strong>Improving the evidence.</strong> Quoting Josephus on the death of King Agrippa, the church historian Eusebius quietly replaced an owl, a bird of ill omen, with the avenging angel of the Christian legend. <a class="popup-ref" href="ref/maury-croyances-et-legendes.html#pious-frauds-267">Maury →</a></li>
+<li><strong>Ferried by an angel.</strong> The desert monk Ammon held that “it became not a monk to see his own person exposed”. Once, unwilling to undress to cross a river, he prayed, “and immediately an angel transported him to the other side”. On his wedding night he had read his bride St Paul’s Epistle to the Corinthians, and talked her into chastity. <a class="popup-ref" href="ref/socrates-ecclesiastical-history.html#ammon">Socrates →</a></li>
 <li><strong>Mice from filth.</strong> The humanist Juan Luis Vives taught that some mice are born of parents and some of filth. Just before, he reports that women at Naples and in Flanders often give birth to “a beast of no single form” instead of a child. <a class="popup-ref" href="ref/vives-de-anima.html#mures">Vives →</a></li>
 </ul>
 
@@ -56,11 +57,12 @@ abstract: |
 <li><strong>Adam and Eve, unclothed.</strong> In an English mystery play Adam and Eve appeared on the stage naked, the fig-leaves coming in the next scene. The spectators watched “with great composure”, wrote Thomas Warton, since “they had the authority of scripture for such a representation”. <a class="popup-ref" href="ref/malone-historical-account-english-stage.html#naked">Malone →</a></li>
 </ul>
 
-## Inquisitors {: #inquisitors }
+## Inquisitors and persecutors {: #inquisitors }
 
 <ul class="curiosities">
 <li><strong>God the first inquisitor.</strong> The official historian of the Spanish Inquisition began his history in Eden: God, the first inquisitor, drove Adam out of Paradise stripped of all his goods, “whence inquisitors confiscate the goods of heretics”. <a class="popup-ref" href="ref/paramo-de-origine-inquisitionis.html#inquisitorum-primus">Páramo →</a></li>
 <li><strong>Pulled from the fire.</strong> At Barcelona a priest at the stake, “already somewhat scorched on one side”, cried out that he wished to abjure, and was taken from the fire. Fourteen years later he was found to have remained a heretic all along, and was burnt. <a class="popup-ref" href="ref/eymericus-directorium-inquisitorum.html#barchinon">Eymeric →</a></li>
+<li><strong>Worse than an invasion.</strong> When Mary Queen of Scots heard mass in her own chapel, Knox told his congregation that “one mass was more fearfull unto him, than if ten thousand armed enemies were landed in ony parte of the realme”. His biographer quoted it to excuse it: “let us be just as well as liberal.” <a class="popup-ref" href="ref/mccrie-life-of-knox.html#one-mass">M’Crie →</a></li>
 <li><strong>A nation sentenced in three lines.</strong> In 1568 the Holy Office condemned the whole population of the Netherlands as heretics, and Philip II confirmed it. “Three millions of people”, wrote Motley, “were sentenced to the scaffold in three lines.” <a class="popup-ref" href="ref/motley-rise-of-the-dutch-republic.html#three-lines">Motley →</a></li>
 </ul>
 

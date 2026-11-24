@@ -149,7 +149,7 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^1]: Paul the Hermit. See his Life by St. Jerome. The visitor of Paul was St. Anthony, the first of the hermits.
 
-[^2]: Ammon (Socrates, lib. iv. c. 23).
+[^2]: Ammon (<a class="popup-ref" href="../ref/socrates-ecclesiastical-history.html#ammon">Socrates</a>, lib. iv. c. 23).
 
 [^3]: See some admirable remarks on this subject in <a class="popup-ref" href="../ref/maury-legendes-pieuses.html#god-or-magic-239">Maury, *Légendes Pieuses*, pp. 240–244</a>; also Farmer, *On Demoniacs*. There were exorcists both among the Christians, Pagans, and Jews; and though they were not regularly formed into an order till the middle of the third century, they seem to have practised from almost the beginning. For much curious evidence on the subject, see <a class="popup-ref" href="../ref/middleton-free-inquiry.html#exorcists">Middleton, *Free Enquiry*, pp. 85–87</a>. Bingham, *Antiquities of the Christian Church*, book iii. c. 4.
 
