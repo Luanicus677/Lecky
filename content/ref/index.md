@@ -413,6 +413,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Socrates Scholasticus, in Bohn’s translation. The monk Ammon, carried over a river by an angel so that he need not undress (IV.23), and the eighty clergy burnt at sea by Valens (IV.16). Cited in ch. II, note 2, and vol. II, ch. IV, note 12.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="guizot-histoire-de-la-civilisation.html">Guizot, <em>Histoire de la civilisation en France</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Leçon XVII: the Bollandist collection, and Guizot’s count of the saints’ lives for April (1,472), from which he estimated “more than 25,000” in all. Cited in ch. II, note 5.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="locke-commonplace-book-miracles.html">Locke’s Commonplace Book on Inspiration and Miracles</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">A miracle against reason is “one miracle against another” (King’s Life of Locke, 1830, pp. 231–232), cited in ch. II, note 12.</div>
 </li>
