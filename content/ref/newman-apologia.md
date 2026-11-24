@@ -1,0 +1,37 @@
+---
+title: Newman, Apologia pro Vita Sua
+description: "John Henry Newman’s Apologia pro Vita Sua (London, 1864), Appendix, § 8 “Lying and Equivocation”, p. 77: the Greek Fathers held that with a justa causa an untruth need not be a lie, and counted “zeal for God’s honour” among the just causes. Quoted by Lecky in Chapter IV, note 38."
+heading: Newman, <em>Apologia pro Vita Sua</em>
+subtitle: "When is an untruth not a lie? Newman’s answer, and the emphasis Lecky added"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/John_Henry_Newman\">John Henry Newman</a> (1801–1890). The <em>Apologia</em> was his reply to <a href=\"https://en.wikipedia.org/wiki/Charles_Kingsley\">Charles Kingsley</a>’s pamphlet “What, then, does Dr. Newman mean?” (the title page names it), which had accused him of indifference to truth."]
+  - ["Edition used", "The first edition, London: Longman, Green, Longman, Roberts, and Green, 1864: Internet Archive <a href=\"https://archive.org/details/apologiaprovitas00newm\">apologiaprovitas00newm</a> (a Princeton copy). The Appendix is paged separately; its § 8, “Lying and Equivocation”, begins on p. 72 (<a href=\"https://archive.org/details/apologiaprovitas00newm/page/n511/mode/2up\">n511</a>); p. 77 = <a href=\"https://archive.org/details/apologiaprovitas00newm/page/n516/mode/2up\">n516</a>; title page <a href=\"https://archive.org/details/apologiaprovitas00newm/page/n4/mode/2up\">n4</a>. Lecky’s “Appendix, p. 77” fits this edition."]
+  - ["Cited in", "Rationalism, ch. IV, <a href=\"../rationalism/vol1-ch4.html#fn38\">note 38</a>, which follows his note on Chrysostom’s “panegyric on the habit of telling lies” and Augustine (<a href=\"chrysostom-de-sacerdotio.html\">Chrysostom</a>, <a href=\"augustine-contra-mendacium.html\">Augustine</a>)."]
+  - ["Status", "Read on the page image: Appendix p. 77, and pp. 72 and 78 in the OCR."]
+abstract: |
+  <p>In 1864 Charles Kingsley accused Newman, in print, of indifference to truth, and Newman answered with the <em>Apologia</em>, including an appendix on “Lying and Equivocation”. Lecky, who had just written that the Fathers praised pious lies, read it and found “nothing to alter”. He quotes Newman’s history of the question: the Greek Fathers held that, with a <i>justa causa</i>, an untruth need not be a lie; Augustine held that every untruth is a lie; and the Greek Fathers’ just causes were “self-defence, charity, zeal for God’s honour, and the like”. Newman prints those words in plain type. The italics on “zeal for God’s honour” are Lecky’s, and so is the conclusion that it “would include all of what are commonly termed pious frauds”. Newman draws no such conclusion: his next paragraph gives Augustine’s and the Anglican divines’ just causes, defence of life and honour, the keeping of a secret, the preservation of property, the good of others.</p>
+---
+<section id="lying-77" class="passage">
+<h2>“The Greek Fathers thought that, when there was a justa causa, an untruth need not be a lie” (Appendix, p. 77)</h2>
+<p class="passage-source">English: London 1864, Appendix § 8, “Lying and Equivocation”, p. 77, <a href="https://archive.org/details/apologiaprovitas00newm/page/n516/mode/2up">scan n516</a>. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/newman-1864-title.jpg"><img src="../assets/img/ref/newman-1864-title.jpg" alt="Title page: “Apologia pro vita sua: being a reply to a pamphlet entitled ‘What, then, does Dr. Newman mean?’ … By John Henry Newman, D.D. London: Longman, Green, Longman, Roberts, and Green. 1864”" loading="lazy"></a><figcaption>Title page, London 1864 (with a Princeton library stamp). <span class="credit"><a href="https://archive.org/details/apologiaprovitas00newm/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+<blockquote>
+<p>And now I think the historical course of thought upon the matter has been this: <span class="cited-passage">the Greek Fathers thought that, when there was a <i>justa causa</i>, an untruth need not be a lie. St. Augustine took another view, though with great misgiving; and, whether he is rightly interpreted or not, is the doctor of the great and common view that all untruths are lies, and that there can be <i>no</i> just cause of untruth.</span> In these later times, this doctrine has been found difficult to work, and it has been largely taught that, though all untruths are lies, yet that certain equivocations, when there is a just cause, are not untruths.</p>
+<p>Further, there have been and all along through these later ages, other schools, running parallel with the above mentioned, one of which says that equivocations, &amp;c. after all <i>are</i> lies, and another which says that there are untruths which are not lies.</p>
+<p><span class="cited-passage">And now as to the “just cause,”</span> which is the condition, <i>sine quâ non</i>. <span class="cited-passage">The Greek Fathers make them such as these, self-defence, charity, zeal for God’s honour, and the like.</span></p>
+<p>St. Augustine seems to deal with the same “just causes” as the Greek Fathers, even though he does not allow of their availableness as depriving untruths, spoken with such objects, of their sinfulness. He [p. 78] mentions defence of life and of honour, and the safe custody of a secret. Also the Anglican writers, who have followed the Greek Fathers, in defending untruths when there is the “just cause,” consider that just cause to be such as the preservation of life and property, defence of law, the good of others. …</p>
+</blockquote>
+<figure class="facsimile"><a href="../assets/img/ref/newman-1864-app-p77.jpg"><img src="../assets/img/ref/newman-1864-app-p77.jpg" alt="Printed page: “And now I think the historical course of thought upon the matter has been this: the Greek Fathers thought that, when there was a justa causa, an untruth need not be a lie … The Greek Fathers make them such as these, self-defence, charity, zeal for God’s honour, and the like.”" loading="lazy"></a><figcaption>Newman, <em>Apologia</em>, 1864, Appendix p. 77: “justa causa” and “no” in italics, “zeal for God’s honour” in roman. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<table class="collation">
+<tr><th>Newman (1864, App. p. 77)</th><th>Lecky (ch. IV, note 38)</th></tr>
+<tr><td>though with great misgiving; and,</td><td>though with great misgiving, and,</td></tr>
+<tr><td>there can be <i>no</i> just cause</td><td>there can be <i>no</i> just cause</td></tr>
+<tr><td>In these later times … which are not lies. (two sentences and a paragraph)</td><td>. . . .</td></tr>
+<tr><td>And now as to the “just cause,” which is the condition, <i>sine quâ non</i>. The Greek Fathers make them such as these, self-defence,</td><td>Now, as to the just cause, the Greek Fathers make them such as these—self-defence,</td></tr>
+<tr><td>zeal for God’s honour (roman type)</td><td><i>zeal for God’s honour</i> (italics, Lecky’s)</td></tr>
+</table>
+<p>The words are Newman’s, with two sentences joined and his clause on the <i>sine quâ non</i> dropped without a mark. The italics Lecky gives to “zeal for God’s honour” are his own emphasis and are not marked as such. His closing remark, that this “would include all of what are commonly termed pious frauds”, is his inference; Newman does not discuss pious frauds on these pages.</p>
+</section>
