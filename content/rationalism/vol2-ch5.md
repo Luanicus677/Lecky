@@ -583,7 +583,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^88]: Homilies on Wilful Rebellion and on Obedience. The same doctrines were laid down in the Canons of Convocation in 1606, and by the University of Oxford in 1622, when censuring a preacher named Knight, who had said that subjects oppressed on account of religion might sometimes resist. (<a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#knight-1622">Hallam, Const. Hist., vol. i. p. 415</a>.)
 
-[^89]: Ductor Dubitantium, lib. iii. cap. iii. Ussher, who was perhaps still more competent than Taylor to express the sentiments of the Fathers, was at least equally emphatic. See Elrington's Life of Ussher, vol. i. p. 239. Berkeley made an ingenious attempt to show that passive obedience was ordained by the law of nature: see his Discourse on Passive Obedience.
+[^89]: Ductor Dubitantium, lib. iii. cap. iii. Ussher, who was perhaps still more competent than Taylor to express the sentiments of the Fathers, was at least equally emphatic. See <a class="popup-ref" href="../ref/elrington-life-of-ussher.html#war-unjust-239">Elrington's Life of Ussher</a>, vol. i. p. 239. Berkeley made an ingenious attempt to show that passive obedience was ordained by the law of nature: see his Discourse on Passive Obedience.
 
 [^90]: In the clause that it was not lawful 'on any pretence whatever to take up arms against the king.' This clause was expunged at the Revolution (Allen's Hist. of Royal Prerogative in England, p. 89). Magna Charta had declared that kings who violated it might be resisted.
 

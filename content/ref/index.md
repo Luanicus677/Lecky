@@ -633,6 +633,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The Huguenot case for resisting tyrants (1579). Elijah’s people put the priests of Baal to death “by public authority, a council having been held” (pp. 38–39 of Lecky’s 1610 edition). Cited in vol. II, ch. V, notes 112–116.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="elrington-life-of-ussher.html">Elrington, <em>Life of Ussher</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The Irish bishops’ judgment of 1626: toleration of Catholics “is a grievous sin” (p. 73); and Ussher in the Civil War: “war made by subjects, though really intending such an end, is unjust” (p. 239). Dublin 1847, vol. I, Lecky’s pages. Cited in vol. II, ch. IV, note 47, and ch. V, note 89.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montesquieu-esprit-des-lois-xxi-20.html">Montesquieu, <em>De l’esprit des lois</em>, XXI, 20</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Nous devons aux spéculations des scholastiques tous les malheurs …”, quoted in ch. VI, note 39. Compared with a Wikisource text; accurate.</div>
 </li>
