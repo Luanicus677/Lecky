@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Hugh_Farmer\">Hugh Farmer</a> (1714–1787), English dissenting minister. The <em>Dissertation</em> was answered, among others, by John Fell."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Hugh_Farmer\">Hugh Farmer</a> (1714–1787), English dissenting minister."]
   - ["Edition used", "First edition, London: T. Cadell and J. Buckland, 1771 (Google scan): Internet Archive <a href=\"https://archive.org/details/adissertationon02farmgoog\">adissertationon02farmgoog</a>; title page <a href=\"https://archive.org/details/adissertationon02farmgoog/page/n11/mode/2up\">n11</a>, Preface p. i = <a href=\"https://archive.org/details/adissertationon02farmgoog/page/n13/mode/2up\">n13</a>. Another copy of 1771 (microfilm): <a href=\"https://archive.org/details/bim_eighteenth-century_a-dissertation-on-miracl_farmer-hugh_1771\">bim_…_farmer-hugh_1771</a>. Lecky gives no page."]
   - ["Cited in", "Rationalism, ch. II, <a href=\"../rationalism/vol1-ch2.html#fn13\">note 13</a>."]
   - ["Status", "Read on the page images: title page and Preface p. i."]
