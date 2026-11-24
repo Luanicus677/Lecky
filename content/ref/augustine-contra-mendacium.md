@@ -18,6 +18,7 @@ abstract: |
 <h2>Not to Catch Heretics by Lying (c. 1 § 1, col. 519)</h2>
 
 <p class="passage-source">Latin: Migne, <em>PL</em> 40, col. 519 (<a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40/page/n261/mode/2up">scan</a>). Ligatures expanded (<em>æ</em> as <em>ae</em>); <em>j</em> printed as <em>i</em>; scriptural references in the text omitted. The extract starts in mid-sentence, as the column does, and omits the opening of § 1 (col. 517–518), where Augustine thanks Consentius for his letters. <span class="cited-passage">Highlighted</span>: the sentence that states the thesis, which is what Lecky refers to as Augustine’s objection to Catholics’ lying to discover heretics.</p>
+<figure class="title-page"><a href="../assets/img/ref/pl40-title.jpg"><img src="../assets/img/ref/pl40-title.jpg" alt="Title page: “Sancti Aurelii Augustini … opera omnia … Tomus sextus. Parisiis”" loading="lazy"></a><figcaption>Title page of Augustine’s works, tome VI, in Migne’s <em>Patrologia Latina</em> (tome XL). <span class="credit"><a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40/page/n2/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">
