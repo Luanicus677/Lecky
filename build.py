@@ -189,12 +189,21 @@ def collect_refmeta():
     for src in sorted((CONTENT / "ref").glob("*.md")):
         if src.stem == "index":
             continue
-        meta, _ = parse_source(src)
+        meta, body = parse_source(src)
         abstract = re.sub(r"\s+", " ", strip_tags(meta.get("abstract")))
         first = re.split(r"(?<=[.!?\u201d])\s+(?=[A-Z\u201c])", abstract)[0] if abstract else ""
         if len(first) > 280:
             first = first[:277].rsplit(" ", 1)[0] + "\u2026"
+        thumb = None
+        for cls in ("title-page", "facsimile"):
+            m = re.search(r'<figure class="[^"]*\b' + cls + r'\b[^"]*">.*?<img src="\.\./assets/img/ref/([^"]+)"', body, re.S)
+            if m:
+                name = Path(m.group(1)).with_suffix(".jpg").name
+                if (ROOT / "assets" / "img" / "ref" / "thumbs" / name).exists():
+                    thumb = name
+                break
         REFMETA[src.stem] = {
+            "thumb": thumb,
             "title": strip_tags(meta.get("heading") or meta.get("title") or src.stem),
             "subtitle": strip_tags(meta.get("subtitle")),
             "teaser": first,
@@ -202,8 +211,12 @@ def collect_refmeta():
     for stem in CHAPTER_ORDER:
         path = CONTENT / "rationalism" / f"{stem}.md"
         if path.exists():
-            meta, _ = parse_source(path)
-            CHAPTERS.append((stem, strip_tags(re.split(r"<br>", str(meta.get("heading") or meta.get("title")))[0])))
+            meta, body = parse_source(path)
+            parts = [strip_tags(s) for s in re.split(r"<br>", str(meta.get("heading") or meta.get("title")))]
+            name = ": ".join(s for s in parts if s).replace("&mdash;", "\u2014")
+            text = re.sub(r"^\[\^\d+\]:.*$", "", body, flags=re.M)      # main text only
+            words = len(strip_tags(text).split())
+            CHAPTERS.append((stem, name, words))
 
 
 def related_sources(slug, k=6):
@@ -234,13 +247,28 @@ def source_item(slug, prefix=""):
     return f'<li><a class="popup-ref" href="{prefix}{slug}.html">{m["title"]}</a>{sub}</li>'
 
 
+def source_card(slug, prefix=""):
+    """A source as a small card: a crop of its old printed page (or a large
+    initial when it has no picture), its title and plain-English subtitle."""
+    m = REFMETA[slug]
+    if m.get("thumb"):
+        pic = (f'<img src="../assets/img/ref/thumbs/{m["thumb"]}" alt="" loading="lazy" '
+               f'width="180" height="120">')
+    else:
+        initial = re.sub(r"[^A-Za-z\u00c0-\u024f]", "", m["title"])[:1] or "\u00b6"
+        pic = f'<span class="rh-noimg">{initial}</span>'
+    sub = f'<span class="rh-sub">{m["subtitle"]}</span>' if m["subtitle"] else ""
+    return (f'<li><a class="rh-pic" href="{prefix}{slug}.html" tabindex="-1" aria-hidden="true">{pic}</a>'
+            f'<a class="popup-ref rh-title" href="{prefix}{slug}.html">{m["title"]}</a>{sub}</li>')
+
+
 def rabbit_hole_html(slug):
     rel = related_sources(slug)
     if not rel:
         return ""
     return ('<section id="rabbit-hole" class="rabbit-hole"><h2>Further down the rabbit hole</h2>'
-            '<p class="rabbit-intro">Sources that Lecky cites in the notes next to the ones that cite this page.</p><ul>'
-            + "".join(source_item(t) for t in rel) +
+            '<p class="rabbit-intro">Sources that Lecky cites in the notes next to the ones that cite this page.</p><ul class="rh-cards">'
+            + "".join(source_card(t) for t in rel) +
             '</ul><p class="rabbit-random"><a class="random-source" href="index.html">Or jump to a random source \u2192</a></p></section>\n')
 
 
@@ -254,15 +282,18 @@ def chapter_next_html(stem):
                 if slug in REFMETA:
                     counts[slug] = counts.get(slug, 0) + 1
     top = sorted(counts, key=lambda t: (-counts[t], REFMETA[t]["title"]))[:6]
-    order = [st for st, _ in CHAPTERS]
+    order = [c[0] for c in CHAPTERS]
     nxt = ""
     if stem in order and order.index(stem) + 1 < len(order):
-        n_stem, n_title = CHAPTERS[order.index(stem) + 1]
-        nxt = f'<p class="next-chapter">Next: <a href="{n_stem}.html">{n_title}</a> \u2192</p>'
+        n_stem, n_title, n_words = CHAPTERS[order.index(stem) + 1]
+        mins = round(n_words / 250 / 5) * 5          # at 250 words a minute
+        took = f"about {mins} minutes" if mins < 90 else f"about {round(mins / 60 * 2) / 2:g} hours"
+        nxt = (f'<p class="next-chapter">Next: <a href="{n_stem}.html">{n_title}</a> \u2192'
+               f'<span class="rh-sub">{n_words:,} words, {took} of reading, not counting the notes</span></p>')
     srcs = ""
     if top:
-        srcs = ('<p class="chapter-next-intro">The sources this chapter cites most, with the passages transcribed:</p><ul>'
-                + "".join(source_item(t, "../ref/") for t in top) + "</ul>")
+        srcs = ('<p class="chapter-next-intro">The sources this chapter cites most, with the passages transcribed:</p><ul class="rh-cards">'
+                + "".join(source_card(t, "../ref/") for t in top) + "</ul>")
     if not (nxt or srcs):
         return ""
     return f'<nav class="chapter-next" aria-label="Where next">{nxt}{srcs}<p class="rabbit-random"><a class="random-source" href="../ref/index.html">A random source \u2192</a></p></nav>\n'

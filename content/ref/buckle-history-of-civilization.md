@@ -2,7 +2,7 @@
 title: Buckle, History of Civilization in England
 description: "Henry Thomas Buckle’s argument (1857) that farmers are more superstitious than manufacturers because their livelihood depends on the weather, which Lecky cites in Chapter VI, note 167, and the footnote on the Spanish opera and drought (p. 347) cited in note 150. Lecky’s paraphrase is accurate."
 heading: Buckle, <em>History of Civilization in England</em>
-subtitle: "Weather, superstition and the town (pp. 344–347)"
+subtitle: "Weather and credulity, and the Scottish clergy’s Devil who had been studying for five thousand years"
 back_link:
   url: index.html
   text: Sources

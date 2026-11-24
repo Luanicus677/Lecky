@@ -1380,3 +1380,18 @@ ul.curiosities li strong { font-variant: small-caps; letter-spacing: 0.02em; }
 .start-here a.start-card:hover { border-color: var(--fg-muted); background: var(--sidenote-bg); }
 .start-card strong { display: block; font-variant: small-caps; font-size: 1.05rem; margin-bottom: 0.25em; color: var(--fg); }
 .start-card span { display: block; color: var(--fg-muted); font-size: 0.88rem; line-height: 1.35; }
+/* rabbit-hole cards: a crop of the old printed page above each title */
+.rabbit-hole ul.rh-cards, .chapter-next ul.rh-cards {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5em, 1fr)); gap: 1rem 0.9rem; margin: 0.6em 0 0.4em;
+}
+ul.rh-cards li { margin: 0; font-size: 0.9rem; }
+ul.rh-cards a.rh-pic { display: block; margin-bottom: 0.35em; border: 1px solid var(--border); line-height: 0; background: var(--bg); }
+ul.rh-cards a.rh-pic img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; display: block; filter: grayscale(0.35) contrast(1.05); }
+ul.rh-cards a.rh-pic:hover img { filter: none; }
+ul.rh-cards .rh-noimg {
+  display: flex; align-items: center; justify-content: center; aspect-ratio: 3 / 2; line-height: 1;
+  font-family: "UnifrakturMaguntia", serif; font-size: 3.2rem; color: var(--fg-faint);
+}
+ul.rh-cards .rh-sub { font-size: 0.85em; line-height: 1.3; margin-top: 0.15em; }
+ul.rh-cards a::after { display: none !important; }
+ul.rh-cards a.rh-pic { text-decoration: none; background-image: none; }
