@@ -563,6 +563,11 @@ Notes for continuing:
   n56-n57, lettuce). Sections added: knox-appellation pp. 500 (n511), 515 (n526) for vol2-ch4 n59; tertullian-de-spectaculis ch. 26 (PL 1
   cols. 657-658 = n346; ch. I n23). Corrections found on title pages: Laing's scan is the 1842 first ed.; Friedberg's is the 1955 Graz reprint.
   Still unlinked in ch. II: notes 7 (Muzarelli), 13 (Farmer), 16, 17 (Strauss, not found), 21 (Rose), 22-23 (Aids to Faith), 25.
+  Also: cudworth-true-intellectual-system #psellus-bodies (1743 vol. II p. 702 = n75; ch. I n48). Dead ends (24 Nov): Melanchthon De anima
+  p. 420 (ch. III n173; no scan found by title search); Stewart's Dissertation p. 57 (ch. I n62, Erasmus a believer in witchcraft): NOT in
+  the 1824 printing `dissertationfirs01stewuoft` (its witchcraft passages are on Bodin, More, Glanvill); the 1854 Works vol. I
+  `india.history.resource.53470` has no text file. Site-wide internal link check (all href + #anchors in docs/) found 1 broken link
+  (fixed); rerun it after big edits (script idea: collect ids per file, resolve each relative href).
 
 ## Readability layer (headings, synopses, figures)
 
