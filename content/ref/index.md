@@ -81,6 +81,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Augustine’s refusal to catch heretics by lying, and his charge that the Priscillianists teach lying as a doctrine (<em>PL</em> 40, cols. 519–520), in Latin and English, compared with Lecky and set beside Chrysostom. Cited in <em>Rationalism</em>, ch. IV, note 37.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="augustine-letters-on-coercion.html">Augustine, <em>Letters</em> 93 and 185</a><span class="work-status">2 passages</span></div>
+<div class="work-desc">How Augustine came to approve the coercion of heretics: “my opinion at first was that no one should be coerced into the unity of Christ” (Ep. 93), and the kings who served God by punishing idolatry (Ep. 185, to Boniface). Migne PL 33. Cited in vol. II, ch. IV, notes 27–28.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="tertullian-de-spectaculis.html">Tertullian, <em>De spectaculis</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Tertullian’s picture of the Christians watching the damned in the fire (ch. 30), in Latin and English from Migne, with Lecky’s Latin quotation collated word by word; and the woman who came home from the theatre possessed, the demon having “found her in its own domain” (ch. 26). Cited in <em>Rationalism</em>, ch. III, note 152, and ch. I, note 23.</div>
 </li>
