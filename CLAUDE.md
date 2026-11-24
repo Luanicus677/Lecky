@@ -503,6 +503,14 @@ Notes for continuing:
   A detector over all notes (unaccented French words outside translations) now finds nothing in ch. VI. Latin notes 25-27, 36, 46, 49, 57, 70
   still only grammar-checked.
 
+- 24 Nov (late): + wier-de-praestigiis-daemonum (Basel: Oporinus 1568 `bub_gb_TgQ6AAAAcAAJ`, BSB copy: dedication n6, canon 61 of Trullo
+  'qui ursas ... ad lusum & perniciem simpliciorum' p. 578 = n581; ch. I n74, Lecky 'p. 557' NOT matched: `bub_gb_rggcGAxZ9asC` p. 557 = n561
+  (Jovial hammers; canon ~p. 566), 1583 `per_witchcraft-in-europe-and-america_wier-johann_1583` is in COLUMNS (cols. 557-558 = n284, book V;
+  cols. 611-612 = n311). Try the 1563/1564/1566 printings or the 1660 Opera next.) + bodin #f107-priests (f. 107 = n240; numbered side is the
+  'Livre second' page) and #f108v-cochemares (n243), ch. I n21. + dalyell #fire-matches-657 (n673), #accused-1662 (n685). + blanqui #ch20 (p. 244 =
+  n275), #ch21 (p. 271 = n302): Lecky's ranges = Blanqui's chapters XX and XXI. + champagny-charite-chretienne (Paris: Douniol 1854,
+  `lacharitechreti00chamgoog`, image = page+19, 'Défense du travail' pp. 275-289, Augustine De opere monachorum p. 279 = n298, title n12).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:

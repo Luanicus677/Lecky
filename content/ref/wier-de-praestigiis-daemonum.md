@@ -1,0 +1,38 @@
+---
+title: Wier, De praestigiis daemonum
+description: "Johann Wier (Weyer), De praestigiis daemonum (Basel: Oporinus, 1568): the dedication to Duke William of Cleves, and the canon against those who lead bears about ‘for the sport and ruin of simple folk’, which Lecky quotes in Chapter I, note 74 (his ‘p. 557’; p. 578 in this printing)."
+heading: Wier, <em>De praestigiis daemonum</em>
+subtitle: "The physician who doubted the witches, and the council that banned dancing bears"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Johann_Weyer\">Johann Wier (Weyer)</a> (1515–1588), physician to Duke William of Cleves. Lecky’s Chapter I has a section on him (“The First Sceptics: Wier and Bodin”)."]
+  - ["Edition used", "<em>De praestigiis daemonum, et incantationibus ac veneficiis libri sex, aucti et recogniti</em>, Basel: Oporinus, 1568 (Bavarian State Library copy, Google Books scan): Internet Archive <a href=\"https://archive.org/details/bub_gb_TgQ6AAAAcAAJ\">bub_gb_TgQ6AAAAcAAJ</a>; dedication <a href=\"https://archive.org/details/bub_gb_TgQ6AAAAcAAJ/page/n6/mode/2up\">n6</a>, p. 578 = <a href=\"https://archive.org/details/bub_gb_TgQ6AAAAcAAJ/page/n581/mode/2up\">n581</a>. <strong>Lecky’s “p. 557” does not fit</strong> the three printings checked: in this one the canon is on p. 578; in another Basel printing (<a href=\"https://archive.org/details/bub_gb_rggcGAxZ9asC\">bub_gb_rggcGAxZ9asC</a>) p. 557 is about the hammers of Jupiter and the canon falls about p. 566; the 1583 “postrema editio” (<a href=\"https://archive.org/details/per_witchcraft-in-europe-and-america_wier-johann_1583\">per_witchcraft-in-europe-and-america_wier-johann_1583</a>) is numbered by columns, and col. 557 is in book V. Lecky’s edition is not identified."]
+  - ["Cited in", "Rationalism, ch. I, <a href=\"../rationalism/vol1-ch1.html#fn74\">note 74</a>; Wier’s book is discussed in the text of ch. I (section “Wier”) without page references."]
+  - ["Status", "Read on the page images: the dedication and p. 578. Translations are this edition’s drafts."]
+abstract: |
+  <p>Lecky quotes, from Wier, an old council that anathematised in one breath magicians, fortune-tellers and “those who lead about bears or similar beasts for the sport and ruin of simple folk”, because “what fellowship can there be between Christ and Belial?” The council is the Council in Trullo (692), canon 61, which Wier copies into his chapter on the penalties for “infamous magicians”. Lecky’s Latin differs from Wier’s in two words (“ludum … simplicium” for Wier’s “lusum … simpliciorum”), and his page number fits none of the editions found.</p>
+  <p>Wier, physician to Duke William of Cleves, dedicated the book to him; it was the most important sixteenth-century attack on the witch trials, which is why Bodin answered it with such fury.</p>
+---
+<section id="bears-canon" class="passage">
+<h2>The canon against bear-leaders and fortune-tellers (Basel 1568, p. 578)</h2>
+<p class="passage-source">Latin: Basel 1568, the chapter on the penalties of “infamous magicians” (running head “De mag. infam. pœnis”), p. 578, <a href="https://archive.org/details/bub_gb_TgQ6AAAAcAAJ/page/n581/mode/2up">scan n581</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/wier-1568-p578.jpg"><img src="../assets/img/ref/wier-1568-p578.jpg" alt="Printed Latin: “Canon 61. de sortilegis damnandis: Qui se uatibus tradiderunt … Eidem pœnæ subijcere oportet eos, qui ursas aut similes bestias ad lusum & perniciem simpliciorum circumferunt … Nam quæ luci cum tenebris communio? aut quæ concordia Christi & Belial?”" loading="lazy"></a><figcaption>Wier, <em>De praestigiis daemonum</em>, Basel 1568, p. 578. <span class="credit">Scan: Internet Archive (Google Books, Bavarian State Library) · public domain</span></figcaption></figure>
+<figure class="title-page"><a href="../assets/img/ref/wier-1568-dedication.jpg"><img src="../assets/img/ref/wier-1568-dedication.jpg" alt="Printed dedication: “Illustrissimo atque excellentissimo Principi ac Domino, D. Gulielmo Cliviæ, Iuliæ et Mont. Duci … suo Domino Clementissimo … Ioannes Vvierus medicus.”" loading="lazy"></a><figcaption>Wier’s dedication to Duke William of Cleves, “Ioannes Vvierus medicus”. <span class="credit"><a href="https://archive.org/details/bub_gb_TgQ6AAAAcAAJ/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="la">
+<p>Canon 61. de sortilegis damnandis: Qui se uatibus tradiderunt, uel ijs qui Centuriones dicuntur, aut ijs similibus, ut ab illis discant, si quid sibi reuelari uelint, secundum ea quæ prius à patribus sunt sancita, Canoni qui est de sexennio subijciantur. <span class="cited-passage">Eidem pœnæ subijcere oportet eos, qui ursas aut similes bestias ad lusum & perniciem simpliciorum circumferunt</span>: & eos qui fortunam, fatum, genealogiam, aut similium uerborum turbam ad nugas deceptorias obloquuntur: eosque qui nubes fugare dicuntur, & imprecatores & amuletarios & uates. In his autem perseuerantes, nec mutantes sententiam, nec fugientes hæc perniciosa & ethnica instituta, omnino deijciendos ab Ecclesia definimus, sicut sacri Canones dicunt. <span class="cited-passage">Nam quæ luci cum tenebris communio? aut quæ concordia Christi & Belial?</span></p>
+</div>
+<div class="rendering" lang="en">
+<p>Canon 61, on condemning sorcerers: Those who have given themselves over to soothsayers, or to those called “centurions”, or the like, to learn from them what they wish to have revealed, shall be subject, according to what the Fathers decreed earlier, to the canon of six years’ penance. <span class="cited-passage">The same penalty must be laid on those who lead about bears or similar beasts for the sport and ruin of simple folk</span>, and on those who prate of fortune, fate, genealogy and a crowd of such words, to deceive with trifles; and on those called cloud-chasers, and the cursers, the amulet-makers and the diviners. Those who persist in these things, and do not change their minds or flee these pernicious and heathen practices, we decree are to be cast out of the Church altogether, as the sacred canons say. <span class="cited-passage">For what communion has light with darkness? or what concord has Christ with Belial?</span></p>
+</div>
+</div>
+<table class="collation">
+<tr><th>Wier (1568, p. 578)</th><th>Lecky (ch. I, note 74)</th></tr>
+<tr><td>qui ursas aut similes bestias</td><td>qui ursas aut similes bestias</td></tr>
+<tr><td>ad lusum &amp; perniciem simpliciorum</td><td>ad ludum et perniciem simplicium</td></tr>
+<tr><td>circumferunt</td><td>circumferunt</td></tr>
+</table>
+<p>Lecky’s ch. I note 74: “Dancing bears and other intelligent animals seem to have been also connected with the Devil; and an old council anathematised at once magicians who have abandoned their Creator, fortune-tellers, and those ‘qui ursas aut similes bestias ad ludum et perniciem simplicium circumferunt’ — ‘for what fellowship can there be between Christ and Belial.’ (Wier, <i>de Præst. Dæm.</i> p. 557.)” Wier heads it only “Canon 61”; it is canon 61 of the Council in Trullo (Constantinople, 692), quoted in a Latin version. Lecky’s two variants (“ludum”, “simplicium”) mean the same; whether they come from his edition of Wier or from his memory is not settled, since his edition has not been found. The words “magicians who have abandoned their Creator” paraphrase the sentence just before the canon on the same page (“qui relicto creatore suo, diaboli suffragia quærunt”, “who, abandoning their Creator, seek the Devil’s help”).</p>
+</section>

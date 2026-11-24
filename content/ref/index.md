@@ -653,4 +653,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="champagny-charite-chretienne.html">Champagny, <em>La Charité chrétienne</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Franz de Champagny, Paris 1854. The section “Défense du travail” behind Lecky’s Fathers who “employed all their eloquence in favour of labour”, with Augustine scolding idle monks: “senators labouring in the cells, artisans at rest!”</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="wier-de-praestigiis-daemonum.html">Wier, <em>De praestigiis daemonum</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Johann Wier, Basel 1568: the old canon (Trullo, 692) against bear-leaders, fortune-tellers and cloud-chasers that Lecky quotes, and the dedication to Duke William of Cleves. Lecky’s page fits none of the three editions found.</div>
+</li>
 </ul>
