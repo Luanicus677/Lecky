@@ -238,8 +238,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The stern Christ of the Last Judgment (p. 262, ch. I note 52) and the souls of the just in the hand of God (p. 216, ch. III note 169). Lecky’s renderings are free.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="michelet-la-sorciere.html">Michelet, <em>La Sorcière</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">The last burnings of witches (Spain 1782, Germany 1751, Switzerland 1781), cited in ch. I, note 50. Michelet’s 1782 is Spain’s, not Switzerland’s; Lecky’s page number does not fit the printing read.</div>
+<div class="work-title"><a class="popup-ref" href="michelet-la-sorciere.html">Michelet, <em>La Sorcière</em></a><span class="work-status">4 passages</span></div>
+<div class="work-desc">Jules Michelet, Paris 1862 (Lecky’s edition). Two contradictory counts of the German burnings (Bamberg 1,500 or 600, Würzburg 800 or 900), from which Lecky took one figure each; Geneva’s 500 in three months; the old gods carried round as rag dolls; and the last burnings (Spain 1782, Switzerland 1781).</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="augustine-de-natura-et-gratia.html">Augustine, <em>De natura et gratia</em></a><span class="work-status">1 passage</span></div>

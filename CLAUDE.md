@@ -482,6 +482,12 @@ Notes for continuing:
   `constitutionalhi02halliala` p. 466 = n479 Oxford decree 1683, burned 1709, vol2-ch5 n91 'pp. 459-465'). Lecky's 'soon afterwards' for the
   1709 burning is on lecky-and-his-sources.md. Hallam notes still unchecked: vol2-ch4 n45-46 (Const. Hist., no pages), n61, vol2-ch5 n33, n78, vol2-ch6 n136 (no pages).
 
+- 24 Nov: MICHELET 1862 first ed. `lasorcire00mich` page images NOW LOAD (earlier they returned HTML): image = page+33 (p. x = n17, Introd.
+  xvi = n23), title n10. ALL Lecky's pages match: 'p. 10' = p. x (Trèves 7000, Würzburg 800, Bamberg 1500), p. 206 = n239 (Geneva 500 in 3 months
+  1515; Bamberg 600, Würzburg 900), p. 36 note = n69 (old gods as dolls; 'En 1389', OCR misreads 1589), p. 415 = n448. Lecky's 'Bamberg 600 /
+  Würzburg 800 in a single year' mixes the two counts (on lecky-and-his-sources.md). Notes 55 and ch. III 133 (no pages) not identified.
+  Crop with gspan.py + the item's _djvu.xml: eye estimates from the Read tool's thumbnails are unreliable.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
