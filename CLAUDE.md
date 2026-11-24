@@ -522,6 +522,29 @@ Notes for continuing:
   checked there. Hutchinson's 'catalogue' of works (ch. I note 133) not located in the 1720 OCR (the 'Catalogue of the Principles' at ~p. 75
   is something else). ENGLISH toggle: translations render collapsed behind an 'English' chip (site design).
 
+## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
+
+- build.py builds, from the footnote links (`NOTE_REFS`: (chapter stem, note) -> source slugs) and `REFMETA` (title, plain-English
+  subtitle, first sentence of the abstract, thumbnail), these generated blocks:
+  - 'Further down the rabbit hole' at the foot of every source page: up to 6 other sources cited within 4 notes of the notes citing
+    this page (score 1/(1+distance)), padded with same-chapter sources. Shown as picture cards (`ul.rh-cards`).
+  - 'Where next' at the end of each chapter: the next chapter with its word count and reading time (250 wpm, main text only), and
+    the chapter's 6 most-cited sources as cards.
+  - `docs/assets/js/sources.js` (list of all source pages) for the Random nav link and every `a.random-source` (assets/js/random.js).
+  - HTML-comment placeholders: `<!-- SOURCE-GALLERY -->` (old-books.md, all pages with a picture), `<!-- SOURCES-BY-CHAPTER -->`
+    (ref/index.md, per-chapter lists, most-cited first), `<!-- SOURCE-COUNT -->`, `<!-- GALLERY-COUNT -->` (anywhere, incl. front matter).
+- Thumbnails: `python3 tools/make_thumbs.py` after adding a source page with a picture (360x240 crop of the first `figure.title-page`,
+  else the first `figure.facsimile`, into assets/img/ref/thumbs/). Pages without one show a blackletter initial.
+- `content/curiosities.md` ('A Cabinet of Curiosities', 52 items in 6 sections): each item is 1-3 sentences, CHECKED against the source
+  page's transcribed passage (not just its abstract), ending with `<a class="popup-ref" href="ref/<slug>.html#<section-id>">Author →</a>`.
+  Add items when a new source page has a good nugget. The home page shows 3 random items from it (assets/js/curio.js fetches
+  curiosities.html; the 3 static items in index.md are the fallback) with a 'Three more' button. popups.js exposes
+  `window.leckyBindPopups(root)` for content added after load.
+- Home page: 'Start here' cards (`.start-here a.start-card`), the curiosity box, status. Sources index: filter box (assets/js/filter.js),
+  'Browse by chapter', link to the Old Books gallery.
+- Continue reading (assets/js/progress.js): chapter pages save {page, section, fraction} in localStorage key `lecky-reading-place`;
+  home and Rationalism contents show 'Continue reading … (N% through)'; the link adds `#resume`, which scrolls to the saved place.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
