@@ -621,6 +621,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">“Souhaiter la grandeur de son pays c’est souhaiter du mal à ses voisins”, quoted in ch. VI, note 177. Compared with a Wikisource text; Lecky reverses Voltaire’s order.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="voltaire-lettres-philosophiques-xiv.html">Voltaire, <em>Lettres philosophiques</em>, XIV</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Descartes, driven from Utrecht, accused of atheism, “the last resort of slanderers” (Lanson’s edition). Cited in vol. II, ch. IV, note 56.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montesquieu-esprit-des-lois-xxi-20.html">Montesquieu, <em>De l’esprit des lois</em>, XXI, 20</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Nous devons aux spéculations des scholastiques tous les malheurs …”, quoted in ch. VI, note 39. Compared with a Wikisource text; accurate.</div>
 </li>
