@@ -397,8 +397,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The contemplation of things as they are “more worthy than all the fruit of inventions” (I.129; Spedding’s translation), cited in ch. IV, note 44.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="knox-appellation.html">Knox, <em>The Appellation</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">The English ought to have put Mary, “that Jesabel”, to death (1558; Laing’s Works, vol. IV, p. 507), cited in ch. V, note 82.</div>
+<div class="work-title"><a class="popup-ref" href="knox-appellation.html">Knox, <em>The Appellation</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">The English ought to have put Mary, “that Jesabel”, to death (1558; Laing’s Works, vol. IV, p. 507), cited in ch. V, note 82; and the nobles, armed by God “with the sworde of justice”, must put idolaters to death (pp. 500, 515), quoted in vol. II, ch. IV, note 59.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="locke-commonplace-book-miracles.html">Locke’s Commonplace Book on Inspiration and Miracles</a><span class="work-status">1 passage</span></div>

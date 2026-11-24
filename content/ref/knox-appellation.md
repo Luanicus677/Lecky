@@ -9,8 +9,8 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/John_Knox\">John Knox</a> (c. 1514–1572). The <em>Appellation … to the Nobility, Estates and Commonalty</em> of Scotland (Geneva, 1558), written in the same year as the <a class=\"popup-ref\" href=\"knox-first-blast.html\"><em>First Blast</em></a>, appeals against the sentence of death passed on him in his absence by the Scottish bishops."]
   - ["Edition used", "<em>The Works of John Knox</em>, ed. David Laing, vol. IV, Edinburgh, Wodrow Society (Internet Archive <a href=\"https://archive.org/details/worksofjohnknox04knox\">worksofjohnknox04knox</a>), p. 507 = <a href=\"https://archive.org/details/worksofjohnknox04knox/page/n518/mode/2up\">n518</a>; catalogued as 1846, which is the date of the first volume; the title page of vol. IV was not read."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn82\">Rationalism, ch. V, note 82</a> (“Knox, Appellation”)."]
-  - ["Status", "One passage read on the page image and transcribed."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn82\">Rationalism, ch. V, note 82</a> (“Knox, Appellation”), and vol. II, ch. IV, <a href=\"../rationalism/vol2-ch4.html#fn59\">note 59</a> (pp. 500–515)."]
+  - ["Status", "Read on the page images: pp. 500, 507 and 515."]
 abstract: |
   <p>Lecky quotes Knox as a Protestant who taught resistance to, and even the killing of, idolatrous rulers. The sentence about Mary is exact. What leads up to it is more chilling: wherever a realm has sworn to defend the Gospel, as England had under Edward VI, “it is not only lawful to punish to the death such as labour to subvert the true Religion, but the Magistrates and people are bound so to do, onles they wil provoke the wrath of God against themselves”. The precedent is Joshua and Israel, who resolved to destroy the tribes suspected of apostasy. Knox then breaks off, “compelled to omitt it to better opportunitie”.</p>
 ---
@@ -23,4 +23,31 @@ abstract: |
 <p>But becaus I can not at this present discusse this argument, as it appertaineth, I am compelled to omitt it to better opportunitie …</p>
 </blockquote>
 <p>Lecky ends at “abominations”, leaving out “and his usurped tyrannie”, that is, the Pope’s; his “devillish” is Laing’s “divellish”.</p>
+</section>
+
+<section id="death-500" class="passage">
+<h2>“None provoking the people to idolatrie oght to be exempted from the punishment of death” (p. 500)</h2>
+<p class="passage-source">English: Laing’s edition, vol. IV, p. 500, <a href="https://archive.org/details/worksofjohnknox04knox/page/n511/mode/2up">scan n511</a>. Original spelling. <span class="cited-passage">Highlighted</span>: the opening of Lecky’s quotation in vol. II, ch. IV, note 59.</p>
+<figure class="facsimile"><a href="../assets/img/ref/knox-appellation-p500.jpg"><img src="../assets/img/ref/knox-appellation-p500.jpg" alt="Printed lines: “Hereof your Honours may easely espie, that none provoking the people to idolatrie oght to be exempted from the punishment of death.”" loading="lazy"></a><figcaption>Knox, <em>The Appellation</em>, in Laing’s <em>Works</em>, vol. IV, p. 500. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<blockquote>
+<p>… Hereof your Honours may easely espie, that <span class="cited-passage">none provoking the people to idolatrie oght to be exempted from the punishment of death.</span> For if neither that insepar[able conjunction] …</p>
+</blockquote>
+<p>Lecky’s note 59 begins here, jumps with “. . . .” to the passage on p. 507 transcribed <a href="#jesabel">above</a> (“The whole tribes did in verie dede execute that sharp judgement against the tribe of Benjamin …”), and ends with the appeal on p. 515 <a href="#my-lordes-515">below</a>. His reference is “Knox’s Works, Laing’s edition, vol. iv. pp. 500–515”.</p>
+</section>
+
+<section id="my-lordes-515" class="passage">
+<h2>“My Lordes … God hath armed your handes with the sworde of justice” (p. 515)</h2>
+<p class="passage-source">English: Laing’s edition, vol. IV, p. 515, <a href="https://archive.org/details/worksofjohnknox04knox/page/n526/mode/2up">scan n526</a>. Original spelling. <span class="cited-passage">Highlighted</span>: Lecky’s quotation.</p>
+<figure class="facsimile"><a href="../assets/img/ref/knox-appellation-p515.jpg"><img src="../assets/img/ref/knox-appellation-p515.jpg" alt="Printed page: “And therefore, my Lordes, to return to you, seing that God hath armed your handes with the sworde of justice; seing that his law most streatly commaundeth idolaters and fals prophetes to be punished with death …”" loading="lazy"></a><figcaption>Knox, <em>The Appellation</em>, in Laing’s <em>Works</em>, vol. IV, p. 515. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<blockquote>
+<p>… of Antichrist, of whome we are commaunded to beware. <span class="cited-passage">And therefore, my Lordes, to return to you, seing that God hath armed your handes with the sworde of justice; seing that his law most streatly commaundeth idolaters and fals prophetes to be punished with death; and that you be placed above your subjects to reigne as fathers over theyr children; and further, seing that not only I, but with me manie thousand famous, godlie, and learned persons, accuse your Byshoppes and the whole rabble of the Papistical Clergie, of idolatrie, of murther, and of blasphemie against God committed: it appertaineth to your Honours to be vigilant and carefull in so weghtie a matter. The question is not of earthly substance, but of the glorie of God, and of the salvation of your selves,</span> and of your brethren …</p>
+</blockquote>
+<table class="collation">
+<tr><th>Knox (Laing, vol. IV, p. 515)</th><th>Lecky (vol. II, ch. IV, note 59)</th></tr>
+<tr><td>his law … commaundeth</td><td>His law … commandeth</td></tr>
+<tr><td>over theyr children</td><td>over their children</td></tr>
+<tr><td>so weghtie a matter</td><td>so weightie a matter</td></tr>
+<tr><td>the salvation of your selves, and of your brethren …</td><td>the salvation of yourselves.</td></tr>
+</table>
+<p>Apart from modernised spellings and lighter punctuation (commas for Knox’s semicolons), Lecky’s words are Knox’s. He stops in mid-sentence, closing it with a full stop after “yourselves”, without a mark of omission.</p>
 </section>
