@@ -725,11 +725,11 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^154]: <a class="popup-ref" href="../ref/pitcairn-ancient-criminal-trials-of-scotland.html">Pitcairn</a>.
 
-[^155]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html">Dalyell</a>, p. 657.
+[^155]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#fire-matches-657">Dalyell, p. 657</a>.
 
 [^156]: <a class="popup-ref" href="../ref/pitcairn-ancient-criminal-trials-of-scotland.html">Pitcairn</a>, vol. i. part ii. p. 376. The two cases were in the same trial in 1596.
 
-[^157]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#scotland-669">Dalyell</a>, p. 669.
+[^157]: <a class="popup-ref" href="../ref/dalyell-darker-superstitions.html#accused-1662">Dalyell, p. 669</a>.
 
 [^158]: <a class="popup-ref" href="../ref/pitcairn-ancient-criminal-trials-of-scotland.html">Pitcairn</a>, vol. iii. p. 597.
 

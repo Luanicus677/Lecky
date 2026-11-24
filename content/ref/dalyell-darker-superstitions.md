@@ -72,6 +72,26 @@ abstract: |
 </div>
 </section>
 
+<section id="fire-matches-657" class="passage">
+<h2>Fire-matches (p. 657)</h2>
+<p class="passage-source">English: Edinburgh 1834, p. 657, <a href="https://archive.org/details/darkersuperstit00dalygoog/page/n673/mode/2up">scan n673</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/dalyell-1834-p657.jpg"><img src="../assets/img/ref/dalyell-1834-p657.jpg" alt="Printed: “In 1722, a reputed witch was burnt in the soles of the feet, and executed. Fire matches were frequently used to extort confession.”" loading="lazy"></a><figcaption>Dalyell, p. 657. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<blockquote>
+<p>… Few instruments of punishment can be traced to their origin. The boot is said to have been applied to the slaves destined for the British colonies. In 1722, a reputed witch was burnt in the soles of the feet, and executed. <span class="cited-passage">Fire matches were frequently used to extort confession.</span> Kindling straw under the feet of suspected sorcerers was practised …</p>
+</blockquote>
+<p>Lecky’s ch. I note 155 (p. 657) supports “Fire-matches were sometimes applied to the body of the victim”: Dalyell says “frequently”, Lecky “sometimes”, for once milder than his source. The next page (OCR only) adds matches used on servants and wives to make them inform on masters and husbands.</p>
+</section>
+
+<section id="accused-1662" class="passage">
+<h2>More dead in Scotland in 1662 than in England in two centuries? (p. 669)</h2>
+<p class="passage-source">English: Edinburgh 1834, p. 669, <a href="https://archive.org/details/darkersuperstit00dalygoog/page/n685/mode/2up">scan n685</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/dalyell-1834-p669.jpg"><img src="../assets/img/ref/dalyell-1834-p669.jpg" alt="Printed: “Hutchison computes, that in the course of two centuries above 149 persons had been put to death in England, where the latest conviction was in 1712. It is probable that a greater number perished in Scotland during a single year, 1662, especially considering that above 150 of those then accused are known.”" loading="lazy"></a><figcaption>Dalyell, p. 669. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<blockquote>
+<p>Hutchison computes, that in the course of two centuries above 149 persons had been put to death in England, where the latest conviction was in 1712. It is probable that a greater number perished in Scotland during a single year, 1662, <span class="cited-passage">especially considering that above 150 of those then accused are known.</span></p>
+</blockquote>
+<p>Lecky’s ch. I note 157 (p. 669): “We know that in 1662, more than 150 persons were accused of witchcraft.” Exact. Lecky stops short of Dalyell’s guess that Scotland put more witches to death in that one year than England did in two centuries (Hutchinson’s count is on the <a href="hutchinson-historical-essay.html">Hutchinson page</a>); he says only that the number of victims “it is now impossible to say”.</p>
+</section>
+
 <section id="scotland-669" class="passage">
 <h2>Scotland, 1662–1678: numbers accused and burnt (pp. 669–670)</h2>
 <p class="passage-source">English: Edinburgh, 1834, pp. 669–670, <a href="https://archive.org/details/darkersuperstit00dalygoog/page/n685/mode/2up">scan p. 669</a>, <a href="https://archive.org/details/darkersuperstit00dalygoog/page/n686/mode/2up">scan p. 670</a>. The asterisked note on p. 670 is not transcribed.</p>
