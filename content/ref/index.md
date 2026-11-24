@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="mansel-aids-to-faith.html">Mansel and Fitzgerald, <em>Aids to Faith</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">The 1861 orthodox reply to <em>Essays and Reviews</em>: Mansel’s free-will argument for miracles (“If a man, of his own free will, throws a stone into the air …”, pp. 19–20) and Fitzgerald’s admission of “a general distaste” for evidential writing (p. 43). Cited in ch. II, notes 22–23.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montalembert-le-pere-lacordaire.html">Montalembert, <em>Le Père Lacordaire</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Lamennais, with “all the stuff of the most formidable heresiarch”, left the Church and took “absolutely no one” with him (2nd ed., 1862, pp. 75–76). Cited in ch. II, note 20.</div>
 </li>
