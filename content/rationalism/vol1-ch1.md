@@ -497,15 +497,15 @@ It is impossible to leave the history of witchcraft without reflecting how vast 
 
 [^41]: Buckle's Hist. vol. i. p. 345 (note), where an immense amount of evidence on the subject is given. <a class="popup-ref" href="../ref/buckle-history-of-civilization.html#eclipse-otho">source page</a>
 
-[^42]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html">Garinet</a>, pp. 14, 15.
+[^42]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html#fredegonde-14">Garinet</a>, pp. 14, 15.
 
 [^43]: This was the title of the Roman code I have reviewed. Mathematicus was the name given to astrologers: as a law of Diocletian put it, <span class="foreign" lang="la">'artem geometriæ disci atque exerceri publice interest. Ars autem mathematica damnabilis est et interdicta omnino.'</span><span class="translation editorial" lang="en">[it is in the public interest that the art of geometry be learned and practised. But the mathematical art [astrology] is damnable and wholly forbidden.]</span>
 
-[^44]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html">Garinet</a>, p. 39.
+[^44]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html#charlemagne-39">Garinet</a>, p. 39.
 
-[^45]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html">Garinet</a>, p. 45. He also saved the lives of some Cabalists. He was unfortunately one of the chief persecutors of the Jews in his time. Bedarride, Hist. des Juifs, pp. 83, 87.
+[^45]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html#agobard-45">Garinet</a>, p. 45. He also saved the lives of some Cabalists. He was unfortunately one of the chief persecutors of the Jews in his time. Bedarride, Hist. des Juifs, pp. 83, 87.
 
-[^46]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html">Garinet</a>, p. 35. This, however, is doubtful. Herder mentions that the Greenlanders believe the Aurora to be formed by spirits dancing and playing ball.
+[^46]: <a class="popup-ref" href="../ref/garinet-histoire-de-la-magie.html#sylphs-35">Garinet</a>, p. 35. This, however, is doubtful. Herder mentions that the Greenlanders believe the Aurora to be formed by spirits dancing and playing ball.
 
 [^47]: On the Hebrew Cabala, see the learned work of M. Franck, and on the notions in the middle ages, and in the sixteenth and seventeenth centuries, Le Comte de Gabalis. Plancey, Dict. Infernale, art. Cabale. All the heathen gods were supposed to be sylphs or other aerial spirits. Vesta was the wife of Noah — Zoroaster, her son, otherwise called Japhet. The sin of Adam was deserting the sylph for his wife, and the story of the apple was allegorical, &c. This last notion appears to have been a relic of Manicheism, and was very common among the heretics of the tenth and eleventh centuries (<a class="popup-ref" href="../ref/matter-histoire-du-gnosticisme.html#arras">Matter, Hist. du Gnosticisme, tom. iii. pp. 259, 260</a>). Paracelsus was one of the principal asserters of the existence of the sylphs, &c.
 
