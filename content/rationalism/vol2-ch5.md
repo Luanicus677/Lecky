@@ -629,15 +629,15 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^111]: Quæst. ii.
 
-[^112]: Vindiciæ contra Tyrannos, p. 45 (ed. 1610).
+[^112]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">Vindiciæ contra Tyrannos</a>, p. 45 (ed. 1610).
 
-[^113]: Vindiciæ, pp. 38-39, 60.
+[^113]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html#elijah">Vindiciæ</a>, pp. 38-39, 60.
 
 [^114]: P. 45.
 
 [^115]: P. 60.
 
-[^116]: Vindiciæ, p. 79.
+[^116]: <a class="popup-ref" href="../ref/vindiciae-contra-tyrannos.html">Vindiciæ</a>, p. 79.
 
 [^117]: <span class="foreign" lang="fr">'Voyez l'horrible imprudence de quoi nous pelotons les raisons divines, et combien irréligieusement nous les avons rejettées et reprises selon que la fortune nous a changez de place en ces orages publics. Cette proposition si solennelle, s'il est permis au sujet de se rebeller et armer contre son prince pour la défense de la religion, souvienne-vous en quelles bouches cette année passée l'affirmative d'icelle étoit l'arcboutant d'un parti, la négative de quel autre parti c'étoit l'arcboutant, et oyez à présent de quelle quartier vient la voix et instruction de l'une et de l'autre si les armes bruyent moins pour cette cause que pour celle-là.'</span><span class="translation editorial" lang="en">[See the horrible imprudence with which we toss divine reasons about, and how irreligiously we have rejected them and taken them up again as fortune has shifted our place in these public storms. That solemn proposition, whether it is lawful for a subject to rebel and take arms against his prince in defence of religion: remember in whose mouths, last year, the affirmative was the buttress of one party, and of which other party the negative was the buttress; and hear now from which quarter come the voice and teaching of the one and of the other, and whether the arms clash any less for this cause than for that.]</span>—Montaigne, Essais, liv. ii. c. 12. (<a class="popup-ref" href="../ref/montaigne-essais-ii-12.html#impudence">source page</a>)
 

@@ -629,6 +629,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Melchiorre Gioja, Milan 1826, tome II, p. 389 (Lecky’s page): Queen Ulrika Eleonora nearly had Linnaeus’s sexual system of plants banned as corrupting the young. Cited in vol. II, ch. IV, note 56.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="vindiciae-contra-tyrannos.html"><em>Vindiciae contra tyrannos</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Huguenot case for resisting tyrants (1579). Elijah’s people put the priests of Baal to death “by public authority, a council having been held” (pp. 38–39 of Lecky’s 1610 edition). Cited in vol. II, ch. V, notes 112–116.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montesquieu-esprit-des-lois-xxi-20.html">Montesquieu, <em>De l’esprit des lois</em>, XXI, 20</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Nous devons aux spéculations des scholastiques tous les malheurs …”, quoted in ch. VI, note 39. Compared with a Wikisource text; accurate.</div>
 </li>
