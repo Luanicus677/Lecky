@@ -433,6 +433,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The Jesuit Alfonso Muzzarelli on why the Church needs an Inquisition: God once struck heretics down by miracle (Simon Magus, Ananias and Sapphira); when the miracles withdrew, “gentleness almost divided the empire with severity” (Milan 1840, pp. 43–44). Cited in ch. II, note 7.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="farmer-dissertation-on-miracles.html">Farmer, <em>A Dissertation on Miracles</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Hugh Farmer, 1771: Christianity’s defenders have weakened the proof from miracles “by asserting the power of invisible beings, of different and opposite characters, to work miracles” (Preface). Cited in ch. II, note 13.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montalembert-le-pere-lacordaire.html">Montalembert, <em>Le Père Lacordaire</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Lamennais, with “all the stuff of the most formidable heresiarch”, left the Church and took “absolutely no one” with him (2nd ed., 1862, pp. 75–76). Cited in ch. II, note 20.</div>
 </li>
