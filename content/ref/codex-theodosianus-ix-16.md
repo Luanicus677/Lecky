@@ -18,6 +18,7 @@ abstract: |
 <h2>Law 4: Divination Forbidden (357)</h2>
 
 <p class="passage-source">Latin: Leipzig, 1738, vol. III, p. 128 (<a href="https://archive.org/details/BRes1409273/page/n143/mode/2up">scan</a>). Spelling regularised: <em>u</em>/<em>v</em> and <em>i</em>/<em>j</em> normalised and capitals reduced; the editors’ footnote letters omitted. The edition’s heading reads “De divinandi curiositate omni prohibita, Constantii lex”; the law is addressed to the people of Rome. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/codex-ritter-iii-title.jpg"><img src="../assets/img/ref/codex-ritter-iii-title.jpg" alt="Title page: “Codex Theodosianus Iacobi Gothofredi tomus tertius”" loading="lazy"></a><figcaption>Half-title of vol. III of Gothofredus’s Code in Ritter’s edition. <span class="credit"><a href="https://archive.org/details/BRes1409273/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

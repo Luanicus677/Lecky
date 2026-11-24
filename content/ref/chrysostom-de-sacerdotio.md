@@ -18,6 +18,7 @@ abstract: |
 <h2>“Great Is the Power of Deceit” (Book I, ch. VIII)</h2>
 
 <p class="passage-source">English: Cowper’s translation, London 1866, pp. 19 and 24–25 (image index <a href="https://archive.org/details/sjohnchrysostom00johngoog/page/n46/mode/2up">n46</a>, <a href="https://archive.org/details/sjohnchrysostom00johngoog/page/n51/mode/2up">n51</a>–<a href="https://archive.org/details/sjohnchrysostom00johngoog/page/n52/mode/2up">n52</a>). Paragraph numbers are Cowper’s. <span class="cited-passage">Highlighted</span>: the sentences that come closest to what Lecky describes. The first extract is Chrysostom’s statement of principle; the second comes after his examples (generals, the physician and the patient, pp. 19–24, not transcribed here).</p>
+<figure class="title-page"><a href="../assets/img/ref/cowper-chrysostom-title.jpg"><img src="../assets/img/ref/cowper-chrysostom-title.jpg" alt="Title page: “S. John Chrysostom on the Priesthood. In six books. Translated from the original Greek by B. Harris Cowper. Williams and Norgate … London; and … Edinburgh. 1866”" loading="lazy"></a><figcaption>Title page of Cowper’s translation, London: Williams and Norgate, 1866. <span class="credit"><a href="https://archive.org/details/sjohnchrysostom00johngoog/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="en">

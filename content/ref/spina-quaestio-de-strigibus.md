@@ -19,6 +19,7 @@ abstract: |
 <h2>Apologia, pp. 299–300: The Doubters, and the Danger to Them</h2>
 
 <p class="passage-source">Latin: Lyon, 1620, vol. II, part 1, p. 299 (header “Apologia secunda”) and p. 300 (header “F. Barthol. Spin. in Ponz. de Lam.”) (<a href="https://archive.org/details/bub_gb_v1J2VHKuIVEC/page/n301/mode/2up">scan, p. 299</a>). Spelling regularised: <em>u</em>/<em>v</em> and <em>æ</em> normalised and abbreviations expanded. The words are in Spina’s <em>Apologia</em>, not the <em>Quaestio</em> itself. The margin note on p. 300 reads “Persecutio Inquisitorum” (“Persecution of the Inquisitors”). <span class="cited-passage">Highlighted</span>: the sentences Lecky translates.</p>
+<figure class="title-page"><a href="../assets/img/ref/malleus-1620-vol2-title.jpg"><img src="../assets/img/ref/malleus-1620-vol2-title.jpg" alt="Title page: “Mallei maleficarum tractatus aliquot tam veterum quam recentiorum auctorum … Tomi secundi pars prior … Lugduni, sumptibus Claudii Landry. M.DC.XX”" loading="lazy"></a><figcaption>Title page of the Lyon 1620 <em>Malleus</em> collection, vol. II, part 1, where Spina’s tract is reprinted. <span class="credit"><a href="https://archive.org/details/bub_gb_v1J2VHKuIVEC/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

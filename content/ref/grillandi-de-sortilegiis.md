@@ -19,6 +19,7 @@ abstract: |
 <h2>Quaestio III, §12: Treasure-Hunting by Demonic Arts</h2>
 
 <p class="passage-source">Latin: Frankfurt edition, 1592, pp. 24–25 (<a href="https://archive.org/details/per_witchcraft-in-europe-and-america_grillando-paolo_1592_412/page/n57/mode/2up">scan</a>). Spelling regularised: long <em>s</em>, <em>u</em>/<em>v</em>, and <em>æ</em> normalised; accents and abbreviations dropped or expanded; <em>&amp;</em> printed as <em>et</em>. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/grillandi-1545-title.jpg"><img src="../assets/img/ref/grillandi-1545-title.jpg" alt="Title page: “Paulus Grillandus. Tractatus de hereticis et sortilegiis … penis. Item de questionibus … relaxatione carceratorum Domini Pauli Grillandi Castilionei: ultima hac impressione summa cura castigatus”" loading="lazy"></a><figcaption>Title page of the Lyon 1545 printing, red and black, with a woodcut of the author (the blue patches are the scanner’s). <span class="credit"><a href="https://archive.org/details/bub_gb_HyeyE3eVJZEC/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

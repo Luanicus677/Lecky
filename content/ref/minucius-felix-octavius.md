@@ -18,6 +18,7 @@ abstract: |
 <h2>Chapter 35</h2>
 
 <p class="passage-source">Latin: <em>Octavius</em>, pp. 175–176 (<a href="https://archive.org/details/octavius00minu/page/n220/mode/2up">p. 175</a>, <a href="https://archive.org/details/octavius00minu/page/n221/mode/2up">p. 176</a>), ch. XXXV, §§ 2–3. Spelling regularised (<em>æ</em> as <em>ae</em>). The editor’s notes on both pages are omitted. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/holden-octavius-title.jpg"><img src="../assets/img/ref/holden-octavius-title.jpg" alt="Title page: “M. Minucii Felicis Octavius … edited for the Syndics of the University Press by the Rev. Hubert Ashton Holden, M.A. … Cambridge”" loading="lazy"></a><figcaption>Title page of Holden’s edition, Cambridge University Press (with a library stamp). <span class="credit"><a href="https://archive.org/details/octavius00minu/page/n8/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

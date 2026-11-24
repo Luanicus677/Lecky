@@ -17,6 +17,7 @@ abstract: |
 <section id="abimelech" class="passage">
 <h2>“Pater meus Rex” (p. 128)</h2>
 <p class="passage-source">Latin: p. 128, <a href="https://archive.org/details/defensiodeclarat01boss/page/n193/mode/2up">scan</a>, second paragraph, citing Chrysostom, Hom. 23 on Romans. <span class="cited-passage">Highlighted</span>: the sentence behind Lecky’s note.</p>
+<figure class="title-page"><a href="../assets/img/ref/bossuet-defensio-title.jpg"><img src="../assets/img/ref/bossuet-defensio-title.jpg" alt="Title page: “Defensio declarationis conventus cleri Gallicani an. 1682. de ecclesiastica potestate”" loading="lazy"></a><figcaption>Half-title, vol. I. <span class="credit"><a href="https://archive.org/details/defensiodeclarat01boss/page/n6/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 <div class="parallel">
 <div class="original" lang="la">
 <p>… nec immeritò: ab ipso enim generis humani exordio, <span class="cited-passage">Reges parentum loco habitos, vel illud Regibus Palæstinis commune Abimelechi nomen ostendit. Abimelech enim Latinè vertitur, <em>Pater meus Rex</em></span>; quæ nota &amp; obvia argumentis confirmare non est animus.</p>

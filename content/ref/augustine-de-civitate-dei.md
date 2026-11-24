@@ -18,6 +18,7 @@ abstract: |
 <h2>XXII.8: The Miracles of St. Stephen (cols. 767–768)</h2>
 
 <p class="passage-source">Latin: Migne, <em>PL</em> 41, cols. 767–768, <em>De civitate Dei</em> XXII.8 (<a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1846_41/page/n383/mode/2up">scan</a>). Spelling regularised (<em>j</em> as <em>i</em>, <em>æ</em> as <em>ae</em>); editors’ footnotes and variants omitted. Paragraph numbers are Migne’s (15–20). <span class="cited-passage">Highlighted</span>: the five cases of a person restored to life, and the sentences that give the figures Lecky uses.</p>
+<figure class="title-page"><a href="../assets/img/ref/pl41-title.jpg"><img src="../assets/img/ref/pl41-title.jpg" alt="Title page: “Patrologiae cursus completus … Series prima … Patrologiae tomus XLI. S. Augustini tomus septimus”" loading="lazy"></a><figcaption>Title page of Migne’s <em>Patrologia Latina</em>, tome XLI, the volume with the <em>City of God</em>. <span class="credit"><a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1846_41/page/n0/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">

@@ -18,6 +18,7 @@ abstract: |
 <h2>Chapter I: “We Little Fishes”</h2>
 
 <p class="passage-source">Latin: Migne, <em>PL</em> 1, col. 1198 (right column, <a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1/page/n616/mode/2up">scan</a>), <em>De baptismo</em> I. The Greek is printed in capitals, ΙΧΘΥΝ (“fish”, also the acrostic for “Jesus Christ, Son of God, Saviour”). Spelling regularised. <span class="cited-passage">Highlighted</span>: the clause Lecky quotes in note 15.</p>
+<figure class="title-page"><a href="../assets/img/ref/pl1-title.jpg"><img src="../assets/img/ref/pl1-title.jpg" alt="Title page: “Patrologiae cursus completus … Series prima … Tomus primus”" loading="lazy"></a><figcaption>Title page of Migne’s <em>Patrologia Latina</em>, tome I, the first of Tertullian’s volumes. <span class="credit"><a href="https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1/page/n2/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
 
 <div class="parallel">
 <div class="original" lang="la">
