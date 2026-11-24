@@ -433,7 +433,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^8]: Wright, Letter on the Political Condition of the English Peasantry during the Middle Ages. London, 1843.
 
-[^9]: Champagny, La Cliarite Chretienne, pp. 275-289.
+[^9]: <a class="popup-ref" href="../ref/champagny-charite-chretienne.html#defense-du-travail">Champagny, La Charité Chrétienne, pp. 275-289</a>.
 
 [^10]: See on this subject Perin, La Richesse dans les Societes Chretiennes, tom. i. pp. 345-361; <a class="popup-ref" href="../ref/van-bruyssel-histoire-du-commerce.html">Van Bruyssel, Hist. du Commerce Belge, tom. i. pp. 58, 59</a>.
 
@@ -445,7 +445,7 @@ This is the shadow resting upon the otherwise brilliant picture the history of R
 
 [^14]: It is worthy of notice that deserted children in the early Church appear to have been supported entirely by private charity, and those foundling hospitals, to which political economists so strongly object, were unknown. The first foundling hospital in Europe was established by Innocent III. at Rome, in 1198; the first in France by St. Vincent de Paul, in 1638; the first in England in 1739 (see Morighini, On Institutions of Charity at Rome). The objections to these institutions, on account of their encouragement of vice, as well as the frightful mortality prevailing among them, are well known. M'Culloch states that between 1792 and 1797 the admissions into foundling hospitals in Dublin were 12,786, and the deaths 12,561 (<a class="popup-ref" href="../ref/mcculloch-political-economy.html#foundlings">Pol. Econ. part i. ch. viii.</a>). Magdalen asylums, which M. Ch. Comte and other economists have vehemently denounced, were also unknown in the early Church. The first erected in France was early in the thirteenth century; the famous institution of the Bon Pasteur was founded by a Dutch lady converted to Catholicism in 1698. A full history of these institutions is given in Parent-Duchatel's singularly interesting work on Prostitution in the City of Paris. The admirable societies for the succour of indigent mothers, which complete the measures for the protection of infancy, were chiefly the work of the French freethinkers of the last century. Beaumarchais dedicated part of the profits of the Manage de Figaro to that of Lyons (Ducellier, Hist. des Classes Laborieuses en France, p. 296).
 
-[^15]: See some very striking instances of this in Champagny's Charite Chretienne,
+[^15]: See some very striking instances of this in <a class="popup-ref" href="../ref/champagny-charite-chretienne.html">Champagny's Charité Chrétienne</a>.
 
 [^16]: This is, I believe, related of St. John of the Cross. There is a somewhat similar legend of a Spanish saint of the thirteenth century named Ramon Monat. The Virgin appeared to him and offered him a crown of roses, which he refused, and Christ then gave him His own crown of thorns.
 

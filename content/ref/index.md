@@ -649,4 +649,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="maury-croyances-et-legendes.html">Maury, <em>Croyances et légendes de l’antiquité</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">Alfred Maury’s essays of 1863. Eusebius doctoring Josephus, the Fathers’ “little frauds” as fair play against heretics (p. 268); Simon Magus’s Helena as the incarnate Thought of God, and Prounikos as “lascivious” (pp. 338–340).</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="champagny-charite-chretienne.html">Champagny, <em>La Charité chrétienne</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Franz de Champagny, Paris 1854. The section “Défense du travail” behind Lecky’s Fathers who “employed all their eloquence in favour of labour”, with Augustine scolding idle monks: “senators labouring in the cells, artisans at rest!”</div>
+</li>
 </ul>
