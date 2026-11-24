@@ -76,6 +76,38 @@ abstract: |
 <p>Lecky’s sentence, that Spain “was the true author of the mercantile theory and of the colonial policy which have been the sources of disastrous wars to every European nation”, is Blanqui’s thesis and almost his wording, and note 164 cites this page for it. Blanqui’s “accession of Charles V” is not Lecky’s phrase; Lecky has dropped the date and widened “Europe” to “every European nation”. The footnote’s quotation from Ustáriz and its date (1740) were read on a clear image; I did not check them against Ustáriz.</p>
 </section>
 
+<section id="ch20-italian-republics" class="passage">
+<h2>Chapter XX: the Italian republics and the economy (pp. 244–270)</h2>
+<p class="passage-source">French: 3rd ed., tome I, ch. XX, p. 244, <a href="https://archive.org/details/histoiredelco01blan/page/n275/mode/2up">scan n275</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/blanqui-p244-ch20.jpg"><img src="../assets/img/ref/blanqui-p244-ch20.jpg" alt="Printed chapter heading: “Chapitre XX. Du mouvement imprimé à l’économie politique par les républiques italiennes du moyen âge. — Influence croissante du travail. — Accroissement de la richesse mobilière. — Changements qui en résultent dans l’état social européen. — Fondation du crédit. — Banque de Venise. — Origine du système prohibitif moderne.”" loading="lazy"></a><figcaption>Blanqui, tome I, p. 244: the chapter heading. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>Chapitre XX. <span class="cited-passage">Du mouvement imprimé à l’économie politique par les républiques italiennes du moyen âge.</span> — Influence croissante du travail. — Accroissement de la richesse mobilière. — Changements qui en résultent dans l’état social européen. — Fondation du crédit. — Banque de Venise. — Origine du système prohibitif moderne.</p>
+</div>
+<div class="rendering" lang="en">
+<p>Chapter XX. <span class="cited-passage">On the impulse given to political economy by the Italian republics of the Middle Ages.</span> — The growing influence of labour. — The increase of movable wealth. — The changes this brought about in the social condition of Europe. — The founding of credit. — The Bank of Venice. — The origin of the modern prohibitive system.</p>
+</div>
+</div>
+<p>Lecky’s ch. VI note 96 (“M. Blanqui has collected some extremely remarkable evidence of this (<i>Histoire d’Economie Politique</i>, tom. i. pp. 244–270)”) supports his sentence that the Venetians “sketched the first faint outlines” of economic laws. His page range is exactly Blanqui’s chapter XX. On p. 245 (OCR only) Blanqui begins with Florence in 1282 governed by “a magistracy composed exclusively of merchants”, the Priors of the Arts.</p>
+</section>
+
+<section id="ch21-charles-v" class="passage">
+<h2>Chapter XXI: Charles V, “the spirit of conquest in place of the spirit of commerce” (pp. 271–284)</h2>
+<p class="passage-source">French: 3rd ed., tome I, ch. XXI, p. 271, <a href="https://archive.org/details/histoiredelco01blan/page/n302/mode/2up">scan n302</a>.</p>
+<figure class="facsimile"><a href="../assets/img/ref/blanqui-p271-ch21.jpg"><img src="../assets/img/ref/blanqui-p271-ch21.jpg" alt="Printed chapter heading: “Chapitre XXI. De la révolution causée par Charles-Quint dans la marche de l’économie politique. — L’esprit de conquête substitué à l’esprit de commerce. — Établissement officiel du système restrictif. — Traite des noirs. — Exécutions financières. — Couvents et paupérisme. — Résistance du protestantisme.”" loading="lazy"></a><figcaption>Blanqui, tome I, p. 271: the chapter heading. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>Chapitre XXI. <span class="cited-passage">De la révolution causée par Charles-Quint dans la marche de l’économie politique. — L’esprit de conquête substitué à l’esprit de commerce.</span> — Établissement officiel du système restrictif. — Traite des noirs. — Exécutions financières. — Couvents et paupérisme. — Résistance du protestantisme.</p>
+<p>Charles-Quint, enfant de Flandre, empereur allemand et monarque espagnol, réunissait au plus haut degré toutes les antipathies italiennes. …</p>
+</div>
+<div class="rendering" lang="en">
+<p>Chapter XXI. <span class="cited-passage">On the revolution caused by Charles V in the course of political economy. — The spirit of conquest put in place of the spirit of commerce.</span> — The official establishment of the restrictive system. — The slave trade. — Financial executions. — Convents and pauperism. — The resistance of Protestantism.</p>
+<p>Charles V, a child of Flanders, a German emperor and a Spanish monarch, combined in the highest degree everything the Italians hated. …</p>
+</div>
+</div>
+<p>Lecky’s ch. VI note 159 (“See Blanqui, <i>Hist. d’Économie Politique</i>, tom. i. pp. 271–284, where the whole subject of the political economy of Charles V. is admirably treated”) is exactly Blanqui’s chapter XXI. Its heads (conquest replacing commerce, convents and pauperism) are the themes of Lecky’s own paragraph on Spain’s decline, where “a warlike and idle nobility took the place of the old merchant nobles of Italy”. Lecky’s p. 277, in the same chapter, is quoted <a href="#mercantile-spain">above</a>.</p>
+</section>
+
 <details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
 <p>Note 83 is accurate: pp. 225–226 print the ordinance of 1294 on robes and tables and the ordinance on the wives of burghers, and Blanqui goes on, as Lecky says, to argue that the French king was trying to keep gold in the kingdom. Note 85 is accurate as to the officer “charged with repressing the luxury of women”, but Blanqui’s table is the Florentine budget of <em>1336–1338</em>; Lecky puts the office “in the beginning of the fourteenth century”.</p>
 </details>
