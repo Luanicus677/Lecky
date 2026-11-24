@@ -914,7 +914,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^181]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes.html#seventy-two-thousand">Ibid.</a>
 
-[^182]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes#seventy-two-thousand.html">Barrington</a> says this was the case when he wrote, which was in 1766.
+[^182]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes.html#seventy-two-thousand">Barrington</a> says this was the case when he wrote, which was in 1766.
 
 [^183]: He asks 'whether we may not, as well as other nations, contrive employment for our criminals; and whether servitude, chains, and hard labour for a term of years, would not be a more discouraging as well as a more adequate punishment for felons than even death itself.' (<a class="popup-ref" href="../ref/berkeley-querist.html#felons">*Querist*, No. 54.</a>)
 
