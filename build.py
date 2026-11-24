@@ -23,6 +23,10 @@ OUT = ROOT / "docs"
 
 SITE_NAME = "The Complete Works of W. E. H. Lecky"
 GITHUB_REPO = "Luanicus677/lecky"
+# The public address of the site, for link previews (Open Graph) and canonical
+# links. Change this if the site moves to its own domain.
+SITE_URL = "https://luanicus677.github.io/Lecky/"
+DEFAULT_SHARE_IMAGE = "assets/img/ref/grillandi-1545-title.jpg"
 
 FRONT_MATTER_RE = re.compile(r"\A---\s*\n(.*?\n)---\s*\n", re.DOTALL)
 
@@ -423,6 +427,18 @@ def build_page(src_path: Path, out_path: Path):
     depth = len(out_path.relative_to(OUT).parts) - 1
     root = "../" * depth
 
+    # Link previews: the page's title page or first picture, else a default.
+    share_img = None
+    for pat in (r'<figure class="[^"]*title-page[^"]*">.*?<img src="(?:\.\./)*(assets/img/[^"]+)"',
+                r'<figure[^>]*>.*?<img src="(?:\.\./)*(assets/img/[^"]+)"'):
+        m = re.search(pat, body_html, re.S)
+        if m:
+            share_img = m.group(1)
+            break
+    page_url = SITE_URL + str(out_path.relative_to(OUT)).replace("\\", "/")
+    if page_url.endswith("/index.html") and depth == 0:
+        page_url = SITE_URL
+
     template = env.get_template("base.html")
     context = dict(meta)  # title, subtitle, abstract, meta_rows, back_link, ...
     context.update(
@@ -433,6 +449,10 @@ def build_page(src_path: Path, out_path: Path):
         root=root,
         site_name=SITE_NAME,
         github_repo=GITHUB_REPO,
+        page_url=page_url,
+        share_title=strip_tags(re.sub(r"<br\s*/?>", " ", str(meta.get("heading") or meta.get("title") or SITE_NAME))),
+        share_desc=strip_tags(meta.get("description", "")).replace('"', "&quot;"),
+        share_image=SITE_URL + (share_img or DEFAULT_SHARE_IMAGE),
     )
     html = template.render(**context)
     for stem, _name, words in CHAPTERS:

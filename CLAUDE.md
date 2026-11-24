@@ -491,8 +491,8 @@ Notes for continuing:
 - 24 Nov: GARINET (1818 `histoiredelamagi00gari`, image = page+57 from p. 6 to p. 328; XML word crops work): + #salic-6 (pp. 6-7 = n63-n64,
   ch. I n76), #agrippa-dog (pp. 121-122 = n178-n179, ch. I n87: Garinet calls it a lie and it is a COLLAR off the dog's neck), #bordeaux-1718
   (p. 256 = n313, n80), #ventriloquists-280 (n337, n100), #boguet-code (p. 302 = n359, n80), #mazarin-1643 (p. 328 = n385, n98: letter dated
-  21 Sept 1643, Lecky 1642). Both errors on lecky-and-his-sources.md. Still unread: pp. 14-15 (n71-n72 Frédégonde, n42), 35 (n92 sylphs/aurora,
-  n46), 39 (n96 Charlemagne, n44), 45 (n102 Agobard, n45), 75 (n132-n134 unclear page heads, n54).
+  21 Sept 1643, Lecky 1642). Both errors on lecky-and-his-sources.md. pp. 14-15, 35, 39, 45 are DONE too (sections fredegonde-14,
+  sylphs-35, charlemagne-39, agobard-45); p. 75 is missing from the scan (n54).
 
 - 24 Nov (OCR, ch. VI notes, all read on Lecky's vol. II images with scratchpad lzoom.py/gspan.py on lk/v2.xml): French restored in notes
   30 (Turgot), 38 (Bossuet + Latin 'inde sperantes' for 'hide sperantea'), 39 (Montesquieu, Turgot), 74 (Rios, n318-n319), 114 (Bossuet), 143

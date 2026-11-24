@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ title }}{% if not is_home %} · {{ site_name }}{% endif %}</title>
 {% if description %}<meta name="description" content="{{ description }}">{% endif %}
+<link rel="canonical" href="{{ page_url }}">
+<link rel="icon" href="{{ root }}assets/img/favicon.svg" type="image/svg+xml">
+<meta property="og:site_name" content="{{ site_name }}">
+<meta property="og:type" content="{% if is_home %}website{% else %}article{% endif %}">
+<meta property="og:title" content="{{ share_title }}">
+{% if share_desc %}<meta property="og:description" content="{{ share_desc }}">{% endif %}
+<meta property="og:url" content="{{ page_url }}">
+<meta property="og:image" content="{{ share_image }}">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="{{ root }}assets/css/style.css">
 <script>document.documentElement.classList.add("js")</script>
 </head>
