@@ -474,6 +474,14 @@ Notes for continuing:
 
 - Hallam Lit. of Europe vol. III candidates for Lecky's 'vol. iii' (3-vol printings): `introductiontol32hallgoog` (1855), `introductionlite03hall` (1872), also 1860/1864 goog scans; a keyword grep for 'Glanvil'/'Scepsis' found nothing in the first two (OCR may spell it otherwise). Unfinished.
 
+- 24 Nov: HALLAM SOLVED. Lecky's Lit. of Europe = the 3-vol 3rd ed. (Murray 1847; 1854 reprint presumably same pages): vol. II =
+  `introductiontol40hallgoog` (p. 68 = n85, Bodin, ch. I n86; Lecky prints 'two men ... with him' for 'Two names ... with his'), vol. III =
+  `introductiontol48hallgoog` (image = page+19: p. 289 = n308 Dutch clergy/Jurieu, vol2-ch4 n55; p. 358 = n377 Glanvil, ch. I n118; p. 439 = n458
+  Filmer/Overall, vol2-ch5 n96; title n8); 1854 vol. I = `introductiontoli01hall`. Const. Hist.: 1854 7th ed. only vol. III online
+  (`constitutionalh05hallgoog`); used the 1855 8th ed. (`constitutionalhi01halliala` p. 416 = n435 Knight 1622, vol2-ch5 n88 'p. 415';
+  `constitutionalhi02halliala` p. 466 = n479 Oxford decree 1683, burned 1709, vol2-ch5 n91 'pp. 459-465'). Lecky's 'soon afterwards' for the
+  1709 burning is on lecky-and-his-sources.md. Hallam notes still unchecked: vol2-ch4 n45-46 (Const. Hist., no pages), n61, vol2-ch5 n33, n78, vol2-ch6 n136 (no pages).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
