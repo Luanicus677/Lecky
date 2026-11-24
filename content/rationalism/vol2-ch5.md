@@ -647,7 +647,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^120]: See Noodt On the Power of Sovereigns, and Gronovius On the Royal Law, both of which were translated into French by Barbeyrac — the first in 1707, and the second in 1714. They were both in the form of lectures delivered near the end of the seventeenth century before the University of Leyden, and are both, I think, rather dismal performances. Noodt was a strenuous advocate of liberty of conscience, and also one of the principal assailants of the theological superstitions about usury. Gronovius is best remembered for his Annotations of Grotius, in which he strongly repudiated the servile political maxims of that writer.
 
-[^121]: See some striking remarks on this in Froude's Nemesis of Faith, pp. 160, 161.
+[^121]: See some striking remarks on this in <a class="popup-ref" href="../ref/froude-nemesis-of-faith.html#gravitate-towards-rome">Froude’s <em>Nemesis of Faith</em>, pp. 160, 161</a>.
 
 [^122]: What, for example, could be more opposed to the spirit of the modern Evangelical party, which is supposed by some to represent the Puritanism of the 17th century, than those noble lines of the great poet of the latter? — 'Mortals! who would follow me, Love virtue, she alone is free: She can teach ye how to climb Higher than the sphery chime! Or, if virtue feeble were, Heaven itself would stoop to her.' — Comus.
 
