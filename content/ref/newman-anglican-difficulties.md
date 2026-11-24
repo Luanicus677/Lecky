@@ -1,0 +1,26 @@
+---
+title: Newman, Difficulties felt by Anglicans
+description: "John Henry Newman’s Lectures on Certain Difficulties felt by Anglicans in Submitting to the Catholic Church (2nd ed., London, 1850), the opening of Lecture III: the founders of the movement of 1833 thought ‘the Nation being on its way to give up revealed truth’. Quoted by Lecky in Chapter II, note 14."
+heading: Newman, <em>Difficulties felt by Anglicans</em>
+subtitle: "“The Nation being on its way to give up revealed truth”: a premise Newman went on to reject"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/John_Henry_Newman\">John Henry Newman</a>, lectures of 1850, addressed after his reception into the Catholic Church (1845) to members of the Oxford Movement (“the movement of 1833”)."]
+  - ["Edition used", "Second edition, London: Burns &amp; Lambert, 1850 (Cornell copy): Internet Archive <a href=\"https://archive.org/details/cu31924029411141\">cu31924029411141</a>; Lecture III begins on p. 57 = <a href=\"https://archive.org/details/cu31924029411141/page/n74/mode/2up\">n74</a> (the page number is not printed on the lecture’s first page; p. 58 = n75); title page <a href=\"https://archive.org/details/cu31924029411141/page/n4/mode/2up\">n4</a>. Lecky’s “p. 54” fits a different printing."]
+  - ["Cited in", "Rationalism, ch. II, <a href=\"../rationalism/vol1-ch2.html#fn14\">note 14</a>."]
+  - ["Status", "Read on the page image."]
+abstract: |
+  <p>Lecky sums up the Oxford Movement’s view of English history “in the emphatic words of their great leader”: “the nation was on its way to give up revealed truth.” The words are Newman’s, at the opening of his third lecture to his former followers, but the sentence is a premise he states in order to knock it down. It had been “the idea of its originators”, he says, that, “the Nation being on its way to give up revealed truth”, those who wished to keep that truth should use the National Church as their instrument. “I answer them, that their attempt is hopeless”: a national church is part of the nation, and changes with it. Newman had been one of those originators; in 1850 he was arguing that the Church of England could not resist the nation’s course.</p>
+---
+<section id="lecture-iii" class="passage">
+<h2>“The Nation being on its way to give up revealed truth” (Lecture III, p. 57)</h2>
+<p class="passage-source">English: 2nd ed., London 1850, Lecture III, p. 57, <a href="https://archive.org/details/cu31924029411141/page/n74/mode/2up">scan n74</a>. <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/newman-anglican-difficulties-1850-title.jpg"><img src="../assets/img/ref/newman-anglican-difficulties-1850-title.jpg" alt="Title page: “Lectures on certain difficulties felt by Anglicans in submitting to the Catholic Church. By John Henry Newman, Priest of the Oratory of St. Philip Neri … Second edition. London: Burns &amp; Lambert … 1850.”" loading="lazy"></a><figcaption>Title page, second edition, London 1850. <span class="credit"><a href="https://archive.org/details/cu31924029411141/page/n4/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+<blockquote>
+<p>I am proposing, my brethren, in these Lectures, to answer several of the objections which are urged against quitting the National Communion for the Catholic Church. It has been a very common and natural idea of those who belong to the movement of 1833, as it was the idea of its originators, that, <span class="cited-passage">the Nation being on its way to give up revealed truth</span>, all those who wished to receive that truth in its fulness, and to resist its enemies, were called on to make use of the National Church, to which they belonged, whose formularies they received, as their instrument for that purpose. I answer them, that their attempt is hopeless, because the National Church is strictly part of the Nation, in the same way that the Law or the Parliament is part of the Nation, and therefore, as the Nation changes, so will the National Church change. That Church, then, cannot be used against the spirit of the age, except as a drag on a wheel …</p>
+</blockquote>
+<figure class="facsimile"><a href="../assets/img/ref/newman-anglican-difficulties-1850-p57.jpg"><img src="../assets/img/ref/newman-anglican-difficulties-1850-p57.jpg" alt="Printed page: “Lecture III. Life in the movement of 1833 not from the National Church. I am proposing, my brethren … that, the Nation being on its way to give up revealed truth …”" loading="lazy"></a><figcaption>Newman, <em>Difficulties felt by Anglicans</em>, 1850, p. 57. <span class="credit">Scan: Internet Archive (Cornell University Library) · public domain</span></figcaption></figure>
+<p>Lecky’s text (ch. II, at note 14): “They believed, in the emphatic words of their great leader, that ‘the nation was on its way to give up revealed truth.’” He recasts Newman’s participle as a sentence (“was on its way” for “being on its way”). The belief he ascribes to the movement is the one Newman ascribes to it; the next sentence, in which Newman calls their attempt “hopeless”, is not Lecky’s concern.</p>
+</section>

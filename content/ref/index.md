@@ -69,6 +69,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">John Henry Newman’s reply to Kingsley, 1864. Appendix § 8, “Lying and Equivocation”, p. 77: the Greek Fathers’ <i>justa causa</i> for an untruth, “self-defence, charity, zeal for God’s honour”, with Lecky’s added italics. Cited in ch. IV, note 38.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="newman-anglican-difficulties.html">Newman, <em>Difficulties felt by Anglicans</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Lectures of 1850 to the Oxford Movement. Lecture III opens with its founders’ belief, “the Nation being on its way to give up revealed truth”, which Newman then calls a hopeless basis for the Church of England. Cited in ch. II, note 14.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="burney-general-history-of-music.html">Burney, <em>A General History of Music</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Charles Burney, vol. II, 1782. The Greek epigram attributed to Julian, which Burney reads as the earliest description of an organ with bellows and keys, and Lecky as praise of a bagpipe (pp. 65–66). Cited in ch. III, note 82.</div>
 </li>
