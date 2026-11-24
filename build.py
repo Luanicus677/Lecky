@@ -451,7 +451,7 @@ def build_page(src_path: Path, out_path: Path):
         github_repo=GITHUB_REPO,
         page_url=page_url,
         share_title=strip_tags(re.sub(r"<br\s*/?>", " ", str(meta.get("heading") or meta.get("title") or SITE_NAME))),
-        share_desc=strip_tags(meta.get("description", "")).replace('"', "&quot;"),
+        share_desc=strip_tags(str(meta.get("description", "")).replace("<!-- SOURCE-COUNT -->", str(len(REFMETA)))).replace('"', "&quot;"),
         share_image=SITE_URL + (share_img or DEFAULT_SHARE_IMAGE),
     )
     html = template.render(**context)
@@ -460,6 +460,7 @@ def build_page(src_path: Path, out_path: Path):
         if tag in html:
             html = html.replace(tag, f'<span class="readtime">{reading_time(words)}</span>')
     html = (html.replace("<!-- SOURCE-COUNT -->", str(len(REFMETA)))
+                .replace("<!-- LINKED-NOTES -->", str(len(NOTE_REFS)))
                 .replace("<!-- GALLERY-COUNT -->", str(sum(1 for m in REFMETA.values() if m.get("thumb")))))
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(html, encoding="utf-8")

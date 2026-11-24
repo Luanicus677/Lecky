@@ -1,7 +1,7 @@
 ---
 title: The Complete Works of William Edward Hartpole Lecky
 is_home: true
-description: "A reading edition of Lecky’s works. All of his History of Rationalism in Europe (1865) is here, with 163 source pages transcribing, translating and showing in facsimile the books his footnotes cite."
+description: "A reading edition of Lecky’s works. All of his History of Rationalism in Europe (1865) is here, with <!-- SOURCE-COUNT --> source pages transcribing, translating and showing in facsimile the books his footnotes cite."
 heading: "The Complete Works of<br>William Edward Hartpole Lecky"
 subtitle: 1838–1903 · Irish historian, essayist, and political theorist
 abstract: >
@@ -9,7 +9,7 @@ abstract: >
   persecuting heretics and condemning lenders, and it rests on some eight hundred and fifty
   footnotes to books that almost nobody now reads: demonologies, inquisitors’ manuals, Fathers
   of the Church, treatises on comets, usury and the theatre. The whole of Lecky’s text is here.
-  So, increasingly, are his sources: 163 pages so far, each with the passage he used,
+  So, increasingly, are his sources: <!-- SOURCE-COUNT --> pages so far, each with the passage he used,
   transcribed from a scan of the old book, translated, and shown in facsimile, with a note on
   where Lecky got it right and where he did not. Hover any link to read it without leaving the
   page, and follow it as far as it goes.</p>
@@ -18,7 +18,7 @@ abstract: >
 <a class="start-card" href="rationalism/vol1-ch1.html"><strong>Read Lecky</strong><span>Chapter I: magic and witchcraft, from the first doubts to the last burnings.</span></a>
 <a class="start-card" href="curiosities.html"><strong>A cabinet of curiosities</strong><span>The strangest things found at the bottom of the footnotes.</span></a>
 <a class="start-card" href="rationalism/lecky-and-his-sources.html"><strong>Lecky and his sources</strong><span>Where the footnotes and the books disagree.</span></a>
-<a class="start-card" href="ref/index.html"><strong>The sources</strong><span>163 books, from Augustine to Voltaire, read on the page.</span></a>
+<a class="start-card" href="ref/index.html"><strong>The sources</strong><span><!-- SOURCE-COUNT --> books, from Augustine to Voltaire, read on the page.</span></a>
 <a class="start-card random-source" href="ref/index.html"><strong>Surprise me</strong><span>Open a source page at random and see where it leads.</span></a>
 <a class="start-card" href="rationalism/as-printed.html"><strong>As printed</strong><span>The 1865 printer’s slips, in facsimile.</span></a>
 <a class="start-card" href="old-books.html"><strong>The old books</strong><span>Title pages and the very pages Lecky quoted, as pictures.</span></a>
@@ -52,7 +52,7 @@ That density of citation is the reason this site exists. Reading Lecky well mean
 <ul class="work-list">
 <li>
 <div class="work-title"><a href="rationalism/index.html">The History of the Rise and Influence of the Spirit of Rationalism in Europe</a> <span class="work-status">complete</span></div>
-<div class="work-desc">1865, two volumes. The whole text, with Lecky’s 850 footnotes; 463 of them now link to a source page. Lecky’s index is not transcribed. See <a href="about.html">About</a>.</div>
+<div class="work-desc">1865, two volumes. The whole text, with Lecky’s 850 footnotes; <!-- LINKED-NOTES --> of them now link to a source page. Lecky’s index is not transcribed. See <a href="about.html">About</a>.</div>
 </li>
 </ul>
 
