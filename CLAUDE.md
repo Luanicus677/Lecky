@@ -568,6 +568,15 @@ Notes for continuing:
   the 1824 printing `dissertationfirs01stewuoft` (its witchcraft passages are on Bodin, More, Glanvill); the 1854 Works vol. I
   `india.history.resource.53470` has no text file. Site-wide internal link check (all href + #anchors in docs/) found 1 broken link
   (fixed); rerun it after big edits (script idea: collect ids per file, resolve each relative href).
+  Evening (after a worker restart): + voltaire-lettres-philosophiques-xiv (Lanson 2nd ed. 1917 tome II `lettresphilosoph02volt` n11; vol2-ch4
+  n56; OCR fixed in that note: Philosophiques, Philosofia, tom.), gioja-filosofia-della-statistica (Milan 1826 tome II `bub_gb_B-ee08UGjeoC`
+  p. 389 = n390 = Lecky's page; Linnaeus and Queen Ulrika Eleonora; Gioja cites Catteau, Voyage en Allemagne et en Suede t. III p. 8,
+  unchecked), vindiciae-contra-tyrannos (Lecky's 1610 ed. `bub_gb_0b1A20d2RvMC`: p. 38 = n57, 39 = n58, 60 = n92, 79 = n112, pp. 40-51
+  scanned TWICE, inner margins cut; text read in 1608 `vindiciaecontrat00lang_0` p. 32 = n47; notes 112-116, only 113 checked),
+  elrington-life-of-ussher (Ussher Works vol. I Dublin 1847 `wholeworksofmost0001char`, alternate junk leaves, so no fixed offset: p. 73 =
+  n160, p. 239 = n492, title n4; vol2-ch4 n47, vol2-ch5 n89), augustine-letters-on-coercion (PL 33 `..._1845_33`, 44 MB XML: range-fetch;
+  Ep. 93 § 17 cols. 329-330 = n164, Ep. 185 § 19 col. 801 = n400, cogite intrare § 24 col. 804 = n401 not read). Dead end: Avis aux
+  refugiez 1692 (vol2-ch5 n4, 32, 106) not on archive.org (only the 1691 reply `bub_gb_L5sCXJvFr98C`).
 
 ## Readability layer (headings, synopses, figures)
 
