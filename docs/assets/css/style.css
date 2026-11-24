@@ -1409,3 +1409,5 @@ details.by-chapter-wrap > summary { cursor: pointer; font-variant: small-caps; f
 ul.rh-cards.gallery { list-style: none; padding-left: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(9.5em, 1fr)); gap: 1.2rem 1rem; }
 ul.rh-cards.gallery li a.rh-title { font-weight: 600; }
 .bc-read { font-size: 0.85rem; margin: 0.2em 0 0 1em; text-indent: 0 !important; }
+.continue-reading { border-left: 3px solid var(--fg-faint); padding: 0.4em 0.8em; background: var(--sidenote-bg); font-size: 0.95rem; text-indent: 0 !important; margin: 0 0 1.2rem; }
+.continue-reading a { font-weight: 600; }
