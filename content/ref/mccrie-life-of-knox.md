@@ -1,0 +1,33 @@
+---
+title: McCrie, Life of John Knox
+description: "Thomas M’Crie’s Life of John Knox: Knox’s sermon against Queen Mary’s first mass at Holyrood (1561), that ‘one mass was more fearful unto him, than if ten thousand armed enemies were landed’, and M’Crie’s defence of it. Cited by Lecky in vol. II, ch. IV, notes 50 and 59 (‘ed. 1840, p. 246’); read here in the Philadelphia edition of 1845, p. 221."
+heading: M’Crie, <em>Life of John Knox</em>
+subtitle: "“One mass is more fearful to me than ten thousand armed enemies”, and the biographer who excused it"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Thomas_M%27Crie_the_elder\">Thomas M’Crie</a> (1772–1835), Scottish Secession minister and historian; the <em>Life of John Knox</em> first appeared in 1811."]
+  - ["Edition used", "Not Lecky’s. He cites “ed. 1840, p. 246”, which has not been found online. Read here in the “first complete American edition”, Philadelphia: Presbyterian Board of Publication, 1845: Internet Archive <a href=\"https://archive.org/details/lifeofjohnknoxcontai00mcri\">lifeofjohnknoxcontai00mcri</a>; p. 221 = <a href=\"https://archive.org/details/lifeofjohnknoxcontai00mcri/page/n230/mode/2up\">n230</a>; title page <a href=\"https://archive.org/details/lifeofjohnknoxcontai00mcri/page/n10/mode/2up\">n10</a>. The passage was identified by its words; the page numbers of the two editions differ."]
+  - ["Cited in", "Rationalism, vol. II, ch. IV, <a href=\"../rationalism/vol2-ch4.html#fn50\">note 50</a> (“ed. 1840, p. 246”) and <a href=\"../rationalism/vol2-ch4.html#fn59\">note 59</a> (“p. 246”)."]
+  - ["Status", "Read on the page image: p. 221 of the 1845 edition. Lecky’s 1840 pagination unverified."]
+abstract: |
+  <p>On the first Sunday after Mary Queen of Scots returned to Scotland in 1561, a mass was said in her chapel at Holyrood. The next Sunday Knox preached against it, and ended his sermon by saying that “one mass was more fearful unto him, than if ten thousand armed enemies were landed in ony parte of the realme, of purpose to suppress the whole religioun.” Lecky quotes it as a specimen of Protestant intolerance, turning it into direct speech (“One mass is more fearful to me …”) and dropping the last clause. His source, Knox’s admiring biographer, quotes it in order to excuse it. M’Crie admits that “persecution for conscience’ sake is so odious” that we cannot condemn it too strongly, and then asks the reader to be “just as well as liberal”: the reformers’ fears of “Popish idolatry” were not visionary.</p>
+---
+<section id="one-mass" class="passage">
+<h2>“One mass was more fearfull unto him, than if ten thousand armed enemies were landed” (1845 ed., p. 221)</h2>
+<p class="passage-source">English: Philadelphia 1845, p. 221, <a href="https://archive.org/details/lifeofjohnknoxcontai00mcri/page/n230/mode/2up">scan n230</a>. M’Crie quotes Knox from Knox’s own <em>Historie</em> (his footnote; the page numbers are blurred in the OCR). <span class="cited-passage">Highlighted</span>: the words Lecky quotes.</p>
+<figure class="title-page"><a href="../assets/img/ref/mccrie-1845-title.jpg"><img src="../assets/img/ref/mccrie-1845-title.jpg" alt="Title page: “Life of John Knox; containing illustrations of the history of the Reformation in Scotland … By Thomas M’Crie, D.D. First complete American edition. Philadelphia: Presbyterian Board of Publication. 1845.”" loading="lazy"></a><figcaption>Title page, Philadelphia 1845, “first complete American edition”. <span class="credit"><a href="https://archive.org/details/lifeofjohnknoxcontai00mcri/page/n10/mode/2up">Scan: Internet Archive</a> · public domain</span></figcaption></figure>
+<blockquote>
+<p>… Knox used his influence in private conversation to allay the fervour of the more zealous reformers, who were ready to prevent the service by force. But he was not less alarmed at the precedent than his brethren were; and, having exposed the evils of idolatry on the following Sabbath, he concluded his sermon by saying, that “<span class="cited-passage">one mass was more fearfull unto him, than if ten thousand armed enemies were landed in ony parte of the realme</span>, of purpose to suppress the whole religioun.”</p>
+<p>At this day, we are apt to be struck with surprise at the conduct of our ancestors, to treat their fears as visionary, or at least as highly exaggerated, and summarily to pronounce them guilty of the same intolerance of which they complained in their adversaries. Persecution for conscience’ sake is so odious, and the least approach to it is so dangerous, that we deem it impossible to express too great detestation of any measure which tends to countenance or seems to encourage it. But let us be just as well as liberal. A little reflection upon the circumstances in which our reforming fathers were placed may serve to abate our astonishment, and to qualify our censures. They were actuated by a strong abhorrence of Popish idolatry …</p>
+</blockquote>
+<figure class="facsimile"><a href="../assets/img/ref/mccrie-1845-p221.jpg"><img src="../assets/img/ref/mccrie-1845-p221.jpg" alt="Printed page: “… he concluded his sermon by saying, that ‘one mass was more fearfull unto him, than if ten thousand armed enemies were landed in ony parte of the realme, of purpose to suppress the whole religioun.’ At this day, we are apt to be struck with surprise at the conduct of our ancestors …”" loading="lazy"></a><figcaption>M’Crie, <em>Life of John Knox</em>, Philadelphia 1845, p. 221. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<table class="collation">
+<tr><th>Knox, as quoted by M’Crie</th><th>Lecky (vol. II, ch. IV, text at note 50)</th></tr>
+<tr><td>he concluded his sermon by saying, that “one mass was more fearfull unto him, than if</td><td>‘One mass,’ exclaimed Knox, ‘is more fearful to me than if</td></tr>
+<tr><td>ten thousand armed enemies were landed in ony parte of the realme,</td><td>10,000 armed enemies were landed in any part of the realm.’</td></tr>
+<tr><td>of purpose to suppress the whole religioun.”</td><td>(omitted)</td></tr>
+</table>
+<p>Lecky’s sentence before it (“That the Queen of Scotland should be permitted to hear mass in her own private chapel, was publicly denounced as an intolerable evil”) matches M’Crie’s account. His note 59 cites the same page, “p. 246”, for Knox’s teaching that idolaters may be put to death; in this edition M’Crie’s defence of the reformers’ intolerance follows directly on the sentence above. Knox’s own words on that subject are on the <a href="knox-appellation.html">Appellation</a> page.</p>
+</section>
