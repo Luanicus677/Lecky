@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="joyce-englands-sacred-synods.html">Joyce, <em>England’s Sacred Synods</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The mitred abbots lost to the House of Lords, “twenty-seven by Fuller, twenty-eight by the Lord Herbert, and twenty-nine by Sir Edward Coke” (1855, p. 449, Lecky’s page; his sentence is Joyce’s). Cited in vol. II, ch. V, note 24.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="blanco-white-life.html"><em>The Life of the Rev. Joseph Blanco White</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Southey’s letter of 1817: “Mr. Fox is said to have died an unbeliever”, and unbelief explains the Whigs’ alliance with “Catholics, Methodists, or Socinians” (vol. I p. 310, Lecky’s page). Cited in vol. II, ch. V, note 23.</div>
 </li>
