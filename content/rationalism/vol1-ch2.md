@@ -187,7 +187,7 @@ There is one other subject of great importance which is naturally suggested by t
 
 [^20]: M. de Montalembert, in his <a class="popup-ref" href="../ref/montalembert-le-pere-lacordaire.html#heresiarch"><em>Life of Lacordaire</em></a>, has observed of Lammenais, that there is probably no instance in history of a man possessing so eminently the gifts of a great heresiarch making so little impression by his defection from the Church, and failing so completely to become the nucleus of a sect. After, all, however, this was quite natural. The course which Lammenais pursued stimulated a great intellectual movement; but it was not, and was never intended to be, in the direction of a sect.
 
-[^21]: On Kant's influence on German Rationalism, see Rose *On Protestantism in Germany*, pp. 183–190.
+[^21]: On Kant's influence on German Rationalism, see <a class="popup-ref" href="../ref/rose-state-of-protestantism-in-germany.html#kant">Rose <em>On Protestantism in Germany</em>, pp. 183–190</a>.
 
 [^22]: See, for example, the first and second Essays in *Aids to Faith*.
 
