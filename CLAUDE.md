@@ -494,6 +494,15 @@ Notes for continuing:
   21 Sept 1643, Lecky 1642). Both errors on lecky-and-his-sources.md. Still unread: pp. 14-15 (n71-n72 Frédégonde, n42), 35 (n92 sylphs/aurora,
   n46), 39 (n96 Charlemagne, n44), 45 (n102 Agobard, n45), 75 (n132-n134 unclear page heads, n54).
 
+- 24 Nov (OCR, ch. VI notes, all read on Lecky's vol. II images with scratchpad lzoom.py/gspan.py on lk/v2.xml): French restored in notes
+  30 (Turgot), 38 (Bossuet + Latin 'inde sperantes' for 'hide sperantea'), 39 (Montesquieu, Turgot), 74 (Rios, n318-n319), 114 (Bossuet), 143
+  (Lebrun, 'Rosimond'), 188 (Mme de Stael: Lecky prints 'Stael', an earlier edit had 'Staël', reverted); titles fixed in notes 9, 10, 15, 50ff
+  (Say 'Traité d'Economie', Villeneuve Bargemont, Perin 'Sociétés Chrétiennes', Magnin/Lebrun 'Théâtre', 'Réflexions sur la Comédie',
+  Sabatier 'Législation', Pecchio 'Economia Publica', Charles 'Comédie ... Seizième Siècle', Desprez 'Lettres sur les'), 96, 159, 171.
+  AS PRINTED: 'Letters sur les Spectacles' (n149), 'Littêrature du Midi' (n130), Rios 'cette horrible carnage', 'au merveilleux résultats'.
+  A detector over all notes (unaccented French words outside translations) now finds nothing in ch. VI. Latin notes 25-27, 36, 46, 49, 57, 70
+  still only grammar-checked.
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
