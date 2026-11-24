@@ -625,6 +625,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Descartes, driven from Utrecht, accused of atheism, “the last resort of slanderers” (Lanson’s edition). Cited in vol. II, ch. IV, note 56.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="gioja-filosofia-della-statistica.html">Gioja, <em>Filosofia della statistica</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Melchiorre Gioja, Milan 1826, tome II, p. 389 (Lecky’s page): Queen Ulrika Eleonora nearly had Linnaeus’s sexual system of plants banned as corrupting the young. Cited in vol. II, ch. IV, note 56.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montesquieu-esprit-des-lois-xxi-20.html">Montesquieu, <em>De l’esprit des lois</em>, XXI, 20</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Nous devons aux spéculations des scholastiques tous les malheurs …”, quoted in ch. VI, note 39. Compared with a Wikisource text; accurate.</div>
 </li>
