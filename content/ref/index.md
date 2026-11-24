@@ -641,6 +641,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">1589: Sixtus V compares the murder of Henri III to the Incarnation and sets the murderer “far above Judith”; Leaguers drown with a boatload of the regicide’s bloodstained earth (French translation, 1734, tome X, pp. 679–680). Cited in vol. II, ch. V, note 70.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="carena-de-officio-inquisitionis.html">Carena, <em>De officio Sanctissimae Inquisitionis</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Inquisition’s handbook (Lyon 1649) on confessors who solicit their penitents: Title VI, pp. 135–161, Lecky’s exact pages, with the bulls of Paul IV, Pius IV and Gregory XV. Cited in vol. II, ch. V, note 12.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="elrington-life-of-ussher.html">Elrington, <em>Life of Ussher</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">The Irish bishops’ judgment of 1626: toleration of Catholics “is a grievous sin” (p. 73); and Ussher in the Civil War: “war made by subjects, though really intending such an end, is unjust” (p. 239). Dublin 1847, vol. I, Lecky’s pages. Cited in vol. II, ch. IV, note 47, and ch. V, note 89.</div>
 </li>
