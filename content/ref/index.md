@@ -637,6 +637,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">The Huguenot case for resisting tyrants (1579). Elijah’s people put the priests of Baal to death “by public authority, a council having been held” (pp. 38–39 of Lecky’s 1610 edition). Cited in vol. II, ch. V, notes 112–116.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="de-thou-histoire-universelle.html">De Thou, <em>Histoire universelle</em>, book 96</a><span class="work-status">2 passages</span></div>
+<div class="work-desc">1589: Sixtus V compares the murder of Henri III to the Incarnation and sets the murderer “far above Judith”; Leaguers drown with a boatload of the regicide’s bloodstained earth (French translation, 1734, tome X, pp. 679–680). Cited in vol. II, ch. V, note 70.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="elrington-life-of-ussher.html">Elrington, <em>Life of Ussher</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">The Irish bishops’ judgment of 1626: toleration of Catholics “is a grievous sin” (p. 73); and Ussher in the Civil War: “war made by subjects, though really intending such an end, is unjust” (p. 239). Dublin 1847, vol. I, Lecky’s pages. Cited in vol. II, ch. IV, note 47, and ch. V, note 89.</div>
 </li>

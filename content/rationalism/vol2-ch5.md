@@ -545,7 +545,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^69]: In a book called Tyrannicidium, sen Scitum Catholicorum de Tyranni Internecione. This book (which was written in reply to a Calvinistic attack) contains a great deal of information about the early literature of tyrannicide. It bears the approbation of Busæus, the head of the Jesuits in Northern Germany.
 
-[^70]: De Thou, liv. xcvi. The Pope was Sixtus V.
+[^70]: <a class="popup-ref" href="../ref/de-thou-histoire-universelle.html#sixtus-v">De Thou, liv. xcvi.</a> The Pope was Sixtus V.
 
 [^71]: Lammenais, Affaires de Rome. Since the days of Lammenais the names of Ravignan and Felix have done much to rescue the order from the reproach.
 
