@@ -429,6 +429,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Leçon XVII: the Bollandist collection, and Guizot’s count of the saints’ lives for April (1,472), from which he estimated “more than 25,000” in all. Cited in ch. II, note 5.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="muzzarelli-dell-inquisizione.html">Muzzarelli, <em>Dell’Inquisizione</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Jesuit Alfonso Muzzarelli on why the Church needs an Inquisition: God once struck heretics down by miracle (Simon Magus, Ananias and Sapphira); when the miracles withdrew, “gentleness almost divided the empire with severity” (Milan 1840, pp. 43–44). Cited in ch. II, note 7.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="montalembert-le-pere-lacordaire.html">Montalembert, <em>Le Père Lacordaire</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Lamennais, with “all the stuff of the most formidable heresiarch”, left the Church and took “absolutely no one” with him (2nd ed., 1862, pp. 75–76). Cited in ch. II, note 20.</div>
 </li>
