@@ -1,0 +1,31 @@
+---
+title: The Life of the Rev. Joseph Blanco White
+description: "The Life of the Rev. Joseph Blanco White, Written by Himself, ed. J. H. Thom (London: Chapman, 1845), vol. I p. 310: Southey’s letter of 19 November 1817 on Fox’s unbelief and the Whigs’ ‘eagerness to co-operate with Catholics, Methodists, or Socinians, against the Established Church’. Cited by Lecky in vol. II, Chapter V, note 23; his page matches."
+heading: <em>The Life of the Rev. Joseph Blanco White</em>
+subtitle: "Southey explains the Whigs: Fox “is said to have died an unbeliever”"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Authors", "<a href=\"https://en.wikipedia.org/wiki/Joseph_Blanco_White\">Joseph Blanco White</a> (1775–1841), a Catholic priest of Seville who became an Anglican clergyman in England and ended a Unitarian; the letter is by <a href=\"https://en.wikipedia.org/wiki/Robert_Southey\">Robert Southey</a> (1774–1843), Poet Laureate. Edited by John Hamilton Thom."]
+  - ["Edition used", "<em>The Life of the Rev. Joseph Blanco White, Written by Himself; with Portions of his Correspondence</em>, ed. John Hamilton Thom, 3 vols., London: John Chapman, 1845, vol. I: Internet Archive <a href=\"https://archive.org/details/lifeofjosephblan01whit\">lifeofjosephblan01whit</a>; frontispiece portrait n7, title page <a href=\"https://archive.org/details/lifeofjosephblan01whit/page/n8/mode/2up\">n8</a>; p. 310 = <a href=\"https://archive.org/details/lifeofjosephblan01whit/page/n337/mode/2up\">n337</a> (printed page = image n − 27). <strong>Lecky’s “vol. i. p. 310” fits this edition.</strong>"]
+  - ["Cited in", "Rationalism, vol. II, ch. V, <a href=\"../rationalism/vol2-ch5.html#fn23\">note 23</a>."]
+  - ["Status", "Read on the page image (p. 310) and transcribed; the rest of the letter (p. 311) from the OCR."]
+abstract: |
+  <p>Lecky says the Whig party, the champion of the secular movement, “contained an unusually large proportion of religious latitudinarians”, and cites “a striking letter by Southey”. The letter, written from Keswick on 19 November 1817 to thank Blanco White for a set of lectures on religion, says it bluntly: “Mr. Fox is said to have died an unbeliever; in doubt even of a future state. I know how prevalent this fatal error is among the persons of his party”, and Southey makes unbelief the key to Whig politics: “Hence their eagerness to co-operate with Catholics, Methodists, or Socinians, against the Established Church; hence their adherence to Buonaparte in spite of his atrocious tyranny.”</p>
+  <p>The letter’s next page has Southey on Geneva (“a school of Socinianism … a blast from Ferney has infected the place”) and on his work in progress, including a Life of Wesley. For Fox’s own views on toleration as reported at his table, see <a href="rogers-recollections.html">Rogers’s <em>Recollections</em></a>.</p>
+---
+<figure class="title-page"><a href="../assets/img/ref/blanco-white-1845-portrait.jpg"><img src="../assets/img/ref/blanco-white-1845-portrait.jpg" alt="Engraved portrait of Joseph Blanco White, seated, with his signature ‘J. Blanco White’ below" loading="lazy"></a><figcaption>Frontispiece to vol. I (1845): Joseph Blanco White, with his signature. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+
+<section id="southey-1817" class="passage">
+<h2>Southey to Blanco White, Keswick, 19 November 1817 (vol. I, p. 310)</h2>
+<p class="passage-source">English: 1845, vol. I p. 310, <a href="https://archive.org/details/lifeofjosephblan01whit/page/n337/mode/2up">scan n337</a>; printed as a footnote to Blanco White’s “Sketch of his Mind in England”. <span class="cited-passage">Highlighted</span>: the passage Lecky has in mind.</p>
+<figure class="facsimile"><a href="../assets/img/ref/blanco-white-1845-i-p310.jpg"><img src="../assets/img/ref/blanco-white-1845-i-p310.jpg" alt="Printed page 310: Southey’s letter, ‘My dear Blanco, Keswick, 19th Nov. 1817. I thank you for your Lectures. … Mr. Fox is said to have died an unbeliever; in doubt even of a future state. I know how prevalent this fatal error is among the persons of his party …’" loading="lazy"></a><figcaption><em>Life of Blanco White</em>, 1845, vol. I p. 310. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<blockquote>
+<p>[* At this time he published, at Oxford, a series of short lectures on religion, the first part of which had been delivered to the younger members of Lord Holland’s family. … The following characteristic Letter from Southey relates to these Lectures.]</p>
+<p>My dear Blanco, Keswick, 19th Nov. 1817.</p>
+<p>I thank you for your Lectures. They are admirably adapted for their occasion. One of my children is old enough to profit by them, and I have put them into her hands. It is indeed curious that such a teacher should have come to us from Seville! … God grant that the good seed may take root where you have so faithfully sown it, and that it may not be choked by weeds. <span class="cited-passage">Mr. Fox is said to have died an unbeliever; in doubt even of a future state. I know how prevalent this fatal error is among the persons of his party, and trace it but too clearly in much of their political conduct; it is the secret principle which explains things otherwise inexplicable. Hence their eagerness to co-operate with Catholics, Methodists, or Socinians, against the Established Church; hence their adherence to Buonaparte in spite of his atrocious tyranny.</span> The evil is increasing among us, and on the other hand a spirit of fanaticism as wide from the truth, increases also. We stand in need of able and zealous labourers, and it is a consolation to see that by God’s blessing they are not wanting.</p>
+<p>During my journey I made what inquiry I could concerning the state of religion in the Protestant Cantons of Switzerland …</p>
+</blockquote>
+<p>Lecky (vol. II, ch. V, text at note 23): “the Whig party, which had constituted itself the representative of the secular movement, and which contained an unusually large proportion of religious latitudinarians”. Southey, a Tory and a fierce critic of the Whigs, is a hostile witness, and his “is said” marks the story of Fox’s deathbed as hearsay. Lecky’s “striking” is fair; his source is a partisan.</p>
+</section>

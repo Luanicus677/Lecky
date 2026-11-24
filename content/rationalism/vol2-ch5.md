@@ -451,7 +451,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^22]: I have examined all this more fully in The Leaders of Public Opinion in Ireland.
 
-[^23]: See, on this subject, a striking letter by Southey, in Blanco White's Life, vol. i. p. 310.
+[^23]: See, on this subject, <a class="popup-ref" href="../ref/blanco-white-life.html#southey-1817">a striking letter by Southey, in Blanco White’s <em>Life</em>, vol. i. p. 310</a>.
 
 [^24]: Joyce, Hist. of English Convocations, p. 449.
 

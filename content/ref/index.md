@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="blanco-white-life.html"><em>The Life of the Rev. Joseph Blanco White</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Southey’s letter of 1817: “Mr. Fox is said to have died an unbeliever”, and unbelief explains the Whigs’ alliance with “Catholics, Methodists, or Socinians” (vol. I p. 310, Lecky’s page). Cited in vol. II, ch. V, note 23.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="froude-nemesis-of-faith.html">Froude, <em>The Nemesis of Faith</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">J. A. Froude’s 1849 novel on Newman and sin: “in proportion to the depth with which men feel it, they will gravitate towards Rome” (pp. 160–161, Lecky’s pages). Cited in vol. II, ch. V, note 121.</div>
 </li>
