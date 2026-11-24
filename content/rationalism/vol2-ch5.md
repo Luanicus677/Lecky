@@ -581,13 +581,13 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^87]: Eternal damnation is prepared for all impenitent rebels in hell with Satan the first founder of rebellion.' 'Heaven is the place of good obedient subjects, and hell the prison and dungeon of rebels against God and their prince.' (<a class="popup-ref" href="../ref/homily-against-wilful-rebellion.html#dungeon">Homily on Wilful Rebellion.</a>)
 
-[^88]: Homilies on Wilful Rebellion and on Obedience. The same doctrines were laid down in the Canons of Convocation in 1606, and by the University of Oxford in 1622, when censuring a preacher named Knight, who had said that subjects oppressed on account of religion might sometimes resist. (Hallam, Const. Hist., vol. i. p. 415.)
+[^88]: Homilies on Wilful Rebellion and on Obedience. The same doctrines were laid down in the Canons of Convocation in 1606, and by the University of Oxford in 1622, when censuring a preacher named Knight, who had said that subjects oppressed on account of religion might sometimes resist. (<a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#knight-1622">Hallam, Const. Hist., vol. i. p. 415</a>.)
 
 [^89]: Ductor Dubitantium, lib. iii. cap. iii. Ussher, who was perhaps still more competent than Taylor to express the sentiments of the Fathers, was at least equally emphatic. See Elrington's Life of Ussher, vol. i. p. 239. Berkeley made an ingenious attempt to show that passive obedience was ordained by the law of nature: see his Discourse on Passive Obedience.
 
 [^90]: In the clause that it was not lawful 'on any pretence whatever to take up arms against the king.' This clause was expunged at the Revolution (Allen's Hist. of Royal Prerogative in England, p. 89). Magna Charta had declared that kings who violated it might be resisted.
 
-[^91]: This decree is given in full in Wodrow's Hist. of Church of Scotland, vol. iii. p. 506. See on this whole subject, Hallam, Const. Hist., vol. ii. pp. 459-465 (ed. 1854).
+[^91]: This decree is given in full in Wodrow's Hist. of Church of Scotland, vol. iii. p. 506. See on this whole subject, <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#oxford-decree-1683">Hallam, Const. Hist., vol. ii. pp. 459-465</a> (ed. 1854).
 
 [^92]: Eccl. Pol, lib. i. sec. 10.
 
