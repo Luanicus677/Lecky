@@ -9,7 +9,7 @@ back_link:
 ---
 <p class="editorial-note">This page is editorial. It gathers what has turned up in checking Lecky’s footnotes against the books themselves, on the <a href="../ref/index.html">source pages</a> of this edition. Lecky’s text is never altered; the disagreements are recorded here and on the source pages, where each passage is transcribed from a scan and translated.</p>
 
-Lecky was, for a historian of 1865, an unusually careful one. Most of what has been checked so far stands up: his quotations are usually exact, and his page numbers usually lead to the right page of the edition he used. Concina, Naudé, Binsfeld, Bédarride, Buckle and Durand, for instance, match him page for page. But checking several hundred of his footnotes has also turned up places where the book does not say what Lecky says it says. They fall into a few kinds, and they are listed below. Only part of his notes have been checked so far, so this is a sample, not a verdict.
+Lecky was, for a historian of 1865, an unusually careful one. Most of what has been checked so far stands up: his quotations are usually exact, and his page numbers usually lead to the right page of the edition he used. Concina, Naudé, Binsfeld, Bédarride, Buckle, Durand, Garinet, Michelet’s <i>La Sorcière</i> and Hallam’s <i>Literature of Europe</i>, for instance, match him page for page. But checking several hundred of his footnotes has also turned up places where the book does not say what Lecky says it says. They fall into a few kinds, and they are listed below. Only part of his notes have been checked so far, so this is a sample, not a verdict.
 
 ## The source says something else
 

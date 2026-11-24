@@ -518,6 +518,10 @@ Notes for continuing:
   quoted runs >= 10 words with >= 4 French/Latin/Italian function words and <= 1 English one, outside existing foreign+translation pairs:
   now finds nothing. Smart-quote pitfall: a straight ' right after a closing tag (e.g. '...*italic*') renders as &lsquo;; type ’ instead.
 
+- 24 Nov (end): Garinet pp. 74-75 are MISSING from `histoiredelamagi00gari` (heads jump 73 -> 76 at n132-n133), so ch. I note 54 cannot be
+  checked there. Hutchinson's 'catalogue' of works (ch. I note 133) not located in the 1720 OCR (the 'Catalogue of the Principles' at ~p. 75
+  is something else). ENGLISH toggle: translations render collapsed behind an 'English' chip (site design).
+
 ## Readability layer (headings, synopses, figures)
 
 All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
