@@ -571,7 +571,7 @@ Notes for continuing:
   n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
-- 26 Nov evening (vol. II ch. IV push, 51 -> 83/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
+- 26 Nov evening (vol. II ch. IV push, 51 -> 84/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
   `bim_early-english-books-1641-1700_of-true-religion-_milton-john_1673`, pp. 10-11 = n9-n10; n91-92), lactantius-divine-institutes (PL 6
   `..._1844_6`, V.20 cols. 613-616 = n308-n309, image = djvu object; n11), hilary-contra-auxentium (PL 10 `..._1845_10`, § 4 cols. 611-612 =
   n307; n9), cyprian-epistle-62 (PL 4 `..._1844_4`, Ep. LXII cols. 369-372 = n186-n187; Lecky's 'lib. i. ep. 11'; his English drops
@@ -605,7 +605,9 @@ Notes for continuing:
   n58, n70 work-level). Lecky prints 'Wittenburg' (n58, as printed).
   + bancroft-history-of-the-united-states (1846 vol. I `historyofuniteds01bancuoft`, image = djvu object - 5: p. 455 = n484 (Sarpi 50,000 +
   Grotius 100,000 with Italian/Latin footnote = the source of Lecky's n38 pair, inference; on lecky-and-his-sources.md), pp. 453-454 Quakers
-  banished on pain of death (OCR only); n53, n38). Grotius Annales p. 12 ed. 1678 'Carnificata hominum non minus centum millia' NOT checked.
+  banished on pain of death (OCR only); n53, n38). + limborch-historia-inquisitionis (Amsterdam 1692 = Lecky's ed., Cornell scan
+  `per_witchcraft-in-europe-and-america_historia-inquisitionis_limborch-philippus_1692_1_578`, p. 367 = n384; Innocent VIII 'Dilectus filius', six days;
+  n32; pp. 365-366, 372 unread; part _2_578 = the Toulouse Liber sententiarum). Grotius Annales p. 12 ed. 1678 'Carnificata hominum non minus centum millia' NOT checked.
 
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
 
