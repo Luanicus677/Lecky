@@ -522,6 +522,32 @@ Notes for continuing:
   checked there. Hutchinson's 'catalogue' of works (ch. I note 133) not located in the 1720 OCR (the 'Catalogue of the Principles' at ~p. 75
   is something else). ENGLISH toggle: translations render collapsed behind an 'English' chip (site design).
 
+- 24-26 Nov (coverage push for ch. II and vol. II ch. V, the two least-linked chapters): new pages, all read on page images:
+  de-thou-histoire-universelle (1734 French tr. tome X `histoireuniverse10thou`, pp. 679-680 = n702-n703, image = djvu - 1; Sixtus V puts Clément
+  'fort au-dessus de Judith'; vol2-ch5 n70), carena-de-officio-inquisitionis (Lyon 1649 `bub_gb_2L77vSEY9TQC`, Part II Tit. VI pp. 135-161 = Lecky's
+  pages, page = image - 35; n12), camden-annals-of-elizabeth (English 1688 `bim_early-english-books-1641-1700_the-history-of-the-most-_camden-william_1688`,
+  pp. 154-155 = n171-n172; 'not without Indignation'; n84), muzzarelli-dell-inquisizione (Il buon uso della logica vol. IV, Milan 1840
+  `bub_gb_NP7rEYRE7JAC`, pp. 43-44 = n44-n45; ch. II n7), farmer-dissertation-on-miracles (1771 `adissertationon02farmgoog`, Preface p. i = n13;
+  ch. II n13), newman-essay-ecclesiastical-miracles (Oxford Fleury 1842 vol. I `ecclesiasticalh01fleu`, p. xv = n18; ch. II n16),
+  rose-state-of-protestantism-in-germany (1829 `a606734800roseuoft`, pp. 183-190 = n220-n227 = Lecky's; ch. II n21), mansel-aids-to-faith
+  (Aids to Faith 1861 `a609561000thomuoft`, page = image - 11: Mansel pp. 19-20, 30, Fitzgerald p. 43; title n6; ch. II n22-23), mariana-de-rege
+  #clement (Mainz 1605 Caput VI p. 51 = n81, Clément p. 54 = n84; 'aeternum Galliae decus' absent; vol2-ch5 n49-50 and continuation notes 48, 51, 54,
+  58, 59), hooker-ecclesiastical-polity + #one-mans-will (Works 1820 vol. I `worksofthatle01hook` p. 245 = n256) + #body-politic (vol. III
+  `worksofthatlearn320hook` p. 306 = n311; Lecky prints 'by any fresh means' (checked on his p. 201 = n216), 1820 text 'just means'; vol2-ch5 n92, n94),
+  froude-nemesis-of-faith (Chapman 1849 `nemesisoffaith00frou`, pp. 160-161 = n167-n168 = Lecky's; n121), blanco-white-life (1845 vol. I
+  `lifeofjosephblan01whit`, p. 310 = n337, page = image - 27; Southey letter 19 Nov 1817; portrait n7; n23), joyce-englands-sacred-synods
+  (Rivingtons 1855 `englandssacredsy00joyc`, p. 449 = n460; Lecky's Fuller/Herbert/Coke sentence is Joyce's; n24), michelet-louis-xiv (Paris:
+  Chamerot 1860 `bub_gb_U71JAAAAcAAJ`, p. 432 = n455, image = djvu object number; title n8; n107), chevalier-lettres-sur-lorganisation-du-travail
+  (Brussels: Meline, Cans 1850 `bub_gb_IQrPvFdalQEC`, p. 17 = n24 = Lecky's page; Paris 1848 `lettressurlorgan00chevuoft` has it at pp. 26-27;
+  n126; Lecky prints 'l'Organisation de Travail', OCR 'V' fixed), fusil-souvenirs-dune-actrice (Ginisty ed. `souvenirsduneact00fusiuoft`, p. 95 =
+  n104; Lecky's pp. 27-54 = 1841 Dumont ed., not online; Lecky prints 'Saint-Hubert'; n138). Also earlier: gioja (Catteau footnote), vindiciae,
+  elrington-life-of-ussher, augustine-letters-on-coercion. Coverage after this push: ch. II 22/25 linked, vol2-ch5 ~93/140.
+  Dead ends: Hotman Franco-Gallia lib. i c. 9 (chapter numbering differs across editions; n109); Charron La Sagesse 'p. iii' (n134; 1613 Paris
+  `delasagessetro00char` has 'La Tyrannie & rébellion' at p. 565, OCR too poor; Lecky's edition unknown); Avis aux réfugiez 1692; Strauss (ch. II n17).
+  Still unlinked in vol2-ch5 with pages: n2 Ducellier pp. 87-89 (no scan found by creator search), n3 Mably, n19 Sleidan liv. ii, n80 Kellerus
+  pp. 73-74, n120 Noodt/Gronovius. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
+  (Politics I) not checked.
+
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
 
 - build.py builds, from the footnote links (`NOTE_REFS`: (chapter stem, note) -> source slugs) and `REFMETA` (title, plain-English
