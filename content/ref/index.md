@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="lamennais-affaires-de-rome.html">Lamennais, <em>Affaires de Rome</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The 1832 memorial to Gregory XVI, “drawn up almost entirely by M. Lacordaire”, arguing that Catholicism needs liberty of worship, teaching and the press (Brussels 1837, p. 44 ff.; Lecky’s pages are another printing). Cited in vol. II, ch. V, note 20.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="toland-anglia-libera.html">Toland, <em>Anglia Libera</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“The Success of the Protestant Religion, Politically speaking, depends on the Liberty of the several States of Europe” (London 1701, p. 185 = Lecky’s page). Cited in vol. II, ch. V, note 104.</div>
 </li>
