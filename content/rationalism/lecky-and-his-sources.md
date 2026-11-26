@@ -33,6 +33,7 @@ Lecky was, for a historian of 1865, an unusually careful one. Most of what has b
 - **Naudé and the demonologists.** Lecky has Naudé “observe” that nearly all heresies before the Reformation were accompanied by an outburst of sorcery ([ch. I, note 63](vol1-ch1.html#fn63)). Naudé reports it as the axiom of “our Catholic doctors, and principally Delrio and Maldonat”, and passes on without endorsing it. [Naudé](../ref/naude-apologie.html#heresies)
 - **Calvin and Dumoulin.** The view that usury is wrong only when oppressive or taken from the poor is Calvin’s in Lecky ([ch. VI, note 49](vol2-ch6.html#fn49)); in Concina, whom he cites, it is Charles Dumoulin’s, and Calvin’s argument is a different one. [Concina](../ref/concina-adversus-usuram-de-spectaculis.html#calvin-molinaeus)
 - **Augustine on Christ’s face.** Lecky’s quotation joins Augustine’s remark that nobody knows what Christ looked like to a sentence that, in Augustine, is about St Paul ([ch. III, note 28](vol1-ch3.html#fn28)). [Augustine](../ref/augustine-de-trinitate.html#penitus-ignoramus)
+- **Waldensians who never were.** The Inquisition, says Lecky, found Antonio Pérez’s words tainted with the heresy “of the Anthropomorphites and of the Vaudois, who maintain that the Father has bodily parts” ([vol. II, ch. V, note 8](vol2-ch5.html#fn8)). The Spanish censure names only the “Vadiani”, who say God is corporeal; Mignet’s French made them “Vaudois”, and Lecky kept the Waldensians. [Mignet](../ref/mignet-antonio-perez.html#nose)
 
 ## Stronger than the source
 

@@ -540,8 +540,8 @@ Notes for continuing:
   Chamerot 1860 `bub_gb_U71JAAAAcAAJ`, p. 432 = n455, image = djvu object number; title n8; n107), chevalier-lettres-sur-lorganisation-du-travail
   (Brussels: Meline, Cans 1850 `bub_gb_IQrPvFdalQEC`, p. 17 = n24 = Lecky's page; Paris 1848 `lettressurlorgan00chevuoft` has it at pp. 26-27;
   n126; Lecky prints 'l'Organisation de Travail', OCR 'V' fixed), fusil-souvenirs-dune-actrice (Ginisty ed. `souvenirsduneact00fusiuoft`, p. 95 =
-  n104; Lecky's pp. 27-54 = 1841 Dumont ed., not online; Lecky prints 'Saint-Hubert'; n138). Also earlier: gioja (Catteau footnote), vindiciae,
-  elrington-life-of-ussher, augustine-letters-on-coercion. Coverage after this push: ch. II 22/25 linked, vol2-ch5 ~93/140.
+  n104; Lecky's pp. 27-54 = 1841 Dumont ed., not online; Lecky prints 'Saint-Hubert'; n138). mignet-antonio-perez (2nd ed. Paris 1846 `antonioperezetp00migngoog`, p. 234 = n263, image = djvu - 1; Spanish censure 'heresi Vadianorum' rendered 'Vaudois' by Mignet; n8; 1845 1st ed. = `antonioperezetp01auggoog`). Also earlier: gioja (Catteau footnote), vindiciae,
+  elrington-life-of-ussher, augustine-letters-on-coercion. Coverage after this push: ch. II 22/25 linked, vol2-ch5 92/140.
   Dead ends: Hotman Franco-Gallia lib. i c. 9 (chapter numbering differs across editions; n109); Charron La Sagesse 'p. iii' (n134; 1613 Paris
   `delasagessetro00char` has 'La Tyrannie & rébellion' at p. 565, OCR too poor; Lecky's edition unknown); Avis aux réfugiez 1692; Strauss (ch. II n17).
   Still unlinked in vol2-ch5 with pages: n2 Ducellier pp. 87-89 (no scan found by creator search), n3 Mably, n19 Sleidan liv. ii, n80 Kellerus
