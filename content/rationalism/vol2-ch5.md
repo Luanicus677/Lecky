@@ -441,7 +441,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^17]: <a class="popup-ref" href="../ref/sarpi-historia-dell-inquisizione.html#other-notes">Sarpi, pp. 192, 193</a>. Milton gives a slight sketch of the history of censorships in his Areopagitica.
 
-[^18]: Giannone, 1st. di Napoli.
+[^18]: <a class="popup-ref" href="../ref/giannone-istoria-civile-del-regno-di-napoli.html#leo-443">Giannone, <em>Ist. di Napoli</em></a>.
 
 [^19]: <a class="popup-ref" href="../ref/sleidan-history-of-the-reformation.html#reuchlin">Sleidan, liv. ii.</a> 
 
@@ -543,7 +543,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^68]: <span class="foreign" lang="la">'Tyrannum qui per vim et illegitime principatum occupavit, si tyrannis aliter tolli non possit, occidere cuilibet licitum sit.'</span><span class="translation editorial" lang="en">[A tyrant who has seized the principality by force and illegitimately, if the tyranny cannot otherwise be removed, anyone may lawfully kill.]</span> (De Jure et Officiis bellicis, lib. i.) (<a class="popup-ref" href="../ref/ayala-de-jure-et-officiis-bellicis.html#usurper">source page</a>)
 
-[^69]: In a book called Tyrannicidium, sen Scitum Catholicorum de Tyranni Internecione. This book (which was written in reply to a Calvinistic attack) contains a great deal of information about the early literature of tyrannicide. It bears the approbation of Busæus, the head of the Jesuits in Northern Germany.
+[^69]: In a book called *Tyrannicidium, seu Scitum Catholicorum de Tyranni Internecione*. This book (which was written in reply to a Calvinistic attack) contains a great deal of information about the early literature of tyrannicide. It bears the approbation of Busæus, the head of the Jesuits in Northern Germany.
 
 [^70]: <a class="popup-ref" href="../ref/de-thou-histoire-universelle.html#sixtus-v">De Thou, liv. xcvi.</a> The Pope was Sixtus V.
 

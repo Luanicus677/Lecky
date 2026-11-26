@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="giannone-istoria-civile-del-regno-di-napoli.html">Giannone, <em>Istoria civile del regno di Napoli</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">In 443 Pope Leo burned the Manichaean books in Rome, “whereas before, the censure alone belonged to the Church, but the prohibition, or the burning, to the prince” (Milan 1821, vol. I p. 478). Cited in vol. II, ch. V, note 18.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="chasles-la-comedie-en-france.html">Chasles, <em>La Comédie en France au seizième siècle</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Grévin’s tragedy <i>César</i>, whose Brutus preaches “striking at monarchy by striking the monarch”, reprinted in Ravaillac’s time as <i>La liberté vengée ou César poignardé</i> (1862, p. 31; Lecky calls the author “Charles”). Cited in vol. II, ch. V, note 63.</div>
 </li>
