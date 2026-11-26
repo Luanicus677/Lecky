@@ -619,7 +619,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^106]: Avis aux Réfugiez, pp. 64, 65 (ed. 1692).
 
-[^107]: Michelet, Hist. de Louis XIV. (1860), p. 432.
+[^107]: <a class="popup-ref" href="../ref/michelet-louis-xiv.html#saurin-basnage">Michelet, Hist. de Louis XIV. (1860), p. 432.</a>
 
 [^108]: The works of Hotman were collected in three large volumes, in 1600. After the Franco-Gallia the best known are the Brutum Fulmen, which was written on the occasion of the excommunication of the King of Navarre; and the Antitribonius, which was written in opposition to the revival of Roman legislation. Joseph Scaliger said he helped in the composition of the Franco-Gallia (Scaligerana, art. Hottomannus).
 

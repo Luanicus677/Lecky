@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="michelet-louis-xiv.html">Michelet, <em>Louis XIV et la révocation de l’Édit de Nantes</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Michelet (1860): in 1689 Jurieu stood “seul contre Bossuet”, while “le doux Saurin, le pacifique Basnage” worked to suppress resistance (p. 432, Lecky’s page). Cited in vol. II, ch. V, note 107.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="joyce-englands-sacred-synods.html">Joyce, <em>England’s Sacred Synods</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The mitred abbots lost to the House of Lords, “twenty-seven by Fuller, twenty-eight by the Lord Herbert, and twenty-nine by Sir Edward Coke” (1855, p. 449, Lecky’s page; his sentence is Joyce’s). Cited in vol. II, ch. V, note 24.</div>
 </li>
