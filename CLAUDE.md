@@ -557,6 +557,8 @@ Notes for continuing:
   `twotreatisesofg00lockuoft`, pp. 311-312 = n330-n331; n101-102), rousseau-contrat-social-iv-8 #english-people (III.15, 1903 ed. p. 262 = n265;
   n140; page retitled 'Du contrat social'), montaigne-essais-ii-12 #contre-un (Courbet-Royer vol. 2 `19essaispublis02montuoft`, I.28 p. 83 = n96;
   n124). Work-level links added: n33 (Hallam MA, Bossuet Defensio, Bianchi, Giannone), n73, n77 (Bossuet), n74 (Bianchi, Bossuet), n78 (Hallam Lit.).
+  + lamennais-affaires-de-rome (Brussels: Hauman, Cattoir 1837 `a589606400lameuoft`, memorial after p. 44 = n47 to ~p. 104; Lecky's pp. 37-89 = another
+  printing; n20, n71 work-level). Earlier CLAUDE.md note said no Lamennais match: the memorial IS there, only the pagination differs.
   OCR fixed from Lecky's page: n18 '1st.' -> 'Ist.', n69 'sen' -> 'seu', text at n124 "the' Contre-un '" -> 'the ‘Contre-un’'.
   Gutenberg was down for maintenance on 26 Nov (returns a 913-byte HTML page). vol2-ch5 now 110/140.
   Still unlinked in vol2-ch5 with real citations: n2 Ducellier pp. 87-89 (no scan found), n4/32/106/135 Avis aux réfugiez (not online), n20 Lacordaire

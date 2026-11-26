@@ -547,7 +547,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^70]: <a class="popup-ref" href="../ref/de-thou-histoire-universelle.html#sixtus-v">De Thou, liv. xcvi.</a> The Pope was Sixtus V.
 
-[^71]: Lammenais, Affaires de Rome. Since the days of Lammenais the names of Ravignan and Felix have done much to rescue the order from the reproach.
+[^71]: <a class="popup-ref" href="../ref/lamennais-affaires-de-rome.html">Lammenais, Affaires de Rome</a>. Since the days of Lammenais the names of Ravignan and Felix have done much to rescue the order from the reproach.
 
 [^72]: See <a class="popup-ref" href="../ref/suarez-defensio-fidei.html">Suarez, De Fide</a>, lib. vi. cap. iv.
 
@@ -645,7 +645,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^119]: He tried, however, to establish a distinction of his own — that a king was one who governed according to the law of nature, and a tyrant one who outraged it.
 
-[^120]: See Noodt On the Power of Sovereigns, and Gronovius On the Royal Law, both of which were translated into French by Barbeyrac — the first in 1707, and the second in 1714. They were both in the form of lectures delivered near the end of the seventeenth century before the University of Leyden, and are both, I think, rather dismal performances. Noodt was a strenuous advocate of liberty of conscience, and also one of the principal assailants of the theological superstitions about usury. Gronovius is best remembered for his Annotations of Grotius, in which he strongly repudiated the servile political maxims of that writer.
+[^120]: See <a class="popup-ref" href="../ref/noodt-du-pouvoir-des-souverains.html#title">Noodt On the Power of Sovereigns, and Gronovius On the Royal Law</a>, both of which were translated into French by Barbeyrac — the first in 1707, and the second in 1714. They were both in the form of lectures delivered near the end of the seventeenth century before the University of Leyden, and are both, I think, rather dismal performances. Noodt was a strenuous advocate of liberty of conscience, and also one of the principal assailants of the theological superstitions about usury. Gronovius is best remembered for his Annotations of Grotius, in which he strongly repudiated the servile political maxims of that writer.
 
 [^121]: See some striking remarks on this in <a class="popup-ref" href="../ref/froude-nemesis-of-faith.html#gravitate-towards-rome">Froude’s <em>Nemesis of Faith</em>, pp. 160, 161</a>.
 
