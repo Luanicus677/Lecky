@@ -571,7 +571,7 @@ Notes for continuing:
   n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
-- 26 Nov evening (vol. II ch. IV push, 51 -> 80/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
+- 26 Nov evening (vol. II ch. IV push, 51 -> 82/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
   `bim_early-english-books-1641-1700_of-true-religion-_milton-john_1673`, pp. 10-11 = n9-n10; n91-92), lactantius-divine-institutes (PL 6
   `..._1844_6`, V.20 cols. 613-616 = n308-n309, image = djvu object; n11), hilary-contra-auxentium (PL 10 `..._1845_10`, § 4 cols. 611-612 =
   n307; n9), cyprian-epistle-62 (PL 4 `..._1844_4`, Ep. LXII cols. 369-372 = n186-n187; Lecky's 'lib. i. ep. 11'; his English drops
@@ -600,7 +600,9 @@ Notes for continuing:
   n198-n199) for n29. OCR fixed: n44 'De Reins Ilispanicis' -> 'De Rebus Hispanicis' (read on Lecky n56). Dead end: Mariana Historiae de
   rebus Hispaniae lib. XXIV c. 17 (n44, 17,000 recantations): Mainz 1605 `bub_gb_5AyqSyLCJ4kC` OCR too poor (long s as f) to locate it;
   try its _djvu.xml or the Spanish Historia general. Still unlinked with a citation: n2 Parnell, n19/24 Libanius, n32 Trautmansdorff
-  (and Limborch 1692 pp. 365-372), n44 Mariana, n53 Bancroft, n58 Henry's Life of Calvin, n61 Hallam, n62-63 Jurieu, n70 Bayle/Henry.
+  (and Limborch 1692 pp. 365-372), n44 Mariana, n53 Bancroft, n61 Hallam, n62-63 Jurieu. + henry-life-of-calvin (Stebbing tr. 1849 vol. II
+  `lifetimesofjohnc02henr`, p. 236 = n249, image = object - 1; Lecky's pp. 232-242 MATCH this edition's running heads; 'placet mihi Luthero';
+  n58, n70 work-level). Lecky prints 'Wittenburg' (n58, as printed).
 
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
 
