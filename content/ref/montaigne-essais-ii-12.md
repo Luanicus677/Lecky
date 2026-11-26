@@ -1,15 +1,15 @@
 ---
-title: Montaigne, Essais II.12
+title: Montaigne, Essais
 description: "The passage in Montaigne’s Apology for Raymond Sebond on how religious opinion about rebellion changes with fortune, quoted by Lecky in Chapter V, note 117, compared with the Courbet–Royer text. Lecky’s French is lightly modernised and reads “imprudence” where this text has “impudence”."
-heading: Montaigne, <em>Essais</em>, II.12
+heading: Montaigne, <em>Essais</em>
 subtitle: "Lecky cuts Montaigne short and changes a word"
 back_link:
   url: index.html
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Michel_de_Montaigne\">Michel de Montaigne</a> (1533–1592). Lecky cites this passage in <a href=\"../rationalism/vol2-ch5.html\">Chapter V</a> as the ‘keen eye of the great sceptic’ marking how doctrines on rebellion changed with each party’s fortunes."]
-  - ["Edition used", "<em>Les Essais de Michel de Montaigne</em>, ed. Courbet and Royer (1900), vol. 3 (Book II, chs. 12 onward): <a href=\"https://archive.org/details/19essaispublis03montuoft\">archive.org/details/19essaispublis03montuoft</a>. The passage runs on from the main text into the smaller type at the foot of p. 179, image <a href=\"https://archive.org/details/19essaispublis03montuoft/page/n192/mode/2up\">n192</a> (p + 13). The translation is this edition’s own draft."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn117\">Rationalism, ch. V, note 117</a>."]
+  - ["Edition used", "<em>Les Essais de Michel de Montaigne</em>, ed. Courbet and Royer (1900), vol. 3 (Book II, chs. 12 onward): <a href=\"https://archive.org/details/19essaispublis03montuoft\">archive.org/details/19essaispublis03montuoft</a>. The passage runs on from the main text into the smaller type at the foot of p. 179, image <a href=\"https://archive.org/details/19essaispublis03montuoft/page/n192/mode/2up\">n192</a> (p + 13). The translation is this edition’s own draft. For Book I ch. 28 (“De l’amitié”), vol. 2 of the same edition: <a href=\"https://archive.org/details/19essaispublis02montuoft\">19essaispublis02montuoft</a>, p. 83 = <a href=\"https://archive.org/details/19essaispublis02montuoft/page/n96/mode/2up\">n96</a>."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch5.html#fn117\">Rationalism, ch. V, note 117</a>. Also <a href=\"../rationalism/vol2-ch5.html#fn124\">note 124</a> (“Essais, liv. i. c. 27”: “De l’amitié”, numbered ch. 28 in this edition)."]
   - ["Status", "One passage transcribed, translated and collated. Lecky’s “imprudence” may reflect the edition he used; I have not seen it."]
 abstract: |
   <p>Lecky leaves out Montaigne’s following sentence about burning people who say truth must bear “the yoke of our need”. In what he does quote, from the Apologie de Raimond Sebond on rebellion for religion, he reads “imprudence” where this text has “impudence”. Lecky cites the passage in Chapter V as the ‘keen eye of the great sceptic’ on doctrines changing with each party’s fortunes.</p>
@@ -42,3 +42,19 @@ abstract: |
 <details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
 <p>Lecky quotes Montaigne’s outcry at how the question “may a subject rebel against his prince for religion?” was answered by each party according to its fortunes. The passage is Montaigne’s, in the long chapter known as the <em>Apologie de Raimond Sebond</em>. Lecky’s French is slightly modernised and differs in one word, <em>imprudence</em> for <em>impudence</em>, and one repeated <em>et</em>.</p>
 </details>
+
+<section id="contre-un" class="passage">
+<h2>La Boétie’s <i>Servitude volontaire</i>, “rebaptized” <i>Le Contre un</i> (Book I, “De l’amitié”, p. 83)</h2>
+<p class="passage-source">French: Courbet–Royer, vol. 2, Book I ch. XXVIII, p. 83, <a href="https://archive.org/details/19essaispublis02montuoft/page/n96/mode/2up">scan n96</a>. Many editions number this essay I.27, as Lecky does. Spelling as printed. <span class="cited-passage">Highlighted</span>: the renaming Lecky reports.</p>
+<figure class="facsimile"><a href="../assets/img/ref/montaigne-1900-ii-p83.jpg"><img src="../assets/img/ref/montaigne-1900-ii-p83.jpg" alt="Printed page 83: “… Je me suis advisé d’en emprunter un d’Estienne de la Boitie … C’est un discours auquel il donna nom La Servitude volontaire; mais ceux qui l’ont ignoré l’ont bien proprement depuis rebaptisé Le Contre un. Il l’escrivit par maniere d’essay en sa premiere jeunesse … à l’honneur de la liberté contre les tyrans.”" loading="lazy"></a><figcaption>Montaigne, <em>Essais</em>, ed. Courbet and Royer, vol. 2 (1900), p. 83. <span class="credit">Scan: Internet Archive (University of Toronto) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… Je me suis advisé d’en emprunter un d’Estienne de la Boitie, qui honorera tout le reste de cette besongne. <span class="cited-passage">C’est un discours auquel il donna nom <i>La Servitude volontaire</i>; mais ceux qui l’ont ignoré l’ont bien proprement depuis rebaptisé <i>Le Contre un</i>.</span> Il l’escrivit par maniere d’essay en sa premiere jeunesse, n’ayant pas attaint le dixhuitiesme an de son aage, à l’honneur de la liberté contre les tyrans. Il court pieça és mains des gens d’entendement, <span class="cited-passage">non sans bien grande et meritée recommandation</span>, car il est gentil et plein ce qu’il est possible.</p>
+</div>
+<div class="rendering">
+<p>… I have thought of borrowing one from Étienne de La Boétie, which will do honour to all the rest of this work. <span class="cited-passage">It is a discourse to which he gave the name <i>Voluntary Servitude</i>; but those who did not know this have since very aptly rebaptized it <i>Against One</i>.</span> He wrote it by way of an essay in his early youth, before he had reached his eighteenth year, in honour of liberty against tyrants. It has long passed through the hands of men of understanding, <span class="cited-passage">not without very great and well-deserved commendation</span>, for it is as graceful and full as can be.</p>
+<p class="editorial-note">Translation: this edition’s draft.</p>
+</div>
+</div>
+<p>Lecky (vol. II, ch. V, note 124), on the name <i>Contr’un</i>: “The name was given during the life of Montaigne, who praised it.” Montaigne both reports the new name, approvingly (“bien proprement”), and praises the discourse. He also says La Boétie wrote it before he was eighteen; Lecky’s text adds that La Boétie died “when only in his thirty-second year”, which is not on this page.</p>
+</section>

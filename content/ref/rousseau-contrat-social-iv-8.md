@@ -1,7 +1,7 @@
 ---
-title: Rousseau, Du contrat social IV.8
-description: "Rousseau’s chapter on civil religion (Book IV, ch. 8), the passage on the inseparability of civil and theological intolerance that Lecky quotes in Chapter IV Part II, note 81, compared with a 1903 critical edition."
-heading: Rousseau, <em>Du contrat social</em>, IV.8
+title: Rousseau, Du contrat social
+description: "Rousseau’s chapter on civil religion (Book IV, ch. 8), the passage on the inseparability of civil and theological intolerance that Lecky quotes in Chapter IV Part II, note 81, compared with a 1903 critical edition; and Book III ch. 15, on the English being free only at elections (vol. II, Chapter V, note 140)."
+heading: Rousseau, <em>Du contrat social</em>
 subtitle: "Why civil and theological intolerance cannot be split"
 back_link:
   url: index.html

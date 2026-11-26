@@ -653,7 +653,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^123]: <a class="popup-ref" href="../ref/cibrario-economia-politica.html">Cibrario, Economia Politica del Medio Evo, vol. ii. p. 247 (2nd ed.).</a> This tendency was turned to ridicule by Ulrich von Hutten in a very witty but very profane adaptation of the Fables of Ovid to the Christian history (Epistolæ Obscurorum Virorum [London, 1689], pp. 103-107), and also by Rabelais.
 
-[^124]: The name was given during the life of Montaigne, who praised it. (Essais, liv. i. c. 27.) La Boétie, unfortunately, died when only in his thirty-second year, and nearly all his works appear to have been posthumous. They have all been republished at Paris, by Leon Fougère, in 1846.
+[^124]: The name was given during the life of Montaigne, who praised it. (<a class="popup-ref" href="../ref/montaigne-essais-ii-12.html#contre-un">Essais, liv. i. c. 27.</a>) La Boétie, unfortunately, died when only in his thirty-second year, and nearly all his works appear to have been posthumous. They have all been republished at Paris, by Leon Fougère, in 1846.
 
 [^125]: It appeared for the first time, together with the Franco-Gallia, in a seditious book called Mémoires de l'Estat de France sous Charles IX. See Les Historiettes de Tallemant des Reaux (ed. 1834), tom. i. p. 395.
 
