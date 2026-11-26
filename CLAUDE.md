@@ -571,7 +571,7 @@ Notes for continuing:
   n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
-- 26 Nov evening (vol. II ch. IV push, 51 -> ~79/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
+- 26 Nov evening (vol. II ch. IV push, 51 -> 73/100 linked, then more): new pages, all read on page images: milton-of-true-religion (1673 EEBO
   `bim_early-english-books-1641-1700_of-true-religion-_milton-john_1673`, pp. 10-11 = n9-n10; n91-92), lactantius-divine-institutes (PL 6
   `..._1844_6`, V.20 cols. 613-616 = n308-n309, image = djvu object; n11), hilary-contra-auxentium (PL 10 `..._1845_10`, § 4 cols. 611-612 =
   n307; n9), cyprian-epistle-62 (PL 4 `..._1844_4`, Ep. LXII cols. 369-372 = n186-n187; Lecky's 'lib. i. ep. 11'; his English drops
