@@ -529,7 +529,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^61]: He is called so in, I think, every history of the occurrence I have met with; but a writer in the Journal des Sçavans of 1748 maintains (pp. 994-996) that there is some doubt upon the point. It is worthy of remark that the duke who instigated the murder, and probably inspired the apology, died himself by the hand of an assassin. (<a class="popup-ref" href="../ref/van-bruyssel-histoire-du-commerce.html#jean-petit">Van Bruyssel, Hist. du Commerce Belge, tom. ii. pp. 48, 49</a>.)
 
-[^62]: Mariana rejects this decree without hesitation, on Ultramontane principles, as not having been confirmed by the Pope (De Rege, p. 79). Suarez seems to think it binding, but argues (De Fide, lib. vi. c. 4) that it applies only to tyrants in regimine, because the Council condemns the opinion that 'subjects' may slay a tyrant, and a tyrant in titulo has, properly speaking, no 'subjects.'
+[^62]: Mariana rejects this decree without hesitation, on Ultramontane principles, as not having been confirmed by the Pope (<a class="popup-ref" href="../ref/mariana-de-rege.html#constance">De Rege, p. 79</a>). Suarez seems to think it binding, but argues (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html">De Fide, lib. vi. c. 4</a>) that it applies only to tyrants in regimine, because the Council condemns the opinion that 'subjects' may slay a tyrant, and a tyrant in titulo has, properly speaking, no 'subjects.'
 
 [^63]: There is a full notice of this play in <a class="popup-ref" href="../ref/chasles-la-comedie-en-france.html#cesar">Charles, La Comédie en France au Seizième Siècle</a>.
 
@@ -553,7 +553,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^73]: On the inevitable tendency of the doctrine of deposition to tyrannicide, there are some good remarks in Bossuet, Defensio, lib. i. c. 3. The doctrine of tyrannicide among the Jesuits seems to have died away after Suarez: the political condition of Europe no longer made it of great service to the Church, and the controversies of Jansenism diverted the energy of the Jesuits into new channels. Pascal, in his Provincial Letters, barely touches this aspect of this Jesuit teaching.
 
-[^74]: See on the one side Bianchi, Puissance Souveraine, and on the other the Defensio of Bossuet.
+[^74]: See on the one side <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, Puissance Souveraine</a>, and on the other the <a class="popup-ref" href="../ref/bossuet-defensio-declarationis.html">Defensio of Bossuet</a>.
 
 [^75]: According to Bianchi, the first Catholic who maintained that the Pope had no power over the temporal possessions of princes who fell into heresy was an Englishman of the time of James I. — William Barclay, the father of the author of the Argenis. W.Barclay wrote against and was answered by Bellarmine. (<a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html#barclay">Bianchi, tom. ii. pp.768, 769</a>).
 
