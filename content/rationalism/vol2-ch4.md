@@ -242,7 +242,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^8]: <a class="popup-ref" href="../ref/tertullian-apologeticum.html#apol-24">Apol. cap. xxiv.</a>
 
-[^9]: Ad Auxentium.
+[^9]: <a class="popup-ref" href="../ref/hilary-contra-auxentium.html#terret-exsiliis">Ad Auxentium.</a>
 
 [^10]: The reader may find a full statement of the passages from the Fathers favourable to toleration in Whitby, On Laws against Heretics (1723, published anonymously); Taylor, Liberty of Prophesying; Bayle, Contrains-les d'entrer, and many other books. The other side of the question has been developed, among other writers, by <a class="popup-ref" href="../ref/palmer-treatise-on-the-church.html">Palmer, On the Church</a>; Muzzarelli, <a class="popup-ref" href="../ref/simancas-de-catholicis-institutionibus.html">Simancas</a>, <a class="popup-ref" href="../ref/paramo-de-origine-inquisitionis.html">Paramo</a>, and all the other old writers on the Inquisition. There is, I think, an impartial view of the whole subject in <a class="popup-ref" href="../ref/milman-history-of-christianity.html">Milman, History of Christianity</a>. See, too, Blackstone's Commentaries, b. iv. ch. iv.
 

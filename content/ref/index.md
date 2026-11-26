@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="hilary-contra-auxentium.html">Hilary of Poitiers, <em>Contra Auxentium</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“The Church frightens men with exile and prison, and forces belief in herself, she who was believed in through exile and prison” (§ 4, Migne PL 10 cols. 611–612). Cited in vol. II, ch. IV, note 9.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="lactantius-divine-institutes.html">Lactantius, <em>Divine Institutes</em>, Book V</a><span class="work-status">2 passages</span></div>
 <div class="work-desc">“Religio cogi non potest”: religion cannot be compelled, and is to be defended “not by killing but by dying” (V.20, Migne PL 6 cols. 613–616). Cited in vol. II, ch. IV, note 11.</div>
 </li>
