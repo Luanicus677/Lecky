@@ -449,6 +449,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Gratian refuses the robe of Pontifex Maximus (“If the emperor refuses to become Pontifex, we shall soon make one”); the temples still open under Theodosius (English tr. 1814, pp. 110, 115–116). Cited in vol. II, ch. IV, notes 16, 22.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="bancroft-history-of-the-united-states.html">Bancroft, <em>History of the United States</em>, vol. I</a><span class="work-status">2 passages</span></div>
+<div class="work-desc">Massachusetts banishes the Quakers on pain of death (1658); and Sarpi’s 50,000 and Grotius’s 100,000 Dutch martyrs set against America’s four (1846, pp. 453–455). Cited in vol. II, ch. IV, notes 38, 53.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="henry-life-of-calvin.html">Henry, <em>The Life and Times of John Calvin</em>, vol. II</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Luther tells Philip of Hesse that heretics may be put to death, and signs the Wittenberg opinion for the sword: “placet mihi Luthero” (Stebbing tr. 1849, p. 236; Lecky’s pages). Cited in vol. II, ch. IV, notes 58, 70.</div>
 </li>
