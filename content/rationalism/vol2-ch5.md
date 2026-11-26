@@ -409,7 +409,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^1]: It is worthy of notice, that the first developement of sculpture, which in almost all other nations was religious, in Rome appears to have been patriotic — the objects of representation being not the gods, but the true national ideals — the heroes of Rome. (See O. Müller, Manuel d'Archéologie, vol. i. pp. 251-2.)
 
-[^2]: It was confirmed as part of the general law of the Church by Alexander III. in 1179. See Ducellier, Hist. des Classes Laborieuses en France, pp. 87-89, 127, 128.
+[^2]: It was confirmed as part of the general law of the Church by Alexander III. in 1179. See <a class="popup-ref" href="../ref/ducellier-histoire-des-classes-laborieuses.html#alexander-1179">Ducellier, Hist. des Classes Laborieuses en France, pp. 87-89, 127, 128</a>.
 
 [^3]: <a class="popup-ref" href="../ref/mably-observations-sur-lhistoire-de-france.html#schism">Mably, Observations sur l’Histoire de France, liv. iv. c. v.</a>
 
