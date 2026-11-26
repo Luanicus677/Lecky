@@ -1,0 +1,36 @@
+---
+title: Chevalier, Lettres sur l’organisation du travail
+description: "Michel Chevalier, Lettres sur l’organisation du travail (1848; Brussels: Meline, Cans, 1850 printing), Letter II, p. 17: Aristotle’s saying that if the shuttle and the chisel could work by themselves slavery would be unnecessary, and capital as ‘un grand libérateur’. Cited by Lecky in vol. II, Chapter V, note 126; his page fits the Brussels printing."
+heading: Chevalier, <em>Lettres sur l’organisation du travail</em>
+subtitle: "If the shuttle could weave by itself, there would be no need of slaves: an economist answers the socialists of 1848"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Michel_Chevalier\">Michel Chevalier</a> (1806–1879), French economist, professor at the Collège de France, later the negotiator of the Anglo-French free-trade treaty of 1860. The letters, written in 1848, examine the “principal causes of poverty” and the remedies then being proposed (so the title)."]
+  - ["Edition used", "<em>Lettres sur l’organisation du travail, ou études sur les principales causes de la misère et sur les moyens proposés pour y remédier</em>, Brussels: Meline, Cans et Cie, 1850 (Google scan): Internet Archive <a href=\"https://archive.org/details/bub_gb_IQrPvFdalQEC\">bub_gb_IQrPvFdalQEC</a>; title page <a href=\"https://archive.org/details/bub_gb_IQrPvFdalQEC/page/n6/mode/2up\">n6</a>; p. 17 = <a href=\"https://archive.org/details/bub_gb_IQrPvFdalQEC/page/n24/mode/2up\">n24</a>. <strong>Lecky’s “(1848), p. 17” fits this Brussels pagination</strong>; in the Paris printing of 1848 (<a href=\"https://archive.org/details/lettressurlorgan00chevuoft\">lettressurlorgan00chevuoft</a>) the passage is on pp. 26–27. Lecky’s 1848 copy has not been seen."]
+  - ["Cited in", "Rationalism, vol. II, ch. V, <a href=\"../rationalism/vol2-ch5.html#fn126\">note 126</a>."]
+  - ["Status", "Read on the page image (p. 17) and transcribed; the preceding sentences (p. 16) from the OCR."]
+abstract: |
+  <p>Lecky ends a paragraph on free labour with a saying of Aristotle: “If the hammer and the shuttle could move themselves, slavery would be unnecessary”, adding that “machinery having virtually fulfilled the condition, the predicted result has followed.” Both the saying and the moral come from Chevalier, whom he cites. Chevalier calls the saying “un éclair de génie” and draws the same conclusion: the growth of capital “has in fact solved the problem of making the shuttle and the chisel work by themselves; and then, as the Stagirite deeply foresaw, slavery could disappear”. Capital, he concludes, “is a great liberator”.</p>
+  <p>Chevalier’s tools are the shuttle and the <em>chisel</em> (“la navette et le ciseau”); Lecky’s are the shuttle and the hammer. Aristotle’s own wording (<em>Politics</em>, book I) has not been checked here.</p>
+---
+<figure class="title-page"><a href="../assets/img/ref/chevalier-lettres-1850-title.jpg"><img src="../assets/img/ref/chevalier-lettres-1850-title.jpg" alt="Title page: LETTRES SUR L’ORGANISATION DU TRAVAIL, OU ÉTUDES SUR LES PRINCIPALES CAUSES DE LA MISÈRE ET SUR LES MOYENS PROPOSÉS POUR Y REMÉDIER; PAR MICHEL CHEVALIER. BRUXELLES. MELINE, CANS ET Cie, LIBRAIRES-ÉDITEURS. 1850." loading="lazy"></a><figcaption>Title page, Brussels: Meline, Cans et Cie, 1850. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+
+<section id="shuttle" class="passage">
+<h2>Aristotle’s shuttle and the liberating power of capital (Letter II, pp. 16–17)</h2>
+<p class="passage-source">French: Brussels 1850, Letter II, p. 17, <a href="https://archive.org/details/bub_gb_IQrPvFdalQEC/page/n24/mode/2up">scan n24</a>. <span class="cited-passage">Highlighted</span>: the saying Lecky borrows and the conclusion he draws from it.</p>
+<figure class="facsimile"><a href="../assets/img/ref/chevalier-lettres-1850-p17.jpg"><img src="../assets/img/ref/chevalier-lettres-1850-p17.jpg" alt="Printed page 17, headed LETTRE II: “… et ici il faut que je cite un éclair de génie du grand philosophe que je nommais tout à l’heure. « Si la navette et le ciseau, dit Aristote dans sa Politique, pouvaient marcher seuls, l’esclavage ne serait plus nécessaire. »”" loading="lazy"></a><figcaption>Chevalier, <em>Lettres sur l’organisation du travail</em>, Brussels 1850, p. 17. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>… La puissante intelligence d’Aristote, pour expliquer qu’il y ait des hommes réduits à cette lamentable condition, est obligée de distinguer dans l’espèce humaine deux natures: la nature libre et la nature esclave.</p>
+<p>Au contraire, quand le capital s’est agrandi et s’est mul-[p. 17]tiplié, le travail des hommes produit assez pour donner du bien-être à un grand nombre de personnes, pour retirer tout le monde de la misère avilissante où la multitude croupissait autrefois; et ici il faut que je cite un éclair de génie du grand philosophe que je nommais tout à l’heure. <span class="cited-passage">« Si la navette et le ciseau, dit Aristote dans sa <i>Politique</i>, pouvaient marcher seuls, l’esclavage ne serait plus nécessaire. » L’agrandissement du capital a en effet résolu le problème de faire marcher seuls la navette et le ciseau; et alors, selon le pressentiment profond du Stagyrite, l’esclavage a pu disparaître</span>, le travailleur a pu devenir libre et aspirer pour ses enfants et pour lui-même à des destinées meilleures et plus dignes. … L’histoire à la main, nous avons le droit de le proclamer, c’est un grand libérateur.</p>
+</div>
+<div class="rendering">
+<p>… The mighty intelligence of Aristotle, to explain how there could be men reduced to this lamentable condition, is obliged to distinguish two natures in the human species: the free nature and the slave nature.</p>
+<p>On the other hand, when capital has grown and multiplied, men’s labour produces enough to give comfort to a great number of people, to draw everyone out of the degrading poverty in which the multitude once wallowed; and here I must quote a flash of genius from the great philosopher I named a moment ago. <span class="cited-passage">“If the shuttle and the chisel,” says Aristotle in his <i>Politics</i>, “could work by themselves, slavery would no longer be necessary.” The growth of capital has in fact solved the problem of making the shuttle and the chisel work by themselves; and then, as the Stagirite deeply foresaw, slavery could disappear</span>, and the worker could become free and aspire, for his children and for himself, to better and worthier destinies. … History in hand, we have the right to proclaim it: [capital] is a great liberator.</p>
+<p class="editorial-note">Translation: this edition’s draft.</p>
+</div>
+</div>
+<p>Lecky (vol. II, ch. V, text at note 126): “‘If the hammer and the shuttle could move themselves,’ said Aristotle, ‘slavery would be unnecessary,’ and machinery having virtually fulfilled the condition, the predicted result has followed.” The rest of Lecky’s paragraph, that without capital the many sink to bare subsistence, is Chevalier’s argument on p. 16 too. Chevalier’s “Stagyrite” is his spelling.</p>
+</section>

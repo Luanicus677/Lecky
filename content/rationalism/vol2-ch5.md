@@ -657,7 +657,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^125]: It appeared for the first time, together with the Franco-Gallia, in a seditious book called Mémoires de l'Estat de France sous Charles IX. See Les Historiettes de Tallemant des Reaux (ed. 1834), tom. i. p. 395.
 
-[^126]: See some very good remarks on this in Chevalier, Lettres sur V Organisation de Travail (1848), p. 17.
+[^126]: See some very good remarks on this in <a class="popup-ref" href="../ref/chevalier-lettres-sur-lorganisation-du-travail.html#shuttle">Chevalier, <em>Lettres sur l’Organisation de Travail</em> (1848), p. 17</a>.
 
 [^127]: Chivalry (cheval).
 
