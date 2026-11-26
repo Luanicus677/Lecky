@@ -571,7 +571,7 @@ Notes for continuing:
   n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
-- 26 Nov evening (vol. II ch. IV push, 51 -> 82/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
+- 26 Nov evening (vol. II ch. IV push, 51 -> 83/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
   `bim_early-english-books-1641-1700_of-true-religion-_milton-john_1673`, pp. 10-11 = n9-n10; n91-92), lactantius-divine-institutes (PL 6
   `..._1844_6`, V.20 cols. 613-616 = n308-n309, image = djvu object; n11), hilary-contra-auxentium (PL 10 `..._1845_10`, § 4 cols. 611-612 =
   n307; n9), cyprian-epistle-62 (PL 4 `..._1844_4`, Ep. LXII cols. 369-372 = n186-n187; Lecky's 'lib. i. ep. 11'; his English drops
@@ -603,6 +603,9 @@ Notes for continuing:
   (and Limborch 1692 pp. 365-372), n44 Mariana, n53 Bancroft, n61 Hallam, n62-63 Jurieu. + henry-life-of-calvin (Stebbing tr. 1849 vol. II
   `lifetimesofjohnc02henr`, p. 236 = n249, image = object - 1; Lecky's pp. 232-242 MATCH this edition's running heads; 'placet mihi Luthero';
   n58, n70 work-level). Lecky prints 'Wittenburg' (n58, as printed).
+  + bancroft-history-of-the-united-states (1846 vol. I `historyofuniteds01bancuoft`, image = djvu object - 5: p. 455 = n484 (Sarpi 50,000 +
+  Grotius 100,000 with Italian/Latin footnote = the source of Lecky's n38 pair, inference; on lecky-and-his-sources.md), pp. 453-454 Quakers
+  banished on pain of death (OCR only); n53, n38). Grotius Annales p. 12 ed. 1678 'Carnificata hominum non minus centum millia' NOT checked.
 
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
 
