@@ -471,7 +471,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^32]: This appears to have been a favourite argument of the French Protestants: Avis aux Réfugiez sur leur prochain Retour en France, p. 43. To these the Gallican Catholics replied that Julian was dead when the invectives were delivered. Hilary, however, inveighed vehemently against the Arian Emperor Constantius, in the lifetime of the latter; and Bianchi, in a very ingenious fashion, argues from this that Constantius must have been virtually deposed on account of his heresy, for respect to lawful sovereigns is among the plainest duties; and as St. Hilary called Constantius 'a precursor of Antichrist,'' a rascal,' and 'an object of malediction,' &c. &c., it may be inferred that he did not regard him as his lawful sovereign. (Puissance Eccl., tom. i. pp. 651, 652.)
 
-[^33]: A clear secular view of the subject is given by Mr. Hallam, in the chapter on the 'Increase of Ecclesiastical Authority,' in his Hist. of the Middle Ages. It has also been examined very fully by Bossuet, from a Gallican point of view, in his Defence of the Articles of the Gallican Church, and from an ultramontane point of view by Bianchi, On Ecclesiastical Power. This last book, which is a work of exceedingly extensive learning but of undisguised and indeed dishonest partiality, was published originally in Italian in 1745, and directed especially against the opinions of Giannone. The French translation was made in 1857, and consists of two (in every sense of the word) most ponderous volumes. It is now the great standard work of the ultramontane party.
+[^33]: A clear secular view of the subject is given by Mr. Hallam, in the chapter on the 'Increase of Ecclesiastical Authority,' in his <a class="popup-ref" href="../ref/hallam-middle-ages.html">Hist. of the Middle Ages</a>. It has also been examined very fully by Bossuet, from a Gallican point of view, in his <a class="popup-ref" href="../ref/bossuet-defensio-declarationis.html">Defence of the Articles of the Gallican Church</a>, and from an ultramontane point of view by <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, On Ecclesiastical Power</a>. This last book, which is a work of exceedingly extensive learning but of undisguised and indeed dishonest partiality, was published originally in Italian in 1745, and directed especially against the opinions of <a class="popup-ref" href="../ref/giannone-istoria-civile-del-regno-di-napoli.html">Giannone</a>. The French translation was made in 1857, and consists of two (in every sense of the word) most ponderous volumes. It is now the great standard work of the ultramontane party.
 
 [^34]: As one of the leading supporters of the Papal party put it with amusing coolness: <span class="foreign" lang="la">'Certe licet Paulus dixerit "omnis anima potestatibus sublimioribus subdita sit" nunquam addidit, etiam potestatibus excommunicatis; vel deprivatis a papa.'</span><span class="translation editorial" lang="en">[Certainly, although Paul said ‘Let every soul be subject to the higher powers,’ he never added: even to powers excommunicated or deposed by the Pope.]</span> (Suarez, De Fide, lib. vi. cap. 4.) (<a class="popup-ref" href="../ref/suarez-defensio-fidei.html#excommunicatis">source page</a>)
 
@@ -551,7 +551,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^72]: See <a class="popup-ref" href="../ref/suarez-defensio-fidei.html">Suarez, De Fide</a>, lib. vi. cap. iv.
 
-[^73]: On the inevitable tendency of the doctrine of deposition to tyrannicide, there are some good remarks in Bossuet, Defensio, lib. i. c. 3. The doctrine of tyrannicide among the Jesuits seems to have died away after Suarez: the political condition of Europe no longer made it of great service to the Church, and the controversies of Jansenism diverted the energy of the Jesuits into new channels. Pascal, in his Provincial Letters, barely touches this aspect of this Jesuit teaching.
+[^73]: On the inevitable tendency of the doctrine of deposition to tyrannicide, there are some good remarks in <a class="popup-ref" href="../ref/bossuet-defensio-declarationis.html">Bossuet, Defensio, lib. i. c. 3</a>. The doctrine of tyrannicide among the Jesuits seems to have died away after Suarez: the political condition of Europe no longer made it of great service to the Church, and the controversies of Jansenism diverted the energy of the Jesuits into new channels. Pascal, in his Provincial Letters, barely touches this aspect of this Jesuit teaching.
 
 [^74]: See on the one side <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, Puissance Souveraine</a>, and on the other the <a class="popup-ref" href="../ref/bossuet-defensio-declarationis.html">Defensio of Bossuet</a>.
 
@@ -559,9 +559,9 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^76]: <a class="popup-ref" href="../ref/bianchi-puissance-ecclesiastique.html">Bianchi, tom. i. pp. 96-104.</a>
 
-[^77]: Defensio, lib. i. c. 15, 16. Avertissements sur les Lettres de M. Jurieu, no. 5.
+[^77]: <a class="popup-ref" href="../ref/bossuet-defensio-declarationis.html">Defensio, lib. i. c. 15, 16</a>. Avertissements sur les Lettres de M. Jurieu, no. 5.
 
-[^78]: Hallam, Hist. of Lit.
+[^78]: <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html">Hallam, Hist. of Lit.</a>
 
 [^79]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes.html">Barrington on the Statutes, p. 280.</a>
 
