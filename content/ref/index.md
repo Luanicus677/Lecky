@@ -449,6 +449,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Gratian refuses the robe of Pontifex Maximus (“If the emperor refuses to become Pontifex, we shall soon make one”); the temples still open under Theodosius (English tr. 1814, pp. 110, 115–116). Cited in vol. II, ch. IV, notes 16, 22.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="sarpi-history-of-the-council-of-trent.html">Sarpi, <em>History of the Council of Trent</em>, Book V</a><span class="work-status">1 passage</span></div>
+<div class="work-desc">“Hanged, beheaded, buried alive, and burned, to the number of fifty thousand” in the Low Countries from Charles V’s first edict to 1559 (English tr. 1676, p. 387). Cited in vol. II, ch. IV, note 38.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="annuaire-des-deux-mondes-1858.html"><em>Annuaire des Deux Mondes</em>, 1857–1858</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Six women exiled from Sweden for becoming Catholics, after the nobles and clergy rejected the government’s toleration bills (vol. VIII, p. 463). Cited in vol. II, ch. IV, note 98.</div>
 </li>

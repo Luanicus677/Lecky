@@ -1,0 +1,26 @@
+---
+title: Sarpi, History of the Council of Trent (the Netherlands)
+description: "Paolo Sarpi, History of the Council of Trent, Book V, under 1558 (English translation, London 1676, p. 387): from Charles V’s first edict until the peace of 1559, ‘there were hanged, beheaded, buried alive, and burned, to the number of fifty thousand’ in the Low Countries. Cited by Lecky in vol. II, Chapter IV, note 38."
+heading: Sarpi, <em>History of the Council of Trent</em>, Book V
+subtitle: "Where Lecky’s figure of 50,000 Dutch martyrs comes from"
+back_link:
+  url: index.html
+  text: Sources
+meta_rows:
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Paolo_Sarpi\">Paolo Sarpi</a> (1552–1623), Servite friar and state theologian of Venice. His <em>Istoria del Concilio Tridentino</em> appeared in London in 1619 under the anagram Pietro Soave Polano."]
+  - ["Edition used", "<em>The History of the Council of Trent</em>, translated by Nathanael Brent, London, 1676 (EEBO scan): Internet Archive <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-history-of-the-counc_sarpi-paolo_1676\">bim_early-english-books-1641-1700_the-history-of-the-counc_sarpi-paolo_1676</a>; Book V, p. 387 = <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-history-of-the-counc_sarpi-paolo_1676/page/n512/mode/2up\">n512</a>. Lecky gives no edition or page; the passage is our identification (it is the only place where the book’s own index gives the figure). The translator’s name is from the standard attribution; the title page was not viewed. The Italian was not checked."]
+  - ["Cited in", "Rationalism, vol. II, ch. IV, <a href=\"../rationalism/vol2-ch4.html#fn38\">note 38</a>."]
+  - ["Status", "Read on the page image and transcribed; long s modernised."]
+abstract: |
+  <p>Lecky: “The number of those who were put to death for their religion in the Netherlands alone, in the reign of Charles V. has been estimated by a very high authority at 50,000”, and the authority is Sarpi. The figure is there, in Sarpi’s account of the year 1558: “in the Low Countries, from the first Edict of Charles, until this time of the Peace, there were hanged, beheaded, buried alive, and burned, to the number of fifty thousand”. The book’s index repeats it: “50000. were there put to death for Religion.”</p>
+  <p>Two things to notice. Sarpi’s period runs past Charles V’s abdication of 1555 to the peace of Cateau-Cambrésis in 1559, so Lecky’s “in the reign of Charles V.” is slightly narrower than his source. And Sarpi gives no source for the number; he was writing in Venice two generations later. Lecky’s note adds that Grotius says 100,000; that is not checked here.</p>
+---
+<section id="fifty-thousand" class="passage">
+<h2>“To the number of fifty thousand” (Book V, p. 387)</h2>
+<p class="passage-source">English: London 1676, Book V, under 1558, p. 387, <a href="https://archive.org/details/bim_early-english-books-1641-1700_the-history-of-the-counc_sarpi-paolo_1676/page/n512/mode/2up">scan n512</a>. Long s modernised; the translation’s spelling kept. <span class="cited-passage">Highlighted</span>: the figure Lecky cites.</p>
+<figure class="facsimile"><a href="../assets/img/ref/sarpi-council-of-trent-1676-p387.jpg"><img src="../assets/img/ref/sarpi-council-of-trent-1676-p387.jpg" alt="Printed text, with the side-note ‘In the Low-Countries 50000 were executed for Religion in a short time’: “… And although in the Low Countries, from the first Edict of Charles, until this time of the Peace, there were hanged, beheaded, buried alive, and burned, to the number of fifty thousand, and very many put to death in France, yet both places were then in worse case than ever.”" loading="lazy"></a><figcaption>Sarpi, <em>History of the Council of Trent</em>, London 1676, p. 387. <span class="credit">Scan: Internet Archive (EEBO microfilm) · public domain</span></figcaption></figure>
+<blockquote>
+<p>… It is certain, that this compelled <i>Charles</i> the Emperour, to attempt the bringing in of the <i>Spanish Inquisition</i>, seeing that other remedies did not prevail, though he was partly forced to desist, for the causes before related. And <i>Henry</i> the <i>French</i> King, gave the Bishops Authority to punish Hereticks; a thing never used before in that Kingdom. <span class="cited-passage">And although in the <i>Low Countries</i>, from the first Edict of <i>Charles</i>, until this time of the Peace, there were hanged, beheaded, buried alive, and burned, to the number of fifty thousand</span>, and very many put to death in <i>France</i>, yet both places were then in worse case than ever.</p>
+</blockquote>
+<p>The side-note reads “In the Low-Countries 50000 were executed for Religion in a short time”; the text itself speaks of the whole period from Charles’s first edict (the 1520s) to the peace of 1559. Modern historians, counting executions in the surviving records, put the number far lower; their figures are not checked here.</p>
+</section>
