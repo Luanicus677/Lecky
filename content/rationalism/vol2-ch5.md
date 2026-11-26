@@ -443,7 +443,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^18]: Giannone, 1st. di Napoli.
 
-[^19]: Sleidan, liv. ii. 
+[^19]: <a class="popup-ref" href="../ref/sleidan-history-of-the-reformation.html#reuchlin">Sleidan, liv. ii.</a> 
 
 [^20]: For a clear view of the successive stages of the secularising movement in France, see the memorial on the subject drawn up by the Abbé Lacordaire, and reproduced by Lammenais. (Affaires de Rome, pp. 37-89.)
 
