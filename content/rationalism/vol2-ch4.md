@@ -332,7 +332,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^53]: See the history, in Bancroft.
 
-[^54]: Temple, On the United Provinces.
+[^54]: <a class="popup-ref" href="../ref/temple-observations-united-provinces.html#clergy">Temple, On the United Provinces.</a>
 
 [^55]: Bayle, art. Augustine, note H. <a class="popup-ref" href="../ref/bayle-dictionnaire.html#augustin-h">source page</a> See too, on the general intolerance of the Dutch clergy, <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#dutch-clergy-289">Hallam, Hist. of Lit., vol. iii. p. 289</a>.
 

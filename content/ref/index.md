@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="temple-observations-united-provinces.html">Temple, <em>Observations upon the United Provinces</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Why Holland chose the Reformed faith (it “gave least pretence of Power or Jurisdiction to the Clergy”) and tolerated “any peaceable man” (1673, ch. V, pp. 174–176). Cited in vol. II, ch. IV, note 54.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="chillingworth-religion-of-protestants.html">Chillingworth, <em>The Religion of Protestants</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">If all the honest errors of all Protestants met in him, “I should not be so much afraid of them all, as I should be to ask pardon for them” (Works 1742, p. 44 = Lecky’s page). Cited in vol. II, ch. IV, notes 84, 93.</div>
 </li>
