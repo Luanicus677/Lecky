@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="milton-of-true-religion.html">Milton, <em>Of True Religion</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Milton’s last tract (1673): every Protestant sect tolerated, but “Popery, as being Idolatrous, is not to be tolerated either in Public or in Private” (pp. 10–11). Cited in vol. II, ch. IV, notes 91–92.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="discours-par-un-ministre-patriote.html"><em>Discours … par un ministre patriote</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">A 1787 pamphlet against civil status for Protestants: l’Hôpital’s toleration judged by “the blood shed on the plains of Dreux”, “cette fatale tolérance” (copy of 1788, p. 17). Cited in vol. II, ch. V, note 132.</div>
 </li>
