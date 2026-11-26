@@ -449,6 +449,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Gratian refuses the robe of Pontifex Maximus (“If the emperor refuses to become Pontifex, we shall soon make one”); the temples still open under Theodosius (English tr. 1814, pp. 110, 115–116). Cited in vol. II, ch. IV, notes 16, 22.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="beza-life-of-calvin.html">Beza, <em>Life of Calvin</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">After Servetus’s burning: Castellio and Socinus “the chief abettors” of leaving heretics to God, an opinion “defended even by some good men” (English tr. 1844, pp. lxv–lxvi). Cited in vol. II, ch. IV, note 72.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="sarpi-history-of-the-council-of-trent.html">Sarpi, <em>History of the Council of Trent</em>, Book V</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Hanged, beheaded, buried alive, and burned, to the number of fifty thousand” in the Low Countries from Charles V’s first edict to 1559 (English tr. 1676, p. 387). Cited in vol. II, ch. IV, note 38.</div>
 </li>
