@@ -8,9 +8,9 @@ back_link:
   text: Sources
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jules_Michelet\">Jules Michelet</a> (1798–1874). This is vol. XIII of his <em>Histoire de France</em> (the volume number is on the half-title)."]
-  - ["Edition used", "<em>Histoire de France au dix-septième siècle. Louis XIV et la révocation de l’Édit de Nantes</em>, Paris: Chamerot, 1860 (Google scan): Internet Archive <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ\">bub_gb_U71JAAAAcAAJ</a>; title page <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ/page/n8/mode/2up\">n8</a>; p. 432 = <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ/page/n455/mode/2up\">n455</a> (image = djvu object number here). <strong>Lecky’s “(1860), p. 432” fits this edition.</strong>"]
-  - ["Cited in", "Rationalism, vol. II, ch. V, <a href=\"../rationalism/vol2-ch5.html#fn107\">note 107</a>."]
-  - ["Status", "Read on the page image: p. 432 (page number checked on the image). Page 433 from the OCR only."]
+  - ["Edition used", "<em>Histoire de France au dix-septième siècle. Louis XIV et la révocation de l’Édit de Nantes</em>, Paris: Chamerot, 1860 (Google scan): Internet Archive <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ\">bub_gb_U71JAAAAcAAJ</a>; title page <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ/page/n8/mode/2up\">n8</a>; p. 203 = <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ/page/n228/mode/2up\">n228</a>, p. 432 = <a href=\"https://archive.org/details/bub_gb_U71JAAAAcAAJ/page/n455/mode/2up\">n455</a> (image = djvu object number here). <strong>Lecky’s “(1860), p. 432” fits this edition.</strong>"]
+  - ["Cited in", "Rationalism, vol. II, ch. V, <a href=\"../rationalism/vol2-ch5.html#fn107\">note 107</a> (p. 432) and <a href=\"../rationalism/vol2-ch5.html#fn5\">note 5</a> (“Michelet, Louis XIV.”, no page: the Dutch war as a crusade; p. 203 is our choice of passage)."]
+  - ["Status", "Read on the page images: pp. 203 and 432 (page numbers checked on the images). Page 433 from the OCR only."]
 abstract: |
   <p>Lecky writes that <a href="https://en.wikipedia.org/wiki/Pierre_Jurieu">Jurieu</a> “strenuously asserted” the Protestants’ right to resist religious persecution, “although <a href="https://en.wikipedia.org/wiki/Jacques_Saurin">Saurin</a> is said to have taken the opposite view”, and cites Michelet. Michelet’s page is harsher than Lecky’s “is said”: in 1689 Jurieu stood “seul contre Bossuet”, disowned by Geneva and mocked by Bayle, while “le doux Saurin, le pacifique Basnage” did worse than disagree: they “will act to suppress resistance, and will do Louis XIV the vital service of sapping the drive of the Cévennes”, presumably the <a href="https://en.wikipedia.org/wiki/Camisard">Camisard</a> rising of the Protestant peasants of the Cévennes after 1702.</p>
   <p>On the same page Michelet admits that Bossuet’s case for Christian non-resistance was hard to answer: Grotius allowed resistance to man but not to the Christian, and Milton and Sidney had to lean on the Old Testament. On the next page Jurieu answers that if the first Christians’ example forbade all resistance it proved too much: they would have had to let thieves rob them too.</p>
@@ -33,4 +33,20 @@ abstract: |
 </div>
 </div>
 <p>Lecky (vol. II, ch. V, text at note 107): “Jurieu strenuously asserted the first right; and although Saurin is said to have taken the opposite view …” Lecky reports Saurin’s view as hearsay; Michelet presents it as fact and adds Basnage, and goes further, crediting both with helping the king against the Camisards. (“Basnage” is <a href="https://en.wikipedia.org/wiki/Jacques_Basnage">Jacques Basnage</a>, the Huguenot pastor at The Hague: our identification.)</p>
+</section>
+
+<section id="crusade" class="passage">
+<h2>A crusade turned against its maker (p. 203)</h2>
+<p class="passage-source">French: 1860, p. 203, <a href="https://archive.org/details/bub_gb_U71JAAAAcAAJ/page/n228/mode/2up">scan n228</a>, under the years 1674–1675, the Dutch war. Lecky’s note 5 gives no page; this is one of several places where Michelet calls the war a “croisade” (also the “croisade hollandaise et anglaise” planned in 1670, and, looking back, the “croisade religieuse” that came to nothing). <span class="cited-passage">Highlighted</span>: the religious character Louis gave the war.</p>
+<figure class="facsimile"><a href="../assets/img/ref/michelet-louis-xiv-1860-p203.jpg"><img src="../assets/img/ref/michelet-louis-xiv-1860-p203.jpg" alt="Printed page 203: “En Allemagne, la question est si violemment retournée que, dans cette guerre que le roi avait lui-même déclarée religieuse et catholique, ce ne sont plus seulement les protestants qui combattent, mais la catholique Espagne et la catholique Autriche. … La croisade que Louis ouvrit, elle se fait contre lui-même.”" loading="lazy"></a><figcaption>Michelet, <em>Louis XIV et la révocation de l’Édit de Nantes</em>, 1860, p. 203. <span class="credit">Scan: Internet Archive (Google Books) · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>En Allemagne, la question est si violemment retournée que, <span class="cited-passage">dans cette guerre que le roi avait lui-même déclarée <i>religieuse</i> et catholique</span>, ce ne sont plus seulement les protestants qui combattent, mais la catholique Espagne et la catholique Autriche. Le jésuite Léopold s’en va au pèlerinage fameux de Maria-Zell pour prier contre Louis XIV. Il prend en main le crucifix, prêche son armée contre la France. <span class="cited-passage">La croisade que Louis ouvrit, elle se fait contre lui-même.</span></p>
+</div>
+<div class="rendering">
+<p>In Germany the question is so violently reversed that, <span class="cited-passage">in this war which the king had himself declared <i>religious</i> and Catholic</span>, it is no longer only the Protestants who fight, but Catholic Spain and Catholic Austria. The Jesuit Leopold goes on the famous pilgrimage to Mariazell to pray against Louis XIV. He takes the crucifix in hand and preaches his army against France. <span class="cited-passage">The crusade that Louis opened is now being fought against himself.</span></p>
+<p class="editorial-note">Translation: this edition’s draft. “The Jesuit Leopold” is Michelet’s gibe at the Emperor Leopold I.</p>
+</div>
+</div>
+<p>Lecky (vol. II, ch. V, text at note 5): “The invasion of Holland by Louis XIV. was near becoming” a religious war; the note sends the reader to “Michelet, Louis XIV.” for “the religious character Louis XIV. tried to give the invasion of Holland”. Michelet’s answer is that the attempt backfired: the Catholic powers joined the Protestants against him.</p>
 </section>

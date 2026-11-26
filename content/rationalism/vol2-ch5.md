@@ -415,7 +415,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^4]: Avis aux Réfugiez, p. 56 (ed. 1692).
 
-[^5]: E.g. the recent invasion of Morocco by the Spaniards. On the religious character Louis XIV. tried to give the invasion of Holland, see Michelet, Louis XIV.
+[^5]: E.g. the recent invasion of Morocco by the Spaniards. On the religious character Louis XIV. tried to give the invasion of Holland, see <a class="popup-ref" href="../ref/michelet-louis-xiv.html#crusade">Michelet, Louis XIV.</a>
 
 [^6]: The relations of the Inquisition and the civil power have been admirably sketched by Sarpi in a short work called <a class="popup-ref" href="../ref/sarpi-historia-dell-inquisizione.html">Discorso dell' Origine dell' Uffizio dell' Inquisitione</a>, which I have closely followed.
 
