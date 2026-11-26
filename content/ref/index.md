@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="discours-par-un-ministre-patriote.html"><em>Discours … par un ministre patriote</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">A 1787 pamphlet against civil status for Protestants: l’Hôpital’s toleration judged by “the blood shed on the plains of Dreux”, “cette fatale tolérance” (copy of 1788, p. 17). Cited in vol. II, ch. V, note 132.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="ducellier-histoire-des-classes-laborieuses.html">Ducellier, <em>Histoire des classes laborieuses en France</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">The Truce of God of 1041, and its confirmation by Alexander III in 1179 “as a general law of the Church”, by then in disuse; with the White Hoods of Le Puy (pp. 87, 127 = Lecky’s pages). Cited in vol. II, ch. V, note 2.</div>
 </li>

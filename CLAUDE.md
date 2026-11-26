@@ -561,11 +561,13 @@ Notes for continuing:
   printing; n20, n71 work-level). Earlier CLAUDE.md note said no Lamennais match: the memorial IS there, only the pagination differs.
   + noodt-du-pouvoir-des-souverains (Amsterdam 1714 2nd ed. `dupouvoirdessouv00nood`, John Adams's copy; frontispiece n9, title n10; n120),
   ducellier-histoire-des-classes-laborieuses (`histoiredesclas00duce`, catalogued 1860: p. 87 = n104, p. 127 = n144 = Lecky's pages; prints 'Caen en 1142'; n2).
+  + discours-par-un-ministre-patriote (1788 copy `discourslireauco00bonn`, p. 17 = n14 (image = djvu - 1); catalogue lists Bonnaud, Lenfant, Proyart; Lecky
+  'Abbé de L'Enfert'; n132).
   OCR fixed from Lecky's page: n18 '1st.' -> 'Ist.', n69 'sen' -> 'seu', text at n124 "the' Contre-un '" -> 'the ‘Contre-un’'.
-  Gutenberg was down for maintenance on 26 Nov (returns a 913-byte HTML page). vol2-ch5 now 110/140.
+  Gutenberg was down for maintenance on 26 Nov (returns a 913-byte HTML page). vol2-ch5 now 115/140.
   Still unlinked in vol2-ch5 with real citations: n4/32/106/135 Avis aux réfugiez (not online), n20 Lacordaire
   memorial, n69/80 Kellerus Tyrannicidium (only a German 1611 tr. online, `10521040bsb`), n71 Lamennais, n85 Robert Hall, n95 Sydney, n109 Hotman,
-  n120 Noodt/Gronovius, n132 L'Enfert, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
+  n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
