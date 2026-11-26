@@ -571,7 +571,7 @@ Notes for continuing:
   n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
-- 26 Nov evening (vol. II ch. IV push, 51 -> 73/100 linked, then more): new pages, all read on page images: milton-of-true-religion (1673 EEBO
+- 26 Nov evening (vol. II ch. IV push, 51 -> 80/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
   `bim_early-english-books-1641-1700_of-true-religion-_milton-john_1673`, pp. 10-11 = n9-n10; n91-92), lactantius-divine-institutes (PL 6
   `..._1844_6`, V.20 cols. 613-616 = n308-n309, image = djvu object; n11), hilary-contra-auxentium (PL 10 `..._1845_10`, § 4 cols. 611-612 =
   n307; n9), cyprian-epistle-62 (PL 4 `..._1844_4`, Ep. LXII cols. 369-372 = n186-n187; Lecky's 'lib. i. ep. 11'; his English drops
@@ -587,7 +587,20 @@ Notes for continuing:
   Dead end: Jurieu, Des droits des deux souverains (n62-63) not on archive.org. Gutenberg down for maintenance on 26 Nov.
   Still unlinked in vol2-ch4 with citations: n2 Parnell, n3 Clogy's Bedell, n19 Libanius (Latin), n24 Libanius Pro Templis, n29 Augustine
   (Epist. 158-160, 105/166, Contra Gaudentium I.19, Contra Parmenianum I.8), n32 Trautmansdorff, n38 Sarpi Council of Trent, n53 Bancroft,
-  n58, n62-63 Jurieu, n70, n72 Beza Vita Calvini, n97 Proast, n98 Annuaire des Deux Mondes 1858 p. 463.
+  n58, n62-63 Jurieu, n70 (n3, n4, n38, n72, n97, n98 DONE later the same evening, below).
+  Later 26 Nov: + annuaire-des-deux-mondes-1858 (vol. VIII `annuairedesdeuxm08pariuoft`, p. 463 = n470; six Swedish women exiled; n98 OCR 'Monties'
+  -> 'Mondes'), sarpi-history-of-the-council-of-trent (Brent tr. 1676 EEBO `bim_early-english-books-1641-1700_the-history-of-the-counc_sarpi-paolo_1676`,
+  Book V p. 387 = n512 (image = object number): 50,000 in the Low Countries from Charles's first edict to the 1559 peace; n38 'Hist,' -> 'Hist.'),
+  beza-life-of-calvin (Calvin Translation Society Tracts vol. I 1844 `tractsrelatingto01calv`, pp. lxv-lxvi = n70-n71, image = object - 1;
+  Castellio and Socinus 'chief abettors', NOT 'the only men': on lecky-and-his-sources.md; Latin Vita not checked), clogy-life-of-bedell
+  (1862 `memoirlifeandep00cloggoog`, p. 183 = n200 'liberty without interruption', p. 212 = n229 Gunpowder-day sermon on Ps. 124, footnote
+  '5 Nov. 1641'; `memoiroflifeepis02clog` is MISLABELLED (Orme's Baxter); n3), proast-letters-concerning-toleration (EEBO 1690 title n0,
+  imprimatur n1 'Printed at the Theatre'; 1691 Third Letter title n2; n97), lecky-leaders-of-public-opinion-1861 (Lecky's own anonymous
+  first book, `leaderspublicop05leckgoog`, title n5, contents n7; n4). Augustine Ep. 105 (#ep105-nebuchadnezzar, PL 33 cols. 398-399 =
+  n198-n199) for n29. OCR fixed: n44 'De Reins Ilispanicis' -> 'De Rebus Hispanicis' (read on Lecky n56). Dead end: Mariana Historiae de
+  rebus Hispaniae lib. XXIV c. 17 (n44, 17,000 recantations): Mainz 1605 `bub_gb_5AyqSyLCJ4kC` OCR too poor (long s as f) to locate it;
+  try its _djvu.xml or the Spanish Historia general. Still unlinked with a citation: n2 Parnell, n19/24 Libanius, n32 Trautmansdorff
+  (and Limborch 1692 pp. 365-372), n44 Mariana, n53 Bancroft, n58 Henry's Life of Calvin, n61 Hallam, n62-63 Jurieu, n70 Bayle/Henry.
 
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
 
