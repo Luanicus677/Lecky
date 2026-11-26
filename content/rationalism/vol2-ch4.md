@@ -256,7 +256,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^15]: <span class="foreign" lang="la">'Addite aras publicas atque delubra, et consuetudinis vestræ celebrate solemnia: nec enim prohibemus preteritæ usurpationis officia libera luce tractari.'</span><span class="translation editorial" lang="en">[Go to the public altars and shrines and celebrate the solemnities of your custom; for we do not forbid the rites of a bygone usurpation to be performed in open daylight.]</span> — <a class="popup-ref" href="../ref/codex-theodosianus-ix-16.html#law-1">Cod. Th. lib. ix. tit. 16, cc. i. ii.</a>
 
-[^16]: The first emperor who refused it was Gratian (Zosimus, book iv.).
+[^16]: The first emperor who refused it was Gratian (<a class="popup-ref" href="../ref/zosimus-new-history.html#pontifex">Zosimus, book iv.</a>).
 
 [^17]: <a class="popup-ref" href="../ref/eusebius-vita-constantini.html#ii-44-45">Eusebius, Vita Const, lib. ii. c. xliv. xlv.</a>
 
@@ -268,7 +268,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^21]: Cod. Th. xvi. 10, 2-4. The terms of one of these laws seem to imply that Constantine had made a similar enactment: <span class="foreign" lang="la">'Cesset superstitio: sacrificiorum aboleatur insania. Nam quicunque contra legem divi Principis Parentis nostri, et hanc nostræ mansuetudinis jussionem, ausus fuerit sacrificia celebrare, competens in eum vindicta et præsens sententia exeratur.'</span><span class="translation editorial" lang="en">[Let superstition cease; let the madness of sacrifices be abolished. For whoever, against the law of the divine Emperor our father and this command of our clemency, dares to celebrate sacrifices, let a fitting punishment and immediate sentence be executed upon him.]</span> For a full discussion of this very perplexing subject see <a class="popup-ref" href="../ref/milman-history-of-christianity.html#eusebius-sacrifice">Milman, Hist. of Christianity</a>, and <a class="popup-ref" href="../ref/gibbon-decline-and-fall.html">Gibbon</a>, ch. xxi.
 
-[^22]: Thus, for example, the pagan Zosimus tells us expressly that in the beginning of the reign of Theodosius his coreligionists were still at liberty to worship in the temples. The history is in a great measure a repetition of that of the persecution which the Christians had themselves endured. Generally they had been allowed freely to celebrate their worship, but from that time, either through popular indignation or imperial suspicions, there were sudden outbursts of fearful persecution.
+[^22]: Thus, for example, the pagan <a class="popup-ref" href="../ref/zosimus-new-history.html#temples">Zosimus</a> tells us expressly that in the beginning of the reign of Theodosius his coreligionists were still at liberty to worship in the temples. The history is in a great measure a repetition of that of the persecution which the Christians had themselves endured. Generally they had been allowed freely to celebrate their worship, but from that time, either through popular indignation or imperial suspicions, there were sudden outbursts of fearful persecution.
 
 [^23]: See the <a class="popup-ref" href="../ref/codex-theodosianus-xvi-jews-and-temples.html">laws De Templis</a>.
 
