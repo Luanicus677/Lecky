@@ -412,7 +412,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^93]: Chillingworth published The Religion of Protestants in 1637, one year before he took orders — which last step he had many scruples about.
 
-[^94]: Sec. 22. He desires that they should be absolutely tolerated, unless, indeed, they openly preach such doctrines as the non-observance of faith with heretics, or that a pope can absolve subjects from the oath of allegiance, or that an heretical prince may be slain by his people.
+[^94]: <a class="popup-ref" href="../ref/taylor-liberty-of-prophesying.html#church-of-rome">Sec. 22.</a> He desires that they should be absolutely tolerated, unless, indeed, they openly preach such doctrines as the non-observance of faith with heretics, or that a pope can absolve subjects from the oath of allegiance, or that an heretical prince may be slain by his people.
 
 [^95]: On which Coleridge remarks, I think, a little too severely: 'If Jeremy Taylor had not in effect retracted after the Restoration, if he had not, as soon as the Church had gained power, most basely disclaimed and disavowed the principle of toleration, and apologised for the publication by declaring it to have been a ruse de guerre, currying pardon for his past liberalism by charging, and most probably slandering, himself with the guilt of falsehood, treachery and hypocrisy, his character as a man would have been almost stainless.' (<a class="popup-ref" href="../ref/coleridge-notes-on-english-divines.html#ruse-de-guerre">Notes on English Divines, vol. i. p. 209.</a>)
 
