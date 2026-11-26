@@ -9,7 +9,7 @@ back_link:
 meta_rows:
   - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau\">Jean-Jacques Rousseau</a> (1712–1778), <em>Du contrat social</em> (1762). Lecky cites “liv. iv. c. 8” in <a href=\"../rationalism/vol2-ch4.html\">Chapter IV, Part II</a>."]
   - ["Edition used", "A 1903 critical edition (with footnotes quoting the Geneva manuscript): <a href=\"https://archive.org/details/ducontratsocialt00rous\">archive.org/details/ducontratsocialt00rous</a>. Book IV, ch. 8 ends on pp. 331–333, images <a href=\"https://archive.org/details/ducontratsocialt00rous/page/n334/mode/2up\">n334</a>–<a href=\"https://archive.org/details/ducontratsocialt00rous/page/n336/mode/2up\">n336</a> (p + 3). This edition modernises spelling; Lecky’s French keeps an older orthography (<em>seroit</em>, <em>point</em>), so he used another edition. The translation is this edition’s own draft."]
-  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn81\">Rationalism, ch. IV (continued), note 81</a>."]
+  - ["Cited in", "<a href=\"../rationalism/vol2-ch4.html#fn81\">Rationalism, ch. IV (continued), note 81</a>. Also <a href=\"../rationalism/vol2-ch5.html#fn140\">vol. II, ch. V, note 140</a> (liv. iii. ch. xv: book III, ch. 15, p. 262 = <a href=\"https://archive.org/details/ducontratsocialt00rous/page/n265/mode/2up\">n265</a>)."]
   - ["Status", "The passage transcribed from the page images, translated and collated. The edition’s footnotes (including a Geneva-manuscript variant of the “dogme affreux”) are not transcribed."]
 abstract: |
   <p>Rousseau says whoever dares say “outside the Church, no salvation” must be “driven from the State” unless “the State is the Church”. Lecky quotes the passage true to the sense, but he cuts the middle where “the priests are the true masters” and kings are only “their officers”. The cut also drops Rousseau’s point that there can no longer be “an exclusive national religion”, which blurs his modern rule for toleration.</p>
@@ -46,3 +46,19 @@ abstract: |
 <details class="collapse editor-notes"><summary>Editor’s notes on this page</summary>
 <p>Lecky quotes Rousseau’s argument that civil and theological intolerance cannot be separated, and his conclusion that those who say “outside the Church, no salvation” must be driven from the state unless the state is the Church. The quotation is accurate to the sense. Lecky leaves out the middle of the passage (on priests becoming the true masters), and his French has a few differences: older spelling and, in two places, a grammatical slip that may be his edition’s (“tous les religions … leur dogmes”).</p>
 </details>
+
+<section id="english-people" class="passage">
+<h2>“The English people thinks it is free” (Book III, ch. 15)</h2>
+<p class="passage-source">French: 1903 edition, p. 262, <a href="https://archive.org/details/ducontratsocialt00rous/page/n265/mode/2up">scan n265</a>, in the chapter on deputies or representatives. <span class="cited-passage">Highlighted</span>: the contention Lecky’s note paraphrases.</p>
+<figure class="facsimile"><a href="../assets/img/ref/rousseau-contrat-1903-p262.jpg"><img src="../assets/img/ref/rousseau-contrat-1903-p262.jpg" alt="Printed page 262: “… ce n’est point une loi. Le peuple anglais pense être libre, il se trompe fort: il ne l’est que durant l’élection des membres du parlement; sitôt qu’ils sont élus, il est esclave, il n’est rien. Dans les courts moments de sa liberté, l’usage qu’il en fait mérite bien qu’il la perde.”" loading="lazy"></a><figcaption>Rousseau, <em>Du contrat social</em>, 1903 edition, p. 262. <span class="credit">Scan: Internet Archive · public domain</span></figcaption></figure>
+<div class="parallel">
+<div class="original" lang="fr">
+<p>[Les députés du peuple ne sont donc ni ne peuvent être ses représentants, ils ne sont que ses commissaires; ils ne peuvent rien conclure définitivement. Toute loi] que le peuple en personne n’a pas ratifiée est nulle; ce n’est point une loi. <span class="cited-passage">Le peuple anglais pense être libre, il se trompe fort: il ne l’est que durant l’élection des membres du parlement; sitôt qu’ils sont élus, il est esclave, il n’est rien.</span> Dans les courts moments de sa liberté, l’usage qu’il en fait mérite bien qu’il la perde.</p>
+</div>
+<div class="rendering">
+<p>[The people’s deputies, then, are not and cannot be its representatives; they are only its agents; they can conclude nothing definitively. Every law] that the people has not ratified in person is null; it is not a law. <span class="cited-passage">The English people thinks it is free; it is greatly mistaken: it is free only during the election of members of parliament; as soon as they are elected, it is a slave, it is nothing.</span> In the brief moments of its liberty, the use it makes of it well deserves that it should lose it.</p>
+<p class="editorial-note">Translation: this edition’s draft. The bracketed opening is from p. 261, read in the OCR only.</p>
+</div>
+</div>
+<p>Lecky (vol. II, ch. V, text at note 140) says the doctrines of the <i>Social Contract</i> are borrowed from Locke and Sydney, “and where they diverge from their models they fall speedily into absurdity”; his example: “when it is contended that a people with representative government are slaves, except during the period of the elections.” The 1903 editor’s footnote to “il n’est rien” remarks that Rousseau would evidently pass the same judgement on the French constitution of 1903.</p>
+</section>

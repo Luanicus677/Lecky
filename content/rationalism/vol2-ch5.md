@@ -685,4 +685,4 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^139]: See a singularly curious essay on the history of Gardens in <a class="popup-ref" href="../ref/vitet-etudes-sur-lhistoire-de-lart.html">Vitet, Etudes sur l'Histoire de l'Art</a>. Le Notre laid out the gardens of Versailles for Louis XIV.
 
-[^140]: As, for example, when it is contended that a people with representative government are slaves, except during the period of the elections. (Contrat Social, liv. iii. ch, xv.)
+[^140]: As, for example, when it is contended that a people with representative government are slaves, except during the period of the elections. (<a class="popup-ref" href="../ref/rousseau-contrat-social-iv-8.html#english-people">Contrat Social, liv. iii. ch, xv.</a>)
