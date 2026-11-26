@@ -240,7 +240,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^7]: On the influence of this command on Christian persecution, see Bayle, Contrains-les d'entrer, pt. ii. ch. iv. <a class="popup-ref" href="../ref/bayle-commentaire-philosophique.html#part-ii-ch-iv">source page</a>, and some striking remarks in Renan, Vie de Jésus, pp. 412-413; to which I may add as an illustration the following passage of <a class="popup-ref" href="../ref/simancas-de-catholicis-institutionibus.html">Simancas</a>: — <span class="foreign" lang="la">'Hæretici pertinaces publice in conspectu populi comburendi sunt; et id fieri solet extra portas civitatis: quemadmodum olim, in Deut. cap. xvii., idolatra educebatur ad portas civitatis, et lapidibus obruebatur.'</span><span class="translation editorial" lang="en">[Obstinate heretics are to be burned publicly in the sight of the people; and this is usually done outside the gates of the city, just as of old (Deut. ch. xvii.) the idolater was led out to the gates of the city and stoned.]</span> (De Cathol. Instit. p. 375.) Taylor, in noticing this argument, finely says that Christ, by refusing to permit his apostles to call down fire like Elias on the misbeliever, clearly indicated his separation from the intolerance of Judaism. (Liberty of Prophesying, sec. 22.) <a class="popup-ref" href="../ref/taylor-liberty-of-prophesying.html#elias-fire">source page</a>
 
-[^8]: Apol. cap. xxiv.
+[^8]: <a class="popup-ref" href="../ref/tertullian-apologeticum.html#apol-24">Apol. cap. xxiv.</a>
 
 [^9]: Ad Auxentium.
 
