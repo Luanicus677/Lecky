@@ -418,7 +418,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^96]: E. g. in Quakerism — that strange form of distorted rationalism, which, while proclaiming doctrines absolutely subversive of national independence, and indulging in extravagances almost worthy of Bedlam, maintained in the most unequivocal language the absolute inefficiency of mere religious ceremonies, the possibility of salvation in any Church, and the injustice of every form of persecution.
 
-[^97]: His opponent was Archdeacon Proast, whose pamphlets were printed in the University.
+[^97]: His opponent was Archdeacon Proast, whose <a class="popup-ref" href="../ref/proast-letters-concerning-toleration.html#title-pages">pamphlets were printed in the University</a>.
 
 [^98]: <a class="popup-ref" href="../ref/annuaire-des-deux-mondes-1858.html#six-women">Annuaire des Deux Mondes, 1858, p. 463.</a> In the previous year an attempt had been made by the Government to moderate the fierce intolerance of the Swedish law; but the bill, though adopted by the Houses of the Middle Class and of the Peasants, was rejected by those of the Nobles and of the Clergy. A slight — unfortunately very slight—modification was effected in 1860.
 

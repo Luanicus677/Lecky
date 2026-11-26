@@ -449,6 +449,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Gratian refuses the robe of Pontifex Maximus (“If the emperor refuses to become Pontifex, we shall soon make one”); the temples still open under Theodosius (English tr. 1814, pp. 110, 115–116). Cited in vol. II, ch. IV, notes 16, 22.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="proast-letters-concerning-toleration.html">Proast, <em>The Argument of the Letter concerning Toleration</em></a><span class="work-status">title pages</span></div>
+<div class="work-desc">Locke’s Oxford opponent: “Printed at the Theatre” in 1690 under the Vice-Chancellor’s imprimatur, and again licensed in 1691. Cited in vol. II, ch. IV, note 97.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="clogy-life-of-bedell.html">Clogy, <em>Memoir of Bishop Bedell</em></a><span class="work-status">2 passages</span></div>
 <div class="work-desc">The Irish rebels of 1641 leave the bishop’s household “liberty without interruption” in religion; he preaches the deliverance psalm on Gunpowder Day (1862, pp. 183, 212). Cited in vol. II, ch. IV, note 3.</div>
 </li>
