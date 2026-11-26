@@ -531,7 +531,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^62]: Mariana rejects this decree without hesitation, on Ultramontane principles, as not having been confirmed by the Pope (De Rege, p. 79). Suarez seems to think it binding, but argues (De Fide, lib. vi. c. 4) that it applies only to tyrants in regimine, because the Council condemns the opinion that 'subjects' may slay a tyrant, and a tyrant in titulo has, properly speaking, no 'subjects.'
 
-[^63]: There is a full notice of this play in Charles, La Comédie en France au Seizième Siècle.
+[^63]: There is a full notice of this play in <a class="popup-ref" href="../ref/chasles-la-comedie-en-france.html#cesar">Charles, La Comédie en France au Seizième Siècle</a>.
 
 [^64]: Sa was a Portuguese — the other two were Spaniards. The prominence this doctrine acquired in Spain in the reign of Philip II. is probably in part due to the contest of Spain with Elizabeth, who was regarded as a tyrant both in titulo and in regimine, and consequently naturally marked out for assassination. Mariana's book was probably written under Philip II., for the royal privilege to print it was granted only three months after the death of that king.
 
