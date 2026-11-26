@@ -681,7 +681,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^137]: This was, if I remember right, the expression of Cardinal Antonelli in one of his despatches.
 
-[^138]: The first step, according to Madame Fusil (Souvenirs d'une Actrice, pp. 27-54), in this direction was taken by an actress named Madame Saint-Hubert, who discarded powder and took the ancient sculptures as her model; but it was the genius of Talma, warmly seconded by the antiquarians, by the revolutionists, and especially by the Girondins, that finally vanquished the prevailing prejudice. The incongruity of the old costume has, I think, been exaggerated: it was well suited to the Greeks — of Racine,
+[^138]: The first step, according to Madame Fusil (<a class="popup-ref" href="../ref/fusil-souvenirs-dune-actrice.html#saint-huberty">Souvenirs d’une Actrice, pp. 27-54</a>), in this direction was taken by an actress named Madame Saint-Hubert, who discarded powder and took the ancient sculptures as her model; but it was the genius of Talma, warmly seconded by the antiquarians, by the revolutionists, and especially by the Girondins, that finally vanquished the prevailing prejudice. The incongruity of the old costume has, I think, been exaggerated: it was well suited to the Greeks — of Racine,
 
 [^139]: See a singularly curious essay on the history of Gardens in <a class="popup-ref" href="../ref/vitet-etudes-sur-lhistoire-de-lart.html">Vitet, Etudes sur l'Histoire de l'Art</a>. Le Notre laid out the gardens of Versailles for Louis XIV.
 

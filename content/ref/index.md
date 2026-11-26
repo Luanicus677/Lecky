@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="fusil-souvenirs-dune-actrice.html">Fusil, <em>Souvenirs d’une actrice</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Louise Fusil: before Talma, the singer Mme Saint-Huberty “had already begun to imitate the costumes of the Greek and Roman statues” and given up powder (Ginisty ed. p. 95; Lecky’s 1841 pages not seen). Cited in vol. II, ch. V, note 138.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="chevalier-lettres-sur-lorganisation-du-travail.html">Chevalier, <em>Lettres sur l’organisation du travail</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Michel Chevalier (1848) on Aristotle’s “flash of genius”: if the shuttle and the chisel could work by themselves, slavery would be unnecessary; capital “is a great liberator” (Brussels printing, p. 17 = Lecky’s page). Cited in vol. II, ch. V, note 126.</div>
 </li>
