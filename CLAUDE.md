@@ -541,11 +541,27 @@ Notes for continuing:
   (Brussels: Meline, Cans 1850 `bub_gb_IQrPvFdalQEC`, p. 17 = n24 = Lecky's page; Paris 1848 `lettressurlorgan00chevuoft` has it at pp. 26-27;
   n126; Lecky prints 'l'Organisation de Travail', OCR 'V' fixed), fusil-souvenirs-dune-actrice (Ginisty ed. `souvenirsduneact00fusiuoft`, p. 95 =
   n104; Lecky's pp. 27-54 = 1841 Dumont ed., not online; Lecky prints 'Saint-Hubert'; n138). mignet-antonio-perez (2nd ed. Paris 1846 `antonioperezetp00migngoog`, p. 234 = n263, image = djvu - 1; Spanish censure 'heresi Vadianorum' rendered 'Vaudois' by Mignet; n8; 1845 1st ed. = `antonioperezetp01auggoog`). Also earlier: gioja (Catteau footnote), vindiciae,
-  elrington-life-of-ussher, augustine-letters-on-coercion. Coverage after this push: ch. II 22/25 linked, vol2-ch5 92/140.
+  elrington-life-of-ussher, augustine-letters-on-coercion. Coverage after this push: ch. II 22/25 linked (the other three are Strauss, a dead end, and two notes with no citation).
   Dead ends: Hotman Franco-Gallia lib. i c. 9 (chapter numbering differs across editions; n109); Charron La Sagesse 'p. iii' (n134; 1613 Paris
   `delasagessetro00char` has 'La Tyrannie & rébellion' at p. 565, OCR too poor; Lecky's edition unknown); Avis aux réfugiez 1692; Strauss (ch. II n17).
-  Still unlinked in vol2-ch5 with pages: n2 Ducellier pp. 87-89 (no scan found by creator search), n3 Mably, n19 Sleidan liv. ii, n80 Kellerus
-  pp. 73-74, n120 Noodt/Gronovius. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
+  26 Nov (1-hour run, same push): + michelet-louis-xiv #crusade (p. 203 = n228; n5), chevalier (above), fusil (above), mignet (above),
+  sleidan-history-of-the-reformation (English tr. London 1689 EEBO `bim_early-english-books-1641-1700_the-general-history-of-t_sleidan-john_1689`,
+  Book II pp. 29-30 = n47-n48, image = djvu object; Lecky's 'Phefercorne' is this translation's spelling; n19), mably-observations-sur-lhistoire-de-france
+  (Guizot ed. Paris: Brière 1823 tome II `bub_gb_ZbaATpC0OToC`, liv. IV ch. V pp. 68-69 = n77-n78, title n8; prints 'Urbain VIII'; n3),
+  chasles-la-comedie-en-france (Lecky's 'Charles' = Émile Chasles; Didier 1862 `lacomdieenfranc00chasgoog`, p. 31 = n45, image = djvu - 1; n63),
+  giannone-istoria-civile-del-regno-di-napoli (Milan: Bettoni 1821 vol. I `istoriacivilede01gian`, lib. III cap. VI p. 478 = n493; n18),
+  mariana-de-rege #constance (1605 p. 62 = n92; n62; Lecky's p. 79 = 1599 ed.), allen-royal-prerogative (1849 new ed. `inquiryintoriseg00alle`,
+  pp. 84-85 = n183-n184; Lecky's p. 89 = 1830 ed.; declaration survived in the Corporation Act to 5 Geo. I; n90), tallemant-des-reaux-historiettes
+  (Lecky's 1834 ed. tome I `bub_gb_vHGyR7LTyygC`, pp. 395-396 = n402-n403; Richelieu and the Servitude volontaire; n125), toland-anglia-libera
+  (1701 ECCO `bim_eighteenth-century_anglia-libera_toland-john_1701`, p. 185 = n190; n104), locke-two-treatises #cannot-transfer (1821 London
+  `twotreatisesofg00lockuoft`, pp. 311-312 = n330-n331; n101-102), rousseau-contrat-social-iv-8 #english-people (III.15, 1903 ed. p. 262 = n265;
+  n140; page retitled 'Du contrat social'), montaigne-essais-ii-12 #contre-un (Courbet-Royer vol. 2 `19essaispublis02montuoft`, I.28 p. 83 = n96;
+  n124). Work-level links added: n33 (Hallam MA, Bossuet Defensio, Bianchi, Giannone), n73, n77 (Bossuet), n74 (Bianchi, Bossuet), n78 (Hallam Lit.).
+  OCR fixed from Lecky's page: n18 '1st.' -> 'Ist.', n69 'sen' -> 'seu', text at n124 "the' Contre-un '" -> 'the ‘Contre-un’'.
+  Gutenberg was down for maintenance on 26 Nov (returns a 913-byte HTML page). vol2-ch5 now 110/140.
+  Still unlinked in vol2-ch5 with real citations: n2 Ducellier pp. 87-89 (no scan found), n4/32/106/135 Avis aux réfugiez (not online), n20 Lacordaire
+  memorial, n69/80 Kellerus Tyrannicidium (only a German 1611 tr. online, `10521040bsb`), n71 Lamennais, n85 Robert Hall, n95 Sydney, n109 Hotman,
+  n120 Noodt/Gronovius, n132 L'Enfert, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
   (Politics I) not checked.
 
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
