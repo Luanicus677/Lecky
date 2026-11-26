@@ -421,7 +421,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^7]: <a class="popup-ref" href="../ref/sarpi-historia-dell-inquisizione.html#other-notes">Sarpi, pp. 48-57 (ed. 1639)</a>.
 
-[^8]: This curious episode has been lately investigated by M. Mignet in an interesting work called Antonio Perez. One of the accusations brought against Perez was, that he had in a moment of passion exclaimed, that 'if God the Father had ventured to say to him what the king had said, he would have cut his nose off,' which the Inquisitors said 'partook of the heresy of the Anthropomorphites and of the Vaudois, who maintain that the Father has bodily parts.'
+[^8]: This curious episode has been lately investigated by M. Mignet in an interesting work called <a class="popup-ref" href="../ref/mignet-antonio-perez.html#nose">Antonio Perez</a>. One of the accusations brought against Perez was, that he had in a moment of passion exclaimed, that 'if God the Father had ventured to say to him what the king had said, he would have cut his nose off,' which the Inquisitors said 'partook of the heresy of the Anthropomorphites and of the Vaudois, who maintain that the Father has bodily parts.'
 
 [^9]: <a class="popup-ref" href="../ref/paramo-de-origine-inquisitionis.html">Paramo</a>, De Origine Inquisitionis, pp. 224-226. This was perhaps one cause of the decline of the Spanish navy.
 

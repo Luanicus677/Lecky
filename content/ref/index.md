@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="mignet-antonio-perez.html">Mignet, <em>Antonio Perez et Philippe II</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Inquisition’s censure of Antonio Pérez for saying he would cut off God the Father’s nose: heresy of those “who claim that God is corporeal” (2nd ed. 1846, p. 234, with the Spanish original). Cited in vol. II, ch. V, note 8.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="fusil-souvenirs-dune-actrice.html">Fusil, <em>Souvenirs d’une actrice</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Louise Fusil: before Talma, the singer Mme Saint-Huberty “had already begun to imitate the costumes of the Greek and Roman statues” and given up powder (Ginisty ed. p. 95; Lecky’s 1841 pages not seen). Cited in vol. II, ch. V, note 138.</div>
 </li>
