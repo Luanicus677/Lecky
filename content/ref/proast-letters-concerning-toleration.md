@@ -7,7 +7,7 @@ back_link:
   url: index.html
   text: Sources
 meta_rows:
-  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jonas_Proast\">Jonas Proast</a> (c. 1640–1710), Oxford clergyman, chaplain of All Souls, who argued that the magistrate may use moderate penalties to bring men to consider the true religion. Locke answered him in his <a class=\"popup-ref\" href=\"locke-third-letter-for-toleration.html\">second and third letters</a>."]
+  - ["Author", "<a href=\"https://en.wikipedia.org/wiki/Jonas_Proast\">Jonas Proast</a>, Oxford clergyman and chaplain of All Souls, who argued that the magistrate may use moderate penalties to bring men to consider the true religion. Locke answered him in his <a class=\"popup-ref\" href=\"locke-third-letter-for-toleration.html\">second and third letters</a>."]
   - ["Edition used", "<em>The Argument of the Letter concerning Toleration, Briefly Consider’d and Answer’d</em>, Oxford, 1690 (EEBO scan): Internet Archive <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_the-argument-of-the-lett_proast-jonas_1690\">bim_early-english-books-1641-1700_the-argument-of-the-lett_proast-jonas_1690</a>, title n0, imprimatur n1. <em>A Third Letter concerning Toleration</em>, Oxford, 1691: <a href=\"https://archive.org/details/bim_early-english-books-1641-1700_a-third-letter-concernin_proast-jonas_1691\">bim_early-english-books-1641-1700_a-third-letter-concernin_proast-jonas_1691</a>, title n2."]
   - ["Cited in", "Rationalism, vol. II, ch. IV, <a href=\"../rationalism/vol2-ch4.html#fn97\">note 97</a>."]
   - ["Status", "Title pages and imprimatur read on the images; the texts themselves not transcribed."]

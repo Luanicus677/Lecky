@@ -449,6 +449,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Gratian refuses the robe of Pontifex Maximus (“If the emperor refuses to become Pontifex, we shall soon make one”); the temples still open under Theodosius (English tr. 1814, pp. 110, 115–116). Cited in vol. II, ch. IV, notes 16, 22.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="lecky-leaders-of-public-opinion-1861.html">Lecky, <em>The Leaders of Public Opinion in Ireland</em> (1861)</a><span class="work-status">title page</span></div>
+<div class="work-desc">Lecky’s first book, published without his name, which he cites as “a book called” in 1865. Cited in vol. II, ch. IV, note 4.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="proast-letters-concerning-toleration.html">Proast, <em>The Argument of the Letter concerning Toleration</em></a><span class="work-status">title pages</span></div>
 <div class="work-desc">Locke’s Oxford opponent: “Printed at the Theatre” in 1690 under the Vice-Chancellor’s imprimatur, and again licensed in 1691. Cited in vol. II, ch. IV, note 97.</div>
 </li>
