@@ -230,7 +230,7 @@ In our age these struggles are diffused over a very wide circle, and are felt by
 
 [^2]: For their details see Parnell, Penal Laws. In common parlance, the 'penal laws' date from the treaty of Limerick, but the legislative assaults on Irish Catholicism began with Elizabeth.
 
-[^3]: The very curious life of Bedell, by his son-in-law Alexander Clogy, which was written in 1641-2, and which formed the basis of the narrative of Burnet, was printed from the MSS. in the British Museum in 1862. We have an amusing instance of the uncompromising Protestantism of Bedell in the fact that when the insurgents who retained him prisoner gave him permission to perform the Anglican service freely with his friends, he availed himself of that permission to celebrate the thanksgiving for the 5th of November.
+[^3]: The very curious <a class="popup-ref" href="../ref/clogy-life-of-bedell.html#gunpowder-day">life of Bedell, by his son-in-law Alexander Clogy</a>, which was written in 1641-2, and which formed the basis of the narrative of Burnet, was printed from the MSS. in the British Museum in 1862. We have an amusing instance of the uncompromising Protestantism of Bedell in the fact that when the insurgents who retained him prisoner gave him permission to perform the Anglican service freely with his friends, he availed himself of that permission to celebrate the thanksgiving for the 5th of November.
 
 [^4]: I have endeavoured to trace them in a book called The Leaders of Public Opinion in Ireland.
 
