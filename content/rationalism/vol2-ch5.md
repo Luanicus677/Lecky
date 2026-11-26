@@ -411,7 +411,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^2]: It was confirmed as part of the general law of the Church by Alexander III. in 1179. See Ducellier, Hist. des Classes Laborieuses en France, pp. 87-89, 127, 128.
 
-[^3]: Mably, Observations sur l'Histoire de France, liv. iv. c. v.
+[^3]: <a class="popup-ref" href="../ref/mably-observations-sur-lhistoire-de-france.html#schism">Mably, Observations sur l’Histoire de France, liv. iv. c. v.</a>
 
 [^4]: Avis aux Réfugiez, p. 56 (ed. 1692).
 

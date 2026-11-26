@@ -445,6 +445,10 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hugh James Rose (1829) on Kant’s influence “in encreasing the tendency to Rationalism”, which he denies Kant began (pp. 183–190, Lecky’s pages). Cited in ch. II, note 21.</div>
 </li>
 <li>
+<div class="work-title"><a class="popup-ref" href="mably-observations-sur-lhistoire-de-france.html">Mably, <em>Observations sur l’histoire de France</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The Great Schism: the rival popes “enlightened the faithful by dint of scandalising them” and made their excommunications ridiculous (book IV ch. V; Guizot’s edition, 1823, tome II pp. 68–69). Cited in vol. II, ch. V, note 3.</div>
+</li>
+<li>
 <div class="work-title"><a class="popup-ref" href="sleidan-history-of-the-reformation.html">Sleidan, <em>The General History of the Reformation</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The Reuchlin affair: Pfefferkorn’s petition that the Jews be allowed “no other Book besides the Bible”, and Reuchlin’s opinion that their books “were of great use” (Book II, English tr. 1689, pp. 29–30; Lecky keeps its spelling “Phefercorne”). Cited in vol. II, ch. V, note 19.</div>
 </li>
