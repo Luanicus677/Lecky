@@ -585,7 +585,7 @@ It is thus that amid the transformation or dissolution of intellectual dogmas th
 
 [^89]: Ductor Dubitantium, lib. iii. cap. iii. Ussher, who was perhaps still more competent than Taylor to express the sentiments of the Fathers, was at least equally emphatic. See <a class="popup-ref" href="../ref/elrington-life-of-ussher.html#war-unjust-239">Elrington's Life of Ussher</a>, vol. i. p. 239. Berkeley made an ingenious attempt to show that passive obedience was ordained by the law of nature: see his Discourse on Passive Obedience.
 
-[^90]: In the clause that it was not lawful 'on any pretence whatever to take up arms against the king.' This clause was expunged at the Revolution (Allen's Hist. of Royal Prerogative in England, p. 89). Magna Charta had declared that kings who violated it might be resisted.
+[^90]: In the clause that it was not lawful 'on any pretence whatever to take up arms against the king.' This clause was expunged at the Revolution (<a class="popup-ref" href="../ref/allen-royal-prerogative.html#any-pretence">Allen’s Hist. of Royal Prerogative in England, p. 89</a>). Magna Charta had declared that kings who violated it might be resisted.
 
 [^91]: This decree is given in full in Wodrow's Hist. of Church of Scotland, vol. iii. p. 506. See on this whole subject, <a class="popup-ref" href="../ref/hallam-literature-and-constitutional-history.html#oxford-decree-1683">Hallam, Const. Hist., vol. ii. pp. 459-465</a> (ed. 1854).
 

@@ -63,6 +63,7 @@ Lecky was, for a historian of 1865, an unusually careful one. Most of what has b
 - **Mazarin’s letter** to the Bishop of Évreux on the nuns of Louviers is dated 1642 by Lecky ([ch. I, note 98](vol1-ch1.html#fn98)); the letter as Garinet prints it is dated 21 September 1643. [Garinet](../ref/garinet-histoire-de-la-magie.html#mazarin-1643)
 - **Seville, not Andalusia** for Mariana’s two thousand burnt in the first year of the Inquisition ([ch. IV, note 37](vol2-ch4.html#fn37)); and 1443, not 1440, for the ransom of Moors for slaves ([ch. VI, note 160](vol2-ch6.html#fn160)). [Llorente](../ref/llorente-histoire-de-linquisition.html#totals), [Macpherson](../ref/macpherson-annals-of-commerce.html#moors-1443)
 - **“Nearly all” the bishops.** Lecky says “nearly all the Irish Protestant bishops” signed the 1626 protest that toleration is “a grievous sin” ([vol. II, ch. IV, note 47](vol2-ch4.html#fn47)). His source says “twelve of the Prelates assembled”, and he drops “and idolatrous” from the quotation. [Elrington](../ref/elrington-life-of-ussher.html#judgment-1626)
+- **Expunged at the Revolution?** Lecky says the Restoration clause against taking up arms “on any pretence whatever” was “expunged at the Revolution” ([vol. II, ch. V, note 90](vol2-ch5.html#fn90)). His source, Allen, says it was abrogated then for the Militia Act and the Act of Uniformity, but “by some oversight” survived in the Corporation Act until a statute of George I. [Allen](../ref/allen-royal-prerogative.html#any-pretence)
 
 ## Wrong chapter, wrong page
 
