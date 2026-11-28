@@ -25,7 +25,7 @@ SITE_NAME = "The Complete Works of W. E. H. Lecky"
 GITHUB_REPO = "Luanicus677/lecky"
 # The public address of the site, for link previews (Open Graph) and canonical
 # links. Change this if the site moves to its own domain.
-SITE_URL = "https://luanicus677.github.io/Lecky/"
+SITE_URL = "https://readlecky.com/"
 DEFAULT_SHARE_IMAGE = "assets/img/ref/grillandi-1545-title.jpg"
 
 FRONT_MATTER_RE = re.compile(r"\A---\s*\n(.*?\n)---\s*\n", re.DOTALL)
