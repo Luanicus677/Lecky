@@ -908,7 +908,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^178]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes.html#fortescue">Barrington, *On the Statutes* (London, 1769), p. 461.</a>
 
-[^179]: Sir Thomas More, in his *Utopia* (book i.), gives a frightful description of the misery and the crimes resulting from the ejectments necessitated by this change. He speaks of twenty men hung on one gibbet.
+[^179]: <a class="popup-ref" href="../ref/more-utopia.html#sheep">Sir Thomas More, in his *Utopia* (book i.)</a>, gives a frightful description of the misery and the crimes resulting from the ejectments necessitated by this change. <a class="popup-ref" href="../ref/more-utopia.html#gallows">He speaks of twenty men hung on one gibbet.</a>
 
 [^180]: <a class="popup-ref" href="../ref/barrington-observations-on-the-statutes.html#seventy-two-thousand">Barrington, pp. 461–462.</a>
 

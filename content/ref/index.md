@@ -904,4 +904,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="justin-martyr-first-apology.html">Justin Martyr, <em>First Apology</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The cross in the sail, the plough, the craftsman’s tools and the upright human body with its nose running down from the brow; “the breath before our face is Christ the Lord” (c. 55, Otto 1842, Greek). Cited in vol. I, ch. III, note 1.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="more-utopia.html">More, <em>Utopia</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">A lawyer praises English justice, thieves hanged “for the moste part .xx.” on one gallows (More’s Latin: “sometimes”); Hythloday answers with the sheep that devour men (Book I, Lupton 1895, Robinson’s English and the Latin). Cited in vol. I, ch. III, note 179.</div>
+</li>
 </ul>
