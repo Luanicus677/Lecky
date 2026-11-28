@@ -1,723 +1,88 @@
 # Lecky edition: notes for Claude sessions
 
-A reading edition of W. E. H. Lecky's works, modelled as closely as possible on gwern.net.
-Live at https://readlecky.com/ (custom domain since 28 Nov 2026; DNS at Porkbun: four GitHub A records + www CNAME to luanicus677.github.io; repo-root `CNAME` is copied into docs/ by build.py). The old https://luanicus677.github.io/Lecky/ address redirects. GitHub Pages serves `docs/` from `main`. build.py `write_sitemap()` writes docs/sitemap.xml (every content page, lastmod = last git commit of its .md) and docs/robots.txt; Google Search Console: Domain property readlecky.com, verified by a TXT record at Porkbun (28 Nov 2026).
-README.md explains the build, the Markdown conventions, and the source-page layout. Read it first.
+A reading edition of W. E. H. Lecky's works, modelled as closely as possible on gwern.net. Live at https://readlecky.com/
+(GitHub Pages serves `docs/` from `main`; DNS at Porkbun; the repo-root `CNAME` is copied into docs/ by build.py; the old
+luanicus677.github.io/Lecky/ address redirects). README.md explains the build and Markdown conventions.
+
+**Read next, only when needed:** `notes/source-log.md` (the full working log to 28 Nov 2026: every scan id, printed-page/image
+offsets, findings, and the DEAD ENDS list; grep it for an author before searching for a book) and `notes/run-log.md`
+(one entry per session, newest last; read the last entry to see where work stopped).
 
 ## The owner
-
-- Not a programmer. When they need to click something, give exact directions
-  (e.g. "top nav of your repo, right after 'Insights'").
+- Not a programmer. When they need to click something, give exact directions ("top nav of your repo, right after 'Insights'").
 - Wants criticism, not agreement; concise, explicit answers. After long replies, suggest a good follow-up question.
-- Pays per session from limited credits. Keep each session to one well-scoped batch, avoid re-reading
-  large files unnecessarily, and don't take screenshots beyond what verification needs.
-- Wants gwern.net fidelity, and rabbit holes *within the site*: every work Lecky cites should eventually
-  get a source page with the passage transcribed, translated, and linked to a scan.
-
-## Ground rules for the text
-
-- Lecky's text is never corrected. OCR errors are fixed; Lecky's own errors are discussed on source pages
-  (e.g. his "fifteenth century" for Grillandi) and left as printed.
-- Translations, links, and notes are editorial: `span.translation.editorial` for translations, and source pages
-  for commentary. Translations are this edition's own drafts and say so.
-- Never invent a citation, a page number, or a reading. Verify against a scan (archive.org page images) or
-  label it as unverified.
-
-## Workflow: transcribing Rationalism in Europe (all of Vol. I is done; the same steps apply to Vol. II)
-
-`content/rationalism/vol1-ch1.md` is COMPLETE: printed pages 1–150, footnotes `[^1]`–`[^167]`.
-`content/rationalism/vol1-ch2.md` is COMPLETE: printed pages 151–205 ("THE MIRACLES OF THE CHURCH"; ends "...a cause of its advance."), footnotes `[^1]`–`[^25]`.
-`content/rationalism/vol1-ch3.md` is COMPLETE: printed pages 206–385, footnotes `[^1]`–`[^184]`.
-`content/rationalism/vol1-ch4.md` ("ON PERSECUTION. PART I. THE ANTECEDENTS OF PERSECUTION") is COMPLETE as far as Volume I goes: printed pages 386–447, footnotes `[^1]`–`[^45]`; the volume ends "...the soil of England for the last time stained with the misbeliever's blood!" followed by "END OF THE FIRST VOLUME." **Volume I is therefore finished (pp. 1–447).** Next: Volume II (Chapter IV Part II onwards; see Lecky's own contents list for vol. II in `index.md`). Volume II: archive.org id `rationalismineur02leckuoft` (NOT `rationalismeuro02...`), printed page p = image n(p+15); raw OCR line numbers in `<id>_djvu.txt`: Ch. IV Part II lines 387–4413 (pp. 1–105), Ch. V from line 4414 (p. 106), Ch. VI from line 9842 (p. 250). `content/rationalism/vol2-ch6.md` (Ch. VI, 'The Industrial History of Rationalism') is COMPLETE: pp. 250-409 (the end of the text; Lecky's index follows and is NOT transcribed), footnotes `[^1]`-`[^189]`. **All of Rationalism in Europe (pp. 1-447 of vol. I, 1-409 of vol. II) is now on the site.** Ch. VI notes: Latin/French/Italian were corrected by grammar and a few image checks only (n352 Malone p. 9; image n = printed page + 15); NOT read letter-by-letter: treat accents and ligatures in notes 25-27, 36, 46, 49, 57, 70, 117, 171, 188 as provisional. Printer's slips left: 'his named erased' (p. 350), 'Eenan'-type OCR errors fixed. Page-header regex needed widening in build6.py for ch. VI (header misreads like 'EAT10NALISM', 'HISTOEY'). Possible next work: proof the Latin/French notes of ch. VI against images; footnote source pages for vol. II (Mariana, Suarez, Bianchi, Concina, Sarpi etc.). `content/rationalism/vol2-ch5.md` (Ch. V, 'On the Secularisation of Politics') is COMPLETE: pp. 106-249, footnotes `[^1]`-`[^140]`; the 1865 print numbers footnotes per page, a page with ONE note may leave it unnumbered (OCR then puts it in the body), and a long note's overflow can sit after the next page's body (ch. V notes 86, 140 were fixed by hand). Page images: image n = printed page + 15 throughout. Latin/French/Italian notes were checked on images except notes 5, 12, 20, 26-27, 37-40, 44, 46-51, 54, 57-59, 62-64, 69-82, 84-95, 97-116, 119-130, 133-139 (English or short citations, only OCR-checked). Ch. V Latin checks: Suarez (notes 34-45), Mariana (52-60), Toletus/Sa/Molina/Ayala (65-68). `content/rationalism/vol2-ch4.md` is COMPLETE (pp. 1–105, footnotes `[^1]`–`[^100]`). Vol. II pipeline pitfalls: running headers missed by the cleaner; footnote that overflows a page continues after the NEXT page's body (sometimes merged into the same block: telltale is a cut word like 'ChrisInquisition'); two notes sometimes merge (split by hand); `* `, `l ` and `4 ` are misread opening quotes; OCR drops accents and Latin ligatures (Lecky prints æ, œ, é, è), so Latin and French notes must be read on the page images. Printer's spelling left as printed: 'Homooisians', 'Cluten' (read as printed on n68; unverified identity), 'Clebergius'. Not viewed on images (ligatures inferred from OCR): Farinacius 'laesae majestatis humanae' in note 43. Vol. II printed page p will have its own leaf offset: find it by comparing a page header in the OCR with the image index. Latin, Greek and French in the notes of Chapters II–IV were checked against the scan.
-Each chapter has its own sequential footnote series; the 1865 print restarts numbering on every page.
-Printer's slips left as printed in ch. II and III ("interpretetion", "one the most common"): "Voltarian", "Lammenais", "Protestanism", "it all difficult", "deepseated".
-NOT slips: "develope" (9x) and "developement" (102x) are the 1865 house spelling, both volumes (checked on vol. I p. 73 = n102). "development" occurs only 3x, all vol. II, and is printed so (pp. 28, 162, 324 = n43, n177, n339; checked 26 Nov). Never normalise either form.
-
-1. Download the raw OCR (redirects, so use `-L`):
-   `curl -sSL https://archive.org/download/rationalismeuro01leckuoft/rationalismeuro01leckuoft_djvu.txt -o <scratchpad>/lecky1.txt`
-   In that file, Chapter III (page 206) starts at line 8678; Chapter IV at line 15626.
-2. `python3 tools/clean_ocr.py <file>` gives a first pass. It is not sufficient: hand-check every page.
-   Common faults: dropped hyphens where both halves are real words ("con science"), misread
-   Latin and French ("cteteris", "Christ!", "feterni"), and running headers injected mid-text.
-3. Footnotes: in the OCR, a page's notes follow its main text. A note that runs over a page break continues
-   *after the next page's main text*; stitch it by grammatical continuity. Check doubtful spots against
-   the page image: `https://archive.org/download/rationalismeuro01leckuoft/page/n<leaf>.jpg`
-   (use `_page_numbers.json` to map printed page to leaf; the image index is leaf − 1, i.e. printed page p is `n<p+29>` in this part of the book).
-4. Update the chapter's `description` and `Status` meta row to the new page range, and update
-   `content/rationalism/index.md` and `content/about.md` if the status wording there changes.
-
-## Workflow: source pages (`content/ref/`)
-
-Model: `content/ref/grillandi-de-sortilegiis.md`. For a cited work:
-- Search archive.org (`https://archive.org/advancedsearch.php?q=...&fl[]=identifier&output=json`), download
-  `<id>_djvu.txt`, and grep for the quoted words. Map a text offset to a page with
-  `<id>_hocr_pageindex.json.gz` and `<id>_hocr_searchtext.txt.gz`, then read the page image
-  (`/download/<id>/page/n<i>.jpg`) to confirm by eye. Scan links: `https://archive.org/details/<id>/page/n<i>/mode/2up`.
-- Page shape: `meta_rows` (author, work, editions with scan links, "Cited in" backlinks, status); an abstract
-  (a YAML `abstract: |` block: unquoted colons break YAML); each passage in `<section id="...">` with
-  `div.parallel > div.original[lang] + div.rendering`, the words Lecky quotes wrapped in `span.cited-passage`;
-  a collation table when Lecky's quotation differs from the source.
-- Raw HTML blocks skip the smart-quotes pass: type curly quotes and apostrophes yourself in them and in front matter.
-- Link from Lecky's footnote with `<a class="popup-ref" href="../ref/<page>.html#<section-id>">`.
-  Link people to Wikipedia (`https://en.wikipedia.org/wiki/...`); popups and icons are automatic.
-- Add the page to `content/ref/index.md`.
-- Backlinks are AUTOMATIC: build.py (`collect_backlinks`) lists every chapter note/text that links to a source page in a
-  'Backlinks' section at its foot. The hand-written 'Cited in' meta row is optional context (which passage each note uses); it need
-  not be complete. Oct 2026 link pass: footnote citations of works with pages are linked (work-level `../ref/<slug>.html`);
-  same-author different-work citations deliberately left unlinked (Maury's Légendes/Croyances, Michelet's Hist. de France etc.).
-
-Source pages so far (`content/ref/`; also Middleton, see below): Grillandi (1 passage), Garinet (3: preface pp. xiii-xiv, pp. 38, 42),
-Bodin's Demonomanie (3: pp. 15, 151-152, Refutation near p. 252), Codex Theodosianus IX.16 (laws 4 and 6).
-Notes for continuing:
-- Bodin: use the 1582 Paris printing (`per_witchcraft-in-europe-and-america_bodin-jean_1582_125`); its pagination matches Lecky's
-  pp. 15 and 152 (image index = leaf; p. 15 is `n52`, pp. 151-152 are `n332`-`n333`). The OCR is poor, so locate passages with
-  `<id>_djvu.xml` (split on `<OBJECT`), then read the page image. Done: pp. 40 (God 'au grand nez', f. 40 = n102), 217-218 (n468-n469) and 228 (n490); Bodin's page numbers are FOLIOS (recto + verso images). Not yet done: Bodin pp. 107, 109.
-- Codex Theodosianus: Ritter, Leipzig 1738, vol. III is `BRes1409273` (laws 1-2 on p. 123 = `n138`; law 3 on p. 125 = `n140`; law 4 on p. 128 = `n143`; law 6 on pp. 133-134 = `n148`-`n149`; law 7 on p. 136 = `n151`; image index = djvu object - 1).
-  Done: laws 1-4, 6, 7 (ch. I notes 26, 27, 28, 32). Law 5 is not transcribed (Lecky only cites it in a run, 'l. 4, 5, 6'). Lecky's law 3 summary adds 'snow' and 'tempests', which are not in the Latin.
-- Malleus Maleficarum: Lecky's "Mall. Mal. vol. i/ii" matches the Lyon 1620 edition (NOT checked against Lyon 1669 vol. II: no readable scans).
-  Vol. I = `bub_gb_Dm4ywfjNpVUC` (Cologne documents of 1487 at pp. 459-467 = leaves `n533`-`n541`).
-  Vol. II part 1 = `bub_gb_v1J2VHKuIVEC` (Gerson, De probatione spirituum, begins p. 77 = `n109`; Spina, Quaestio de strigibus from ~p. 181 = `n160`).
-  Vol. II part 2 = `bub_gb_vW5EtV4e8MgC` (Grillandus, Tractatus de sortilegiis, from p. 381 = `n460`; pp. 393-394 = `n472`-`n473`).
-  The two parts of vol. II are paged separately, so "vol. ii. p. 77" is ambiguous (Gerson in part 1; Ananias in part 2).
-  Done: the Grillandus physicians passage (on the Grillandi source page, with an edition table).
-  Also done (page `sprenger-malleus-maleficarum.md`, vol. I = Dm4y): Pars I Quaest. III p. 32 (leaf n77, Paul/angels/incubi; Lecky says Quaest. 4),
-  Pars II Quaest. II cap. I p. 273 (n312, hair), cap. VI pp. 300, 305 (n352, n355, baptismal exorcism). In Dm4y printed page = leaf - 45 near p. 32; leaf - 39 near p. 273.
-  Also done: Gerson p. 77 (page `gerson-de-probatione-spirituum.md`; vol. II part 1 = v1J2, leaf n108).
-  Also done: Cologne preface pp. 461-462 (on the Sprenger page; Dm4y leaves n535-n536) and Spina pp. 191, 299-300 (page `spina-quaestio-de-strigibus.md`; v1J2 leaves n170, n301-n302).
-  Also done: Gerson De erroribus p. 253 = vol. II PART 2 (vW5E leaf n321; Lecky's note 82). Spina's p. 253 (part 1, leaf n230) is unrelated. Searched Spina part 1 for Lecky's 'rebellion in north Italy': not found (Quaestio p. 193 = leaf n172 Como figures; Apologia p. 278 = leaf n268 Peter Martyr; checked for notes 5 and 67). Note 5's rebellion/thousand come from Madden vol. i p. 305 (page `madden-phantasmata.md`; phantasmataorill01madd, p. 305 = image n354; the `_page_numbers.json` offset is wrong by 2). 1518 Venice 'rising': checked against Brambilla & Toffolo (Circolo Ghislandi PDF, citing Sanudo and ASVe Consiglio dei Dieci): it was the Council of Ten, not the people; see madden-phantasmata.md#venice-1518 and #sanudo-1518 (Sanudo Diarii vol. XXV, archive id idiariidimarinos25sanu: 14 July entry confirmed; 31 July entry has nothing on Val Camonica; 23 August entry lists five valley delegates asking the inquisition to continue). The Council of Ten's 31 July 1518 letter (ASVe Misto reg. 42 cc. 128v-129r) is transcribed in that PDF (sc.txt lines ~2037-2110): it confirms an earlier stop order; Del Col not online. Thiers p. 138 (1741 ed., not online) checked in the 1697 printing bub_gb_sn7cWyefS5AC pp. 139-140: only papal bulls.
-  Also done (ch. I notes 68, 78, 79; sections femina-65, maleficiendo-26, diabolus-41, sylvanus, serenus-503 on the Sprenger page; Dm4y images): p. 26 = n71 (maleficiendo seu male de fide sentiendo), p. 41 = n84 (diabolus; page number smudged), p. 65 = n106 (femina), Pars II Q. I cap. XI = n260 (Silvanus; page number cut off), Nider Formicarius extracts pp. 503-504 = n577-n578 (Serenus, Equitius, Helias). Serenus/Equitius are in Pars II Q. I pp. 150-151 = n190-n191 (#serenus-150; Lecky's 'Pars I Quaest. vii' is wrong; found via the volume's index). Page numbers in this scan are irregular (p. 35 = n83, p. 47 = n85, p. 65 = n106): match by running title and content, not by an offset.
-  Not done: Cologne doctors' signatures (pp. 463-468), Lecky's 'rebellion in north Italy' (not found on p. 191/299/300), Nider "p. 522" (not matched).
-  The OCR of these Google Books scans is very poor (long s); locate passages with `_djvu.xml` and read the images.
-- Garinet: other cited pages (6, 14-15, 35, 39, 45, 75, 121-122, 256, 298-302) are not transcribed. Do not trust `_page_numbers.json`
-  for this scan: p. 38 is `n95`, p. 41 is `n98`, p. 42 is `n99`.
-- Middleton, Free Inquiry (`middleton-free-inquiry.md`): Dublin 1749 printing `freeinquiryintom00midd` (image index n = djvu object order, p. xv = n22, p. lxxxiv = n89, pp. 85-87 = n232-n234; long-s OCR, search for 'surprizing', 'explicitely'). Done: Ch. II notes 3, 10, 11 and ch. IV note 25 (Introd. p. lxxxvi footnote [t], `#ninety-heresies`; scan n91 = p. lxxxvi, i.e. image index = XML object index minus 1 here). The London printings' pagination is unchecked.
-- Chrysostom (`chrysostom-de-sacerdotio.md`): Lecky's ch. IV note 37 'panegyric on the habit of telling lies in St. Chrysostom On the Priesthood' gives no chapter; identified (inference) as Book I ch. VIII ('Great is the power of deceit'). Cowper 1866 translation `sjohnchrysostom00johngoog` (p. 19 = n46, p. 24 = n51, p. 25 = n52; the OCR misnumbers paragraphs, the print has 57-58, 73-75). Greek not checked. Augustine (`augustine-contra-mendacium.md`): Contra mendacium cc. 1-2 = Migne PL 40 cols. 519-520, archive id `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_40` (image n261; Latin from augustinus.it, checked on the image; Retractationes II.60 only in NPNF English, unchecked). The page has a side-by-side with Chrysostom. Rest of note 37 (Coleridge, Maury p. 268) is not on source pages.
-- Agobard Liber de imaginibus (`agobard-de-imaginibus.md`): Baluze 1666 = `bub_gb_gOkJ5k0uktIC` (p. 244 = n327, 247 = n330, 248 = n331, 254 = n337, 264 = n347, 267 = n350; image = djvu object - 1). Lecky's pagination (Paris 1605, one vol.) is 10-13 lower than Baluze's. Other Baluze scans: `bub_gb_EcIfKlL_urIC`, `bub_gb_HKNfSIcAlHQC` (has Valois's notes), `bub_gb_ck3AGLRdEREC`.
-- More source pages added in the long autonomous stretch (all English or Latin, verified on page images unless the page says otherwise): tertullian-de-baptismo (PL 1 n616, n618), tertullian-apologeticum (PL 1 n267), tertullian-de-anima (PL 2 `..._1844_2` n329), minucius-felix-octavius (`octavius00minu`, p.175 = n220, p.176 = n221), luther-de-servo-arbitrio (`bub_gb_Sp8ZXu8IePYC`, 1664 annotated ed.; p. = image n - 25; note IV.32 "Hoc fulmine" now DONE: Est itaque p. 32 = n57, Hoc fulmine p. 34 = n59; Lecky "contingiter" for "contingenter"), hecker-epidemics (`epidemicsofmiddlin00heck`: p.30 = n61, p.88 = n119, p.89 = n120; image = djvu object - 1; Lecky's page numbers differ), dalyell-darker-superstitions (`darkersuperstit00dalygoog`: image n = page + 16; pp. 623, 624, 644, 645 done; pp. 657, 669, 670 and the bridle p. ~641 not done; pricker pp. 641-643 only via OCR).
-- Tried and abandoned: Cosmas Indicopleustes (Montfaucon Nova collectio tom. II: `bub_gb_XVCw0n6PM-wC` is the Eusebius volume, not Cosmas), Fulgentius De fide in PL 65 (`..._1858_65` does not contain it; try `bub_gb_hZ5lpQgaOtIC` / `bub_gb_1-mXL1IBSrIC` with other search terms), Binsfeld 1591 scan (`per_witchcraft...binsfeld_1591_110`, only 158 objects; DONE 22 Nov from `bub_gb_sC0R5IOoPQ8C`), Palmer (not started).
-- Helper scripts live in the session scratchpad only (loc.py: regex over a cached djvu.xml giving the image index; img.py: fetch, crop and resize a page image). Re-create if needed.
-- Tertullian De spectaculis c. 30 (`tertullian-de-spectaculis.md`): Migne PL 1 (`bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1`, cols. 659-660 = n347, 661-662 = n348; image index = djvu object - 1). Lecky's note 3.152 quotation differs from Migne in a few places (collated on the page).
-- Augustine De civitate Dei (`augustine-de-civitate-dei.md`): Migne PL 41 (`..._1846_41`, XIX.6 col. 633 = n316; XXII.8 cols. 767-768 = n383). Five restorations to life are all on cols. 767-768 (§§ 15-19); the seventy are libelli, not miracles.
-- Aquinas Suppl. q. 94 a. 1 (`aquinas-summa-supplement.md`): Opera vol. 25 (`bub_gb_InJN3guK7vwC`, p. 428 = n470). Lecky's note 3.150 Latin is a paraphrase, not a verbatim sentence.
-- Simancas (`simancas-de-catholicis-institutionibus.md`): only 1575 Rome editions found online (`bub_gb_n-Ktt0tILHMC`, also `AFD0229`; 1692 Opera `bub_gb_cUhD5jRglLAC`); no 1569 copy. Lecky's p. 365 (fides) matches the 1575 pagination, but his torture pages (297-309, 305) do not: torture is Titulus LXV, pp. 494-513 (Vives p. 495, Spain p. 506). Page images viewed: 365, 366, 494, 495, 506. The 'vivid description of modes of torture' is not confirmed; pp. 497-513 only keyword-scanned.
-- Thiers, Wier, Maury, Michelet, Madden are cited often but have no source pages.
-
-- Volume II source pages: `mariana-de-rege.md` (1605 Mainz ed. `bub_gb_FNnUXWPFQEcC`, image n = printed page + 30; ch. V notes 52-60; note 60's 'Nos tamen non quid facturi sint homines' is at the foot of p. 65 = n95 (found by Muse full-text hunt, Oct 2026); 1599 Toledo ed. not seen) and `suarez-defensio-fidei.md` (Vivès vol. 24 `rpfranciscisuare24suar`, image n = page + 19; lib. vi cap. 4 at pp. 680-682; notes 34, 41-43, 45). Not done: Toletus, Sa, Molina, Ayala (`balthazarisayala01ayal`, `dejureetofficiis01ayaluoft`; Molina `rplodouicimolina0Nmoli`), Concina (DONE 22 Nov, see below), Sarpi, Bianchi, Troplong.
-
-- Also Vol. II: `buchanan-de-jure-regni.md` (1581 ed., p. 16 = image n15; ch. V note 83; poor microfilm, read on image) and `bossuet-defensio-declarationis.md` (1745 ed. vol. 1 `defensiodeclarat01boss`, image n = page + 65; p. 128 Abimelech, note 96). Bossuet note 77 ('Defensio lib. i. c. 15, 16', wolves/sheep) NOT located; Lecky's 'lib. i. c. 3' does not match this edition's chapter numbering. Other scans found (unused): Bianchi 1745-46 Italian `bub_gb_p6UbBtH6D1cC`; Hotman Franco-Gallia 1665 `bub_gb_8IPQdc7m1ukC`; Troplong `bub_gb_GvGwHmfT9LwC`; Desprez de Boissy `lettressurlesspe01desp`; Lebrun `discourssurlacom00lebr`; Bedarride `lesjuifsenfranc00beda`; Eymericus 1607 `10488917bsb`.
-
-- Also Vol. II: `ayala-de-jure-et-officiis-bellicis.md` (Carnegie 1912 reprint of the 1582 text, `dejureetofficiis01ayaluoft`, image n91; ch. V note 68; verbatim; page number and chapter not read). Note: new source-page front matter with a colon in `subtitle:` must be quoted (YAML).
-
-- Also Vol. II: `molina-de-iustitia-et-iure.md` (vol. 4 `rplodouicimolina04moli`, pp. 539-540 = image n27; ch. V note 67; Lecky's Latin is a compressed paraphrase omitting Molina's qualifications). Toletus and Sa (notes 65-66) still not done.
-
-- Also Vol. II: `toletus-instructio-sacerdotum.md` (1625 ed. `bub_gb_KyxnUbkc4K0C`, p. 378 = image n426 = page+48; note 65; chapter number not checked; Lecky's 'p. 653' is another edition) and `sa-aphorismi-confessariorum.md` (1599 ed. `bub_gb_5AK7-pKY-O8C`, p. 308 = n309; note 66, verbatim). Toletus's claim 'made a cardinal in 1583' in Lecky's text: Toledo was made cardinal in 1593 (from memory, unchecked). So all of ch. V notes 65-68 are done.
-
-- Also: `lebrun-discours-sur-la-comedie.md` (1731 ed. `discourssurlacom00lebr`, p. 259 = n312 = page+53; ch. VI note 143) and `montaigne-essais-ii-12.md` (Courbet-Royer 1900 vol. 3 `19essaispublis03montuoft`, p. 179 = n192; ch. V note 117; Lecky reads 'imprudence', text 'impudence'). Still undone Latin/French notes: Hobbes Leviathan (V.118), Rousseau Contrat social IV.8 (IV.81), Beza/Castellio (IV.68-70, 73), Jurieu (IV.62-63), Bossuet Variations (IV.75), Eymericus (IV.40-42), Farinacius (IV.43), Ventura (V.28), Sarpi (V.11), Bianchi French (V.131), ch. VI Leo X bull/Augustine sermon/Turgot (notes 27, 36, 49, 57).
-
-- Also: `rousseau-contrat-social-iv-8.md` (1903 critical ed. `ducontratsocialt00rous`, pp. 331-333 = n334-n336 = page+3; vol2-ch4 note 81; Lecky's French has older spelling and 'tous les religions'). `eymericus-directorium-inquisitorum.md` (BSB copy `10488917bsb`, Pegna commentary, catalogued 1607, image = page+35; p. 516 anecdote n551, p. 481 torture n516, sentence n555 ~p. 520; vol2-ch4 notes 40-42; Lecky's quotation of note 40 stops at 'nescio' and omits the 14-year sequel; the opening 'Si quaestionatus decenter noluerit...' of note 41 is Peña's commentary lemma on p. 483 = n518). Remaining undone: Farinacius (43), Paramo, Beza/Castellio (68-70, 73), Jurieu (62-63), Bossuet Variations (75), Hobbes (V.118), Ventura, Sarpi, Bianchi French, ch. VI notes 27, 36, 49, 57.
-
-- Also: `hobbes-leviathan-latin.md` (Molesworth Opera latina vol. III, `thomhobbesmalme07hobbgoog`, pp. 235-236 = n247-n248 = page+12; vol2-ch5 note 118; Lecky 'comparari' vs 'comparare') and `beza-de-haereticis.md` (1554 ed. `dehaereticisacivilimagistratu-beze-1554`, image = page+3; pp. 58, 65, 93; vol2-ch4 notes 68, 73; Lecky 'inferiorum' vs 'inferorum', 'defuisset' vs 'desiisset'). Beza's text has no djvu.xml pages in loc.py; use the `_djvu.xml` download directly. Castellio/Bellius passages (notes 69-70, Gluten 1610) not found in any scan. Still undone: Farinacius, Paramo, Jurieu, Bossuet Variations, Ventura, Sarpi, Bianchi French, ch. VI notes 27, 36, 49, 57.
-
-- Also: `castellio-traite-des-heretiques.md` (Geneva 1913, `traitdeshr00castuoft`, p. 31 = n46 = page+15; French version of vol2-ch4 note 69; Latin original and note 70's epithets still NOT found; only French/modern editions online).
-
-- Also: `paramo-de-origine-inquisitionis.md` (1598 ed. `bub_gb_mOToVY5wvVYC`, p. 588 = n706 = page+118; vol2-ch4 note 43; Lecky 'damnatur' vs 'damnetur'; Paramo's 'Deus Inquisitorum primus'/Adam passage = Lib. I Tit. 2 cap. VII p. 45 = n167 (#inquisitorum-primus; found via Muse hunt of the index); 'impurity falls on relatives' not found). Farinacius (note 43, 'De Delictis et Poenis p. 205, Venice 1619') NOT found: scans `bub_gb_PZLHDHkeQ3YC`, `bub_gb_381AS18arc8C`, `bub_gb_c2EXWUXSeU0C`, `bub_gb_b5ogYhxQQY0C` (Praxis et theoricae criminalis) have bad long-s OCR; searches for 'sordescere', 'solatium', 'uno nummo' failed. Note 85 is Neal's Puritans, not Paramo (user mix-up).
-
-- Also (overnight-style run, 24 Oct): `desprez-de-boissy-lettres-sur-les-spectacles.md` (1777 vol. 1 `lettressurlesspe01desp`, p. 481 = n522 = page+41; ch. VI note 147; arret dated 22 April 1761 = Lecky's 1761, confirmed) and `buckle-history-of-civilization.md` (1857 vol. 1 `10278775bsb`, p. 344 = n371 = page+27; ch. VI notes 150, 167; p. 346 not read). Anderson Annals: Lecky's pagination does not match the 1764 folio (`historicalchrono01ande`, p. 190 = n249 has the St Thomas Becket merchants) nor 1787; skipped. Bedarride editions: `lesjuifsenfranc00beda` (1859), `lesjuifsenfrance00beda` (1864) not matched to Lecky's pages yet.
-
-- Also (24 Oct run): `hallam-middle-ages.md` (1822 vol. 1 `stateofeuropedur01hall`, p. 221 = n244 = page+23; ch. VI note 19), `augustine-enarratio-psalm-36.md` (PL 36 `..._1845_36`, image n192; col. not read; ch. VI note 27), `turgot-memoire-sur-les-prets-dargent.md` (Schelle Oeuvres vol. 3 `turgot-oc-3`, p. 168 = n168; ch. VI note 30; § 29 not confirmed). Ch. VI notes done so far: 18, 19, 20 (p. 223 unread), 27, 30, 147, 150, 167 + earlier 143.
-
-- Also: `ventura-le-pouvoir-politique-chretien.md` (`lepouvoirpolitiq00vent`, p. 139 = n174 = page+35; ch. V note 28) and `llorente-histoire-de-linquisition.md` (French ed. 1817-18: tom. i `bub_gb_6rkHAAAAQAAJ`, pp. 273-275 = n330-n332; tom. iv `histoirecritiqu04llor`, p. 271 = n282 = page+11; vol2-ch4 note 37). Llorente: Lecky's totals match (31,912 burnt; 291,450 penanced); Lecky says Mariana's 2,000 burnt were in 'Andalusia', Llorente says Seville; the inscription's Latin has 'fere millia', Llorente's French 'plus de mille', Lecky 'nearly 1,000'. Tom. iv p. 272 and tom. i p. 272 not read.
-
-- Also: `clementinae-ex-gravi.md` (Friedberg Corpus iuris canonici vol. 2, `BD1141952`, cols. 1183-1184 = n627; Clem. V.5 § 2; ch. VI note 46; Lecky 'istum' for 'illum'; title page not read). The Corpus of 1879 `bub_gb_sfwfAQAAMAAJ` is vol. 1 (Decretum). Lamet & Fromageau's French Dictionnaire (1733; ch. VI notes 28, 31, 139) and the Conférences sur l'usure NOT found online (archive search returns only Pontas).
-
-- Also: `macpherson-annals-of-commerce.md` (1805 quarto; vol. i `annalsofcommerce01macp`, image = page+11: p. 536 = n547, p. 661 = n672; vol. ii `annalsofcommerce02macpuoft`, image = page+9: p. 638 = n647; ch. VI notes 94, 160, 162). Findings: p. 536's footnote is about a VENETIAN consul at Bruges in an English record, not an 'English consul' (note 94); p. 661 is headed A.D. 1443, Lecky says 1440 (note 160); p. 638 says 'about this time' under 1689. Unread: p. 715 mentions 'first consul for the English merchants at Pisa' under King Richard (OCR only).
-
-- Also: `blanqui-histoire-de-leconomie-politique.md` (`histoiredelco01blan`, page foot '3e Edit. t. I.', image = page+31: pp. 225-226 = n256-n257, p. 250 = n281; ch. VI notes 83, 85, 164 (p. 277 = n308, Spain as author of mercantile system; Ustariz footnote)). Lecky's 1294 summary matches; the Florentine 'officer to repress the luxury of women' is in a 1336-38 budget table (Lecky: 'beginning of the fourteenth century'). Notes 96 (pp. 244-270), 159 (271-284), 164 (277), 169 not yet checked. Another copy: `histoiredelcon01blan` (1860 ed., different pagination).
-
-- Also: `pecchio-storia-della-economia-pubblica.md` (`storiadellaecon01peccgoog`, image = page+9, p. 11 = n20; ch. VI note 90). Pecchio p. 11 has the Tavola Amalfitana and compass, NOT Lecky's 'manuscript of Roman laws found at Amalfi'. Not found online: Rios (only Spanish original `estudioshistoric00amad`, not the French ed. Lecky cites), Lamet & Fromageau. Eden's State of the Poor 1797 is online (`bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`; Lecky's vol. i pp. 10, 50 for notes 11, 17 not yet checked; Champagny `lacharitechreti00chamgoog` notes 9, 15 not checked).
-
-- Also: `eden-state-of-the-poor.md` (1797 vol. i `bim_eighteenth-century_the-state-of-the-poor-o_eden-frederick-morton-_1797_1`, image = page+39: pp. 7, 10, 50 = n46, n49, n89; ch. VI notes 11, 17). Becket sentence is shorter in Eden than in Lecky; Giraldus/Strongbow sentence in note 17 is not on these pages. Eden's other pages unchecked.
-
-- Also: `hogarth-memoirs-of-the-opera.md` (vol. i 1851 `memoirsoperaini00hogagoog`, image = page+16: p. 7 = n23, p. 8 = n24, p. 28 = n44; ch. VI notes 131, 148). Lulli: matches (Hogarth adds the 'I have got a copy' sequel). Politian: no Cardinal Gonzaga on pp. 7-8 (Lecky's detail presumably from Roscoe ch. v). p. 6 not read. Riccoboni 1728 (`histoiredutheatr00ricc`): WRONG earlier conclusion; it IS Lecky's tome I (plates make the offset vary): pp. 4-6 = n25-n27, 32-33 = n53-n54, 57 = n112, 89 = n144, 137 = n194, 183 = n240 all match except p. 89 (Cecchino is on pp. 42, 57). DONE 23 Nov as riccoboni-histoire-du-theatre-italien.md; tome II (note 130) not online.
-
-- Also: `maury-la-magie-et-lastrologie.md` (Didier 1860 `BSG_8R428_3INV2303FA`, image = page+11; OCR page headers in this scan are unreliable, read page numbers on images: p. 117 = n128, 118 = n129, 221 = n232, 317 = n328; vol1-ch1 notes 20, 29, 92, 93). Lecky's quotations match (slip 'leur dépouiller' for 'les'; 'ce que' for 'ce qui' in note 93; note 20's 'religious exercise'/'inhaled' is not on p. 317). Maury also footnotes 'Cod. Theodos. IX.16 l.4 p. 128 t. III ed. Ritter' (same edition as our Codex page). Notes 33, 49 (p. 185, pacts; Lecky says witch concept "first appeared" in 12th c., Maury only dates the pact belief) and 94 (p. 219, La Bruyère) also done. Unchecked Maury notes: ch. I notes 13, 15 (pp. 78-85), 16, 25, 36; Légendes pieuses (ch. I note 52; ch. II note 3; ch. III notes 16, 17, 113, 168, 169) and Croyances et légendes (ch. III note 23, ch. IV note 37) are DIFFERENT books, not found yet.
-
-- Also: `didron-iconographie-chretienne.md` (vol. `iconographiechr02didruoft`, image = page+11, p. 262 = n273; ch. I note 52). Lecky's quoted English is a free rendering of Didron ('Jésus s'attriste davantage ... vraiment redoutable'). Other Didron copies: `iconographiechr00didr`, `iconographiechrtienn...`. Ch. III note 169 (Didron p. 216 = n227) also done (Lecky 'little children clasped', Didron 'petits êtres humains nus, priant'). Not done: ch. III note 17, Soldan `geschichtederhe01soldgoog`, Beugnot `histoiredelades0[0-3]beuggoog`.
-
-- Beugnot, Destruction du paganisme (1835): tom. i = `histoiredelades01beuggoog` (image = page+24: p. 100 = n124, p. 148 = n172). Ch. I note 29 'p. 148' = p. 143 = n167 here ('humani generis inimici'); page beugnot-destruction-du-paganisme.md built.
-
-- Hutchinson: Lecky used the SECOND edition (1720), `b30512967_0001` (image = page+31; p. 56 = n87, p. 57 = n88, Wenham ch. X from ~p. 153 = n194; Lecky's pp. 163-171 = n194-n202). p. 57 'I suppose these are the last three that have been hanged in England' (1682 Exeter) done (ch. I note 134); Lecky's 1712 'others ... endured the same fate' is not in Hutchinson there. Not yet done with the 1720 ed.: ch. I notes (7 done, p. 55) 115, 130/131 (pp. 95-119), 133 (catalogue), 138/139 (Dedication); notes 113 (p. 90 = n121), 138, 139 (Dedication = n10-n11) done; note 135 done for p. 167 only.
-
-- Also: `michelet-la-sorciere.md` (`lasorcire02michgoog`, catalogued 1863, image = page+7: p. 371 = n378; the 1862 first-ed. scan `lasorcire00mich` returns HTML instead of page images, its OCR has the same sentence at n448 = Lecky's p. 415 probably). ch. I note 50: Michelet has Spain 1782, Switzerland 1781, Germany 1751; Lecky's 'Switzerland, 1782' mixes them. Other Michelet notes (ch. I 2, 6, 36, 55; ch. III 133) not done.
-
-- Augustine De civ. Dei additions (PL 41 scan, col = 2*image+1): XXI.4 peacock cols. 711-712 = n355 (ch. III note 8; Lecky 'regard as a miracle' is a gloss: Augustine gives it as a natural example); XVIII.23 Sibyl acrostic cols. 579-580 = n289 (ch. III note 14; Lecky cites 'cap. 20', Migne has c. 23).
-
-- Also: `augustine-de-natura-et-gratia.md` (PL 44 `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1845_44`, col. 267 = n133; c. XXXVI § 42; ch. III note 32; Lecky 'habere' for 'haberi', inserted 'eum'). Rest of note 32 (Heeren, Gibbon, Bernard) unchecked.
-
-- Also: `jerome-contra-vigilantium.md` (PL 23 `..._1845_23`, cols. 346-347 = n176-n177; ch. III note 34). The 'ergo cineres suos amant animae martyrum' words are Vigilantius's, quoted by Jerome to mock; Lecky says 'As St. Jerome says'. Not found: Isidore De ordine creaturarum (PL 83 `..._1859_83`, search for the text found nothing), Wall History of Infant Baptism ch. IV notes 3-4 (scans `historyofinfantb03wall`, `historyinfantba01galegoog`: 'pettishness' not located).
-
-- Also: `macaulay-history-and-essays.md` (Project Gutenberg TEXTS, not scans: History vol. i = 1468, vol. iii = 2612; Essays vol. i = 2332 (the Hallam essay); no page numbers, so Lecky's pages unverified). Findings: ch. III note 132 quote has 'bull' for Macaulay's 'bear' (History vol. i ch. II); ch. V note 86 quote is the Hallam essay, small wording changes; ch. III note 87 is History ch. XI (1687-88, not 'shortly after William III'); ch. I note 167 is Macaulay's footnote 785 in ch. XVI. Not done: ch. I note 19 (Ranke essay), ch. IV pt II note 52 (Essays vol. ii p. 140). Gutenberg ids: Essays vol. 2 = 2333, vol. 3 = 28046.
-
-- Also: `gibbon-decline-and-fall.md` (Gutenberg TEXT, Guizot-Milman annotated ed.: vol. 2 = 732 ch. XVI, vol. 3 = 733 ch. XXVIII; ch. IV pt II note 30, ch. VI note 103; Lecky's Aliturus sentence overstates Gibbon; Lecky's Augustine Latin = Gibbon's note 56 with 'enim' and 'contra' for 'adversus') and `hume-populousness-of-ancient-nations.md` (`essaysmoralpolit00hume` 1875, p. 396 = n411 = page+15; ch. VI note 13; accurate). Other Gibbon/Hume/Bayle notes not done: Hume's Essay on Miracles (ch. II note 12, only named), Gibbon ch. III note 32 (Mahomedan Immaculate Conception) and others; Bayle 'Contrains-les d'entrer' pt. ii ch. iv (ch. IV pt II notes 7, 10, 76), Bayle Dict. art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187).
-
-- Also: `bayle-commentaire-philosophique.md` (1686 ed.: vol. 1 `commentairephilo01bayl` title page = n2; vol. 2 `commentairephilo02bayl` p. 295 = n110 = Part II ch. IV 'Quatrième objection' (Mosaic law); ch. IV pt II notes 7, 76; rest of ch. IV not read). Still undone Bayle: Dictionnaire art. Augustine note H (note 55), art. Socinus rem. c (V.133), Pensées diverses §182 (VI.187); Bayle's Contrains-les d'entrer is vol. 1-2 of 3 in these scans; also `suplementducomme00bayl`.
-
-- Also: `bayle-dictionnaire.md` (Beuchot 1820: 'Augustin' remark H p. 557 = n566 in tome 2 `dictionnairehist02bayl` (image = page+9); 'Socin' remark C pp. 351-352 = n358-n359 in `bub_gb_RucOAAAAQAAJ` (tome not read); ch. IV pt II note 55, ch. V note 133). Lecky's synod description ('partly Dutch, partly French and English') differs from Bayle (Walloon churches, refugee ministers); Socinus 'dissolution of society' prediction not on the pages. Pensées diverses §182 also done (pensesdiverse02bayl, p. 378 = n73; ch. VI note 187). Not done: Dict. in ch. III note 117 (no article named).
-
-- Also: `hallam-literature-and-constitutional-history.md` (Lit. of Europe 1837 vol. 2 `introtolitofeur02halliala`, p. 116 = n137 = page+21 (Lecky's 'vol. i. p. 559' is another edition); Const. Hist. via Gutenberg 39711 (vol. 1 ch. II, text only); ch. IV pt II note 74). Other Lit. of Europe scans: `introductiontol22hallgoog` (n287), `10447631bsb`. Lit. of Europe 1837 vol. 3 = `introtolitofeur03halliala` (image = page+25; p. 242 = n267, Fathers corporeity, ch. III note 164 done). Ch. V note 50 done (Lit. vol. 2 p. 197 = n218). Other Hallam notes not done: ch. I 118 (Glanvil review vol. iii pp. 358-362), ch. IV pt II 45, 46, 61, 64, ch. V 33, 50, 78, 91, ch. VI 18, 20, 125, 136.
-
-- Buckle vol. 1 (`10278775bsb`, image = page+27) pagination MATCHES Lecky's: also done p. 333 (n360, note 50: 1660/1688 quote, ch. I note 132; its footnote is the source of Lecky's 'others ... 1712' for ch. I note 134 via Parr's Works iv p. 182), p. 345 (n372, eclipse of Otho, ch. I note 41); p. 316 (n343) is NOT about spirits (ch. I note 70 unmatched). Still to do with this scan: ch. I notes 64 (p. 424 note), 144, 145 (vol. ii, not scanned), ch. IV pt II 5 (p. 385) and ch. V 25-26 (pp. 380-381) now DONE; still: ch. IV pt II 49 (vol. ii p. 231; vol. ii not scanned yet). Note 51 done for pp. 509-510 only (image = page+29 in this part of the scan, NOT +27; pp. 511-523 = n540-n552 unread). ch. I note 64 (p. 424 = n451) done.
-
-- Also: `sprat-history-of-the-royal-society.md` (1667 ed. `bub_gb_g30OAAAAQAAJ`, p. 350 = n373 = page+23; ch. II note 6; matches except inserted 'a'). Other ch. II notes not done: 1-2, 4, 5 (Guizot Hist. de Civilisation Leçon XVII), 7 (Muzarelli), 8 (Brewster Life of Newton p. 275), 9 (Locke Third Letter on Toleration p. 269), 12 (Locke commonplace; King Life of Locke i pp. 230-231), 13-25.
-
-- Strauss Life of Jesus (ch. II note 17): Lecky's quotation "We may summarily reject all miracles ... simply impossible" is NOT in the Eliot 4th ed. (Gutenberg 64037; only the "irreconcilable with the known and universal laws" clause appears, in the Introduction § on the mythus). Unmatched, no page built.
-- Also: `brewster-life-of-newton.md` (1860 vol. 2 `memoirsoflifewri02brewuoft`, pp. 252-253 = n269-n270 = page+17; Lecky's p. 275 = the 1855 ed.; ch. II note 8). Lecky's last sentence 'The history of those ages is very imperfect' NOT in Brewster. King's Life of Locke i p. 415 and Locke's Third Letter on Toleration p. 269 (ch. II note 9) DONE: `locke-third-letter-for-toleration.md` (1692 ed. `bim_early-english-books-1641-1700_a-third-letter-for-toler_locke-john_1692`, p. 269 = n270 = page+1; matches).
-
-- Also: `fulgentius-de-fide-ad-petrum.md` (Plantin 1574? Fulgentii opera `bub_gb_hZ5lpQgaOtIC`, c. 27 p. 479 = n494, cc. 38-39 p. 483 = n498 = page+15; ch. IV notes 8, 20). Lecky's section numbers (70, 81, 22) are not this edition's chapters; Lecky's 'sive jam' and 'eo vel haeretica vel' differ. Isidore Sententiae i. 22 and Avitus (note 8) not done.
-
-- Also: `marangoni-cose-gentilesche.md` (Rome 1744 `gri_33125010851489`, p. 45 = n66 = page+21; ch. III note 10 Orpheus/Eusebius). Lecky's 'Marangoni p. 45' for the genii of the seasons (note 11) and aquatic deity (note 13) is NOT on p. 45. Raoul-Rochette `tableaudescataco00roch` p. 138 = n163 (page+25) DONE as `raoul-rochette-tableau-des-catacombes.md` (note 10); Maitland `churchincatacomb00mait_0` p. 110 ~ n123 (page+13) not read; Rochette notes 13, 28 not done.
-
-- Also: `palmer-treatise-on-the-church.md` (1842 vol. 1 `treatiseonchurch01palmiala`, p. 12 = n39 = page+27; Zerta + Fathers; ch. IV notes 19, 21, 26; Lecky says p. 13). Palmer cites Fulgentius De remissione peccatorum i. 22 (maybe Lecky's '§ 22'). pp. 11, 13 unread. Also scans for Neander Dogmas (`neandershistory01neanuoft`), Cudworth/Mosheim (`trueintellectual03cudwuoft`) not used yet.
-
-- Also: `cudworth-mosheim-note-on-the-soul.md` (Harrison's Cudworth vol. 3 = `trueintellectua00moshgoog`, p. 325 = n334 = page+9; ch. III note 164; matches). Hallam half of note 164 done earlier. Neander Dogmas `neandershistory01neanuoft` (ch. IV notes 16-17) searched for Zwingli: no hit yet.
-
-- Also: `neander-history-of-christian-dogmas.md` (Bohn 1858 `lecturesonhisto01neangoog`, p. 658 = n324 = page-334; ch. IV notes 16-17; pp. 657, 659 unread; Bossuet Variations ii c. 21 in note 17 not done).
-
-- Also: `wall-history-of-infant-baptism.md` (Oxford ed. vol. 2 `historyofinfantb02wall`, image = page+23: p. 180 = n203, p. 211 = n234; ch. IV notes 2, 13, matches). Vol. i = `historyofinfantb01wall` (no XML pages); `historyofinfantb03wall` has other vols. Still: notes 3-4 (vol. i pp. 282-283; vol. ii pp. 192-206), 12.
-
-- Also: `benedict-xiv-vix-pervenit.md` (Latin Wikisource text of Vix pervenit § 3 I-II, NOT a scan; ch. VI notes 56-57; Lecky matches except note 57 'impensuras' vs 'impensurus').. Concina p. 14 still unavailable.
-
-- Also: `wright-narratives-of-sorcery-and-magic.md` (1852 `narrativesofsorc00wrig_0`, continuous pagination, image = page+5: p. 186 = n191 werewolves, p. 187 = n192 Remigius, p. 326 = n331 Bamberg 600; ch. I note 2). Lecky's p. 186 doesn't fit; Treves 7000 / Wurzburg 800 not on pp. 325-327. Wright note 108 (Lecky pp. 286, 296): Shakespeare/Macbeth discussion is at scan pp. ~177-183 (n182-n188) in this edition, so Lecky's volume pagination differs (different edition); 161 not found. Pitcairn scans: `ancientcrim42pt202pitcuoft`, `10348845bsb` etc. (ch. I notes 149, 162).
-
-- Also: `pitcairn-ancient-criminal-trials-of-scotland.md` (vol. 3 `ancientcrim43pt203pitcuoft`, p. 598 = n249 = page-349; ch. I notes 149, 162). Note 162's Earl of Mar is not on p. 598.
-
-- Also: `glanvill-saducismus-triumphatus.md` (1700 ed. `bim_early-english-books-1641-1700_saducismus-triumphatus_glanvill-joseph_1700`, Preface n49-n50, unnumbered; ch. I note 122). Other editions: 1689 `..._saducismus-triumphatus-_glanvill-joseph_1689` (OCR poorer), `b30514472` (1726). Other Glanvil notes (113, 118-121, Plus Ultra) not done.
-
-- Also: `bossuet-variations.md` (Paris 1844? vol. 2 `bub_gb_0tGUU8OopAUC`, p. 475 = n492 = page+17; liv. X § 56; ch. IV pt II note 75). Other Variations scans: `bub_gb_kywIVVvxpp0C`, `bub_gb_DFpKf9T_ersC`. Liv. II p. 73 = n81 (page+8) done for vol. I ch. IV note 17; note 28 (p. 70 = n78) done.
-
-- Also: `taylor-liberty-of-prophesying.md` (1836 `discourseofliber1836tayl`, pp. 328-329 = n369-n370 = page+41; ch. IV note 13 § 18; matches). Other Taylor: ch. IV note 36 (Ductor Dubitantium iii c. 2), vol2 ch. IV note 7 done (p. 368 = n409). Other scans: `discourseofliber00tayl` (1834), `cu31924029261506`.
-
-- Also: `laing-notes-of-a-traveller.md` (1842 first ed., title page n7; not an 1854 reprint as first noted; `notesatraveller02laingoog`, pp. 323-324 = n341-n342 = page+18; ch. IV note 35's Swiss quotation; identified from the text, Lecky gives no title). Laing's Sweden pp. 108-141 (illegitimacy figures; ch. IV note 35 and vol. II ch. IV note 52) not found.
-
-- Unmatched/dead ends (this run): Chillingworth Religion of Protestants ch. VII (vol1 ch. IV note 18: 'God will not deal unjustly with unbaptised infants' not found by keyword in scans `workswchillingw00chilgoog`, `..._chillingworth-william_1664_0`); Sarpi 'Pp. 89, 90' (vol2 ch. V note 11, Italian quote not in `istoriadelconci00micagoog`/`01`; the work is probably a Sarpi political tract, not found online); Strauss Life of Jesus quote (vol1 ch. II note 17); Beugnot p. 148 (vol1 ch. I note 29). Newman essay on miracles scans exist (`twoessaysonbibli00newm`) but ch. II note 16 has no quotation.
-
-- Also: `pascal-pensees-original-sin.md` (Brunschvicg text from fr.wikisource Section VII, NOT a scan; ch. IV note 12). Sarpi/St Bernard parts of note 12 unchecked.
-
-- Also: `voltaire-dictionnaire-philosophique-patrie.md` (Garnier 1878 text on fr.wikisource, NOT a scan; ch. VI note 177; Lecky reverses the order and drops 'donc'; OCR fixed in the note: humaine, à, Il, peut).
-
-- Also: `montesquieu-esprit-des-lois-xxi-20.md` (1777 text on fr.wikisource `Esprit_des_lois_(1777)/L21/C20`, NOT a scan; ch. VI note 39; matches). Turgot half of note 39 (§ 14) not checked.
-
-- Also: `de-maistre-soirees-de-saint-petersbourg.md` (1831 vol. 2 `lessoiresdesa01mais`, p. 437 = n462, p. 452 = n477 = page+25; ch. IV note 45 Locke quotes exact; Bacon quotes are in De Maistre's Examen de la philosophie de Bacon vol. 2 `examendelaphi02mais` p. 100 = n109 = page+9: 'parfaitement nul et méprisable' and Novum Organum/Bedlam DONE on the same page; 'un charlatan' not found).
-
-- Oct 2026 (top-5 untranscribed by backlinks): Garinet p. 176 = n233 (`#p176`; De Lancre apples, Spain fugitives; Lecky's 'orchards'/'about Bourdeaux' not in Garinet); Buckle vol. 1 p. 334 = n361 (`#p334-spain`; Spain witch 1781 vs Lecky 1780); Dalyell pp. 669-670 = n685-n686 (`#scotland-669`; Leith 1644 vs Lecky 1664, verified on Lecky p. 143 = n172); Hutchinson 1720 pp. 95, 108 = n126, n139 (`#new-england-95`; 19 hanged + 1 pressed vs Lecky's 27; Baxter preface was to Mather's 1690 Goodwin book); Suarez Defensio lib. III cap. 2 pp. 206-210, § 10 p. 209 = n228 (`#immediate-a-deo`; § 11 ff. p. 210 only OCR-read).
-
-- 31 Oct 2026 run (Muse-assisted): new pages `beugnot-destruction-du-paganisme.md` (tome I p. 143 = n167, page+24; ch. I note 29 'p. 148'),
-  `vives-de-anima.md` (Basel 1555 `bub_gb_t8gfYaq2Om8C`: p. 11 = n20, p. 12 = n21; copy `ioannislodovici00unkngoog` p. 12 = n18, lacks p. 11; ch. III note 172),
-  `descartes-reponses-sixiemes-objections.md` (Cousin vol. II `oeuvresdedescar04cousgoog`, p. 322 = n335, p. 343 = n356, page+13; OCR misreads 3 as 5 in page heads; ch. III note 176),
-  `tertullian-adversus-hermogenem.md` (PL 2 cols. 197-198 = n100; ch. III note 48), `aquinas-summa-secunda-secundae.md` (Corpus Thomisticum TEXT, not scan:
-  q. 11 in sth3001.html, q. 104 in sth3102.html; vol2-ch4 note 1, vol2-ch5 note 36), `say-olbie.md` (1800 `olbieouessaisurl00sayj`, note A = n98; page number not legible; ch. VI note 185).
-  New sections: Paramo #inquisitorum-primus (p. 45 = n167), Eymericus #teneantur (appendix p. 50 = n829) and Peña lemma p. 483 = n518, Malleus #serenus-150,
-  Bayle Commentaire #part-i-ch-i (vol. 1 p. 11 = n112, p. 27 = n128; vol2-ch4 note 78), Hallam #glanvil-scepsis (Lit. of Europe 1837 vol. IV `introtolitofeur04halliala`,
-  p. 263 = n288, page+25; ch. I note 118), Codex IX.16.2 now linked from vol2-ch4 note 15 (Lecky 'Addite' for 'adite').
-  Dead ends: Cosmas Topographia Latin (ch. III notes 96-98; Montfaucon `bub_gb_XVCw0n6PM-wC` is vol. I only; PG 88 scans on archive are not Cosmas);
-  De Maistre 'Leur physique est à peu près nulle' (ch. III note 110) not in Soirées 1831/1854 vols. 1-2 nor Examen de Bacon vols. 1-2; Suárez de Paz Praxis (ch. III note 154) not on archive.org. Also `council-of-elvira-canon-36.md` (Hefele Eng. vol. I `historyofcouncil00hefeuoft`, p. 151 = n168; ch. III note 37).
-- Facsimile figures: `<figure class="facsimile">` (CSS in style.css) with a crop of the scanned page holding the passage, images in `assets/img/ref/`
-  (~600-1000px wide, JPEG q80), caption + `span.credit` 'Scan: Internet Archive · public domain'. Added to Mariana, Malleus, Eymericus (2), Beugnot, Vives,
-  Descartes, Tertullian Hermogenes, Paramo, Bayle, Say. Readers like seeing the old print: add one to every new source page.
-- `data/unlinked-citations.json` (made by `tools/catalog_citations.py` with Muse, 31 Oct): citations in footnotes without a ref link; PARTIAL, 201 of 553 notes parsed, the rest are {"error"} entries (bad JSON or dropped connections); rerun only the errors before relying on it. Work titles are not normalised.
-- `tools/hunt.py BOOK_djvu.txt "target" OUT.json`: Muse full-text hunt for paraphrased quotations, chunked, re-sends failed chunks (Meta and the
-  agent proxy drop many requests: 502s, 'ws_closed_mid_exchange'), checks quotes against the OCR. Try keyword grep FIRST (a word the OCR reads well,
-  e.g. 'decenter', 'ambiguam', 'Talapoin'); the volume's own INDEX is often the best lead (Malleus Serenus, Paramo). Costs: 1M-char book ~$0.01-0.02; 5M chars ~$0.17.
-  archive.org downloads intermittently return a 170-byte 500 page: retry in a loop.
-
-- Source-page layout (Oct 31, owner's request): build.py `fold_originals` shows the English `div.rendering` first and folds the
-  `div.original` into `details.original-toggle` ("▸ Original Latin/French"), for every plain two-div `.parallel` on ref pages (keep writing
-  pages in the parallel form; the build folds them). Owner wants each page to open with an interesting nugget in plain English: a short,
-  concrete abstract (what is surprising, what Lecky got wrong), a plain-English subtitle (not the full original title), title page /
-  facsimile images. Thiers page rebuilt as the model.
-- Wikipedia popups (22 Nov 2026, owner's request): show the WHOLE article, scrollable, as gwern.net does. popups.js `fetchWikiFull` uses
-  `w/api.php?action=parse&format=json&formatversion=2&prop=text|displaytitle&redirects=1&origin=*` (CORS works; the page-summary API is still
-  fetched first for a fast lead, and is often 429 from this cloud machine but not for readers). `cleanWikiArticle` strips edit links, navboxes,
-  maintenance boxes, sidebars, reference markers and the References/Notes/External links sections (`WIKI_DROP_SECTIONS`, also French/Italian/
-  German names), red links, inline styles; rewrites links/images to absolute https; prefixes ids with `wp-`; adds a one-line Contents bar.
-  In-article and Contents links scroll the popup (`wireWikiAnchors`), never the page (a page scroll closes popups). Links inside get nested
-  popups (namespaced titles like File:/Category: are skipped). `position()` now shrinks a popup that fits neither above nor below. Touch:
-  the same article in a scrollable popin (second tap on the link follows it). Tested with Playwright by routing api.php to a saved response
-  (scratchpad wikitest.js / wikitouch.js); Thomas Aquinas (1 MB) renders in ~0.4 s.
-- Wikipedia link check: ordinary article pages (not the API) load from this machine; check with curl status codes, 1s apart. Oct 31 check
-  fixed 8 broken links (Thiers -> fr.wikipedia; Raoul_Rochette; Edward_Burt; Francisco_de_Toledo_(Jesuit); Gioacchino_Ventura_di_Raulica;
-  it:Giuseppe_Pecchio; Manuel_de_Sá; Samuel_Laing_(travel_writer), whose dates are 1780–1868, not the son's).
-
-- 31 Oct–1 Nov 2026 run 2: new source pages (all read on page images unless noted): malone-historical-account-english-stage (10747532bsb, pp. 15-16 = n20-n21, p. 11 = n16),
-  augustine-de-trinitate (PL 42 cols. 951-952 = n479; Lecky's 'penitus ignoramus' sentence is recast from words about St Paul), laplace-exposition-du-systeme-du-monde (1835 6th ed. p. 444 = n475),
-  browne-religio-medici (1672 ed. p. 24 = n31, annotations p. 100 = n107), knox-first-blast (Arber 1878 p. 11 = n31; OCR 'conturnelie' fixed in vol2-ch5 n110),
-  locke-two-treatises (Gutenberg 7370 TEXT; vol2-ch5 notes 97-100; OCR fixes '1 1 should', 'tinder'), hooker-ecclesiastical-polity (oflawsofecclesia0000hook_s0l3 p. 59 = n94),
-  motley-rise-of-the-dutch-republic (1856 vol. II p. 158 = n165; OCR uses double spaces: grep with '  '), bossuet-maximes-sur-la-comedie (Gazier 1881 § XI p. 46 = n68, § XXXI p. 84 = n106;
-  vol2-ch6 note 142 French restored from Lecky p. 348), edwards-freedom-of-will (Boston 1754 p. 254 = n269), scott-letters-on-demonology (NY 1830: Letter IX p. 261 = n265, Letter VIII pp. 198-199 = n202-n203),
-  coleridge-notes-on-english-divines (1853 vol. I p. 209 = n222), rogers-recollections (1859 pp. 49-50 = n79-n80; Fox), gladstone-state-and-church (1838 p. 188 = n203),
-  harrington-system-of-politics (Works 1771 p. 475 = n528), jubinal-danse-des-morts (1841 p. 8 = n11; plates n26, n30, n34, n38; wide figure in vol1-ch4),
-  constans-epidemie-morzine (1863 p. 63 = n70), cudworth-true-intellectual-system (1743 vol. II p. 702 = n75), butler-hudibras (Grey ed. Dublin 1744 vol. II pp. 12-14 = n17-n19),
-  milton-areopagitica (Hales ed. p. 43 = n94), berkeley-querist (Dublin 1735 Part I p. 13 = n12; queries 57-58), baxter-holy-commonwealth (1659 'Addition to the Preface' = n50),
-  homily-against-wilful-rebellion (Philadelphia 1855 reprint pp. 512, 519 = n533, n540). Glanvill page: + 'Considerations' pp. 3-4 = n56-n57 (ch. I notes 123-124).
-  Title pages/plates added: Malleus 1620, Bodin 1582, Eymericus 1607, Paramo 1598, Hutchinson 1720, Sprat 1667, Glanvill 1700 frontispiece + Endor plate (Faithorne); CSS figure.title-page.
-  18 source-page subtitles rewritten into plain English. Dead end: Suárez de Paz; De Maistre 'physique nulle'; Cosmas Latin.
-
-- 1 Nov 2026 (after container restart): + bacon-novum-organum (Spedding vol. IV 1858 p. 115 = n128; Lecky's English is another translation),
-  knox-appellation (Laing vol. IV p. 507 = n518), locke-commonplace-book-miracles (King's Life of Locke 1830 `10064652bsb` pp. 231-232 = n246-n247; ch. II note 12),
-  hume-of-miracles (Gutenberg 9662 TEXT; Saragossa leg, ch. II note 4), edinburgh-review-the-supernatural (Oct 1862 vol. 116 p. 380 = n85; ch. II note 24),
-  swinden-nature-and-place-of-hell (1727 2nd ed. `natureofhell00swin` p. 129 = n156, title n4; hell in the sun; ch. III note 151). Sections added: Bossuet § XXXI (ch. VI n114),
-  Scott Letter VIII (ch. I n143), Glanvill pp. 3-4 (ch. I n123-124), Bodin f. 216 Angers 1539 (n466; ch. III n135). Berkeley Querist: Lecky's 'No. 54' = 1735 query 58.
-  Linked notes now ~345/850. Good next targets: ch. III (lowest coverage): Barrington On the Statutes p. 461 (notes 178, 180), Roccamora De cometis (112, 115),
-  Cudworth vol. iii p. 318 (165, Harrison ed. scan known), Matter Gnosticisme, Beausobre Manichéisme, Raoul-Rochette Cours d'archéologie; ch. VI Leo X bull (27/36).
-
-- 1 Nov 2026 (openings pass): the 20 most-linked older source pages (Buckle, Garinet, Hutchinson, Maury, Didron, Madden, Paramo, Bodin, Dalyell,
-  Blanqui, Lebrun, Mariana, Macaulay, Llorente, Palmer, Suárez, Michelet, Simancas, Sprenger, Pitcairn) got new plain-English abstracts (nugget first);
-  their old editorial abstracts were moved, unchanged, into `<details class="collapse editor-notes">` at the foot of each page. 14 got title pages /
-  frontispieces (`figure.title-page` after the first h2): Garinet frontispiece = Joan of Arc (n5), Madden plate 'Jeanne Darc' (n7), Llorente portrait (tom. i n7),
-  Simancas engraved title (n4), Michelet copy = 3rd ed. Brussels & Leipzig 1863 (n10). Macaulay has no scan (Gutenberg text), so no picture. Next: same pass for the
-  next ~40 older pages (Glanvill, Middleton, Augustine, Gibbon, Agobard, Hecker, Codex, Desprez, Wright, Hogarth ...).
-
-- 10 Nov 2026: Muse OCR sweep (tools/muse_ocr_sweep.py, retry with tools/muse_ocr_sweep_retry.py; flags in data/ocr-flags.json) reviewed on the
-  page images with line strips (scratchpad strips.py: finds the flag's context in `<id>_djvu.xml` WORD coords and crops that line; here image n =
-  0-based OBJECT index). Most flags are AS PRINTED and must stay: vol. I 'corruscations', 'payed her homage', 'accordingly wept to sleep again'
-  (n95), 'grevious sin' (n128), 'Wagstaafe' (contents n25 and p. 130 = n159, four times), 'In numbers of the description', "Demons;'",
-  'p. 113.' with no closing bracket (n133), 'on Witchcraft,' with no closing quote (n139), 'After, all,' (n217), Aquinas 'fourteenth century'
-  (n101, Lecky's error); vol. II 'no priest had embraced Christianity' (p. 25 = n40; sense wants 'prince'), 'to bann', 'keenly sensibly',
-  'Tertullian and other of the Fathers', 'transcendant'. Genuine OCR faults fixed (28, all in vol. II chs. IV-VI): lost full stops read as commas,
-  three dropped '. . . .' ellipses in the La Boétie passage (n239), a lost paragraph break before 'But a few years passed away' (n400), Galas ->
-  Calas, Eios -> Rios, 110 -> no, anil -> and, split words. Muse cannot tell a printer's slip from an OCR slip: never apply its flags unseen.
-
-- `content/rationalism/as-printed.md` ("As printed: slips of the 1865 edition", linked from the Rationalism index): facsimile strips of the as-printed
-  oddities (images in `assets/img/rationalism/slips/`, each linking to the scan page). Add new finds there. Page numbers on it are from image offsets
-  (vol. I n-29, vol. II n-15), only vol. II p. 25 read from the page head.
-
-- OCR sweep state at 10 Nov 08:57: 66 of 326 chunks still unread (`chunk_error` entries in data/ocr-flags.json); rerun
-  `python3 tools/muse_ocr_sweep_retry.py` (Muse was slow, ~30-60 s a chunk; chapter files changed since the first sweep, so chunk boundaries may
-  have shifted slightly). One flag NOT yet checked on the image: vol1-ch3 'subdue men's bodies of their souls and spirits' (Muse: 'to their').
-  All other flags are reviewed (see the note above). The three last older source pages now have plain-English openings (all older pages done).
-
-- 10 Nov (later): second retry of the OCR sweep stopped at the owner's request with 50 of 326 chunks still unread (all in vol. II chs. IV-VI
-  except one each in vol. I chs. I, III, IV; Muse answered only ~1.5 chunks a minute). 20 more flags checked on images with scratchpad strips2.py:
-  14 OCR faults fixed (vol2-ch4: 'Hist,' x2, a bullet for ';', '695696', '2G', '{Ibid.', 'piiblished'; vol2-ch5: 'Inquisitor- General', 'but.',
-  "rebellion.'", 'Who', "'had", 'Nobody' -> 'No body', 'Church, Doctrines'). AS PRINTED, left and added to as-printed.md: vol. I p. 340 'to subdue
-  men's bodies of their souls and spirits' (Hallam Const. Hist. ch. VII note, Gutenberg 39711, has 'to their soul and spirit'), vol. II p. 51
-  'not so so much' (n66), 'the Marshes' (n136), 'Starchamber' (n144), 'deepest die' (n196). Not decided: vol2-ch4 'took place,[^64]' (Muse wants a
-  closing quote before the note mark; the image n65 is unclear at strip size).
-
-- 12-15 Nov: OCR sweep FINISHED (all 326 chunks read). Fix that made it work: tools/muse.py now STREAMS (the agent proxy kills a request with
-  no response bytes for ~30 s; Muse often reasons longer; 502 'upstream request failed' was that). Last 99 flags checked on images (scratchpad
-  strips2.py + zoom.py): ~80 OCR faults fixed in vol2 chs. IV-VI (curly braces for brackets, signature marks 'u 2', 'z 2', 'x 2"', 'B B' left
-  in notes, 'Pararno', 'Meaner' -> Mesmer, '7£' -> 7¼, 'Usura trim Contractus (Romse' -> 'trini Contractûs (Romæ', lost '. . . .' ellipsis).
-  AS PRINTED (left): 'the fable of the ancient', 'all who enter in which diffuses', 'lends such', 'I may delay for a moment', 'country cities',
-  'ch, xv.', 'mysteries,4 Like', 'possessors of the good, will', 'armaments', 'took place,1' (no closing quote, n65), 'pp. 213, 223.' (no
-  bracket), '372.)'. Line-break compounds left (wellspent, slavetrade, slavelabour; 'slaveowners' is mid-line in print).
-
-- 15 Nov 2026 (1-hour run): catalogue retry finished (data/unlinked-citations.json now has all 553 notes, $0.11). New source pages, all read on
-  page images unless noted: barrington-observations-on-the-statutes (1769 3rd ed. `bim_eighteenth-century_observations-on-the-more_barrington-daines_1769`,
-  image = page+11: pp. 461-463 = n472-n474; 72,000 executions doubted by Barrington; Harrison/Cardano origin via Gutenberg 42506 TEXT; Fortescue);
-  roccamora-de-cometis (Rome 1670 `bub_gb_9zV6Y5kEcBEC`, p. 17 = n43, pp. 237-240 = n267-n270; title page not in scan);
-  la-peyrere-men-before-adam (English 1656 `bim_early-english-books-1641-1700_men-before-adam_la-peyrere-isaac-de_1656`, pp. 147-148 = n246-n247,
-  Systeme title n78; Latin 1655 copies exist, unread); neal-history-of-the-puritans (Dublin ed. 1755?: vol. I `historyofpur01neal` p. 48 = n75,
-  page+27; vol. III `historyofpur03neal` p. 244 = n265, pp. 391-393 = n412-n414, page+21; NOT Lecky's 1754 pagination);
-  matter-histoire-du-gnosticisme (2nd ed. tome III 1844 `histoirecritiqu01mattgoog`, page+9, pp. 259-264 = n268-n273, title n10; tome I copies
-  `histoirecritique01matt` etc. have Bardesanes at pp. 300-301, not Lecky's 360-362); bianchi-puissance-ecclesiastique (Peltier 1857: tome I
-  `traitdelapuissa01peltgoog` p. 84 = n117 page+33; tome II `traitdelapuissa00peltgoog` pp. 768-769 = n778-n779 page+10; Barclay was a Scot);
-  codex-theodosianus-xvi-3-de-monachis, -xv-7-8-actresses, -xvi-jews-and-temples (Ritter/Gothofredus vol. V = `BRes1409275` p. 420 = n423;
-  vol. VI.1 = `BRes1409276`: XVI.3 pp. 106-108 = n121-n123, XVI.8.1 p. 237 = n252, XVI.10.3 = n304); ciampini-vetera-monimenta (Rome 1690
-  `veteramonimentai00ciam` p. 115 = n214, plate XXXVI = n205; vol. 2 = `gri_33125010851414`; pp. 28, 84 unread). Cudworth page: + Origen sections
-  pp. 318-319, 330 (n327-n328, n339). OCR fixed from Lecky's page: vol2-ch6 notes 107, 109. Dead end: Beausobre Hist. du Manichéisme (not on archive.org).
-  Next ideas from the catalogue: Anderson Hist. of Commerce (6 notes; pagination mismatch known), Riccoboni (6; needs Lecky's edition),
-  Bedarride (6), Rochette Cours d'archéologie (4), Sarpi (4), Bruyssel (4), Concina (4; no scan found), Maury Légendes pieuses (3).
-
-- 15 Nov later in the run: + bedarride-les-juifs-en-france (Paris 1859 `lesjuifsenfranc00beda` MATCHES Lecky; image = page+15; p. 16 = n31,
-  p. 114 = n129; the other scan `lesjuifsenfrance00beda` (1864) is paged differently; ch. VI note 64 French restored from Lecky's page),
-  raoul-rochette-cours-darcheologie (Paris 1828 `coursdarcheolog00roch`, pp. 268-270 = n273-n275, p. 269 misprinted 169; matches Lecky),
-  van-bruyssel-histoire-du-commerce (Brussels 1861: tome I `histoireducommer01bruy` p. 234 = n245; tome II `histoireducommer02bruy`
-  pp. 48-49 = n51-n52; matches Lecky; OCR 'Beige' -> 'Belge' fixed in five notes, verified on Lecky n190).
-  + maury-legendes-pieuses: Légendes pieuses IS online (CLAUDE.md said not found): Paris 1843 `essaisurleslge00mauruoft`, image = page+39,
-  pp. 17-18 = n56-n57 (OCR only), pp. 173-178 = n212-n217 (pp. 176, 178 read); matches Lecky. pp. 125-127 (ch. III n168) not read.
-- 22 Nov: + dallaeus-de-poenis (Amsterdam: Blaeu 1649 `bub_gb_CMMEUPj014cC`, OCR poor (italic): book IV ch. 7 p. 368 = n377, ch. 9 p. 387 = n396,
-  title n4; ch. III notes 137, 145). Lamennais Affaires de Rome: 5 scans (a589606400lameuoft 1837, affairesderome00lame, ...01lamegoog,
-  ...00lamegoog, bub_gb_LWUNd3ozKYQC); none matched Lecky's pp. 37-89 / 308-317 at a quick look (the Polish brief's text not found); skipped.
-  + muratori-antiquitates-dissertatio-xvi (vol. I, Milan 1738, photographic reprint scan `antiquitatesit01mura`: diss. XVI = cols. 883-912,
-  cols. 889-890 = n483, 891-892 = n484; ch. VI notes 43-45; OCR 'Italicce, dissert,' fixed to Lecky's 'Italicœ, dissert.' (read on n303)).
-  + cibrario-economia-politica (2nd ed. Turin 1842 vol. II `dellaeconomiapo04cibrgoog`, image = page-16, pp. 50-52 = n34-n36, title n7;
-  vol. III = `bub_gb_C3bb6Yv7QCIC`; vol. I 1842 not identified; ch. VI note 34). OCR fixed (read on Lecky n237, n298): 'Economia Politico,' ->
-  'Economia Politica' (3 notes), 'Tribunalmm ... (Romee' -> 'Tribunalium ... (Romæ'.
-  + rio-de-lart-chretien (1874 printing tome I `bub_gb_RVkb8BE6VMgC`, pp. 380-381 = n383-n384, title n6; NOT Lecky's 1861 printing (his
-  tom. i. p. 354); 1861 tome III = `delartchrtien01riogoog`, tome I not found; Rome et Venise 1872 = `bub_gb_S4-qMKKAZqMC`; ch. III note 72).
-  + durand-vie-de-vanini (Rotterdam 1717 `bub_gb_OHZHhPdnEBoC`, image = page+39, pp. 169-172 = n208-n211, title n8; matches Lecky;
-  ch. III note 126; pp. 93-99 for note 105 not read).
-  + ford-handbook-for-spain (3rd ed. London 1855, continuous pagination: Part I `ahandbookfortra01fordgoog` p. 304 = n327 (matches Lecky
-  vol. i p. 304), title n6; Part II `ahandbookfortra02fordgoog` p. 571 = n120 (Lecky's vol. ii p. 271 is another edition); ch. III notes 49, 65).
-
-- 22 Nov (end): + mackay-progress-of-the-intellect (London: Chapman 1850, vol. II `progressofintell02mack`, p. 115 = n126 (page+11 here),
-  § 18 'Form of the mysteries'; vol. I = `progressofintell01mack`). Lecky's 'vol. ii. pp. 286-297' (ch. VI note 115) does NOT match: vol. II
-  pp. 286-297 = Hebrew future state, vol. I pp. 286-297 = Notion of God; the page says the p. 115 identification is ours. Gladiators/Etruscan
-  sentence not found. Wikipedia popups rebuilt the same day (see the popup note above).
-
-- 22 Nov ranking of works with NO source page (notes naming the author, all chapters): Concina 16, Sarpi 8, Milman 8, Anderson 7,
-  Riccoboni 7, Lamet & Fromageau 7, Renan 7, Naude 6, Lamennais 6, Grotius 6, Vitet 6, Storch 5, Troplong 5, Beausobre 5, M'Culloch 5,
-  Binsfeld 4, Strutt 4, Eusebius Vita Const. 4. NEW LEADS (archive.org, not yet opened): Concina 'In epistolam encyclicam Benedicti XIV
-  adversus usuram commentarius' 1746 = `10688672bsb` (Lecky's 'Adversus Usuram, Romae 1746') and 'De spectaculis theatralibus' 1752 =
-  `10526523bsb` (Lecky: published 1752) -- CLAUDE.md earlier said 'no Concina scan': wrong; 'Usura contractus trini' 1748 still not found.
-  Lamet & Fromageau: WRONG, the 1726 'Dictionnaire de cas de conscience' = PONTAS (see the evening note) `bub_gb_3DUtcaJz96wC` (also `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`;
-  Lecky used Paris 1733, so find art. Usure by headword) and Latin 'Dictionarium casuum conscientiae' 1773 = `bub_gb_HI23_vivcC8C`.
-  Sarpi: DONE 22 Nov evening from the 1675 Opere printing (the 1678 Risposta is a reply without Sarpi's text). Naude Apologie Paris 1625 (Lecky's ed.) = `apologiepovrtovs00naud`.
-  Binsfeld Treves 1591 complete Google copy = `bub_gb_sC0R5IOoPQ8C`. Storch Cours d'economie politique 1823 = `india.history.resource.35253`
-  (Lecky cites tom. v: check volume count). Renan Averroes 1852 = `in.ernet.dli.2015.292581`. Vitet Etudes: not found in a quick search.
-
-- 22 Nov (later): + concina-adversus-usuram-de-spectaculis (BOTH Lecky's editions; ALL his pages match). Adversus usuram, Rome 1746 =
-  `10688672bsb`, arabic page = image n - 43 (p. 2 = n45, p. 3 = n46, pp. 32-33 = n75-n76, pp. 112-113 = n155-n156), title n4, p. xiv = n21
-  (Lecky's 'p. 14' = p. xiv: the reprinted Vix pervenit). De spectaculis, Rome 1752 = `10526523bsb`, page = image n - 59 (p. 38 = n97,
-  42 = n101, 178 = n237, 283 = n342, 285 = n344, 293 = n352, 302 = n361), title n6, Benedict XIV letter of 1 Jan 1748 = n5, dedication
-  'hortante BENEDICTO XIV' p. xxii = n25; p. 257 ff. = appendix digest of Mariana De spectaculis; Diss. II (p. ~291) = against monks'
-  carnival theatricals. archive.org page labels in both scans are ONE TOO HIGH. Lecky's 28 councils / 6 general / 17 popes = his own count
-  of Concina's list (Nicaea and Lyon I unlabelled). OCR fixed from Lecky's page images: vol2-ch6 note 53 French (C'est là, l'art, prête à
-  l'usure, intérêt), note 56 'JBened' -> 'Bened', note 141 'manifesto' -> 'manifeste', note 149 'De Sped.' -> 'De Spect.'.
-  Usura contractus trini (1748; notes 48, 54, 55) still not found.
-
-- 22 Nov (evening): CORRECTION of the earlier lead: the 1726 'Dictionnaire de cas de conscience' scans (`bub_gb_3DUtcaJz96wC`,
-  `bub_gb_UDTOPPA_XsoC`, `bub_gb_idEipV4sFewC`) and the 1773 Latin `bub_gb_HI23_vivcC8C` / `bub_gb_cGBAOjITur4C` are all JEAN PONTAS, not
-  Lamet & Fromageau. Lamet & Fromageau 1733 French: not online (BSB has a 1740 Paris printing, listed on deutsche-digitale-bibliothek.de,
-  but DDB shows a bot wall and the MDZ search is JS-only). Built `lamet-fromageau-dictionnaire-des-cas-de-conscience.md` from the LATIN
-  translation, Venice: Bortoli 1753 (issued as a supplement to Pontas): tome I = `bub_gb_W_H_2JJ_XawC` (image = djvu object index; title n6,
-  Baptismus p. 56 = n71, Comoedia 1694 decision p. 210 = n235, Festin de Pierre case p. 211 = n236), tome II = `bub_gb_aLuWZwzySvQC`
-  (Usura case IV, 17 Apr 1677, p. 499 = n502). Both decisions match Lecky's French in substance and date; his French pages (tom. i pp. 208,
-  803) unverifiable. Notes linked: vol1-ch4 n1; vol2-ch6 n25, 28, 31, 33, 54, 139; OCR accents fixed in notes 28, 139 (read on Lecky
-  n295, n362); 's'exercise' is AS PRINTED (added to as-printed.md text list).
-
-- 22 Nov (evening): + naude-apologie (Paris: Targa 1625 = Lecky's ed., `apologiepovrtovs00naud`, image = page+31, title n8; ALL Lecky's
-  pages match: pp. 81-82 Toledo = n112-n113, 110-111 heresy axiom (Delrio/Maldonat) = n141-n142, 127 Bodin (+ James I verdict) = n158,
-  380-381 d'Abano (seven spirits, straw effigy) = n411-n412, inscription p. 387 = n418, ch. XV Agrippa pp. 400-429 = n431-n460).
-  OCR misreads page heads (127 -> '117'). vol1-ch1 notes 4, 63, 81, 86, 87, 92 linked.
-
-- 22 Nov (evening): + binsfeld-de-confessionibus-maleficorum (Trier: Bock 1591 = Lecky's ed., `bub_gb_sC0R5IOoPQ8C`, complete; title n4;
-  OFFSET VARIES and OCR page heads are wrong: p. 135 = n168, 151 = n184, 155 = n188; 314 = n344, 315 = n345; 464-467 = n494-n497).
-  All pages match: p. 155 eighth cause 'desolatio sive nimia tristitia' (vol1-ch1 n56; music half not on the page), p. 315 Scribonius
-  'Aqua sagas in se ferre non potest' + Binsfeld: a judge using the water test 'mortaliter peccat' (vol1-ch3 n3), pp. 464-467 Cyprian &
-  Justina in the appended Commentarius (vol1-ch1 n38). Note 76 (lycanthropy) not checked.
-
-- 22 Nov (evening): + sarpi-historia-dell-inquisizione (1675 Opere printing `bub_gb_Gmvz2lsPs20C`, image = page+13; title n2; note 11 passage
-  p. 79 = n92 (Lecky 'Pp. 89, 90'; Lecky 'della Maestà' vs 'dalla'); Milan 1242/Parma 1279 p. 47 = n60 (Lecky p. 60); Venice 1289 pp. 49-56
-  = n62-n69 (Lecky 48-57); Eunomius/Nestorius p. 186 = n199 (Lecky 192-193)). Lecky's Italian 1639 ed. not online (English 1639 is);
-  the 1678 'Risposta' `bub_gb_ZXSX6KuPuPwC` is a Catholic reply without Sarpi's text. vol2-ch5 notes 6, 7, 11, 14, 17 linked.
-
-- 22 Nov (evening): + storch-cours-deconomie-politique (St Petersburg 1815, 6 vols; tome III `coursdconomiep03storuoft` image = page+9:
-  p. 175 = n184 Starovertsis, pp. 187-188 = n196-n197 Louis XV 1766 / Catherine in LIVONIA 1786; tome V `coursdconomiep05storuoft`
-  p. 306 = n315 four causes, pp. 307-310 OCR). Lecky's tom. iii p. 403 (note 111, sham fights in Russia) does not exist in tome III (ends
-  <380); not found in tomes III-V. OCR fixed in notes 1 ('Poh't/que', Traité de Législation), 7, 59 ('Economic' -> 'Economie').
-
-- 22 Nov (evening): + milman-history-of-christianity (London 1840, 3 vols; vol. II `historyofchrist02milm`, vol. III `historyofchrist03milm`,
-  image = page+19 in both; vol. II pp. 372-375 Donatists (p. 375 = n394), 460-464 Eusebius vs toleration (p. 461 = n480, footnote Cod. Th.
-  XVI.10.2); vol2-ch4 notes 10, 14, 18, 21, 31 linked. Note 31's 'vol. iii. p. 60' does NOT match (p. 60 = Julian/Maximus; Priscillian p. 261 =
-  n280). Latin Christianity (ch. III n149, ch. V n37) not done.
-
-- 22 Nov (evening): + renan-averroes (1852 1st ed. `in.ernet.dli.2015.292581`, OCR is garbage (Bengali), images fine, image = page+20:
-  pp. 258-259 = n278-n279, Pietro d'Abano; matches Lecky ch. I n81; Renan 'faisant brûler ses os' vs Naudé's straw dummy; tomb 'Petri Aponi
-  cineres, ob. 1315, aet. 66'). 1869 ed. `averrosetlave00rena` has d'Abano at p. 326. vol1-ch1 n51, vol2-ch6 n80 linked work-level only.
-
-- 22 Nov (evening): + strutt-manners-and-customs (Horda Angel-cynnan vol. III 1776 `bim_eighteenth-century_porda-anzel-cynnan-or-_strutt-joseph_1776_3`,
-  image = page+3; images are HUGE (8792x11201: set PIL MAX_IMAGE_PIXELS=None); p. 46 = n49 rack after Foxe (ch. III n156), pp. 137-140 =
-  n140-n143 Coventry/N-Town play (ch. VI n119)). Sports and Pastimes (ch. III n131, ch. VI n111) cited without pages: not done.
-
-- 22 Nov (evening): + eusebius-vita-constantini (English tr. London 1845 `lifeconstantine00eusegoog`; II.44-45 pp. 88-89 = n112-n113 read on
-  images (translator's note 'That is, private sacrifices'); III.54 p. 158 = n182 and IV.23 = n216 OCR only). Lecky's 'lib. i. c. 16' (ch. I
-  n26) and 'lib. iii. caps. 5, 6' (ch. III n75) do not fit: II.45 and III.54 do. Greek not checked.
-
-- 22 Nov (evening): + grotius-de-jure-belli-ac-pacis (Whewell 1853 vol. I `hugonisgrotiide00barbgoog`: I.4.7 pp. 185-186 = n257-n258, Tertullian
-  Apol. 37 (printed 'Externi sumus'), Theban legion + footnote 'mera est fabula'; vol2-ch5 notes 29-30 linked). `hugonisgrotiide00whewgoog` is
-  vol. II. III.14 § 3 added from vol. III `dejurebellietpac03grotuoft` p. 256 = n265 (vol2-ch6 n5).
-
-- 23 Nov: + mcculloch-political-economy (Principles 4th ed. 1849 `4edprinciplesofp00mccuuoft`: Dublin foundlings p. 246 = n273 (pt I ch VIII),
-  Calvin pp. 566-567 = n593-n594 (pt III ch VIII; McCulloch cites Dugald Stewart); 3rd ed. 1843 `2principlesofpol00mccuuoft` also has both.
-  WN ed. McCulloch 1838 one vol. `inquiryintonatur00smit_2`: colliers note p. 172 = n239 (Lecky 'vol. ii. p. 186' = 1828 4-vol ed., vol. II
-  not online; vols I/III/IV = india.history.resource.15286-15288); Introd. Discourse 1663 repeal (OCR). vol2-ch6 n14, 20, 49, 168, 169 linked.
-
-- 23 Nov: + vitet-etudes-sur-lhistoire-de-lart (vol. I Paris 1864 `etudessurlhisto00vitegoog`, image = page+32: p. 94 = n126 consulate
-  1630-1640; p. 245 = n277 asceticism-or-barbarians question; pp. 268-279 = n300-n311 'Fin de la décadence' blames BARBARIANS (p. 272 = n304,
-  p. 277 = n309): Lecky's ch. III n59 'imitated from the emaciation of extreme asceticism' is not Vitet's conclusion). Other vols: BnF 1867
-  printings `bnf-bpt6k...`, `etudessurlhistoi02vite` (1868 vol. 2). Container restart 23 Nov wiped pip packages and the scratchpad:
-  `pip install -r requirements.txt` before building.
-
-- 23 Nov: + `content/rationalism/lecky-and-his-sources.md` ("Lecky and his sources: where the footnotes and the books disagree"), linked from
-  the Rationalism index above As printed. Sections: the source says something else; right words, wrong speaker; stronger than the source;
-  dates, figures and names; wrong chapter/page. Every entry links Lecky's note (#fnN) and the source-page section; all 79 links checked.
-  ADD NEW FINDS THERE when a source page records a substantive disagreement (not mere edition mismatches). Anderson 1801 4-vol ed. =
-  `anhistoricaland00andegoog`/`01`/`02` (looks like a reissue of 1787-89; not checked against Lecky).
-
-- 23 Nov: + riccoboni-histoire-du-theatre-italien (see the corrected Hogarth/Riccoboni note above). vol2-ch6 notes 112, 123, 129, 130, 132, 133 linked; OCR fixed from Lecky's page (n347, n356): note 112 'l'an 1500 jusqu'à l'an 1660', note 130 'Ruccellai', note 133 'Bachetone'. Scratchpad lzoom.py crops Lecky vol. II lines (needs lk/v2.xml).
-
-- 23 Nov: Hallam Lit. of Europe 1854 vol. I = `introductiontoli01hall` (image = page+33 near p. 554; p. 216 = n249) MATCHES Lecky's 'vol. i.'
-  pages: 216 Patelin, 554 footnote 'circumstances of aggravation', 557 Castalio/Bellius, 558 Aconcio, 559 'simple proposition' (n592; names
-  Koornhert). New section #castalio-1854 on hallam-literature-and-constitutional-history.md; vol2-ch4 n64, 66, 73 and vol2-ch6 n125 linked.
-  1854 vol. III (Lecky's vol. iii pp. 289, 358-362, 439) not yet found; 1854 Const. Hist. candidates `constitutionalh05hallgoog` (1854),
-  1827 Const. Hist. vol. 1 = `hallamconstitutionalhistoryofengland01` (Lecky ch. III n156 'ed. 1827, vol. i. p. 159'), not checked.
-
-- 23 Nov (run 2): Buckle vol. II = London: Parker 1861, `india.history.resource.74598` (DLI; image = page+35): pp. 189-190 = n224-n225
-  (Hume's Commentaries: no trial 'proceeds upon the notion of a vain or cheating art'; Lecky's 'no cases of imposture detected' is stronger),
-  p. 231 = n266 (1560 mass law; the Act also allows bodily punishment for the first offence), pp. 349-369 = n384-n404 (Welsh's curse, Devil
-  'studying for more than five thousand years', p. 368 = n403). All Lecky's Buckle notes now checked. + troplong-du-pret (Du prêt, Paris:
-  Hingray 1845, `duprts00trop`, preface page = image n - 7: p. i mottoes = n8, Nicaea canon in Saumaise's Latin p. lxxix = n86, Constantine
-  12% a month before p. lxxx = n87, St Louis 'Dimittant usuras, aut exeant' p. cxvii = n124, Carthage 'insinué' p. cvi (OCR); vol2-ch6 notes
-  26, 31, 54, 70 linked; note 26 OCR 'divinas Scripturae' -> 'divinæ Scripturæ' (read on Lecky n294)). Troplong's Influence du christianisme
-  (note 7) = `delinfluenceduc00tropgoog` (1843) etc., not done. Never put `cat` with no file in a shell chain: it waits on stdin and hangs.
-
-- 23 Nov (run 2, later): Maury La magie (BSG scan, image = page+11): + ch. IV pp. 79, 81 = n90, n92 (#emperors-monopoly-79; ch. I notes 15-16),
-  p. 189 = n200 (#dusii-189, Dusii/'Deuce'; ch. I note 21). Légendes pieuses (image = page+39) now ALL Lecky's pages done: pp. 125-127 = n164-n166
-  (#souls-125, Adhémar's half-shaved beard; ch. III n168), p. 136 = n175 (#devil-136; ch. I n52), pp. 179-180 = n218-n219 (#ear-179; ch. III n30),
-  pp. 239-242 = n278-n281 (#god-or-magic-239; ch. II n3). CORRECTION: Croyances et légendes de l'antiquité 1863 IS online = `croyancesetlge00maur`
-  (image = page+7; its _page_numbers.json is 2 out): new page maury-croyances-et-legendes (pp. 267-268 = n274-n275 pious frauds, ch. IV n37;
-  p. 338 = n345 Helena/Ennoia, ch. III n23; p. 340 = n347 Prounikos 'lascif', ch. III n25). Lecky vol. I p. 232 (n261) prints 'Verbum a tris' (a
-  dropped 'p'; Maury has 'patris'), on as-printed.md. Anderson 1801 4-vol: `anhistoricaland02andegoog` = vol. II, `...00andegoog` = vol. IV;
-  vol. II starts too late for Lecky's 'vol. ii. p. 36' (bells c. 400); not matched, dropped. Image-crop tip: the Read tool shows thumbnails at a
-  scale that misleads eye estimates by ~10%; probe a strip first or use gspan.py with the XML.
-
-- Hallam Lit. of Europe vol. III candidates for Lecky's 'vol. iii' (3-vol printings): `introductiontol32hallgoog` (1855), `introductionlite03hall` (1872), also 1860/1864 goog scans; a keyword grep for 'Glanvil'/'Scepsis' found nothing in the first two (OCR may spell it otherwise). Unfinished.
-
-- 24 Nov: HALLAM SOLVED. Lecky's Lit. of Europe = the 3-vol 3rd ed. (Murray 1847; 1854 reprint presumably same pages): vol. II =
-  `introductiontol40hallgoog` (p. 68 = n85, Bodin, ch. I n86; Lecky prints 'two men ... with him' for 'Two names ... with his'), vol. III =
-  `introductiontol48hallgoog` (image = page+19: p. 289 = n308 Dutch clergy/Jurieu, vol2-ch4 n55; p. 358 = n377 Glanvil, ch. I n118; p. 439 = n458
-  Filmer/Overall, vol2-ch5 n96; title n8); 1854 vol. I = `introductiontoli01hall`. Const. Hist.: 1854 7th ed. only vol. III online
-  (`constitutionalh05hallgoog`); used the 1855 8th ed. (`constitutionalhi01halliala` p. 416 = n435 Knight 1622, vol2-ch5 n88 'p. 415';
-  `constitutionalhi02halliala` p. 466 = n479 Oxford decree 1683, burned 1709, vol2-ch5 n91 'pp. 459-465'). Lecky's 'soon afterwards' for the
-  1709 burning is on lecky-and-his-sources.md. Hallam notes still unchecked: vol2-ch4 n45-46 (Const. Hist., no pages), n61, vol2-ch5 n33, n78, vol2-ch6 n136 (no pages).
-
-- 24 Nov: MICHELET 1862 first ed. `lasorcire00mich` page images NOW LOAD (earlier they returned HTML): image = page+33 (p. x = n17, Introd.
-  xvi = n23), title n10. ALL Lecky's pages match: 'p. 10' = p. x (Trèves 7000, Würzburg 800, Bamberg 1500), p. 206 = n239 (Geneva 500 in 3 months
-  1515; Bamberg 600, Würzburg 900), p. 36 note = n69 (old gods as dolls; 'En 1389', OCR misreads 1589), p. 415 = n448. Lecky's 'Bamberg 600 /
-  Würzburg 800 in a single year' mixes the two counts (on lecky-and-his-sources.md). Notes 55 and ch. III 133 (no pages) not identified.
-  Crop with gspan.py + the item's _djvu.xml: eye estimates from the Read tool's thumbnails are unreliable.
-
-- 24 Nov: GARINET (1818 `histoiredelamagi00gari`, image = page+57 from p. 6 to p. 328; XML word crops work): + #salic-6 (pp. 6-7 = n63-n64,
-  ch. I n76), #agrippa-dog (pp. 121-122 = n178-n179, ch. I n87: Garinet calls it a lie and it is a COLLAR off the dog's neck), #bordeaux-1718
-  (p. 256 = n313, n80), #ventriloquists-280 (n337, n100), #boguet-code (p. 302 = n359, n80), #mazarin-1643 (p. 328 = n385, n98: letter dated
-  21 Sept 1643, Lecky 1642). Both errors on lecky-and-his-sources.md. pp. 14-15, 35, 39, 45 are DONE too (sections fredegonde-14,
-  sylphs-35, charlemagne-39, agobard-45); p. 75 is missing from the scan (n54).
-
-- 24 Nov (OCR, ch. VI notes, all read on Lecky's vol. II images with scratchpad lzoom.py/gspan.py on lk/v2.xml): French restored in notes
-  30 (Turgot), 38 (Bossuet + Latin 'inde sperantes' for 'hide sperantea'), 39 (Montesquieu, Turgot), 74 (Rios, n318-n319), 114 (Bossuet), 143
-  (Lebrun, 'Rosimond'), 188 (Mme de Stael: Lecky prints 'Stael', an earlier edit had 'Staël', reverted); titles fixed in notes 9, 10, 15, 50ff
-  (Say 'Traité d'Economie', Villeneuve Bargemont, Perin 'Sociétés Chrétiennes', Magnin/Lebrun 'Théâtre', 'Réflexions sur la Comédie',
-  Sabatier 'Législation', Pecchio 'Economia Publica', Charles 'Comédie ... Seizième Siècle', Desprez 'Lettres sur les'), 96, 159, 171.
-  AS PRINTED: 'Letters sur les Spectacles' (n149), 'Littêrature du Midi' (n130), Rios 'cette horrible carnage', 'au merveilleux résultats'.
-  A detector over all notes (unaccented French words outside translations) now finds nothing in ch. VI. Latin notes 25-27, 36, 46, 49, 57, 70
-  still only grammar-checked.
-
-- 24 Nov (late): + wier-de-praestigiis-daemonum (Basel: Oporinus 1568 `bub_gb_TgQ6AAAAcAAJ`, BSB copy: dedication n6, canon 61 of Trullo
-  'qui ursas ... ad lusum & perniciem simpliciorum' p. 578 = n581; ch. I n74, Lecky 'p. 557' NOT matched: `bub_gb_rggcGAxZ9asC` p. 557 = n561
-  (Jovial hammers; canon ~p. 566), 1583 `per_witchcraft-in-europe-and-america_wier-johann_1583` is in COLUMNS (cols. 557-558 = n284, book V;
-  cols. 611-612 = n311). Try the 1563/1564/1566 printings or the 1660 Opera next.) + bodin #f107-priests (f. 107 = n240; numbered side is the
-  'Livre second' page) and #f108v-cochemares (n243), ch. I n21. + dalyell #fire-matches-657 (n673), #accused-1662 (n685). + blanqui #ch20 (p. 244 =
-  n275), #ch21 (p. 271 = n302): Lecky's ranges = Blanqui's chapters XX and XXI. + champagny-charite-chretienne (Paris: Douniol 1854,
-  `lacharitechreti00chamgoog`, image = page+19, 'Défense du travail' pp. 275-289, Augustine De opere monachorum p. 279 = n298, title n12).
-
-- 24 Nov (translations): the Oct translation sweep had MISSED 44 quotations (mostly OCR'd French without accents, and second quotations
-  in notes that already had one translation). All now have span.foreign + span.translation.editorial pairs: vol. I ch. I notes 74, 76, 80, 86,
-  93, 97, 104; ch. III 22, 30, 101 (Index decree of 1616), 110, 120, 135, 153, 173, 176; ch. IV 12 (Pascal), 22 (Jubinal), 45; vol. II ch. IV
-  62, 63, 79, 81; ch. V 28, 60, 117, 131; ch. VI 27, 30, 38, 39, 56, 64, 74, 114, 143, 177, 188. Detector (scratchpad-free; rerun after edits):
-  quoted runs >= 10 words with >= 4 French/Latin/Italian function words and <= 1 English one, outside existing foreign+translation pairs:
-  now finds nothing. Smart-quote pitfall: a straight ' right after a closing tag (e.g. '...*italic*') renders as &lsquo;; type ’ instead.
-
-- 24 Nov (end): Garinet pp. 74-75 are MISSING from `histoiredelamagi00gari` (heads jump 73 -> 76 at n132-n133), so ch. I note 54 cannot be
-  checked there. Hutchinson's 'catalogue' of works (ch. I note 133) not located in the 1720 OCR (the 'Catalogue of the Principles' at ~p. 75
-  is something else). ENGLISH toggle: translations render collapsed behind an 'English' chip (site design).
-
-- 24-26 Nov (coverage push for ch. II and vol. II ch. V, the two least-linked chapters): new pages, all read on page images:
-  de-thou-histoire-universelle (1734 French tr. tome X `histoireuniverse10thou`, pp. 679-680 = n702-n703, image = djvu - 1; Sixtus V puts Clément
-  'fort au-dessus de Judith'; vol2-ch5 n70), carena-de-officio-inquisitionis (Lyon 1649 `bub_gb_2L77vSEY9TQC`, Part II Tit. VI pp. 135-161 = Lecky's
-  pages, page = image - 35; n12), camden-annals-of-elizabeth (English 1688 `bim_early-english-books-1641-1700_the-history-of-the-most-_camden-william_1688`,
-  pp. 154-155 = n171-n172; 'not without Indignation'; n84), muzzarelli-dell-inquisizione (Il buon uso della logica vol. IV, Milan 1840
-  `bub_gb_NP7rEYRE7JAC`, pp. 43-44 = n44-n45; ch. II n7), farmer-dissertation-on-miracles (1771 `adissertationon02farmgoog`, Preface p. i = n13;
-  ch. II n13), newman-essay-ecclesiastical-miracles (Oxford Fleury 1842 vol. I `ecclesiasticalh01fleu`, p. xv = n18; ch. II n16),
-  rose-state-of-protestantism-in-germany (1829 `a606734800roseuoft`, pp. 183-190 = n220-n227 = Lecky's; ch. II n21), mansel-aids-to-faith
-  (Aids to Faith 1861 `a609561000thomuoft`, page = image - 11: Mansel pp. 19-20, 30, Fitzgerald p. 43; title n6; ch. II n22-23), mariana-de-rege
-  #clement (Mainz 1605 Caput VI p. 51 = n81, Clément p. 54 = n84; 'aeternum Galliae decus' absent; vol2-ch5 n49-50 and continuation notes 48, 51, 54,
-  58, 59), hooker-ecclesiastical-polity + #one-mans-will (Works 1820 vol. I `worksofthatle01hook` p. 245 = n256) + #body-politic (vol. III
-  `worksofthatlearn320hook` p. 306 = n311; Lecky prints 'by any fresh means' (checked on his p. 201 = n216), 1820 text 'just means'; vol2-ch5 n92, n94),
-  froude-nemesis-of-faith (Chapman 1849 `nemesisoffaith00frou`, pp. 160-161 = n167-n168 = Lecky's; n121), blanco-white-life (1845 vol. I
-  `lifeofjosephblan01whit`, p. 310 = n337, page = image - 27; Southey letter 19 Nov 1817; portrait n7; n23), joyce-englands-sacred-synods
-  (Rivingtons 1855 `englandssacredsy00joyc`, p. 449 = n460; Lecky's Fuller/Herbert/Coke sentence is Joyce's; n24), michelet-louis-xiv (Paris:
-  Chamerot 1860 `bub_gb_U71JAAAAcAAJ`, p. 432 = n455, image = djvu object number; title n8; n107), chevalier-lettres-sur-lorganisation-du-travail
-  (Brussels: Meline, Cans 1850 `bub_gb_IQrPvFdalQEC`, p. 17 = n24 = Lecky's page; Paris 1848 `lettressurlorgan00chevuoft` has it at pp. 26-27;
-  n126; Lecky prints 'l'Organisation de Travail', OCR 'V' fixed), fusil-souvenirs-dune-actrice (Ginisty ed. `souvenirsduneact00fusiuoft`, p. 95 =
-  n104; Lecky's pp. 27-54 = 1841 Dumont ed., not online; Lecky prints 'Saint-Hubert'; n138). mignet-antonio-perez (2nd ed. Paris 1846 `antonioperezetp00migngoog`, p. 234 = n263, image = djvu - 1; Spanish censure 'heresi Vadianorum' rendered 'Vaudois' by Mignet; n8; 1845 1st ed. = `antonioperezetp01auggoog`). Also earlier: gioja (Catteau footnote), vindiciae,
-  elrington-life-of-ussher, augustine-letters-on-coercion. Coverage after this push: ch. II 22/25 linked (the other three are Strauss, a dead end, and two notes with no citation).
-  Dead ends: Hotman Franco-Gallia lib. i c. 9 (chapter numbering differs across editions; n109); Charron La Sagesse 'p. iii' (n134; 1613 Paris
-  `delasagessetro00char` has 'La Tyrannie & rébellion' at p. 565, OCR too poor; Lecky's edition unknown); Avis aux réfugiez 1692; Strauss (ch. II n17).
-  26 Nov (1-hour run, same push): + michelet-louis-xiv #crusade (p. 203 = n228; n5), chevalier (above), fusil (above), mignet (above),
-  sleidan-history-of-the-reformation (English tr. London 1689 EEBO `bim_early-english-books-1641-1700_the-general-history-of-t_sleidan-john_1689`,
-  Book II pp. 29-30 = n47-n48, image = djvu object; Lecky's 'Phefercorne' is this translation's spelling; n19), mably-observations-sur-lhistoire-de-france
-  (Guizot ed. Paris: Brière 1823 tome II `bub_gb_ZbaATpC0OToC`, liv. IV ch. V pp. 68-69 = n77-n78, title n8; prints 'Urbain VIII'; n3),
-  chasles-la-comedie-en-france (Lecky's 'Charles' = Émile Chasles; Didier 1862 `lacomdieenfranc00chasgoog`, p. 31 = n45, image = djvu - 1; n63),
-  giannone-istoria-civile-del-regno-di-napoli (Milan: Bettoni 1821 vol. I `istoriacivilede01gian`, lib. III cap. VI p. 478 = n493; n18),
-  mariana-de-rege #constance (1605 p. 62 = n92; n62; Lecky's p. 79 = 1599 ed.), allen-royal-prerogative (1849 new ed. `inquiryintoriseg00alle`,
-  pp. 84-85 = n183-n184; Lecky's p. 89 = 1830 ed.; declaration survived in the Corporation Act to 5 Geo. I; n90), tallemant-des-reaux-historiettes
-  (Lecky's 1834 ed. tome I `bub_gb_vHGyR7LTyygC`, pp. 395-396 = n402-n403; Richelieu and the Servitude volontaire; n125), toland-anglia-libera
-  (1701 ECCO `bim_eighteenth-century_anglia-libera_toland-john_1701`, p. 185 = n190; n104), locke-two-treatises #cannot-transfer (1821 London
-  `twotreatisesofg00lockuoft`, pp. 311-312 = n330-n331; n101-102), rousseau-contrat-social-iv-8 #english-people (III.15, 1903 ed. p. 262 = n265;
-  n140; page retitled 'Du contrat social'), montaigne-essais-ii-12 #contre-un (Courbet-Royer vol. 2 `19essaispublis02montuoft`, I.28 p. 83 = n96;
-  n124). Work-level links added: n33 (Hallam MA, Bossuet Defensio, Bianchi, Giannone), n73, n77 (Bossuet), n74 (Bianchi, Bossuet), n78 (Hallam Lit.).
-  + lamennais-affaires-de-rome (Brussels: Hauman, Cattoir 1837 `a589606400lameuoft`, memorial after p. 44 = n47 to ~p. 104; Lecky's pp. 37-89 = another
-  printing; n20, n71 work-level). Earlier CLAUDE.md note said no Lamennais match: the memorial IS there, only the pagination differs.
-  + noodt-du-pouvoir-des-souverains (Amsterdam 1714 2nd ed. `dupouvoirdessouv00nood`, John Adams's copy; frontispiece n9, title n10; n120),
-  ducellier-histoire-des-classes-laborieuses (`histoiredesclas00duce`, catalogued 1860: p. 87 = n104, p. 127 = n144 = Lecky's pages; prints 'Caen en 1142'; n2).
-  + discours-par-un-ministre-patriote (1788 copy `discourslireauco00bonn`, p. 17 = n14 (image = djvu - 1); catalogue lists Bonnaud, Lenfant, Proyart; Lecky
-  'Abbé de L'Enfert'; n132).
-  OCR fixed from Lecky's page: n18 '1st.' -> 'Ist.', n69 'sen' -> 'seu', text at n124 "the' Contre-un '" -> 'the ‘Contre-un’'.
-  Gutenberg was down for maintenance on 26 Nov (returns a 913-byte HTML page). vol2-ch5 now 115/140.
-  Still unlinked in vol2-ch5 with real citations: n4/32/106/135 Avis aux réfugiez (not online), n20 Lacordaire
-  memorial, n69/80 Kellerus Tyrannicidium (only a German 1611 tr. online, `10521040bsb`), n71 Lamennais, n85 Robert Hall, n95 Sydney, n109 Hotman,
-  n120 Noodt/Gronovius, n134 Charron. Gutenberg and Wikisource sometimes refuse this machine (rate limits); Aristotle's own shuttle/plectrum wording
-  (Politics I) not checked.
-
-- 26 Nov evening (vol. II ch. IV push, 51 -> 84/100 linked): new pages, all read on page images: milton-of-true-religion (1673 EEBO
-  `bim_early-english-books-1641-1700_of-true-religion-_milton-john_1673`, pp. 10-11 = n9-n10; n91-92), lactantius-divine-institutes (PL 6
-  `..._1844_6`, V.20 cols. 613-616 = n308-n309, image = djvu object; n11), hilary-contra-auxentium (PL 10 `..._1845_10`, § 4 cols. 611-612 =
-  n307; n9), cyprian-epistle-62 (PL 4 `..._1844_4`, Ep. LXII cols. 369-372 = n186-n187; Lecky's 'lib. i. ep. 11'; his English drops
-  'spiritali gladio'; n26), chillingworth-religion-of-protestants (Works 1742 ECCO `bim_eighteenth-century_the-works-of-william-chi_chillingworth-william_1742`,
-  p. 44 = n51 = Lecky's ed. and page; n84, n93), temple-observations-united-provinces (1673 EEBO `..._temple-sir-william_1673`, ch. V pp. 174-176 =
-  n207-n209; n54), zosimus-new-history (English tr. London 1814 `TheHistoryOfCountZosimus`, image = page - 1: p. 110 = n109, pp. 115-116 =
-  n114-n115; n16, n22). Sections added: bayle-commentaire #terre-australe (vol. 1 pp. 76-77 = n177-n178, Part I ch. V; Lecky prints 'de
-  instructions'; n79), taylor #church-of-rome (1836 Section XX p. 359 = n400; Lecky's 'Sec. 22' does not fit this edition's sections; n94),
-  lamennais #mirari-vos (Brussels 1837 pp. 376-379 = n379-n382, Latin + facing French; Lecky's English adds 'which the populace relish'; n82),
-  tertullian-apologeticum #apol-24 (PL 1 cols. 417-418 = n226, image = djvu object here; n8), harrington #aphorisms-23-24 (Works 1771 p. 484 =
-  n537; n87), montaigne #castalio (Courbet-Royer vol. 2 I.35 p. 160 = n173; n71). Work-level links: n20 (Beugnot), n23 (Codex XVI.10), n45
-  (Hallam), n65 (Beza, Coleridge), n83, n89 (Areopagitica). OCR fixed: n65 'De Ilcereticis' -> 'De Hæreticis' (read on Lecky's page).
-  Dead end: Jurieu, Des droits des deux souverains (n62-63) not on archive.org. Gutenberg down for maintenance on 26 Nov.
-  Still unlinked in vol2-ch4 with citations: n2 Parnell, n3 Clogy's Bedell, n19 Libanius (Latin), n24 Libanius Pro Templis, n29 Augustine
-  (Epist. 158-160, 105/166, Contra Gaudentium I.19, Contra Parmenianum I.8), n32 Trautmansdorff, n38 Sarpi Council of Trent, n53 Bancroft,
-  n58, n62-63 Jurieu, n70 (n3, n4, n38, n72, n97, n98 DONE later the same evening, below).
-  Later 26 Nov: + annuaire-des-deux-mondes-1858 (vol. VIII `annuairedesdeuxm08pariuoft`, p. 463 = n470; six Swedish women exiled; n98 OCR 'Monties'
-  -> 'Mondes'), sarpi-history-of-the-council-of-trent (Brent tr. 1676 EEBO `bim_early-english-books-1641-1700_the-history-of-the-counc_sarpi-paolo_1676`,
-  Book V p. 387 = n512 (image = object number): 50,000 in the Low Countries from Charles's first edict to the 1559 peace; n38 'Hist,' -> 'Hist.'),
-  beza-life-of-calvin (Calvin Translation Society Tracts vol. I 1844 `tractsrelatingto01calv`, pp. lxv-lxvi = n70-n71, image = object - 1;
-  Castellio and Socinus 'chief abettors', NOT 'the only men': on lecky-and-his-sources.md; Latin Vita not checked), clogy-life-of-bedell
-  (1862 `memoirlifeandep00cloggoog`, p. 183 = n200 'liberty without interruption', p. 212 = n229 Gunpowder-day sermon on Ps. 124, footnote
-  '5 Nov. 1641'; `memoiroflifeepis02clog` is MISLABELLED (Orme's Baxter); n3), proast-letters-concerning-toleration (EEBO 1690 title n0,
-  imprimatur n1 'Printed at the Theatre'; 1691 Third Letter title n2; n97), lecky-leaders-of-public-opinion-1861 (Lecky's own anonymous
-  first book, `leaderspublicop05leckgoog`, title n5, contents n7; n4). Augustine Ep. 105 (#ep105-nebuchadnezzar, PL 33 cols. 398-399 =
-  n198-n199) for n29. OCR fixed: n44 'De Reins Ilispanicis' -> 'De Rebus Hispanicis' (read on Lecky n56). Dead end: Mariana Historiae de
-  rebus Hispaniae lib. XXIV c. 17 (n44, 17,000 recantations): Mainz 1605 `bub_gb_5AyqSyLCJ4kC` OCR too poor (long s as f) to locate it;
-  try its _djvu.xml or the Spanish Historia general. Still unlinked with a citation: n2 Parnell, n19/24 Libanius, n32 Trautmansdorff
-  (and Limborch 1692 pp. 365-372), n44 Mariana, n53 Bancroft, n61 Hallam, n62-63 Jurieu. + henry-life-of-calvin (Stebbing tr. 1849 vol. II
-  `lifetimesofjohnc02henr`, p. 236 = n249, image = object - 1; Lecky's pp. 232-242 MATCH this edition's running heads; 'placet mihi Luthero';
-  n58, n70 work-level). Lecky prints 'Wittenburg' (n58, as printed).
-  + bancroft-history-of-the-united-states (1846 vol. I `historyofuniteds01bancuoft`, image = djvu object - 5: p. 455 = n484 (Sarpi 50,000 +
-  Grotius 100,000 with Italian/Latin footnote = the source of Lecky's n38 pair, inference; on lecky-and-his-sources.md), pp. 453-454 Quakers
-  banished on pain of death (OCR only); n53, n38). + limborch-historia-inquisitionis (Amsterdam 1692 = Lecky's ed., Cornell scan
-  `per_witchcraft-in-europe-and-america_historia-inquisitionis_limborch-philippus_1692_1_578`, p. 367 = n384; Innocent VIII 'Dilectus filius', six days;
-  n32; pp. 365-366, 372 unread; part _2_578 = the Toulouse Liber sententiarum). Grotius Annales p. 12 ed. 1678 'Carnificata hominum non minus centum millia' NOT checked.
-
-## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
-
-- build.py builds, from the footnote links (`NOTE_REFS`: (chapter stem, note) -> source slugs) and `REFMETA` (title, plain-English
-  subtitle, first sentence of the abstract, thumbnail), these generated blocks:
-  - 'Further down the rabbit hole' at the foot of every source page: up to 6 other sources cited within 4 notes of the notes citing
-    this page (score 1/(1+distance)), padded with same-chapter sources. Shown as picture cards (`ul.rh-cards`).
-  - 'Where next' at the end of each chapter: the next chapter with its word count and reading time (250 wpm, main text only), and
-    the chapter's 6 most-cited sources as cards.
-  - `docs/assets/js/sources.js` (list of all source pages) for the Random nav link and every `a.random-source` (assets/js/random.js).
-  - HTML-comment placeholders: `<!-- SOURCE-GALLERY -->` (old-books.md, all pages with a picture), `<!-- SOURCES-BY-CHAPTER -->`
-    (ref/index.md, per-chapter lists, most-cited first), `<!-- SOURCE-COUNT -->`, `<!-- GALLERY-COUNT -->` (anywhere, incl. front matter).
-- Thumbnails: `python3 tools/make_thumbs.py` after adding a source page with a picture (360x240 crop of the first `figure.title-page`,
-  else the first `figure.facsimile`, into assets/img/ref/thumbs/). Pages without one show a blackletter initial.
-- `content/curiosities.md` ('A Cabinet of Curiosities', 52 items in 6 sections): each item is 1-3 sentences, CHECKED against the source
-  page's transcribed passage (not just its abstract), ending with `<a class="popup-ref" href="ref/<slug>.html#<section-id>">Author →</a>`.
-  Add items when a new source page has a good nugget. The home page shows 3 random items from it (assets/js/curio.js fetches
-  curiosities.html; the 3 static items in index.md are the fallback) with a 'Three more' button. popups.js exposes
-  `window.leckyBindPopups(root)` for content added after load.
-- Home page: 'Start here' cards (`.start-here a.start-card`), the curiosity box, status. Sources index: filter box (assets/js/filter.js),
-  'Browse by chapter', link to the Old Books gallery.
-- More build placeholders: `<!-- NEW-SOURCES -->` (6 newest source pages by git creation date), `<!-- READTIME:<stem> -->`,
-  `<!-- LINKED-NOTES -->`. Link previews: build.py `SITE_URL` (change it if the site moves to readlecky.com/.org), og:image = the page's
-  title page or first figure, else DEFAULT_SHARE_IMAGE (Grillandi 1545 woodcut title). Favicon assets/img/favicon.svg.
-- Continue reading (assets/js/progress.js): chapter pages save {page, section, fraction} in localStorage key `lecky-reading-place`;
-  home and Rationalism contents show 'Continue reading … (N% through)'; the link adds `#resume`, which scrolls to the saved place.
-
-- 24 Nov (afternoon run, engagement + sources): pictures. Title pages located WITHOUT viewing many leaves: `<id>_scandata.xml`, the
-  `<pageType>Title</pageType>` leaf among leaves with addToAccessFormats != false gives the image index (Google `bub_gb_` scans often
-  mark n0 wrongly; BSB scans may mark a chapter opening). Fetch candidates, paste them into ONE contact sheet (PIL) and view once. 47 title
-  pages added this way; 141+ of 172 source pages now have a picture. Migne two-column pages: scratchpad `gbox.py` crops the bounding box of
-  the words between two regexes (column-safe); when a passage runs across columns, crop each column by coordinates. Large XML (PL vols
-  50-60 MB): download a byte RANGE around the object (`curl -r`), split on `<OBJECT`, and read `usemap="...NNNN.djvu"` for the image number.
-  New source pages: newman-apologia (App. p. 77 on lying; Lecky's italics on 'zeal for God's honour'), newman-anglican-difficulties (2nd ed.
-  1850, Lecture III p. 57; Lecky p. 54 = other printing), burney-general-history-of-music (1782 vol. II pp. 65-66 `10527086bsb` n72-n73:
-  Julian's epigram = an organ for Burney; Lecky's 'bagpipe'), mccrie-life-of-knox (Philadelphia 1845 p. 221 = n230; Lecky's 1840 ed. not
-  online), socrates-ecclesiastical-history (Bohn `ecclesiasticalhi00socruoft`: IV.23 Ammon p. 236 = n259; IV.16 p. 229 = n252),
-  jerome-vita-pauli (PL 23 cols. 25-28 = n14-n15), guizot-histoire-de-la-civilisation (Lecon XVII pp. 31-32 = n44-n45, April count 1,472),
-  montalembert-le-pere-lacordaire (2nd ed. 1862 pp. 75-76 = n84-n85), gregory-dialogues (1608 English ed. 1911 `dialoguesofsaint00greg`
-  n56-n57, lettuce). Sections added: knox-appellation pp. 500 (n511), 515 (n526) for vol2-ch4 n59; tertullian-de-spectaculis ch. 26 (PL 1
-  cols. 657-658 = n346; ch. I n23). Corrections found on title pages: Laing's scan is the 1842 first ed.; Friedberg's is the 1955 Graz reprint.
-  Still unlinked in ch. II: notes 7 (Muzarelli), 13 (Farmer), 16, 17 (Strauss, not found), 21 (Rose), 22-23 (Aids to Faith), 25.
-  Also: cudworth-true-intellectual-system #psellus-bodies (1743 vol. II p. 702 = n75; ch. I n48). Dead ends (24 Nov): Melanchthon De anima
-  p. 420 (ch. III n173; no scan found by title search); Stewart's Dissertation p. 57 (ch. I n62, Erasmus a believer in witchcraft): NOT in
-  the 1824 printing `dissertationfirs01stewuoft` (its witchcraft passages are on Bodin, More, Glanvill); the 1854 Works vol. I
-  `india.history.resource.53470` has no text file. Site-wide internal link check (all href + #anchors in docs/) found 1 broken link
-  (fixed); rerun it after big edits (script idea: collect ids per file, resolve each relative href).
-  Evening (after a worker restart): + voltaire-lettres-philosophiques-xiv (Lanson 2nd ed. 1917 tome II `lettresphilosoph02volt` n11; vol2-ch4
-  n56; OCR fixed in that note: Philosophiques, Philosofia, tom.), gioja-filosofia-della-statistica (Milan 1826 tome II `bub_gb_B-ee08UGjeoC`
-  p. 389 = n390 = Lecky's page; Linnaeus and Queen Ulrika Eleonora; Gioja cites Catteau, Voyage en Allemagne et en Suede t. III p. 8,
-  unchecked), vindiciae-contra-tyrannos (Lecky's 1610 ed. `bub_gb_0b1A20d2RvMC`: p. 38 = n57, 39 = n58, 60 = n92, 79 = n112, pp. 40-51
-  scanned TWICE, inner margins cut; text read in 1608 `vindiciaecontrat00lang_0` p. 32 = n47; notes 112-116, only 113 checked),
-  elrington-life-of-ussher (Ussher Works vol. I Dublin 1847 `wholeworksofmost0001char`, alternate junk leaves, so no fixed offset: p. 73 =
-  n160, p. 239 = n492, title n4; vol2-ch4 n47, vol2-ch5 n89), augustine-letters-on-coercion (PL 33 `..._1845_33`, 44 MB XML: range-fetch;
-  Ep. 93 § 17 cols. 329-330 = n164, Ep. 185 § 19 col. 801 = n400, cogite intrare § 24 col. 804 = n401 not read). Dead end: Avis aux
-  refugiez 1692 (vol2-ch5 n4, 32, 106) not on archive.org (only the 1691 reply `bub_gb_L5sCXJvFr98C`).
-
-## Readability layer (headings, synopses, figures)
-
-All seven chapters of Rationalism have it (Oct 2026). Specs used to insert it were scratchpad-only (apply.py: H/H3/F/Fb by original line number). Conventions:
-- `## Heading {: #id }` sections are editorial. Under each, `<p class="section-argument">` holds the matching words of
-  Lecky's own analytical contents (vol. I OCR lines ~656-890 of `rationalismeuro01leckuoft_djvu.txt`), verbatim with OCR fixed.
-  The abstract's `p.editorial-note` says so. Never split or reword Lecky's paragraphs.
-- `fleuron: true` in front matter adds the 1865 printer's ornament (redrawn as `templates/fleuron.svg`, from vol. I p. 1 = image n30) above the
-  first paragraph and as a tailpiece before the notes (build.py). The 1865 edition has NO drop caps (plain capital + small caps);
-  the drop caps are this edition's gwern-style choice: gwern.net's own initial fonts (one file per letter, `assets/fonts/dropcap/`,
-  see its README; only D, T, W shipped), chosen per page with front matter `dropcap: goudy|yinit|kanzlei|de-zs` (sizes copied from gwern's style.css).
-- 5+ h2s: build.py (`build_toc`) emits a gwern-style numbered `nav#TOC` in `.page-meta` before the abstract (floats left on desktop,
-  two columns without numbers below 901px); pages with fewer h2s keep the JS margin TOC (popups.js `buildToc`).
-- Sidenotes (`assets/js/sidenotes.js`, loaded BEFORE popups.js): copies each footnote into the LEFT margin beside its marker when
-  the margin is >= 200px (about 1340px+ viewports; html.sidenotes-on), re-laid out on resize/image load; footnote popups are
-  skipped while it is on. Left only, because right-floated figures reach into the right margin.
-- Touch screens: tapping a footnote marker opens a gwern-style popin (popups.js `openPopin`): page dimmed, note in a box below
-  the line, title 'Footnote #N' links to the note, × / backdrop / Esc closes. Markers are underlined.
-- Header: blackletter 'L' logo (UnifrakturMaguntia) + bordered small-caps link buttons; dotted grid on phones.
-- OCR split-word hunt done Oct 2026 (dictionary join of adjacent pairs, ~110 fixes, mostly chs. V-VI). Line-break-only compounds
-  (slavetrade, slavelabour, wellspent, antinational, thumbkins) left as they are: hyphen status unverifiable.
-- Translation sweep done Oct 2026: every quoted Latin/French/Italian passage in the notes (~100, all chapters) has a
-  span.foreign + span.translation.editorial pair (this edition's drafts). Detector: quoted runs >= 6 words scored by
-  Latin/French/Italian vs English function words; re-run it after adding notes. OCR fixes made inside those quotations
-  (magis, sacrificiorum, quæri, nec laici Christiani, Say's French accents, etc.).
-- Gwern typesetting: `.content > p` justified, hyphenated, first-line indent, no gap; no indent after headings/blocks.
-  Pages with `fleuron: true` show meta_rows as centred lines (`.page-metadata`); others keep the `.meta-table`.
-- Figures: `<figure class="float-right|wide">` + `figcaption` + `span.credit` (Commons file link + licence), images in
-  `assets/img/rationalism/<chapter file stem>/` (floats ~700px wide, wide ones ~1400px, JPEG q80). Only public-domain or CC images,
-  with captions stating only what the Commons description supports. Commons' API rate-limits this machine: use
-  `en.wikipedia.org/api/rest_v1/page/summary/<Article>` (originalimage) and `File:<name>?action=raw`, with a User-Agent and sleeps.
-  upload.wikimedia.org returns 429 for ORIGINAL files over ~1MB; the standard 960px thumbnail
-  (`.../commons/thumb/x/xy/<File>/960px-<File>`) downloads fine. Vol. II contents (synopses): OCR lines 49-381 of
-  `rationalismineur02leckuoft_djvu.txt`; the OCR drops a line at the top of p. viii ('Interests—Reasons of this').
-
-## Delegating to Meta's Muse Spark (tools/muse.py)
-
-- `python3 tools/muse.py "prompt"` (or `from muse import ask`) calls Meta's Model API. The key is a NETWORK SECRET on the Claude
-  environment (proxy adds `Authorization` for api.meta.ai); never put a key in code, chat or env vars. Default model
-  `muse-spark-1.3-contributor` ($0.10/$0.20 per M tokens; Meta trains on it): send only public-domain material. `--standard` for $1.25/$4.25.
-- It spends ~1,000-2,500 hidden reasoning tokens per answer (hence max_tokens 8000); ~15 s per call.
-- Pilot (Oct 2026, 5 Latin/French/Italian passages vs this edition's translations, total cost ~$0.002): accurate, no invented
-  content, but literal and stiff ('republic' for respublica, 'signification'), with small slips in the hardest passage
-  (Tertullian: 'coram discipulis' as 'together with', 'quaestuaria' softened to 'hired woman'). Use it for FIRST DRAFTS and bulk
-  searching; every output is reviewed before it goes on the site, and nothing it says about pages or citations is trusted unverified.
-
-## Build, test, deploy
-
-- `python3 build.py` regenerates `docs/` (commit `docs/` too; never hand-edit it).
-- Preview: `cd docs && nohup python3 -m http.server 8911 >/dev/null 2>&1 &` (start it on its own; never combine
-  `pkill` with other commands in one shell call, as it kills the shell).
-- Playwright: `require('/opt/node-tools/node_modules/playwright')`, launch with
-  `executablePath: '/opt/pw-browsers/chromium-1243/chrome-linux64/chrome'`, and use `hasTouch: false` for hover tests.
-  Scroll the element into view and wait before hovering: scrolling closes popups by design, and
-  Playwright's auto-scroll otherwise fires just after the hover.
-- Wikipedia's API sometimes rate-limits this cloud machine (HTTP 429); that is not a site bug.
-- Commit to `main` and push (`git push -u origin main`). Pages redeploys in about a minute.
+- Pays from a Claude Pro plan (weekly limit). Keep each session to one well-scoped batch; avoid re-reading large files; screenshots
+  only where verification needs them.
+- Wants gwern.net fidelity, and rabbit holes *within the site*: every work Lecky cites should get a source page with the passage
+  transcribed, translated, and linked to a scan. Goal: every footnote that cites a work links to a source page.
+
+## Ground rules
+- Lecky's text is never corrected. OCR errors are fixed (check on Lecky's page image: `python3 tools/lecky_line.py 1|2 out.jpg
+  "words"`); Lecky's own slips are left as printed and recorded on `content/rationalism/as-printed.md`; his errors of fact
+  are discussed on source pages and, when substantive, on `content/rationalism/lecky-and-his-sources.md`.
+- NOT slips, never normalise: "develope" and "developement" (1865 house spelling); "development" occurs 3x in vol. II as printed.
+- Never invent a citation, page number, reading, date or biographical fact. Verify on a scan, or label it unverified/"from the OCR"/
+  "our identification". Facts from memory must be checked or left out.
+- Translations are this edition's drafts and say so (`p.editorial-note` "Translation: this edition's draft.").
+- Only public-domain material goes to Muse (see below); never put keys in code, chat or env vars.
+
+## State of the text
+All of *Rationalism in Europe* is transcribed: `content/rationalism/vol1-ch1..ch4.md`, `vol2-ch4..ch6.md` (vol. II ch. IV is
+Part II of the persecution chapter). Each chapter numbers its footnotes `[^1]`... sequentially (the 1865 print restarts per page).
+Scans: vol. I `rationalismeuro01leckuoft` (printed p ~ image n-29), vol. II `rationalismineur02leckuoft` (p = n-15).
+Readability layer (editorial `## headings {: #id }` with Lecky's analytical contents in `p.section-argument`, figures, fleuron,
+drop caps, TOC, sidenotes) exists in all chapters: never split or reword Lecky's paragraphs.
+
+## Source pages (`content/ref/<slug>.md`)
+Workflow for a footnote:
+1. `python3 tools/coverage.py --todo` lists unlinked notes that cite a work. Grep notes/source-log.md for the author first.
+2. Find the book: `https://archive.org/advancedsearch.php?q=...&fl[]=identifier&fl[]=title&fl[]=date&rows=30&output=json`.
+   Prefer Lecky's own edition (match his page numbers). Download `<id>_djvu.txt` (curl -sSL, retry: archive.org sometimes
+   returns a tiny error page) and grep for distinctive words (long-s OCR reads s as f: try both spellings).
+3. Map text to an image: range-fetch `<id>_djvu.xml` (`curl -r` at the same fraction of the file as the line in the txt), split on
+   `<OBJECT`, read `usemap="..._NNNN.djvu"` (regex `usemap="[^"]*_(\d{4})\.djvu"`; ids contain years). The image is n = object
+   or object-1 (varies): fetch with `tools/ia_page.sh ID N out.jpg` and CHECK THE PAGE HEADER on the image.
+4. Read the passage on the image (not just the OCR). Crop a facsimile with `tools/gbox.py` (word bounding boxes; eye estimates
+   from preview thumbnails are ~10% off). Huge images: `Image.MAX_IMAGE_PIXELS=None`. Title pages: `<id>_scandata.xml`
+   (`<pageType>Title</pageType>`), or fetch a few early leaves into one contact sheet and look once.
+5. Write the page, link the note, add it to `content/ref/index.md`, build, `python3 tools/make_thumbs.py`, build again.
+
+Page shape (model: `content/ref/temple-observations-united-provinces.md`, `cyprian-epistle-62.md`):
+- Front matter: `title`, `description`, `heading`, plain-English `subtitle` (quote it if it has a colon), `back_link`,
+  `meta_rows` (Author with Wikipedia link; Edition used with archive id, page = image links `https://archive.org/details/<id>/page/n<i>/mode/2up`,
+  whether it is Lecky's edition; Cited in; Status: what was read on images vs OCR), `abstract: |` (plain-English nugget first:
+  what is surprising, what Lecky got right or wrong; HTML attributes inside it use plain `"`, not `\"`).
+- Body: `<section id="..." class="passage">` with `h2`, `p.passage-source`, `figure.facsimile` (crop ~1000px wide JPEG q80 in
+  `assets/img/ref/`, caption + `span.credit` "Scan: Internet Archive · public domain") or `figure.title-page`, then the text:
+  `div.parallel > div.original[lang] + div.rendering` for foreign languages (the build folds the original), or a `blockquote`
+  for English; Lecky's words wrapped in `span.cited-passage`; `table.collation` when his quotation differs.
+- Raw HTML skips the smart-quote pass: type ’ ‘ “ ” yourself (a straight ' right after a closing tag renders wrongly).
+- Footnote link: `<a class="popup-ref" href="../ref/<slug>.html#<section-id>">...</a>` around the citation words. Work-level
+  links (no #) are allowed when the passage is not identified. Backlinks on source pages are automatic.
+- Index entry in `content/ref/index.md`: `<li>` with `div.work-title` (link + `span.work-status`) and `div.work-desc`.
+- Good nuggets go into `content/curiosities.md` (1-3 sentences, checked against the transcribed passage, ending with a
+  popup-ref link); substantive disagreements into `content/rationalism/lecky-and-his-sources.md` (sections: The source says
+  something else / The right words, the wrong speaker / Stronger than the source / Dates, figures and names / Wrong chapter, wrong page).
+- Where Lecky gives no page, say the passage is "our identification". Do not claim his edition unless his pages match.
+
+Other sources: Migne PL volumes are `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_<year>_<vol>` (two columns
+per page: crop each column). EEBO/ECCO scans are `bim_...`. Wikipedia popups are automatic for en.wikipedia links (check the
+article exists: curl status, 1 s apart). Gutenberg/Wikisource texts may be used, labelled "text, not a scan". This machine cannot
+read Gallica, HathiTrust or Google Books page images: books only there go on the owner's list (see source-log DEAD ENDS).
+
+## Tools
+- `python3 build.py` regenerates `docs/` (never hand-edit docs/; commit it). Also writes sitemap.xml/robots.txt.
+  After a container restart: `pip install -r requirements.txt`.
+- `tools/coverage.py [--todo]`, `tools/linkcheck.py` (run after big edits), `tools/make_thumbs.py`, `tools/ia_page.sh`,
+  `tools/gbox.py`, `tools/lecky_line.py`, `tools/hunt.py` (Muse full-text hunt for paraphrased quotations; try grep first).
+- Muse (`tools/muse.py`, Meta's model; key is a network secret added by the proxy): public-domain text only; first drafts and
+  bulk searching only; never trust its page numbers or flags unverified. Cap: about $0.20 per session.
+- Preview: `cd docs && nohup python3 -m http.server 8911 >/dev/null 2>&1 &`. Playwright: `require('/opt/node-tools/node_modules/playwright')`.
+- Never put `cat` without a file in a shell chain; never combine `pkill` with other commands.
+- Commit to `main` and push (`git push -u origin main`, retry on network errors). Pages redeploys in about a minute.
+
+## Scheduled runs
+A scheduled task wakes the worker session twice a day (02:43 and 14:43 Europe/Dublin). Each run follows its stored prompt:
+about 45 minutes, the next batch from `tools/coverage.py --todo`, verified source pages, commits to main, an entry in
+notes/run-log.md. Unattended runs must not create or change scheduled tasks, environments or network settings, must not
+spend more than ~$0.20 on Muse, and write anything needing a human decision under "Questions for the owner" in the run log.
