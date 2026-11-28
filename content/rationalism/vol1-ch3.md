@@ -884,7 +884,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^166]: <span class="foreign" lang="la">'Corporalitas animæ in ipso evangelio relucebit. Dolet apud inferos anima cujusdam, et punitur in flammâ et cruciatur in linguâ et de digito animæ felicioris implorat solatium roris.'</span><span class="translation editorial" lang="en">[The corporeality of the soul will shine out in the Gospel itself. A certain man’s soul suffers in the underworld: it is punished in flame, tormented in the tongue, and begs from the finger of a happier soul the comfort of a drop of dew.]</span>—<a class="popup-ref" href="../ref/tertullian-de-anima.html#ch7">Tertullian, <em>De Anima</em>, cap. vii.</a>
 
-[^167]: Ibid. cap. ix. I should mention that this book was written after Tertullian had become a Montanist, but there is no reason to believe that this had anything to say to his psychology.
+[^167]: <a class="popup-ref" href="../ref/tertullian-de-anima.html#ch9">Ibid. cap. ix.</a> I should mention that this book was written after Tertullian had become a Montanist, but there is no reason to believe that this had anything to say to his psychology.
 
 [^168]: See on this subject <a class="popup-ref" href="../ref/maury-legendes-pieuses.html#souls-125">Maury, *Légendes Pieuses*, pp. 125–127</a>.
 

@@ -117,8 +117,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Epicurus on pain, and the Christians’ fear of an everlasting punishment (ch. 45), in Latin and English from Migne, compared with Lecky. Cited in <em>Rationalism</em>, ch. III, note 136.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="tertullian-de-anima.html">Tertullian, <em>De anima</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">The corporeality of the soul in the story of the rich man and Lazarus (ch. 7), in Latin and English from Migne, compared with Lecky. Cited in <em>Rationalism</em>, ch. III, note 166.</div>
+<div class="work-title"><a class="popup-ref" href="tertullian-de-anima.html">Tertullian, <em>De anima</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The corporeality of the soul in the story of the rich man and Lazarus (ch. 7), and a sister’s ecstatic vision of a soul “the colour of air, and in form human” (ch. 9), Migne PL 2. Cited in <em>Rationalism</em>, ch. III, notes 166, 167.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="minucius-felix-octavius.html">Minucius Felix, <em>Octavius</em></a><span class="work-status">1 passage</span></div>
