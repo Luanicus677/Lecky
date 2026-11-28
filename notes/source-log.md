@@ -648,6 +648,23 @@ Notes for continuing:
   `per_witchcraft-in-europe-and-america_historia-inquisitionis_limborch-philippus_1692_1_578`, p. 367 = n384; Innocent VIII 'Dilectus filius', six days;
   n32; pp. 365-366, 372 unread; part _2_578 = the Toulouse Liber sententiarum). Grotius Annales p. 12 ed. 1678 'Carnificata hominum non minus centum millia' NOT checked.
 
+- 28 Nov 2026 (scheduled run, 14:44 UTC): vol. I ch. III. + augustine-de-genesi-contra-manichaeos (PL 34 `bim_..._1845_34`,
+  image = djvu usemap number: cols. 183-184 = n92 (I.13 thorns, n104), 191-192 = n97 (I.23 Christ and Church, n89), 193-194 = n98
+  (I.25 six days in the soul, n90), 197-198 = n100 (II.2 figurative reading, n92), 205-206 = n104 (II.13 bone = fortitudo, flesh =
+  temperantia)). Lecky n90 prints "Lib. v." (work has 2 books; = I.25); n89's bone/flesh gloss is II.13 (the soul), not I.23.
+  + seneca-epistle-31 (Gummere Loeb 1917 `adluciliumepistu01seneuoft`, Latin §§9-10 = n249, image = usemap - 1; n56; "deus nudus est"
+  = no robe of office). + justin-martyr-first-apology (Otto 1842 vol. I `bib_fict_4102644_1`, c. 55 Greek p. 248 = n327, Latin p. 249 =
+  n328, image = usemap - 1; n1). + tertullian-de-anima ch. 9 (PL 2 cols. 659-660 = n331; n167; the sister's vision).
+  + more-utopia (Lupton 1895 `theutopiaofsirth00moreuoft`, p. 43 = n154, p. 51 = n162; xml usemap numbers are NOT image numbers here;
+  n179; Latin "nonnunquam" vs Robinson "for the moste part"). + lessing-laokoon (1766 1st ed. `00074585bsb`, p. 18 = n27, p. 19 = n28; n55).
+  + plato-phaedo (Archer-Hind 1883 `cu31924026679435`, p. 96 = n107; 81c-e; n163). + bacon-novum-organum aph. 79 (Spedding vol. IV
+  p. 78 = n91; n103; theology is Bacon's cause "in the second place"). + raoul-rochette-tableau-des-catacombes pp. 187 = n212,
+  191 = n216 (n6). + heyne-opuscula-academica (vol. V `opusculaacademic05heyn`, p. 339 = n354, image = page + 15, usemap differs; n61;
+  Heyne already dismisses Pausanias' stone Daedalus). + denis-idees-morales (tome I 1856 `histoiredestho01deniuoft`, p. 18 = n29,
+  p. 105 = n116, p. 106 = n117, image = page + 11; n124, 141, 142; tome II = `histoiredestho02deniuoft`).
+  Not found in two quick archive.org title searches (retry): Raoul-Rochette, Discours sur les types de l'art chrétien (n19).
+  Lesson: several scans this run had djvu usemap numbers that do not equal image numbers (Utopia, Heyne, Denis): always check the page header.
+
 ## Engagement layer (24 Nov 2026; owner asked for a site that leads to long reading)
 
 - build.py builds, from the footnote links (`NOTE_REFS`: (chapter stem, note) -> source slugs) and `REFMETA` (title, plain-English
