@@ -667,7 +667,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^60]: See an extremely clever sketch of the movement in <a class="popup-ref" href="../ref/raoul-rochette-cours-darcheologie.html">Raoul Rochette, *Cours d'Archéologie*</a>; and Winckelmann, *Hist. of Art*.
 
-[^61]: According to Winckelmann, wooden statues with marble heads, called ἀκρόλιθοι, continued as late as the time of Phidias. From the painted wooden statues was derived the custom of painting those in marble and bronze. Heyne, who has devoted a very learned essay to Greek sculpture, thinks the statues of Dædalus were in wood (*Opuscula Academica*, tom. v. p. 339); but this appears very doubtful. Pausanias says he saw a statue ascribed to Dædalus which was of stone.
+[^61]: According to Winckelmann, wooden statues with marble heads, called ἀκρόλιθοι, continued as late as the time of Phidias. From the painted wooden statues was derived the custom of painting those in marble and bronze. Heyne, who has devoted a very learned essay to Greek sculpture, thinks the statues of Dædalus were in wood (<a class="popup-ref" href="../ref/heyne-opuscula-academica.html#daedalus-339">*Opuscula Academica*, tom. v. p. 339</a>); but this appears very doubtful. Pausanias says he saw a statue ascribed to Dædalus which was of stone.
 
 [^62]: See Winckelmann and Ottfried Müller.
 

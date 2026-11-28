@@ -916,4 +916,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="plato-phaedo.html">Plato, <em>Phaedo</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Souls still heavy with the body roll about tombs as “shadowy phantoms”, wandering in punishment until bound into new bodies (81c–e, Archer-Hind 1883, Greek). Cited in vol. I, ch. III, note 163.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="heyne-opuscula-academica.html">Heyne, <em>Opuscula academica</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The works of Daedalus were by constant tradition of wood; Pausanias’ white-stone Daedalus, which Lecky raises against Heyne, is dismissed on the same page as popular report (vol. V, p. 339 = Lecky’s page). Cited in vol. I, ch. III, note 61.</div>
+</li>
 </ul>
