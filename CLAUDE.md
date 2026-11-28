@@ -82,7 +82,8 @@ read Gallica, HathiTrust or Google Books page images: books only there go on the
 - Commit to `main` and push (`git push -u origin main`, retry on network errors). Pages redeploys in about a minute.
 
 ## Scheduled runs
-A scheduled task wakes the worker session twice a day (02:43 and 14:43 Europe/Dublin). Each run follows its stored prompt:
+A scheduled task ("Lecky footnote run", `trig_01DBy6yKKdPpcSc7xVc9DzwV`, created 28 Nov 2026) wakes the worker session
+"Lecky scheduled worker" (`session_018ENGuFD2ki7nJ1NMGhj7gy`) twice a day (02:43 and 14:43 Europe/Dublin). Each run follows its stored prompt:
 about 45 minutes, the next batch from `tools/coverage.py --todo`, verified source pages, commits to main, an entry in
 notes/run-log.md. Unattended runs must not create or change scheduled tasks, environments or network settings, must not
 spend more than ~$0.20 on Muse, and write anything needing a human decision under "Questions for the owner" in the run log.

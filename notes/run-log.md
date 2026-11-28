@@ -10,3 +10,5 @@ dead ends, coverage after the run (`python3 tools/coverage.py`), and any 'Questi
 - CLAUDE.md trimmed; old contents moved to notes/source-log.md. Helper tools added: tools/ia_page.sh, gbox.py,
   lecky_line.py, linkcheck.py, coverage.py.
 - Coverage: 565/850 footnotes linked; about 76 notes cite nothing linkable.
+- Scheduled task "Lecky footnote run" created: 02:43 and 14:43 Europe/Dublin, 45-minute runs in the worker session
+  "Lecky scheduled worker". First run 28 Nov 14:43. Owner to check the weekly usage bar before/after the first runs.
