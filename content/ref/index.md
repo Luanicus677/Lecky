@@ -912,4 +912,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="lessing-laokoon.html">Lessing, <em>Laokoon</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">Why Timanthes veiled Agamemnon’s face at the sacrifice of Iphigenia: “a sacrifice that the artist made to beauty”, not Pliny’s exhausted painter (ch. II, first edition 1766, German). Cited in vol. I, ch. III, note 55.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="plato-phaedo.html">Plato, <em>Phaedo</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">Souls still heavy with the body roll about tombs as “shadowy phantoms”, wandering in punishment until bound into new bodies (81c–e, Archer-Hind 1883, Greek). Cited in vol. I, ch. III, note 163.</div>
+</li>
 </ul>
