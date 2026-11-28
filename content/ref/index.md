@@ -893,11 +893,15 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Johann Wier, Basel 1568: the old canon (Trullo, 692) against bear-leaders, fortune-tellers and cloud-chasers that Lecky quotes, and the dedication to Duke William of Cleves. Lecky’s page fits none of the three editions found.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="augustine-de-genesi-contra-manichaeos.html">Augustine, <em>De Genesi contra Manichaeos</em></a><span class="work-status">4 passages</span></div>
-<div class="work-desc">The six days of creation as six ages of the world and six stages of the Christian life; the rule that Genesis must be read as riddle where the letter fails; “bone of my bones” as fortitude (Migne PL 34). Lecky’s “Lib. v.” is book I. Cited in vol. I, ch. III, notes 89, 90, 92.</div>
+<div class="work-title"><a class="popup-ref" href="augustine-de-genesi-contra-manichaeos.html">Augustine, <em>De Genesi contra Manichaeos</em></a><span class="work-status">5 passages</span></div>
+<div class="work-desc">Thorns and poisonous plants as fruits of man’s sin; the six days of creation as six ages of the world and six stages of the Christian life; the rule that Genesis must be read as riddle where the letter fails; “bone of my bones” as fortitude (Migne PL 34). Lecky’s “Lib. v.” is book I. Cited in vol. I, ch. III, notes 89, 90, 92, 104.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="seneca-epistle-31.html">Seneca, <em>Epistle</em> 31</a><span class="work-status">1 passage</span></div>
 <div class="work-desc">“Deus nudus est”: God has no wealth and no robe of office, so a man needs neither to equal him (Loeb, 1917). Lecky takes it as a saying about naked gods in art. Cited in vol. I, ch. III, note 56.</div>
+</li>
+<li>
+<div class="work-title"><a class="popup-ref" href="justin-martyr-first-apology.html">Justin Martyr, <em>First Apology</em></a><span class="work-status">1 passage</span></div>
+<div class="work-desc">The cross in the sail, the plough, the craftsman’s tools and the upright human body with its nose running down from the brow; “the breath before our face is Christ the Lord” (c. 55, Otto 1842, Greek). Cited in vol. I, ch. III, note 1.</div>
 </li>
 </ul>
