@@ -920,4 +920,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-title"><a class="popup-ref" href="heyne-opuscula-academica.html">Heyne, <em>Opuscula academica</em></a><span class="work-status">1 passage</span></div>
 <div class="work-desc">The works of Daedalus were by constant tradition of wood; Pausanias’ white-stone Daedalus, which Lecky raises against Heyne, is dismissed on the same page as popular report (vol. V, p. 339 = Lecky’s page). Cited in vol. I, ch. III, note 61.</div>
 </li>
+<li>
+<div class="work-title"><a class="popup-ref" href="denis-idees-morales.html">Denis, <em>Histoire des idées morales dans l’antiquité</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">A very old book on the underworld attributed to Pythagoras, with impure souls chained by the Furies (p. 18); Plato’s expiation drawn from popular rites, punishment “a remedy for inner corruption” (pp. 105–106; tome I, 1856, Lecky’s pages). Cited in vol. I, ch. III, notes 124, 141, 142.</div>
+</li>
 </ul>

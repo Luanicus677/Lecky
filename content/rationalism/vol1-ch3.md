@@ -798,7 +798,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^123]: Some of La Peyrère's arguments on this point are curiously far-fetched. Thus he asks <a class="popup-ref" href="../ref/la-peyrere-men-before-adam.html#abel">why Abel should have kept sheep if there were no robbers to be feared, and where Cain got the weapon with which he killed his brother</a>. The existence of a race of men not descended from Adam was very strenuously maintained, towards the close of the last century, by an eccentric member of the Irish Parliament named <a href="https://en.wikipedia.org/wiki/Francis_Dobbs">Dobbs</a>, in a very strange book called *A Short View of Prophecy*. It has also been advocated in America, with a view to the defence of Negro Slavery. Mr. Dobbs thought there was a race resulting from an intrigue of Eve with the Devil.
 
-[^124]: See Denis's *Hist. des Idées Morales dans l'Antiquité*.
+[^124]: See <a class="popup-ref" href="../ref/denis-idees-morales.html">Denis's *Hist. des Idées Morales dans l'Antiquité*.</a>
 
 [^125]: Locke, in his *Treatise on Government*, adopts very fully the theory of Euhemerus about the origin of the pagan divinities.
 
@@ -832,9 +832,9 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^140]: This fact had been noticed by several early English divines (Barrow and Berkeley among the number); but it was brought into especial relief by Warburton, who, as is well known, in his *Divine Legation*, based a curious argument in favour of the divine origin of the Levitical religion upon the fact that it contained no revelation of a future world. Archbishop Whately, who strongly took up the view of Warburton concerning the fact, has, in one of his Essays on the Peculiarities of the Christian Religion, applied it very skilfully to establishing the divine origin, not indeed of Judaism, but of Christianity, because Christianity does contain a revelation of the future world. Both these writers contend that the well-known passage in Job does not refer to the resurrection. The subject has been dwelt on from another point of view by Chubb, Voltaire, Strauss, and several other writers. On the growth of the doctrine among the Jews, see Mackay's *Religious Developement of the Greeks and Hebrews*, vol. ii. pp. 286–297.
 
-[^141]: Denis, *Histoire des Idées Morales dans l'Antiquité*, tom. i. pp. 18, 19.
+[^141]: <a class="popup-ref" href="../ref/denis-idees-morales.html#pythagoras-18">Denis, *Histoire des Idées Morales dans l'Antiquité*, tom. i. pp. 18, 19.</a>
 
-[^142]: *Ibid.* pp. 104–106.
+[^142]: <a class="popup-ref" href="../ref/denis-idees-morales.html#expiation-105">*Ibid.* pp. 104–106.</a>
 
 [^143]: On the place representations of Tartarus had in the mysteries, see Magnin, *Origines du Théâtre*, tom. i. pp. 81–84.
 
