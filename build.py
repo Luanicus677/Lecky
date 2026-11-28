@@ -467,6 +467,31 @@ def build_page(src_path: Path, out_path: Path):
     print(f"  {src_path.relative_to(ROOT)} -> {out_path.relative_to(ROOT)}")
 
 
+def write_sitemap():
+    """sitemap.xml (every rendered page, lastmod = last git commit of its
+    Markdown source) and robots.txt pointing search engines at it."""
+    import subprocess, datetime
+    from xml.sax.saxutils import escape
+    today = datetime.date.today().isoformat()
+    entries = []
+    for src in sorted(CONTENT.rglob("*.md")):
+        rel = src.relative_to(CONTENT).with_suffix(".html").as_posix()
+        url = SITE_URL if rel == "index.html" else SITE_URL + rel
+        try:
+            date = subprocess.run(["git", "log", "-1", "--format=%cs", "--", str(src)],
+                                  cwd=ROOT, capture_output=True, text=True).stdout.strip()
+        except OSError:
+            date = ""
+        entries.append(f"  <url><loc>{escape(url)}</loc><lastmod>{date or today}</lastmod></url>")
+    (OUT / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "\n".join(entries) + "\n</urlset>\n", encoding="utf-8")
+    (OUT / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
+    print(f"  sitemap.xml: {len(entries)} pages; robots.txt")
+
+
 def main():
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -499,6 +524,8 @@ def main():
     # the repo root, since docs/ is wiped on every build.
     if (ROOT / "CNAME").exists():
         shutil.copy(ROOT / "CNAME", OUT / "CNAME")
+
+    write_sitemap()
 
     print("\nBuild complete:", OUT)
 

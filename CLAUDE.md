@@ -1,7 +1,7 @@
 # Lecky edition: notes for Claude sessions
 
 A reading edition of W. E. H. Lecky's works, modelled as closely as possible on gwern.net.
-Live at https://readlecky.com/ (custom domain since 28 Nov 2026; DNS at Porkbun: four GitHub A records + www CNAME to luanicus677.github.io; repo-root `CNAME` is copied into docs/ by build.py). The old https://luanicus677.github.io/Lecky/ address redirects. GitHub Pages serves `docs/` from `main`.
+Live at https://readlecky.com/ (custom domain since 28 Nov 2026; DNS at Porkbun: four GitHub A records + www CNAME to luanicus677.github.io; repo-root `CNAME` is copied into docs/ by build.py). The old https://luanicus677.github.io/Lecky/ address redirects. GitHub Pages serves `docs/` from `main`. build.py `write_sitemap()` writes docs/sitemap.xml (every content page, lastmod = last git commit of its .md) and docs/robots.txt; Google Search Console: Domain property readlecky.com, verified by a TXT record at Porkbun (28 Nov 2026).
 README.md explains the build, the Markdown conventions, and the source-page layout. Read it first.
 
 ## The owner
