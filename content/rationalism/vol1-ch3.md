@@ -657,7 +657,7 @@ It has been said that the tendency of religious thought in the present day 'is a
 
 [^55]: See the *Laocoon* of Lessing. It is to this that Lessing ascribes the famous device of Timanthes in his sacrifice of Iphigenia—drawing the veil over the face of Agamemnon—which Pliny so poetically explains.
 
-[^56]: 'Deus nudus est.'—Seneca, *Ep.* xxxi.
+[^56]: 'Deus nudus est.'—<a class="popup-ref" href="../ref/seneca-epistle-31.html#deus-nudus-est">Seneca, *Ep.* xxxi.</a>
 
 [^57]: <a class="popup-ref" href="../ref/raoul-rochette-cours-darcheologie.html#nudity">Raoul Rochette, *Cours d'Archéologie*, pp. 269, 270.</a> See also Fortoul, *Études d'Archéologie*.
 
@@ -725,13 +725,13 @@ It has been said that the tendency of religious thought in the present day 'is a
 
     A modern High Churchman writes: 'I believe that a geologist deeply impressed with the mystery of baptism—that mystery by which a new creature is formed by means of water and fire—would never have fallen into the absurdities of accounting for the formation of the globe solely by water or solely by fire. He would not have maintained a Vulcanian or a Neptunian theory. He would have suspected that the truth lay in the union of both.'—Sewell, *Christian Morals*, p. 323.
 
-[^89]: The Church being wedded to Christ, 'Bone of his bone, and flesh of his flesh,' that is to say, participating alike of his strength and of his purity. (*De Genesi, contra Manichæos*, lib. i. c. 23.)
+[^89]: The Church being wedded to Christ, 'Bone of his bone, and flesh of his flesh,' that is to say, participating alike of his strength and of his purity. (<a class="popup-ref" href="../ref/augustine-de-genesi-contra-manichaeos.html#sixth-age">*De Genesi, contra Manichæos*, lib. i. c. 23.</a>)
 
-[^90]: Lib. v. cap. 25. This notion of marriage representing the union of the two main elements of life, is very beautifully developed by Swedenborg, in a book on *Conjugal Affection*.
+[^90]: <a class="popup-ref" href="../ref/augustine-de-genesi-contra-manichaeos.html#seven-days">Lib. v. cap. 25.</a> This notion of marriage representing the union of the two main elements of life, is very beautifully developed by Swedenborg, in a book on *Conjugal Affection*.
 
 [^91]: The chest signifying pride, and the stomach sensuality.
 
-[^92]: Lib. ii. cap. 2.
+[^92]: <a class="popup-ref" href="../ref/augustine-de-genesi-contra-manichaeos.html#figurate">Lib. ii. cap. 2.</a>
 
 [^93]: Beausobre, *Hist. du Manichéisme*, tom. i. p. 246.
 
