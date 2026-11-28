@@ -725,8 +725,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Orpheus as a symbol of the Divine Word, with Eusebius (p. 45), behind ch. III, note 10; Lecky’s p. 45 in notes 11 and 13 is not on that page.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="raoul-rochette-tableau-des-catacombes.html">Raoul-Rochette, <em>Tableau des catacombes</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">Orpheus in the catacomb paintings as a pagan type in Christian art (p. 138), cited in ch. III, note 10. Page number matches.</div>
+<div class="work-title"><a class="popup-ref" href="raoul-rochette-tableau-des-catacombes.html">Raoul-Rochette, <em>Tableau des catacombes</em></a><span class="work-status">3 passages</span></div>
+<div class="work-desc">Orpheus in the catacomb paintings as a pagan type in Christian art (p. 138); only one picture of a martyrdom in the catacombs, the virgin Salome (p. 187), and the few painted martyrdoms the Fathers mention (pp. 191–192). Cited in ch. III, notes 6, 10. Page numbers match.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="palmer-treatise-on-the-church.html">Palmer, <em>Treatise on the Church of Christ</em></a><span class="work-status">1 passage</span></div>
