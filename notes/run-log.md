@@ -13,7 +13,7 @@ dead ends, coverage after the run (`python3 tools/coverage.py`), and any 'Questi
 - Scheduled task "Lecky footnote run" created: 02:43 and 14:43 Europe/Dublin, 45-minute runs in the worker session
   "Lecky scheduled worker". First run 28 Nov 14:43. Owner to check the weekly usage bar before/after the first runs.
 
-## 2026-11-28 14:44–15:20 UTC (scheduled run)
+## 2026-11-28 14:44–15:16 UTC (scheduled run)
 Worked on vol. I ch. III (lowest linked share). Coverage there 85/184 → 101/184.
 - New source pages (all read on page images, facsimile crops, translation drafts): augustine-de-genesi-contra-manichaeos (5 passages;
   notes 89, 90, 92, 104), seneca-epistle-31 (56), justin-martyr-first-apology (1), more-utopia (179), lessing-laokoon (55),
