@@ -413,8 +413,8 @@ abstract: <p>The books, pamphlets, and documents Lecky cites, each on its own pa
 <div class="work-desc">Hell “the prison and dungeon of rebels against God and their prince” (1570; reprint of 1855, pp. 512, 519), cited in ch. V, note 87.</div>
 </li>
 <li>
-<div class="work-title"><a class="popup-ref" href="bacon-novum-organum.html">Bacon, <em>Novum Organum</em></a><span class="work-status">1 passage</span></div>
-<div class="work-desc">The contemplation of things as they are “more worthy than all the fruit of inventions” (I.129; Spedding’s translation), cited in ch. IV, note 44.</div>
+<div class="work-title"><a class="popup-ref" href="bacon-novum-organum.html">Bacon, <em>Novum Organum</em></a><span class="work-status">2 passages</span></div>
+<div class="work-desc">The best wits of Christendom drawn into theology, Bacon’s second cause of the neglect of science (I.79); the contemplation of things as they are “more worthy than all the fruit of inventions” (I.129; Spedding’s translation). Cited in ch. III, note 103; ch. IV, note 44.</div>
 </li>
 <li>
 <div class="work-title"><a class="popup-ref" href="knox-appellation.html">Knox, <em>The Appellation</em></a><span class="work-status">3 passages</span></div>
